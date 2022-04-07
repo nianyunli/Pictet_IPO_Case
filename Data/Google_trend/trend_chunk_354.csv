@@ -1,0 +1,261 @@
+date,SVI,isPartial,Issuer
+2010-10-17,36,False,American Assets Trust
+2010-10-24,0,False,American Assets Trust
+2010-10-31,18,False,American Assets Trust
+2010-11-07,18,False,American Assets Trust
+2010-11-14,0,False,American Assets Trust
+2010-11-21,0,False,American Assets Trust
+2010-11-28,0,False,American Assets Trust
+2010-12-05,0,False,American Assets Trust
+2010-12-12,18,False,American Assets Trust
+2010-12-19,0,False,American Assets Trust
+2010-12-26,0,False,American Assets Trust
+2011-01-02,70,False,American Assets Trust
+2011-01-09,100,False,American Assets Trust
+2011-01-16,0,False,American Assets Trust
+2011-01-23,49,False,American Assets Trust
+2011-01-30,32,False,American Assets Trust
+2011-02-06,16,False,American Assets Trust
+2011-02-13,16,False,American Assets Trust
+2011-02-20,32,False,American Assets Trust
+2011-02-27,16,False,American Assets Trust
+2011-03-06,16,False,American Assets Trust
+2011-03-13,65,False,American Assets Trust
+2011-03-20,0,False,American Assets Trust
+2011-03-27,32,False,American Assets Trust
+2011-04-03,16,False,American Assets Trust
+2011-04-10,32,False,American Assets Trust
+2011-04-17,51,False,American Assets Trust
+2011-04-24,33,False,American Assets Trust
+2011-05-01,16,False,American Assets Trust
+2011-05-08,0,False,American Assets Trust
+2011-05-15,31,False,American Assets Trust
+2011-05-22,16,False,American Assets Trust
+2011-05-29,16,False,American Assets Trust
+2011-06-05,0,False,American Assets Trust
+2011-06-12,0,False,American Assets Trust
+2011-06-19,0,False,American Assets Trust
+2011-06-26,0,False,American Assets Trust
+2011-07-03,16,False,American Assets Trust
+2011-07-10,49,False,American Assets Trust
+2011-07-17,16,False,American Assets Trust
+2011-07-24,0,False,American Assets Trust
+2011-07-31,16,False,American Assets Trust
+2011-08-07,46,False,American Assets Trust
+2011-08-14,16,False,American Assets Trust
+2011-08-21,15,False,American Assets Trust
+2011-08-28,15,False,American Assets Trust
+2011-09-04,15,False,American Assets Trust
+2011-09-11,29,False,American Assets Trust
+2011-09-18,0,False,American Assets Trust
+2011-09-25,0,False,American Assets Trust
+2011-10-02,43,False,American Assets Trust
+2011-10-09,14,False,American Assets Trust
+2010-10-31,29,False,Demand Media
+2010-11-07,20,False,Demand Media
+2010-11-14,32,False,Demand Media
+2010-11-21,17,False,Demand Media
+2010-11-28,21,False,Demand Media
+2010-12-05,23,False,Demand Media
+2010-12-12,19,False,Demand Media
+2010-12-19,22,False,Demand Media
+2010-12-26,27,False,Demand Media
+2011-01-02,24,False,Demand Media
+2011-01-09,37,False,Demand Media
+2011-01-16,39,False,Demand Media
+2011-01-23,100,False,Demand Media
+2011-01-30,51,False,Demand Media
+2011-02-06,40,False,Demand Media
+2011-02-13,36,False,Demand Media
+2011-02-20,56,False,Demand Media
+2011-02-27,61,False,Demand Media
+2011-03-06,25,False,Demand Media
+2011-03-13,30,False,Demand Media
+2011-03-20,31,False,Demand Media
+2011-03-27,32,False,Demand Media
+2011-04-03,27,False,Demand Media
+2011-04-10,24,False,Demand Media
+2011-04-17,32,False,Demand Media
+2011-04-24,34,False,Demand Media
+2011-05-01,26,False,Demand Media
+2011-05-08,20,False,Demand Media
+2011-05-15,23,False,Demand Media
+2011-05-22,22,False,Demand Media
+2011-05-29,24,False,Demand Media
+2011-06-05,21,False,Demand Media
+2011-06-12,26,False,Demand Media
+2011-06-19,20,False,Demand Media
+2011-06-26,24,False,Demand Media
+2011-07-03,17,False,Demand Media
+2011-07-10,23,False,Demand Media
+2011-07-17,24,False,Demand Media
+2011-07-24,21,False,Demand Media
+2011-07-31,23,False,Demand Media
+2011-08-07,28,False,Demand Media
+2011-08-14,23,False,Demand Media
+2011-08-21,28,False,Demand Media
+2011-08-28,18,False,Demand Media
+2011-09-04,20,False,Demand Media
+2011-09-11,22,False,Demand Media
+2011-09-18,20,False,Demand Media
+2011-09-25,19,False,Demand Media
+2011-10-02,24,False,Demand Media
+2011-10-09,23,False,Demand Media
+2011-10-16,26,False,Demand Media
+2011-10-23,22,False,Demand Media
+2010-10-31,5,False,Nielsen
+2010-11-07,5,False,Nielsen
+2010-11-14,5,False,Nielsen
+2010-11-21,4,False,Nielsen
+2010-11-28,100,False,Nielsen
+2010-12-05,8,False,Nielsen
+2010-12-12,6,False,Nielsen
+2010-12-19,5,False,Nielsen
+2010-12-26,5,False,Nielsen
+2011-01-02,6,False,Nielsen
+2011-01-09,6,False,Nielsen
+2011-01-16,6,False,Nielsen
+2011-01-23,6,False,Nielsen
+2011-01-30,6,False,Nielsen
+2011-02-06,6,False,Nielsen
+2011-02-13,6,False,Nielsen
+2011-02-20,6,False,Nielsen
+2011-02-27,6,False,Nielsen
+2011-03-06,6,False,Nielsen
+2011-03-13,5,False,Nielsen
+2011-03-20,5,False,Nielsen
+2011-03-27,5,False,Nielsen
+2011-04-03,5,False,Nielsen
+2011-04-10,5,False,Nielsen
+2011-04-17,5,False,Nielsen
+2011-04-24,5,False,Nielsen
+2011-05-01,8,False,Nielsen
+2011-05-08,6,False,Nielsen
+2011-05-15,5,False,Nielsen
+2011-05-22,5,False,Nielsen
+2011-05-29,6,False,Nielsen
+2011-06-05,6,False,Nielsen
+2011-06-12,5,False,Nielsen
+2011-06-19,4,False,Nielsen
+2011-06-26,4,False,Nielsen
+2011-07-03,4,False,Nielsen
+2011-07-10,4,False,Nielsen
+2011-07-17,4,False,Nielsen
+2011-07-24,4,False,Nielsen
+2011-07-31,5,False,Nielsen
+2011-08-07,5,False,Nielsen
+2011-08-14,5,False,Nielsen
+2011-08-21,5,False,Nielsen
+2011-08-28,4,False,Nielsen
+2011-09-04,5,False,Nielsen
+2011-09-11,5,False,Nielsen
+2011-09-18,5,False,Nielsen
+2011-09-25,5,False,Nielsen
+2011-10-02,5,False,Nielsen
+2011-10-09,5,False,Nielsen
+2011-10-16,5,False,Nielsen
+2011-10-23,5,False,Nielsen
+2010-10-31,44,False,BankUnited
+2010-11-07,48,False,BankUnited
+2010-11-14,46,False,BankUnited
+2010-11-21,27,False,BankUnited
+2010-11-28,26,False,BankUnited
+2010-12-05,31,False,BankUnited
+2010-12-12,38,False,BankUnited
+2010-12-19,35,False,BankUnited
+2010-12-26,54,False,BankUnited
+2011-01-02,42,False,BankUnited
+2011-01-09,51,False,BankUnited
+2011-01-16,52,False,BankUnited
+2011-01-23,100,False,BankUnited
+2011-01-30,44,False,BankUnited
+2011-02-06,56,False,BankUnited
+2011-02-13,49,False,BankUnited
+2011-02-20,30,False,BankUnited
+2011-02-27,37,False,BankUnited
+2011-03-06,29,False,BankUnited
+2011-03-13,29,False,BankUnited
+2011-03-20,47,False,BankUnited
+2011-03-27,43,False,BankUnited
+2011-04-03,49,False,BankUnited
+2011-04-10,45,False,BankUnited
+2011-04-17,28,False,BankUnited
+2011-04-24,42,False,BankUnited
+2011-05-01,45,False,BankUnited
+2011-05-08,49,False,BankUnited
+2011-05-15,26,False,BankUnited
+2011-05-22,32,False,BankUnited
+2011-05-29,43,False,BankUnited
+2011-06-05,41,False,BankUnited
+2011-06-12,45,False,BankUnited
+2011-06-19,38,False,BankUnited
+2011-06-26,49,False,BankUnited
+2011-07-03,39,False,BankUnited
+2011-07-10,52,False,BankUnited
+2011-07-17,48,False,BankUnited
+2011-07-24,51,False,BankUnited
+2011-07-31,52,False,BankUnited
+2011-08-07,28,False,BankUnited
+2011-08-14,42,False,BankUnited
+2011-08-21,31,False,BankUnited
+2011-08-28,34,False,BankUnited
+2011-09-04,45,False,BankUnited
+2011-09-11,34,False,BankUnited
+2011-09-18,35,False,BankUnited
+2011-09-25,35,False,BankUnited
+2011-10-02,27,False,BankUnited
+2011-10-09,39,False,BankUnited
+2011-10-16,34,False,BankUnited
+2011-10-23,39,False,BankUnited
+2010-10-31,0,False,BCD Semiconductor Manufacturing
+2010-11-07,0,False,BCD Semiconductor Manufacturing
+2010-11-14,0,False,BCD Semiconductor Manufacturing
+2010-11-21,0,False,BCD Semiconductor Manufacturing
+2010-11-28,0,False,BCD Semiconductor Manufacturing
+2010-12-05,36,False,BCD Semiconductor Manufacturing
+2010-12-12,0,False,BCD Semiconductor Manufacturing
+2010-12-19,0,False,BCD Semiconductor Manufacturing
+2010-12-26,0,False,BCD Semiconductor Manufacturing
+2011-01-02,0,False,BCD Semiconductor Manufacturing
+2011-01-09,34,False,BCD Semiconductor Manufacturing
+2011-01-16,0,False,BCD Semiconductor Manufacturing
+2011-01-23,100,False,BCD Semiconductor Manufacturing
+2011-01-30,0,False,BCD Semiconductor Manufacturing
+2011-02-06,0,False,BCD Semiconductor Manufacturing
+2011-02-13,0,False,BCD Semiconductor Manufacturing
+2011-02-20,32,False,BCD Semiconductor Manufacturing
+2011-02-27,0,False,BCD Semiconductor Manufacturing
+2011-03-06,0,False,BCD Semiconductor Manufacturing
+2011-03-13,0,False,BCD Semiconductor Manufacturing
+2011-03-20,0,False,BCD Semiconductor Manufacturing
+2011-03-27,0,False,BCD Semiconductor Manufacturing
+2011-04-03,0,False,BCD Semiconductor Manufacturing
+2011-04-10,0,False,BCD Semiconductor Manufacturing
+2011-04-17,0,False,BCD Semiconductor Manufacturing
+2011-04-24,0,False,BCD Semiconductor Manufacturing
+2011-05-01,0,False,BCD Semiconductor Manufacturing
+2011-05-08,0,False,BCD Semiconductor Manufacturing
+2011-05-15,0,False,BCD Semiconductor Manufacturing
+2011-05-22,32,False,BCD Semiconductor Manufacturing
+2011-05-29,0,False,BCD Semiconductor Manufacturing
+2011-06-05,0,False,BCD Semiconductor Manufacturing
+2011-06-12,0,False,BCD Semiconductor Manufacturing
+2011-06-19,0,False,BCD Semiconductor Manufacturing
+2011-06-26,0,False,BCD Semiconductor Manufacturing
+2011-07-03,0,False,BCD Semiconductor Manufacturing
+2011-07-10,0,False,BCD Semiconductor Manufacturing
+2011-07-17,0,False,BCD Semiconductor Manufacturing
+2011-07-24,0,False,BCD Semiconductor Manufacturing
+2011-07-31,0,False,BCD Semiconductor Manufacturing
+2011-08-07,0,False,BCD Semiconductor Manufacturing
+2011-08-14,0,False,BCD Semiconductor Manufacturing
+2011-08-21,31,False,BCD Semiconductor Manufacturing
+2011-08-28,0,False,BCD Semiconductor Manufacturing
+2011-09-04,30,False,BCD Semiconductor Manufacturing
+2011-09-11,0,False,BCD Semiconductor Manufacturing
+2011-09-18,29,False,BCD Semiconductor Manufacturing
+2011-09-25,30,False,BCD Semiconductor Manufacturing
+2011-10-02,0,False,BCD Semiconductor Manufacturing
+2011-10-09,28,False,BCD Semiconductor Manufacturing
+2011-10-16,0,False,BCD Semiconductor Manufacturing
+2011-10-23,0,False,BCD Semiconductor Manufacturing

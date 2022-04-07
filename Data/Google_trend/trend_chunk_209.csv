@@ -1,0 +1,263 @@
+date,SVI,isPartial,Issuer
+2015-04-19,81,False,Ooma
+2015-04-26,92,False,Ooma
+2015-05-03,70,False,Ooma
+2015-05-10,68,False,Ooma
+2015-05-17,61,False,Ooma
+2015-05-24,72,False,Ooma
+2015-05-31,65,False,Ooma
+2015-06-07,66,False,Ooma
+2015-06-14,65,False,Ooma
+2015-06-21,67,False,Ooma
+2015-06-28,77,False,Ooma
+2015-07-05,79,False,Ooma
+2015-07-12,96,False,Ooma
+2015-07-19,100,False,Ooma
+2015-07-26,81,False,Ooma
+2015-08-02,72,False,Ooma
+2015-08-09,73,False,Ooma
+2015-08-16,89,False,Ooma
+2015-08-23,82,False,Ooma
+2015-08-30,81,False,Ooma
+2015-09-06,73,False,Ooma
+2015-09-13,77,False,Ooma
+2015-09-20,74,False,Ooma
+2015-09-27,69,False,Ooma
+2015-10-04,67,False,Ooma
+2015-10-11,74,False,Ooma
+2015-10-18,75,False,Ooma
+2015-10-25,75,False,Ooma
+2015-11-01,77,False,Ooma
+2015-11-08,66,False,Ooma
+2015-11-15,65,False,Ooma
+2015-11-22,66,False,Ooma
+2015-11-29,79,False,Ooma
+2015-12-06,74,False,Ooma
+2015-12-13,70,False,Ooma
+2015-12-20,66,False,Ooma
+2015-12-27,77,False,Ooma
+2016-01-03,64,False,Ooma
+2016-01-10,61,False,Ooma
+2016-01-17,68,False,Ooma
+2016-01-24,67,False,Ooma
+2016-01-31,61,False,Ooma
+2016-02-07,58,False,Ooma
+2016-02-14,55,False,Ooma
+2016-02-21,62,False,Ooma
+2016-02-28,68,False,Ooma
+2016-03-06,61,False,Ooma
+2016-03-13,66,False,Ooma
+2016-03-20,69,False,Ooma
+2016-03-27,71,False,Ooma
+2016-04-03,66,False,Ooma
+2016-04-10,60,False,Ooma
+2016-04-17,54,False,Ooma
+2015-04-19,29,False,Rapid7
+2015-04-26,18,False,Rapid7
+2015-05-03,30,False,Rapid7
+2015-05-10,26,False,Rapid7
+2015-05-17,22,False,Rapid7
+2015-05-24,22,False,Rapid7
+2015-05-31,30,False,Rapid7
+2015-06-07,39,False,Rapid7
+2015-06-14,33,False,Rapid7
+2015-06-21,27,False,Rapid7
+2015-06-28,27,False,Rapid7
+2015-07-05,41,False,Rapid7
+2015-07-12,100,False,Rapid7
+2015-07-19,57,False,Rapid7
+2015-07-26,51,False,Rapid7
+2015-08-02,33,False,Rapid7
+2015-08-09,29,False,Rapid7
+2015-08-16,33,False,Rapid7
+2015-08-23,24,False,Rapid7
+2015-08-30,31,False,Rapid7
+2015-09-06,29,False,Rapid7
+2015-09-13,24,False,Rapid7
+2015-09-20,26,False,Rapid7
+2015-09-27,26,False,Rapid7
+2015-10-04,30,False,Rapid7
+2015-10-11,37,False,Rapid7
+2015-10-18,24,False,Rapid7
+2015-10-25,34,False,Rapid7
+2015-11-01,30,False,Rapid7
+2015-11-08,36,False,Rapid7
+2015-11-15,28,False,Rapid7
+2015-11-22,25,False,Rapid7
+2015-11-29,31,False,Rapid7
+2015-12-06,42,False,Rapid7
+2015-12-13,29,False,Rapid7
+2015-12-20,22,False,Rapid7
+2015-12-27,18,False,Rapid7
+2016-01-03,33,False,Rapid7
+2016-01-10,30,False,Rapid7
+2016-01-17,38,False,Rapid7
+2016-01-24,24,False,Rapid7
+2016-01-31,34,False,Rapid7
+2016-02-07,36,False,Rapid7
+2016-02-14,25,False,Rapid7
+2016-02-21,33,False,Rapid7
+2016-02-28,31,False,Rapid7
+2016-03-06,24,False,Rapid7
+2016-03-13,25,False,Rapid7
+2016-03-20,31,False,Rapid7
+2016-03-27,32,False,Rapid7
+2016-04-03,33,False,Rapid7
+2016-04-10,36,False,Rapid7
+2016-04-17,31,False,Rapid7
+2015-04-26,0,False,Blue Buffalo Pet Products
+2015-05-03,16,False,Blue Buffalo Pet Products
+2015-05-10,32,False,Blue Buffalo Pet Products
+2015-05-17,0,False,Blue Buffalo Pet Products
+2015-05-24,0,False,Blue Buffalo Pet Products
+2015-05-31,0,False,Blue Buffalo Pet Products
+2015-06-07,16,False,Blue Buffalo Pet Products
+2015-06-14,32,False,Blue Buffalo Pet Products
+2015-06-21,0,False,Blue Buffalo Pet Products
+2015-06-28,0,False,Blue Buffalo Pet Products
+2015-07-05,16,False,Blue Buffalo Pet Products
+2015-07-12,99,False,Blue Buffalo Pet Products
+2015-07-19,100,False,Blue Buffalo Pet Products
+2015-07-26,33,False,Blue Buffalo Pet Products
+2015-08-02,16,False,Blue Buffalo Pet Products
+2015-08-09,16,False,Blue Buffalo Pet Products
+2015-08-16,16,False,Blue Buffalo Pet Products
+2015-08-23,31,False,Blue Buffalo Pet Products
+2015-08-30,0,False,Blue Buffalo Pet Products
+2015-09-06,0,False,Blue Buffalo Pet Products
+2015-09-13,0,False,Blue Buffalo Pet Products
+2015-09-20,0,False,Blue Buffalo Pet Products
+2015-09-27,0,False,Blue Buffalo Pet Products
+2015-10-04,15,False,Blue Buffalo Pet Products
+2015-10-11,15,False,Blue Buffalo Pet Products
+2015-10-18,15,False,Blue Buffalo Pet Products
+2015-10-25,15,False,Blue Buffalo Pet Products
+2015-11-01,15,False,Blue Buffalo Pet Products
+2015-11-08,15,False,Blue Buffalo Pet Products
+2015-11-15,15,False,Blue Buffalo Pet Products
+2015-11-22,15,False,Blue Buffalo Pet Products
+2015-11-29,0,False,Blue Buffalo Pet Products
+2015-12-06,0,False,Blue Buffalo Pet Products
+2015-12-13,0,False,Blue Buffalo Pet Products
+2015-12-20,17,False,Blue Buffalo Pet Products
+2015-12-27,17,False,Blue Buffalo Pet Products
+2016-01-03,0,False,Blue Buffalo Pet Products
+2016-01-10,15,False,Blue Buffalo Pet Products
+2016-01-17,0,False,Blue Buffalo Pet Products
+2016-01-24,15,False,Blue Buffalo Pet Products
+2016-01-31,0,False,Blue Buffalo Pet Products
+2016-02-07,16,False,Blue Buffalo Pet Products
+2016-02-14,31,False,Blue Buffalo Pet Products
+2016-02-21,0,False,Blue Buffalo Pet Products
+2016-02-28,15,False,Blue Buffalo Pet Products
+2016-03-06,31,False,Blue Buffalo Pet Products
+2016-03-13,31,False,Blue Buffalo Pet Products
+2016-03-20,0,False,Blue Buffalo Pet Products
+2016-03-27,0,False,Blue Buffalo Pet Products
+2016-04-03,31,False,Blue Buffalo Pet Products
+2016-04-10,15,False,Blue Buffalo Pet Products
+2016-04-17,30,False,Blue Buffalo Pet Products
+2015-04-26,0,False,Hennessy Capital Acquisition Corp II
+2015-05-03,0,False,Hennessy Capital Acquisition Corp II
+2015-05-10,0,False,Hennessy Capital Acquisition Corp II
+2015-05-17,0,False,Hennessy Capital Acquisition Corp II
+2015-05-24,0,False,Hennessy Capital Acquisition Corp II
+2015-05-31,0,False,Hennessy Capital Acquisition Corp II
+2015-06-07,0,False,Hennessy Capital Acquisition Corp II
+2015-06-14,0,False,Hennessy Capital Acquisition Corp II
+2015-06-21,0,False,Hennessy Capital Acquisition Corp II
+2015-06-28,0,False,Hennessy Capital Acquisition Corp II
+2015-07-05,0,False,Hennessy Capital Acquisition Corp II
+2015-07-12,0,False,Hennessy Capital Acquisition Corp II
+2015-07-19,55,False,Hennessy Capital Acquisition Corp II
+2015-07-26,0,False,Hennessy Capital Acquisition Corp II
+2015-08-02,0,False,Hennessy Capital Acquisition Corp II
+2015-08-09,0,False,Hennessy Capital Acquisition Corp II
+2015-08-16,0,False,Hennessy Capital Acquisition Corp II
+2015-08-23,0,False,Hennessy Capital Acquisition Corp II
+2015-08-30,0,False,Hennessy Capital Acquisition Corp II
+2015-09-06,0,False,Hennessy Capital Acquisition Corp II
+2015-09-13,100,False,Hennessy Capital Acquisition Corp II
+2015-09-20,51,False,Hennessy Capital Acquisition Corp II
+2015-09-27,0,False,Hennessy Capital Acquisition Corp II
+2015-10-04,0,False,Hennessy Capital Acquisition Corp II
+2015-10-11,0,False,Hennessy Capital Acquisition Corp II
+2015-10-18,0,False,Hennessy Capital Acquisition Corp II
+2015-10-25,0,False,Hennessy Capital Acquisition Corp II
+2015-11-01,0,False,Hennessy Capital Acquisition Corp II
+2015-11-08,0,False,Hennessy Capital Acquisition Corp II
+2015-11-15,0,False,Hennessy Capital Acquisition Corp II
+2015-11-22,0,False,Hennessy Capital Acquisition Corp II
+2015-11-29,0,False,Hennessy Capital Acquisition Corp II
+2015-12-06,0,False,Hennessy Capital Acquisition Corp II
+2015-12-13,0,False,Hennessy Capital Acquisition Corp II
+2015-12-20,0,False,Hennessy Capital Acquisition Corp II
+2015-12-27,0,False,Hennessy Capital Acquisition Corp II
+2016-01-03,52,False,Hennessy Capital Acquisition Corp II
+2016-01-10,0,False,Hennessy Capital Acquisition Corp II
+2016-01-17,51,False,Hennessy Capital Acquisition Corp II
+2016-01-24,0,False,Hennessy Capital Acquisition Corp II
+2016-01-31,0,False,Hennessy Capital Acquisition Corp II
+2016-02-07,0,False,Hennessy Capital Acquisition Corp II
+2016-02-14,51,False,Hennessy Capital Acquisition Corp II
+2016-02-21,0,False,Hennessy Capital Acquisition Corp II
+2016-02-28,0,False,Hennessy Capital Acquisition Corp II
+2016-03-06,0,False,Hennessy Capital Acquisition Corp II
+2016-03-13,0,False,Hennessy Capital Acquisition Corp II
+2016-03-20,0,False,Hennessy Capital Acquisition Corp II
+2016-03-27,0,False,Hennessy Capital Acquisition Corp II
+2016-04-03,0,False,Hennessy Capital Acquisition Corp II
+2016-04-10,0,False,Hennessy Capital Acquisition Corp II
+2016-04-17,51,False,Hennessy Capital Acquisition Corp II
+2015-04-26,0,False,Live Oak Bancshares
+2015-05-03,0,False,Live Oak Bancshares
+2015-05-10,0,False,Live Oak Bancshares
+2015-05-17,0,False,Live Oak Bancshares
+2015-05-24,0,False,Live Oak Bancshares
+2015-05-31,0,False,Live Oak Bancshares
+2015-06-07,14,False,Live Oak Bancshares
+2015-06-14,0,False,Live Oak Bancshares
+2015-06-21,0,False,Live Oak Bancshares
+2015-06-28,0,False,Live Oak Bancshares
+2015-07-05,14,False,Live Oak Bancshares
+2015-07-12,14,False,Live Oak Bancshares
+2015-07-19,100,False,Live Oak Bancshares
+2015-07-26,28,False,Live Oak Bancshares
+2015-08-02,0,False,Live Oak Bancshares
+2015-08-09,0,False,Live Oak Bancshares
+2015-08-16,0,False,Live Oak Bancshares
+2015-08-23,0,False,Live Oak Bancshares
+2015-08-30,79,False,Live Oak Bancshares
+2015-09-06,13,False,Live Oak Bancshares
+2015-09-13,13,False,Live Oak Bancshares
+2015-09-20,0,False,Live Oak Bancshares
+2015-09-27,0,False,Live Oak Bancshares
+2015-10-04,0,False,Live Oak Bancshares
+2015-10-11,0,False,Live Oak Bancshares
+2015-10-18,0,False,Live Oak Bancshares
+2015-10-25,13,False,Live Oak Bancshares
+2015-11-01,0,False,Live Oak Bancshares
+2015-11-08,13,False,Live Oak Bancshares
+2015-11-15,0,False,Live Oak Bancshares
+2015-11-22,0,False,Live Oak Bancshares
+2015-11-29,0,False,Live Oak Bancshares
+2015-12-06,0,False,Live Oak Bancshares
+2015-12-13,0,False,Live Oak Bancshares
+2015-12-20,0,False,Live Oak Bancshares
+2015-12-27,0,False,Live Oak Bancshares
+2016-01-03,13,False,Live Oak Bancshares
+2016-01-10,0,False,Live Oak Bancshares
+2016-01-17,0,False,Live Oak Bancshares
+2016-01-24,0,False,Live Oak Bancshares
+2016-01-31,13,False,Live Oak Bancshares
+2016-02-07,0,False,Live Oak Bancshares
+2016-02-14,13,False,Live Oak Bancshares
+2016-02-21,0,False,Live Oak Bancshares
+2016-02-28,0,False,Live Oak Bancshares
+2016-03-06,0,False,Live Oak Bancshares
+2016-03-13,0,False,Live Oak Bancshares
+2016-03-20,0,False,Live Oak Bancshares
+2016-03-27,0,False,Live Oak Bancshares
+2016-04-03,13,False,Live Oak Bancshares
+2016-04-10,0,False,Live Oak Bancshares
+2016-04-17,0,False,Live Oak Bancshares

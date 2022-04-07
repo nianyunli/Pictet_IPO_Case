@@ -1,0 +1,210 @@
+date,SVI,isPartial,Issuer
+2011-02-06,60,False,Boingo Wireless
+2011-02-13,71,False,Boingo Wireless
+2011-02-20,63,False,Boingo Wireless
+2011-02-27,51,False,Boingo Wireless
+2011-03-06,59,False,Boingo Wireless
+2011-03-13,64,False,Boingo Wireless
+2011-03-20,55,False,Boingo Wireless
+2011-03-27,63,False,Boingo Wireless
+2011-04-03,67,False,Boingo Wireless
+2011-04-10,43,False,Boingo Wireless
+2011-04-17,100,False,Boingo Wireless
+2011-04-24,77,False,Boingo Wireless
+2011-05-01,71,False,Boingo Wireless
+2011-05-08,51,False,Boingo Wireless
+2011-05-15,50,False,Boingo Wireless
+2011-05-22,47,False,Boingo Wireless
+2011-05-29,87,False,Boingo Wireless
+2011-06-05,55,False,Boingo Wireless
+2011-06-12,86,False,Boingo Wireless
+2011-06-19,51,False,Boingo Wireless
+2011-06-26,52,False,Boingo Wireless
+2011-07-03,32,False,Boingo Wireless
+2011-07-10,32,False,Boingo Wireless
+2011-07-17,50,False,Boingo Wireless
+2011-07-24,63,False,Boingo Wireless
+2011-07-31,48,False,Boingo Wireless
+2011-08-07,69,False,Boingo Wireless
+2011-08-14,55,False,Boingo Wireless
+2011-08-21,49,False,Boingo Wireless
+2011-08-28,44,False,Boingo Wireless
+2011-09-04,65,False,Boingo Wireless
+2011-09-11,50,False,Boingo Wireless
+2011-09-18,57,False,Boingo Wireless
+2011-09-25,43,False,Boingo Wireless
+2011-10-02,42,False,Boingo Wireless
+2011-10-09,54,False,Boingo Wireless
+2011-10-16,35,False,Boingo Wireless
+2011-10-23,34,False,Boingo Wireless
+2011-10-30,35,False,Boingo Wireless
+2011-11-06,48,False,Boingo Wireless
+2011-11-13,40,False,Boingo Wireless
+2011-11-20,61,False,Boingo Wireless
+2011-11-27,57,False,Boingo Wireless
+2011-12-04,59,False,Boingo Wireless
+2011-12-11,56,False,Boingo Wireless
+2011-12-18,46,False,Boingo Wireless
+2011-12-25,37,False,Boingo Wireless
+2012-01-01,88,False,Boingo Wireless
+2012-01-08,61,False,Boingo Wireless
+2012-01-15,50,False,Boingo Wireless
+2012-01-22,56,False,Boingo Wireless
+2012-01-29,49,False,Boingo Wireless
+2011-02-06,57,False,Renren
+2011-02-13,59,False,Renren
+2011-02-20,60,False,Renren
+2011-02-27,61,False,Renren
+2011-03-06,57,False,Renren
+2011-03-13,59,False,Renren
+2011-03-20,56,False,Renren
+2011-03-27,61,False,Renren
+2011-04-03,57,False,Renren
+2011-04-10,60,False,Renren
+2011-04-17,67,False,Renren
+2011-04-24,67,False,Renren
+2011-05-01,100,False,Renren
+2011-05-08,68,False,Renren
+2011-05-15,58,False,Renren
+2011-05-22,60,False,Renren
+2011-05-29,58,False,Renren
+2011-06-05,55,False,Renren
+2011-06-12,63,False,Renren
+2011-06-19,62,False,Renren
+2011-06-26,60,False,Renren
+2011-07-03,61,False,Renren
+2011-07-10,61,False,Renren
+2011-07-17,60,False,Renren
+2011-07-24,58,False,Renren
+2011-07-31,54,False,Renren
+2011-08-07,54,False,Renren
+2011-08-14,54,False,Renren
+2011-08-21,59,False,Renren
+2011-08-28,55,False,Renren
+2011-09-04,54,False,Renren
+2011-09-11,51,False,Renren
+2011-09-18,49,False,Renren
+2011-09-25,51,False,Renren
+2011-10-02,47,False,Renren
+2011-10-09,46,False,Renren
+2011-10-16,50,False,Renren
+2011-10-23,48,False,Renren
+2011-10-30,47,False,Renren
+2011-11-06,44,False,Renren
+2011-11-13,43,False,Renren
+2011-11-20,43,False,Renren
+2011-11-27,43,False,Renren
+2011-12-04,42,False,Renren
+2011-12-11,41,False,Renren
+2011-12-18,43,False,Renren
+2011-12-25,44,False,Renren
+2012-01-01,38,False,Renren
+2012-01-08,39,False,Renren
+2012-01-15,38,False,Renren
+2012-01-22,40,False,Renren
+2012-01-29,42,False,Renren
+2011-02-06,41,False,RPX Corporation
+2011-02-13,20,False,RPX Corporation
+2011-02-20,40,False,RPX Corporation
+2011-02-27,20,False,RPX Corporation
+2011-03-06,0,False,RPX Corporation
+2011-03-13,0,False,RPX Corporation
+2011-03-20,20,False,RPX Corporation
+2011-03-27,20,False,RPX Corporation
+2011-04-03,20,False,RPX Corporation
+2011-04-10,20,False,RPX Corporation
+2011-04-17,21,False,RPX Corporation
+2011-04-24,83,False,RPX Corporation
+2011-05-01,100,False,RPX Corporation
+2011-05-08,40,False,RPX Corporation
+2011-05-15,79,False,RPX Corporation
+2011-05-22,60,False,RPX Corporation
+2011-05-29,20,False,RPX Corporation
+2011-06-05,40,False,RPX Corporation
+2011-06-12,40,False,RPX Corporation
+2011-06-19,40,False,RPX Corporation
+2011-06-26,0,False,RPX Corporation
+2011-07-03,41,False,RPX Corporation
+2011-07-10,41,False,RPX Corporation
+2011-07-17,39,False,RPX Corporation
+2011-07-24,0,False,RPX Corporation
+2011-07-31,61,False,RPX Corporation
+2011-08-07,19,False,RPX Corporation
+2011-08-14,0,False,RPX Corporation
+2011-08-21,19,False,RPX Corporation
+2011-08-28,0,False,RPX Corporation
+2011-09-04,55,False,RPX Corporation
+2011-09-11,18,False,RPX Corporation
+2011-09-18,0,False,RPX Corporation
+2011-09-25,0,False,RPX Corporation
+2011-10-02,18,False,RPX Corporation
+2011-10-09,17,False,RPX Corporation
+2011-10-16,0,False,RPX Corporation
+2011-10-23,35,False,RPX Corporation
+2011-10-30,53,False,RPX Corporation
+2011-11-06,69,False,RPX Corporation
+2011-11-13,0,False,RPX Corporation
+2011-11-20,0,False,RPX Corporation
+2011-11-27,0,False,RPX Corporation
+2011-12-04,34,False,RPX Corporation
+2011-12-11,17,False,RPX Corporation
+2011-12-18,0,False,RPX Corporation
+2011-12-25,19,False,RPX Corporation
+2012-01-01,17,False,RPX Corporation
+2012-01-08,65,False,RPX Corporation
+2012-01-15,48,False,RPX Corporation
+2012-01-22,64,False,RPX Corporation
+2012-01-29,31,False,RPX Corporation
+2011-02-06,47,False,NetQin Mobile
+2011-02-13,61,False,NetQin Mobile
+2011-02-20,51,False,NetQin Mobile
+2011-02-27,59,False,NetQin Mobile
+2011-03-06,59,False,NetQin Mobile
+2011-03-13,60,False,NetQin Mobile
+2011-03-20,52,False,NetQin Mobile
+2011-03-27,59,False,NetQin Mobile
+2011-04-03,59,False,NetQin Mobile
+2011-04-10,53,False,NetQin Mobile
+2011-04-17,56,False,NetQin Mobile
+2011-04-24,62,False,NetQin Mobile
+2011-05-01,58,False,NetQin Mobile
+2011-05-08,50,False,NetQin Mobile
+2011-05-15,57,False,NetQin Mobile
+2011-05-22,54,False,NetQin Mobile
+2011-05-29,67,False,NetQin Mobile
+2011-06-05,59,False,NetQin Mobile
+2011-06-12,63,False,NetQin Mobile
+2011-06-19,58,False,NetQin Mobile
+2011-06-26,70,False,NetQin Mobile
+2011-07-03,74,False,NetQin Mobile
+2011-07-10,61,False,NetQin Mobile
+2011-07-17,79,False,NetQin Mobile
+2011-07-24,75,False,NetQin Mobile
+2011-07-31,71,False,NetQin Mobile
+2011-08-07,61,False,NetQin Mobile
+2011-08-14,100,False,NetQin Mobile
+2011-08-21,90,False,NetQin Mobile
+2011-08-28,66,False,NetQin Mobile
+2011-09-04,80,False,NetQin Mobile
+2011-09-11,78,False,NetQin Mobile
+2011-09-18,58,False,NetQin Mobile
+2011-09-25,74,False,NetQin Mobile
+2011-10-02,59,False,NetQin Mobile
+2011-10-09,65,False,NetQin Mobile
+2011-10-16,59,False,NetQin Mobile
+2011-10-23,71,False,NetQin Mobile
+2011-10-30,59,False,NetQin Mobile
+2011-11-06,71,False,NetQin Mobile
+2011-11-13,71,False,NetQin Mobile
+2011-11-20,91,False,NetQin Mobile
+2011-11-27,65,False,NetQin Mobile
+2011-12-04,66,False,NetQin Mobile
+2011-12-11,64,False,NetQin Mobile
+2011-12-18,75,False,NetQin Mobile
+2011-12-25,70,False,NetQin Mobile
+2012-01-01,65,False,NetQin Mobile
+2012-01-08,66,False,NetQin Mobile
+2012-01-15,92,False,NetQin Mobile
+2012-01-22,61,False,NetQin Mobile
+2012-01-29,76,False,NetQin Mobile
+2012-02-05,59,False,NetQin Mobile

@@ -1,0 +1,261 @@
+date,SVI,isPartial,Issuer
+2019-11-10,59,False,PPD
+2019-11-17,62,False,PPD
+2019-11-24,51,False,PPD
+2019-12-01,55,False,PPD
+2019-12-08,55,False,PPD
+2019-12-15,54,False,PPD
+2019-12-22,41,False,PPD
+2019-12-29,52,False,PPD
+2020-01-05,59,False,PPD
+2020-01-12,66,False,PPD
+2020-01-19,58,False,PPD
+2020-01-26,67,False,PPD
+2020-02-02,67,False,PPD
+2020-02-09,63,False,PPD
+2020-02-16,66,False,PPD
+2020-02-23,58,False,PPD
+2020-03-01,62,False,PPD
+2020-03-08,56,False,PPD
+2020-03-15,41,False,PPD
+2020-03-22,38,False,PPD
+2020-03-29,39,False,PPD
+2020-04-05,40,False,PPD
+2020-04-12,43,False,PPD
+2020-04-19,47,False,PPD
+2020-04-26,45,False,PPD
+2020-05-03,42,False,PPD
+2020-05-10,45,False,PPD
+2020-05-17,46,False,PPD
+2020-05-24,44,False,PPD
+2020-05-31,48,False,PPD
+2020-06-07,54,False,PPD
+2020-06-14,71,False,PPD
+2020-06-21,100,False,PPD
+2020-06-28,60,False,PPD
+2020-07-05,57,False,PPD
+2020-07-12,56,False,PPD
+2020-07-19,54,False,PPD
+2020-07-26,54,False,PPD
+2020-08-02,62,False,PPD
+2020-08-09,58,False,PPD
+2020-08-16,61,False,PPD
+2020-08-23,58,False,PPD
+2020-08-30,53,False,PPD
+2020-09-06,54,False,PPD
+2020-09-13,64,False,PPD
+2020-09-20,53,False,PPD
+2020-09-27,70,False,PPD
+2020-10-04,62,False,PPD
+2020-10-11,55,False,PPD
+2020-10-18,54,False,PPD
+2020-10-25,49,False,PPD
+2020-11-01,49,False,PPD
+2019-11-10,54,False,Schrodinger
+2019-11-17,52,False,Schrodinger
+2019-11-24,47,False,Schrodinger
+2019-12-01,48,False,Schrodinger
+2019-12-08,44,False,Schrodinger
+2019-12-15,42,False,Schrodinger
+2019-12-22,33,False,Schrodinger
+2019-12-29,31,False,Schrodinger
+2020-01-05,38,False,Schrodinger
+2020-01-12,40,False,Schrodinger
+2020-01-19,38,False,Schrodinger
+2020-01-26,44,False,Schrodinger
+2020-02-02,51,False,Schrodinger
+2020-02-09,52,False,Schrodinger
+2020-02-16,55,False,Schrodinger
+2020-02-23,49,False,Schrodinger
+2020-03-01,52,False,Schrodinger
+2020-03-08,51,False,Schrodinger
+2020-03-15,45,False,Schrodinger
+2020-03-22,47,False,Schrodinger
+2020-03-29,100,False,Schrodinger
+2020-04-05,77,False,Schrodinger
+2020-04-12,59,False,Schrodinger
+2020-04-19,63,False,Schrodinger
+2020-04-26,100,False,Schrodinger
+2020-05-03,62,False,Schrodinger
+2020-05-10,59,False,Schrodinger
+2020-05-17,56,False,Schrodinger
+2020-05-24,54,False,Schrodinger
+2020-05-31,45,False,Schrodinger
+2020-06-07,46,False,Schrodinger
+2020-06-14,55,False,Schrodinger
+2020-06-21,54,False,Schrodinger
+2020-06-28,55,False,Schrodinger
+2020-07-05,49,False,Schrodinger
+2020-07-12,54,False,Schrodinger
+2020-07-19,50,False,Schrodinger
+2020-07-26,53,False,Schrodinger
+2020-08-02,54,False,Schrodinger
+2020-08-09,63,False,Schrodinger
+2020-08-16,52,False,Schrodinger
+2020-08-23,56,False,Schrodinger
+2020-08-30,52,False,Schrodinger
+2020-09-06,57,False,Schrodinger
+2020-09-13,56,False,Schrodinger
+2020-09-20,55,False,Schrodinger
+2020-09-27,49,False,Schrodinger
+2020-10-04,52,False,Schrodinger
+2020-10-11,49,False,Schrodinger
+2020-10-18,49,False,Schrodinger
+2020-10-25,52,False,Schrodinger
+2020-11-01,46,False,Schrodinger
+2019-11-10,0,False,NexPoint Real Estate Finance
+2019-11-17,0,False,NexPoint Real Estate Finance
+2019-11-24,0,False,NexPoint Real Estate Finance
+2019-12-01,0,False,NexPoint Real Estate Finance
+2019-12-08,0,False,NexPoint Real Estate Finance
+2019-12-15,0,False,NexPoint Real Estate Finance
+2019-12-22,29,False,NexPoint Real Estate Finance
+2019-12-29,28,False,NexPoint Real Estate Finance
+2020-01-05,0,False,NexPoint Real Estate Finance
+2020-01-12,25,False,NexPoint Real Estate Finance
+2020-01-19,25,False,NexPoint Real Estate Finance
+2020-01-26,50,False,NexPoint Real Estate Finance
+2020-02-02,100,False,NexPoint Real Estate Finance
+2020-02-09,0,False,NexPoint Real Estate Finance
+2020-02-16,50,False,NexPoint Real Estate Finance
+2020-02-23,48,False,NexPoint Real Estate Finance
+2020-03-01,0,False,NexPoint Real Estate Finance
+2020-03-08,0,False,NexPoint Real Estate Finance
+2020-03-15,0,False,NexPoint Real Estate Finance
+2020-03-22,0,False,NexPoint Real Estate Finance
+2020-03-29,0,False,NexPoint Real Estate Finance
+2020-04-05,23,False,NexPoint Real Estate Finance
+2020-04-12,0,False,NexPoint Real Estate Finance
+2020-04-19,22,False,NexPoint Real Estate Finance
+2020-04-26,0,False,NexPoint Real Estate Finance
+2020-05-03,0,False,NexPoint Real Estate Finance
+2020-05-10,23,False,NexPoint Real Estate Finance
+2020-05-17,46,False,NexPoint Real Estate Finance
+2020-05-24,0,False,NexPoint Real Estate Finance
+2020-05-31,23,False,NexPoint Real Estate Finance
+2020-06-07,0,False,NexPoint Real Estate Finance
+2020-06-14,0,False,NexPoint Real Estate Finance
+2020-06-21,24,False,NexPoint Real Estate Finance
+2020-06-28,0,False,NexPoint Real Estate Finance
+2020-07-05,24,False,NexPoint Real Estate Finance
+2020-07-12,25,False,NexPoint Real Estate Finance
+2020-07-19,25,False,NexPoint Real Estate Finance
+2020-07-26,25,False,NexPoint Real Estate Finance
+2020-08-02,24,False,NexPoint Real Estate Finance
+2020-08-09,24,False,NexPoint Real Estate Finance
+2020-08-16,24,False,NexPoint Real Estate Finance
+2020-08-23,24,False,NexPoint Real Estate Finance
+2020-08-30,0,False,NexPoint Real Estate Finance
+2020-09-06,0,False,NexPoint Real Estate Finance
+2020-09-13,0,False,NexPoint Real Estate Finance
+2020-09-20,0,False,NexPoint Real Estate Finance
+2020-09-27,0,False,NexPoint Real Estate Finance
+2020-10-04,0,False,NexPoint Real Estate Finance
+2020-10-11,0,False,NexPoint Real Estate Finance
+2020-10-18,0,False,NexPoint Real Estate Finance
+2020-10-25,25,False,NexPoint Real Estate Finance
+2020-11-01,0,False,NexPoint Real Estate Finance
+2019-11-10,41,False,OneWater Marine
+2019-11-17,0,False,OneWater Marine
+2019-11-24,0,False,OneWater Marine
+2019-12-01,0,False,OneWater Marine
+2019-12-08,0,False,OneWater Marine
+2019-12-15,0,False,OneWater Marine
+2019-12-22,0,False,OneWater Marine
+2019-12-29,0,False,OneWater Marine
+2020-01-05,0,False,OneWater Marine
+2020-01-12,20,False,OneWater Marine
+2020-01-19,40,False,OneWater Marine
+2020-01-26,100,False,OneWater Marine
+2020-02-02,60,False,OneWater Marine
+2020-02-09,59,False,OneWater Marine
+2020-02-16,59,False,OneWater Marine
+2020-02-23,38,False,OneWater Marine
+2020-03-01,57,False,OneWater Marine
+2020-03-08,0,False,OneWater Marine
+2020-03-15,0,False,OneWater Marine
+2020-03-22,0,False,OneWater Marine
+2020-03-29,71,False,OneWater Marine
+2020-04-05,0,False,OneWater Marine
+2020-04-12,36,False,OneWater Marine
+2020-04-19,54,False,OneWater Marine
+2020-04-26,18,False,OneWater Marine
+2020-05-03,89,False,OneWater Marine
+2020-05-10,36,False,OneWater Marine
+2020-05-17,37,False,OneWater Marine
+2020-05-24,19,False,OneWater Marine
+2020-05-31,72,False,OneWater Marine
+2020-06-07,0,False,OneWater Marine
+2020-06-14,37,False,OneWater Marine
+2020-06-21,19,False,OneWater Marine
+2020-06-28,19,False,OneWater Marine
+2020-07-05,19,False,OneWater Marine
+2020-07-12,40,False,OneWater Marine
+2020-07-19,60,False,OneWater Marine
+2020-07-26,99,False,OneWater Marine
+2020-08-02,19,False,OneWater Marine
+2020-08-09,0,False,OneWater Marine
+2020-08-16,19,False,OneWater Marine
+2020-08-23,38,False,OneWater Marine
+2020-08-30,0,False,OneWater Marine
+2020-09-06,19,False,OneWater Marine
+2020-09-13,75,False,OneWater Marine
+2020-09-20,75,False,OneWater Marine
+2020-09-27,19,False,OneWater Marine
+2020-10-04,58,False,OneWater Marine
+2020-10-11,40,False,OneWater Marine
+2020-10-18,20,False,OneWater Marine
+2020-10-25,20,False,OneWater Marine
+2020-11-01,0,False,OneWater Marine
+2019-11-10,39,False,Professional Holding
+2019-11-17,23,False,Professional Holding
+2019-11-24,39,False,Professional Holding
+2019-12-01,57,False,Professional Holding
+2019-12-08,17,False,Professional Holding
+2019-12-15,12,False,Professional Holding
+2019-12-22,38,False,Professional Holding
+2019-12-29,24,False,Professional Holding
+2020-01-05,45,False,Professional Holding
+2020-01-12,16,False,Professional Holding
+2020-01-19,33,False,Professional Holding
+2020-01-26,16,False,Professional Holding
+2020-02-02,98,False,Professional Holding
+2020-02-09,54,False,Professional Holding
+2020-02-16,65,False,Professional Holding
+2020-02-23,48,False,Professional Holding
+2020-03-01,73,False,Professional Holding
+2020-03-08,41,False,Professional Holding
+2020-03-15,10,False,Professional Holding
+2020-03-22,40,False,Professional Holding
+2020-03-29,44,False,Professional Holding
+2020-04-05,61,False,Professional Holding
+2020-04-12,59,False,Professional Holding
+2020-04-19,29,False,Professional Holding
+2020-04-26,34,False,Professional Holding
+2020-05-03,69,False,Professional Holding
+2020-05-10,44,False,Professional Holding
+2020-05-17,30,False,Professional Holding
+2020-05-24,36,False,Professional Holding
+2020-05-31,30,False,Professional Holding
+2020-06-07,50,False,Professional Holding
+2020-06-14,46,False,Professional Holding
+2020-06-21,74,False,Professional Holding
+2020-06-28,37,False,Professional Holding
+2020-07-05,53,False,Professional Holding
+2020-07-12,54,False,Professional Holding
+2020-07-19,27,False,Professional Holding
+2020-07-26,60,False,Professional Holding
+2020-08-02,48,False,Professional Holding
+2020-08-09,31,False,Professional Holding
+2020-08-16,69,False,Professional Holding
+2020-08-23,68,False,Professional Holding
+2020-08-30,36,False,Professional Holding
+2020-09-06,47,False,Professional Holding
+2020-09-13,67,False,Professional Holding
+2020-09-20,46,False,Professional Holding
+2020-09-27,100,False,Professional Holding
+2020-10-04,32,False,Professional Holding
+2020-10-11,50,False,Professional Holding
+2020-10-18,44,False,Professional Holding
+2020-10-25,98,False,Professional Holding
+2020-11-01,31,False,Professional Holding

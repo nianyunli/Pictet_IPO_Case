@@ -1,0 +1,261 @@
+date,SVI,isPartial,Issuer
+2020-05-24,4,False,Horizon Acquisition
+2020-05-31,4,False,Horizon Acquisition
+2020-06-07,9,False,Horizon Acquisition
+2020-06-14,9,False,Horizon Acquisition
+2020-06-21,9,False,Horizon Acquisition
+2020-06-28,14,False,Horizon Acquisition
+2020-07-05,9,False,Horizon Acquisition
+2020-07-12,14,False,Horizon Acquisition
+2020-07-19,10,False,Horizon Acquisition
+2020-07-26,14,False,Horizon Acquisition
+2020-08-02,0,False,Horizon Acquisition
+2020-08-09,18,False,Horizon Acquisition
+2020-08-16,23,False,Horizon Acquisition
+2020-08-23,27,False,Horizon Acquisition
+2020-08-30,13,False,Horizon Acquisition
+2020-09-06,18,False,Horizon Acquisition
+2020-09-13,13,False,Horizon Acquisition
+2020-09-20,18,False,Horizon Acquisition
+2020-09-27,18,False,Horizon Acquisition
+2020-10-04,28,False,Horizon Acquisition
+2020-10-11,5,False,Horizon Acquisition
+2020-10-18,24,False,Horizon Acquisition
+2020-10-25,14,False,Horizon Acquisition
+2020-11-01,13,False,Horizon Acquisition
+2020-11-08,5,False,Horizon Acquisition
+2020-11-15,24,False,Horizon Acquisition
+2020-11-22,14,False,Horizon Acquisition
+2020-11-29,9,False,Horizon Acquisition
+2020-12-06,19,False,Horizon Acquisition
+2020-12-13,24,False,Horizon Acquisition
+2020-12-20,36,False,Horizon Acquisition
+2020-12-27,31,False,Horizon Acquisition
+2021-01-03,24,False,Horizon Acquisition
+2021-01-10,9,False,Horizon Acquisition
+2021-01-17,19,False,Horizon Acquisition
+2021-01-24,47,False,Horizon Acquisition
+2021-01-31,57,False,Horizon Acquisition
+2021-02-07,57,False,Horizon Acquisition
+2021-02-14,38,False,Horizon Acquisition
+2021-02-21,42,False,Horizon Acquisition
+2021-02-28,100,False,Horizon Acquisition
+2021-03-07,80,False,Horizon Acquisition
+2021-03-14,26,False,Horizon Acquisition
+2021-03-21,42,False,Horizon Acquisition
+2021-03-28,29,False,Horizon Acquisition
+2021-04-04,14,False,Horizon Acquisition
+2021-04-11,24,False,Horizon Acquisition
+2021-04-18,47,False,Horizon Acquisition
+2021-04-25,38,False,Horizon Acquisition
+2021-05-02,14,False,Horizon Acquisition
+2021-05-09,14,False,Horizon Acquisition
+2021-05-16,29,False,Horizon Acquisition
+2020-05-24,7,False,Kymera Therapeutics
+2020-05-31,11,False,Kymera Therapeutics
+2020-06-07,9,False,Kymera Therapeutics
+2020-06-14,7,False,Kymera Therapeutics
+2020-06-21,2,False,Kymera Therapeutics
+2020-06-28,7,False,Kymera Therapeutics
+2020-07-05,21,False,Kymera Therapeutics
+2020-07-12,16,False,Kymera Therapeutics
+2020-07-19,7,False,Kymera Therapeutics
+2020-07-26,7,False,Kymera Therapeutics
+2020-08-02,7,False,Kymera Therapeutics
+2020-08-09,9,False,Kymera Therapeutics
+2020-08-16,100,False,Kymera Therapeutics
+2020-08-23,34,False,Kymera Therapeutics
+2020-08-30,15,False,Kymera Therapeutics
+2020-09-06,5,False,Kymera Therapeutics
+2020-09-13,7,False,Kymera Therapeutics
+2020-09-20,4,False,Kymera Therapeutics
+2020-09-27,11,False,Kymera Therapeutics
+2020-10-04,5,False,Kymera Therapeutics
+2020-10-11,5,False,Kymera Therapeutics
+2020-10-18,2,False,Kymera Therapeutics
+2020-10-25,2,False,Kymera Therapeutics
+2020-11-01,4,False,Kymera Therapeutics
+2020-11-08,14,False,Kymera Therapeutics
+2020-11-15,9,False,Kymera Therapeutics
+2020-11-22,14,False,Kymera Therapeutics
+2020-11-29,9,False,Kymera Therapeutics
+2020-12-06,9,False,Kymera Therapeutics
+2020-12-13,5,False,Kymera Therapeutics
+2020-12-20,5,False,Kymera Therapeutics
+2020-12-27,13,False,Kymera Therapeutics
+2021-01-03,21,False,Kymera Therapeutics
+2021-01-10,12,False,Kymera Therapeutics
+2021-01-17,9,False,Kymera Therapeutics
+2021-01-24,7,False,Kymera Therapeutics
+2021-01-31,9,False,Kymera Therapeutics
+2021-02-07,7,False,Kymera Therapeutics
+2021-02-14,7,False,Kymera Therapeutics
+2021-02-21,16,False,Kymera Therapeutics
+2021-02-28,12,False,Kymera Therapeutics
+2021-03-07,2,False,Kymera Therapeutics
+2021-03-14,9,False,Kymera Therapeutics
+2021-03-21,7,False,Kymera Therapeutics
+2021-03-28,7,False,Kymera Therapeutics
+2021-04-04,5,False,Kymera Therapeutics
+2021-04-11,19,False,Kymera Therapeutics
+2021-04-18,14,False,Kymera Therapeutics
+2021-04-25,7,False,Kymera Therapeutics
+2021-05-02,14,False,Kymera Therapeutics
+2021-05-09,10,False,Kymera Therapeutics
+2021-05-16,9,False,Kymera Therapeutics
+2020-05-24,0,False,Nano-X Imaging
+2020-05-31,0,False,Nano-X Imaging
+2020-06-07,0,False,Nano-X Imaging
+2020-06-14,0,False,Nano-X Imaging
+2020-06-21,0,False,Nano-X Imaging
+2020-06-28,0,False,Nano-X Imaging
+2020-07-05,0,False,Nano-X Imaging
+2020-07-12,3,False,Nano-X Imaging
+2020-07-19,0,False,Nano-X Imaging
+2020-07-26,3,False,Nano-X Imaging
+2020-08-02,0,False,Nano-X Imaging
+2020-08-09,3,False,Nano-X Imaging
+2020-08-16,65,False,Nano-X Imaging
+2020-08-23,24,False,Nano-X Imaging
+2020-08-30,66,False,Nano-X Imaging
+2020-09-06,46,False,Nano-X Imaging
+2020-09-13,100,False,Nano-X Imaging
+2020-09-20,53,False,Nano-X Imaging
+2020-09-27,67,False,Nano-X Imaging
+2020-10-04,16,False,Nano-X Imaging
+2020-10-11,20,False,Nano-X Imaging
+2020-10-18,8,False,Nano-X Imaging
+2020-10-25,8,False,Nano-X Imaging
+2020-11-01,10,False,Nano-X Imaging
+2020-11-08,8,False,Nano-X Imaging
+2020-11-15,20,False,Nano-X Imaging
+2020-11-22,22,False,Nano-X Imaging
+2020-11-29,57,False,Nano-X Imaging
+2020-12-06,22,False,Nano-X Imaging
+2020-12-13,23,False,Nano-X Imaging
+2020-12-20,12,False,Nano-X Imaging
+2020-12-27,12,False,Nano-X Imaging
+2021-01-03,19,False,Nano-X Imaging
+2021-01-10,19,False,Nano-X Imaging
+2021-01-17,25,False,Nano-X Imaging
+2021-01-24,30,False,Nano-X Imaging
+2021-01-31,30,False,Nano-X Imaging
+2021-02-07,41,False,Nano-X Imaging
+2021-02-14,11,False,Nano-X Imaging
+2021-02-21,19,False,Nano-X Imaging
+2021-02-28,11,False,Nano-X Imaging
+2021-03-07,11,False,Nano-X Imaging
+2021-03-14,36,False,Nano-X Imaging
+2021-03-21,22,False,Nano-X Imaging
+2021-03-28,17,False,Nano-X Imaging
+2021-04-04,36,False,Nano-X Imaging
+2021-04-11,22,False,Nano-X Imaging
+2021-04-18,11,False,Nano-X Imaging
+2021-04-25,3,False,Nano-X Imaging
+2021-05-02,19,False,Nano-X Imaging
+2021-05-09,3,False,Nano-X Imaging
+2021-05-16,14,False,Nano-X Imaging
+2020-05-31,0,False,FTAC Olympus Acquisition
+2020-06-07,0,False,FTAC Olympus Acquisition
+2020-06-14,0,False,FTAC Olympus Acquisition
+2020-06-21,0,False,FTAC Olympus Acquisition
+2020-06-28,0,False,FTAC Olympus Acquisition
+2020-07-05,5,False,FTAC Olympus Acquisition
+2020-07-12,0,False,FTAC Olympus Acquisition
+2020-07-19,0,False,FTAC Olympus Acquisition
+2020-07-26,0,False,FTAC Olympus Acquisition
+2020-08-02,0,False,FTAC Olympus Acquisition
+2020-08-09,0,False,FTAC Olympus Acquisition
+2020-08-16,0,False,FTAC Olympus Acquisition
+2020-08-23,41,False,FTAC Olympus Acquisition
+2020-08-30,10,False,FTAC Olympus Acquisition
+2020-09-06,0,False,FTAC Olympus Acquisition
+2020-09-13,0,False,FTAC Olympus Acquisition
+2020-09-20,5,False,FTAC Olympus Acquisition
+2020-09-27,0,False,FTAC Olympus Acquisition
+2020-10-04,0,False,FTAC Olympus Acquisition
+2020-10-11,0,False,FTAC Olympus Acquisition
+2020-10-18,0,False,FTAC Olympus Acquisition
+2020-10-25,0,False,FTAC Olympus Acquisition
+2020-11-01,0,False,FTAC Olympus Acquisition
+2020-11-08,5,False,FTAC Olympus Acquisition
+2020-11-15,0,False,FTAC Olympus Acquisition
+2020-11-22,0,False,FTAC Olympus Acquisition
+2020-11-29,0,False,FTAC Olympus Acquisition
+2020-12-06,5,False,FTAC Olympus Acquisition
+2020-12-13,0,False,FTAC Olympus Acquisition
+2020-12-20,6,False,FTAC Olympus Acquisition
+2020-12-27,12,False,FTAC Olympus Acquisition
+2021-01-03,5,False,FTAC Olympus Acquisition
+2021-01-10,16,False,FTAC Olympus Acquisition
+2021-01-17,100,False,FTAC Olympus Acquisition
+2021-01-24,42,False,FTAC Olympus Acquisition
+2021-01-31,63,False,FTAC Olympus Acquisition
+2021-02-07,90,False,FTAC Olympus Acquisition
+2021-02-14,32,False,FTAC Olympus Acquisition
+2021-02-21,11,False,FTAC Olympus Acquisition
+2021-02-28,32,False,FTAC Olympus Acquisition
+2021-03-07,42,False,FTAC Olympus Acquisition
+2021-03-14,25,False,FTAC Olympus Acquisition
+2021-03-21,5,False,FTAC Olympus Acquisition
+2021-03-28,5,False,FTAC Olympus Acquisition
+2021-04-04,0,False,FTAC Olympus Acquisition
+2021-04-11,5,False,FTAC Olympus Acquisition
+2021-04-18,0,False,FTAC Olympus Acquisition
+2021-04-25,5,False,FTAC Olympus Acquisition
+2021-05-02,5,False,FTAC Olympus Acquisition
+2021-05-09,5,False,FTAC Olympus Acquisition
+2021-05-16,5,False,FTAC Olympus Acquisition
+2021-05-23,11,False,FTAC Olympus Acquisition
+2020-05-31,0,False,Burgundy Technology Acquisition
+2020-06-07,0,False,Burgundy Technology Acquisition
+2020-06-14,6,False,Burgundy Technology Acquisition
+2020-06-21,0,False,Burgundy Technology Acquisition
+2020-06-28,0,False,Burgundy Technology Acquisition
+2020-07-05,0,False,Burgundy Technology Acquisition
+2020-07-12,0,False,Burgundy Technology Acquisition
+2020-07-19,0,False,Burgundy Technology Acquisition
+2020-07-26,0,False,Burgundy Technology Acquisition
+2020-08-02,0,False,Burgundy Technology Acquisition
+2020-08-09,13,False,Burgundy Technology Acquisition
+2020-08-16,54,False,Burgundy Technology Acquisition
+2020-08-23,100,False,Burgundy Technology Acquisition
+2020-08-30,33,False,Burgundy Technology Acquisition
+2020-09-06,0,False,Burgundy Technology Acquisition
+2020-09-13,0,False,Burgundy Technology Acquisition
+2020-09-20,7,False,Burgundy Technology Acquisition
+2020-09-27,0,False,Burgundy Technology Acquisition
+2020-10-04,0,False,Burgundy Technology Acquisition
+2020-10-11,7,False,Burgundy Technology Acquisition
+2020-10-18,0,False,Burgundy Technology Acquisition
+2020-10-25,0,False,Burgundy Technology Acquisition
+2020-11-01,0,False,Burgundy Technology Acquisition
+2020-11-08,0,False,Burgundy Technology Acquisition
+2020-11-15,0,False,Burgundy Technology Acquisition
+2020-11-22,0,False,Burgundy Technology Acquisition
+2020-11-29,0,False,Burgundy Technology Acquisition
+2020-12-06,7,False,Burgundy Technology Acquisition
+2020-12-13,7,False,Burgundy Technology Acquisition
+2020-12-20,0,False,Burgundy Technology Acquisition
+2020-12-27,52,False,Burgundy Technology Acquisition
+2021-01-03,41,False,Burgundy Technology Acquisition
+2021-01-10,41,False,Burgundy Technology Acquisition
+2021-01-17,62,False,Burgundy Technology Acquisition
+2021-01-24,55,False,Burgundy Technology Acquisition
+2021-01-31,27,False,Burgundy Technology Acquisition
+2021-02-07,27,False,Burgundy Technology Acquisition
+2021-02-14,63,False,Burgundy Technology Acquisition
+2021-02-21,7,False,Burgundy Technology Acquisition
+2021-02-28,21,False,Burgundy Technology Acquisition
+2021-03-07,14,False,Burgundy Technology Acquisition
+2021-03-14,13,False,Burgundy Technology Acquisition
+2021-03-21,7,False,Burgundy Technology Acquisition
+2021-03-28,21,False,Burgundy Technology Acquisition
+2021-04-04,0,False,Burgundy Technology Acquisition
+2021-04-11,0,False,Burgundy Technology Acquisition
+2021-04-18,0,False,Burgundy Technology Acquisition
+2021-04-25,0,False,Burgundy Technology Acquisition
+2021-05-02,0,False,Burgundy Technology Acquisition
+2021-05-09,0,False,Burgundy Technology Acquisition
+2021-05-16,7,False,Burgundy Technology Acquisition
+2021-05-23,0,False,Burgundy Technology Acquisition

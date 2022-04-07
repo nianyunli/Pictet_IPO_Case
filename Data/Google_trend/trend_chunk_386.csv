@@ -1,0 +1,263 @@
+date,SVI,isPartial,Issuer
+2009-12-13,39,False,AVEO Pharmaceuticals
+2009-12-20,61,False,AVEO Pharmaceuticals
+2009-12-27,0,False,AVEO Pharmaceuticals
+2010-01-03,74,False,AVEO Pharmaceuticals
+2010-01-10,36,False,AVEO Pharmaceuticals
+2010-01-17,12,False,AVEO Pharmaceuticals
+2010-01-24,35,False,AVEO Pharmaceuticals
+2010-01-31,59,False,AVEO Pharmaceuticals
+2010-02-07,24,False,AVEO Pharmaceuticals
+2010-02-14,0,False,AVEO Pharmaceuticals
+2010-02-21,93,False,AVEO Pharmaceuticals
+2010-02-28,47,False,AVEO Pharmaceuticals
+2010-03-07,94,False,AVEO Pharmaceuticals
+2010-03-14,59,False,AVEO Pharmaceuticals
+2010-03-21,24,False,AVEO Pharmaceuticals
+2010-03-28,62,False,AVEO Pharmaceuticals
+2010-04-04,24,False,AVEO Pharmaceuticals
+2010-04-11,12,False,AVEO Pharmaceuticals
+2010-04-18,23,False,AVEO Pharmaceuticals
+2010-04-25,12,False,AVEO Pharmaceuticals
+2010-05-02,36,False,AVEO Pharmaceuticals
+2010-05-09,48,False,AVEO Pharmaceuticals
+2010-05-16,24,False,AVEO Pharmaceuticals
+2010-05-23,37,False,AVEO Pharmaceuticals
+2010-05-30,0,False,AVEO Pharmaceuticals
+2010-06-06,24,False,AVEO Pharmaceuticals
+2010-06-13,49,False,AVEO Pharmaceuticals
+2010-06-20,48,False,AVEO Pharmaceuticals
+2010-06-27,36,False,AVEO Pharmaceuticals
+2010-07-04,12,False,AVEO Pharmaceuticals
+2010-07-11,34,False,AVEO Pharmaceuticals
+2010-07-18,46,False,AVEO Pharmaceuticals
+2010-07-25,23,False,AVEO Pharmaceuticals
+2010-08-01,12,False,AVEO Pharmaceuticals
+2010-08-08,23,False,AVEO Pharmaceuticals
+2010-08-15,45,False,AVEO Pharmaceuticals
+2010-08-22,33,False,AVEO Pharmaceuticals
+2010-08-29,32,False,AVEO Pharmaceuticals
+2010-09-05,54,False,AVEO Pharmaceuticals
+2010-09-12,32,False,AVEO Pharmaceuticals
+2010-09-19,52,False,AVEO Pharmaceuticals
+2010-09-26,50,False,AVEO Pharmaceuticals
+2010-10-03,21,False,AVEO Pharmaceuticals
+2010-10-10,41,False,AVEO Pharmaceuticals
+2010-10-17,100,False,AVEO Pharmaceuticals
+2010-10-24,50,False,AVEO Pharmaceuticals
+2010-10-31,60,False,AVEO Pharmaceuticals
+2010-11-07,49,False,AVEO Pharmaceuticals
+2010-11-14,30,False,AVEO Pharmaceuticals
+2010-11-21,20,False,AVEO Pharmaceuticals
+2010-11-28,66,False,AVEO Pharmaceuticals
+2010-12-05,67,False,AVEO Pharmaceuticals
+2010-12-12,39,False,AVEO Pharmaceuticals
+2009-12-13,0,False,Crude Carriers
+2009-12-20,0,False,Crude Carriers
+2009-12-27,16,False,Crude Carriers
+2010-01-03,0,False,Crude Carriers
+2010-01-10,0,False,Crude Carriers
+2010-01-17,13,False,Crude Carriers
+2010-01-24,13,False,Crude Carriers
+2010-01-31,0,False,Crude Carriers
+2010-02-07,0,False,Crude Carriers
+2010-02-14,0,False,Crude Carriers
+2010-02-21,12,False,Crude Carriers
+2010-02-28,50,False,Crude Carriers
+2010-03-07,100,False,Crude Carriers
+2010-03-14,62,False,Crude Carriers
+2010-03-21,76,False,Crude Carriers
+2010-03-28,0,False,Crude Carriers
+2010-04-04,0,False,Crude Carriers
+2010-04-11,0,False,Crude Carriers
+2010-04-18,49,False,Crude Carriers
+2010-04-25,13,False,Crude Carriers
+2010-05-02,13,False,Crude Carriers
+2010-05-09,0,False,Crude Carriers
+2010-05-16,25,False,Crude Carriers
+2010-05-23,13,False,Crude Carriers
+2010-05-30,13,False,Crude Carriers
+2010-06-06,64,False,Crude Carriers
+2010-06-13,39,False,Crude Carriers
+2010-06-20,38,False,Crude Carriers
+2010-06-27,0,False,Crude Carriers
+2010-07-04,12,False,Crude Carriers
+2010-07-11,12,False,Crude Carriers
+2010-07-18,24,False,Crude Carriers
+2010-07-25,36,False,Crude Carriers
+2010-08-01,25,False,Crude Carriers
+2010-08-08,36,False,Crude Carriers
+2010-08-15,0,False,Crude Carriers
+2010-08-22,35,False,Crude Carriers
+2010-08-29,23,False,Crude Carriers
+2010-09-05,0,False,Crude Carriers
+2010-09-12,0,False,Crude Carriers
+2010-09-19,22,False,Crude Carriers
+2010-09-26,11,False,Crude Carriers
+2010-10-03,33,False,Crude Carriers
+2010-10-10,11,False,Crude Carriers
+2010-10-17,11,False,Crude Carriers
+2010-10-24,21,False,Crude Carriers
+2010-10-31,0,False,Crude Carriers
+2010-11-07,10,False,Crude Carriers
+2010-11-14,21,False,Crude Carriers
+2010-11-21,10,False,Crude Carriers
+2010-11-28,0,False,Crude Carriers
+2010-12-05,0,False,Crude Carriers
+2010-12-12,10,False,Crude Carriers
+2009-12-20,15,False,Financial Engines
+2009-12-27,15,False,Financial Engines
+2010-01-03,12,False,Financial Engines
+2010-01-10,26,False,Financial Engines
+2010-01-17,17,False,Financial Engines
+2010-01-24,12,False,Financial Engines
+2010-01-31,12,False,Financial Engines
+2010-02-07,9,False,Financial Engines
+2010-02-14,6,False,Financial Engines
+2010-02-21,13,False,Financial Engines
+2010-02-28,13,False,Financial Engines
+2010-03-07,31,False,Financial Engines
+2010-03-14,100,False,Financial Engines
+2010-03-21,33,False,Financial Engines
+2010-03-28,23,False,Financial Engines
+2010-04-04,12,False,Financial Engines
+2010-04-11,13,False,Financial Engines
+2010-04-18,20,False,Financial Engines
+2010-04-25,12,False,Financial Engines
+2010-05-02,15,False,Financial Engines
+2010-05-09,21,False,Financial Engines
+2010-05-16,18,False,Financial Engines
+2010-05-23,14,False,Financial Engines
+2010-05-30,11,False,Financial Engines
+2010-06-06,15,False,Financial Engines
+2010-06-13,14,False,Financial Engines
+2010-06-20,9,False,Financial Engines
+2010-06-27,24,False,Financial Engines
+2010-07-04,7,False,Financial Engines
+2010-07-11,16,False,Financial Engines
+2010-07-18,16,False,Financial Engines
+2010-07-25,4,False,Financial Engines
+2010-08-01,16,False,Financial Engines
+2010-08-08,21,False,Financial Engines
+2010-08-15,6,False,Financial Engines
+2010-08-22,12,False,Financial Engines
+2010-08-29,19,False,Financial Engines
+2010-09-05,11,False,Financial Engines
+2010-09-12,12,False,Financial Engines
+2010-09-19,14,False,Financial Engines
+2010-09-26,9,False,Financial Engines
+2010-10-03,21,False,Financial Engines
+2010-10-10,10,False,Financial Engines
+2010-10-17,16,False,Financial Engines
+2010-10-24,16,False,Financial Engines
+2010-10-31,18,False,Financial Engines
+2010-11-07,17,False,Financial Engines
+2010-11-14,11,False,Financial Engines
+2010-11-21,7,False,Financial Engines
+2010-11-28,18,False,Financial Engines
+2010-12-05,8,False,Financial Engines
+2010-12-12,13,False,Financial Engines
+2009-12-27,7,False,Calix Networks
+2010-01-03,23,False,Calix Networks
+2010-01-10,28,False,Calix Networks
+2010-01-17,23,False,Calix Networks
+2010-01-24,22,False,Calix Networks
+2010-01-31,17,False,Calix Networks
+2010-02-07,11,False,Calix Networks
+2010-02-14,11,False,Calix Networks
+2010-02-21,5,False,Calix Networks
+2010-02-28,5,False,Calix Networks
+2010-03-07,50,False,Calix Networks
+2010-03-14,44,False,Calix Networks
+2010-03-21,100,False,Calix Networks
+2010-03-28,17,False,Calix Networks
+2010-04-04,6,False,Calix Networks
+2010-04-11,0,False,Calix Networks
+2010-04-18,33,False,Calix Networks
+2010-04-25,6,False,Calix Networks
+2010-05-02,17,False,Calix Networks
+2010-05-09,0,False,Calix Networks
+2010-05-16,0,False,Calix Networks
+2010-05-23,6,False,Calix Networks
+2010-05-30,6,False,Calix Networks
+2010-06-06,6,False,Calix Networks
+2010-06-13,0,False,Calix Networks
+2010-06-20,6,False,Calix Networks
+2010-06-27,17,False,Calix Networks
+2010-07-04,11,False,Calix Networks
+2010-07-11,5,False,Calix Networks
+2010-07-18,5,False,Calix Networks
+2010-07-25,5,False,Calix Networks
+2010-08-01,0,False,Calix Networks
+2010-08-08,5,False,Calix Networks
+2010-08-15,5,False,Calix Networks
+2010-08-22,0,False,Calix Networks
+2010-08-29,5,False,Calix Networks
+2010-09-05,10,False,Calix Networks
+2010-09-12,10,False,Calix Networks
+2010-09-19,10,False,Calix Networks
+2010-09-26,0,False,Calix Networks
+2010-10-03,0,False,Calix Networks
+2010-10-10,5,False,Calix Networks
+2010-10-17,9,False,Calix Networks
+2010-10-24,9,False,Calix Networks
+2010-10-31,5,False,Calix Networks
+2010-11-07,9,False,Calix Networks
+2010-11-14,14,False,Calix Networks
+2010-11-21,0,False,Calix Networks
+2010-11-28,0,False,Calix Networks
+2010-12-05,0,False,Calix Networks
+2010-12-12,9,False,Calix Networks
+2010-12-19,0,False,Calix Networks
+2009-12-27,0,False,First Interstate BancSystem
+2010-01-03,0,False,First Interstate BancSystem
+2010-01-10,0,False,First Interstate BancSystem
+2010-01-17,0,False,First Interstate BancSystem
+2010-01-24,0,False,First Interstate BancSystem
+2010-01-31,0,False,First Interstate BancSystem
+2010-02-07,0,False,First Interstate BancSystem
+2010-02-14,0,False,First Interstate BancSystem
+2010-02-21,16,False,First Interstate BancSystem
+2010-02-28,16,False,First Interstate BancSystem
+2010-03-07,0,False,First Interstate BancSystem
+2010-03-14,0,False,First Interstate BancSystem
+2010-03-21,100,False,First Interstate BancSystem
+2010-03-28,0,False,First Interstate BancSystem
+2010-04-04,17,False,First Interstate BancSystem
+2010-04-11,0,False,First Interstate BancSystem
+2010-04-18,16,False,First Interstate BancSystem
+2010-04-25,0,False,First Interstate BancSystem
+2010-05-02,0,False,First Interstate BancSystem
+2010-05-09,0,False,First Interstate BancSystem
+2010-05-16,0,False,First Interstate BancSystem
+2010-05-23,0,False,First Interstate BancSystem
+2010-05-30,0,False,First Interstate BancSystem
+2010-06-06,17,False,First Interstate BancSystem
+2010-06-13,17,False,First Interstate BancSystem
+2010-06-20,0,False,First Interstate BancSystem
+2010-06-27,0,False,First Interstate BancSystem
+2010-07-04,0,False,First Interstate BancSystem
+2010-07-11,0,False,First Interstate BancSystem
+2010-07-18,0,False,First Interstate BancSystem
+2010-07-25,0,False,First Interstate BancSystem
+2010-08-01,0,False,First Interstate BancSystem
+2010-08-08,0,False,First Interstate BancSystem
+2010-08-15,0,False,First Interstate BancSystem
+2010-08-22,15,False,First Interstate BancSystem
+2010-08-29,0,False,First Interstate BancSystem
+2010-09-05,0,False,First Interstate BancSystem
+2010-09-12,0,False,First Interstate BancSystem
+2010-09-19,0,False,First Interstate BancSystem
+2010-09-26,0,False,First Interstate BancSystem
+2010-10-03,0,False,First Interstate BancSystem
+2010-10-10,14,False,First Interstate BancSystem
+2010-10-17,0,False,First Interstate BancSystem
+2010-10-24,0,False,First Interstate BancSystem
+2010-10-31,0,False,First Interstate BancSystem
+2010-11-07,0,False,First Interstate BancSystem
+2010-11-14,0,False,First Interstate BancSystem
+2010-11-21,0,False,First Interstate BancSystem
+2010-11-28,0,False,First Interstate BancSystem
+2010-12-05,0,False,First Interstate BancSystem
+2010-12-12,0,False,First Interstate BancSystem
+2010-12-19,0,False,First Interstate BancSystem

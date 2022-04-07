@@ -1,0 +1,261 @@
+date,SVI,isPartial,Issuer
+2014-04-20,52,False,Trupanion
+2014-04-27,49,False,Trupanion
+2014-05-04,48,False,Trupanion
+2014-05-11,50,False,Trupanion
+2014-05-18,41,False,Trupanion
+2014-05-25,49,False,Trupanion
+2014-06-01,47,False,Trupanion
+2014-06-08,37,False,Trupanion
+2014-06-15,56,False,Trupanion
+2014-06-22,46,False,Trupanion
+2014-06-29,39,False,Trupanion
+2014-07-06,50,False,Trupanion
+2014-07-13,100,False,Trupanion
+2014-07-20,65,False,Trupanion
+2014-07-27,59,False,Trupanion
+2014-08-03,63,False,Trupanion
+2014-08-10,63,False,Trupanion
+2014-08-17,62,False,Trupanion
+2014-08-24,55,False,Trupanion
+2014-08-31,48,False,Trupanion
+2014-09-07,66,False,Trupanion
+2014-09-14,79,False,Trupanion
+2014-09-21,56,False,Trupanion
+2014-09-28,61,False,Trupanion
+2014-10-05,55,False,Trupanion
+2014-10-12,47,False,Trupanion
+2014-10-19,46,False,Trupanion
+2014-10-26,59,False,Trupanion
+2014-11-02,56,False,Trupanion
+2014-11-09,57,False,Trupanion
+2014-11-16,53,False,Trupanion
+2014-11-23,48,False,Trupanion
+2014-11-30,54,False,Trupanion
+2014-12-07,49,False,Trupanion
+2014-12-14,61,False,Trupanion
+2014-12-21,38,False,Trupanion
+2014-12-28,44,False,Trupanion
+2015-01-04,53,False,Trupanion
+2015-01-11,49,False,Trupanion
+2015-01-18,39,False,Trupanion
+2015-01-25,54,False,Trupanion
+2015-02-01,35,False,Trupanion
+2015-02-08,47,False,Trupanion
+2015-02-15,54,False,Trupanion
+2015-02-22,42,False,Trupanion
+2015-03-01,59,False,Trupanion
+2015-03-08,57,False,Trupanion
+2015-03-15,59,False,Trupanion
+2015-03-22,50,False,Trupanion
+2015-03-29,65,False,Trupanion
+2015-04-05,54,False,Trupanion
+2015-04-12,52,False,Trupanion
+2014-04-20,28,False,TubeMogul
+2014-04-27,20,False,TubeMogul
+2014-05-04,28,False,TubeMogul
+2014-05-11,21,False,TubeMogul
+2014-05-18,22,False,TubeMogul
+2014-05-25,29,False,TubeMogul
+2014-06-01,26,False,TubeMogul
+2014-06-08,30,False,TubeMogul
+2014-06-15,30,False,TubeMogul
+2014-06-22,22,False,TubeMogul
+2014-06-29,21,False,TubeMogul
+2014-07-06,48,False,TubeMogul
+2014-07-13,100,False,TubeMogul
+2014-07-20,59,False,TubeMogul
+2014-07-27,37,False,TubeMogul
+2014-08-03,38,False,TubeMogul
+2014-08-10,31,False,TubeMogul
+2014-08-17,28,False,TubeMogul
+2014-08-24,50,False,TubeMogul
+2014-08-31,36,False,TubeMogul
+2014-09-07,31,False,TubeMogul
+2014-09-14,28,False,TubeMogul
+2014-09-21,28,False,TubeMogul
+2014-09-28,35,False,TubeMogul
+2014-10-05,45,False,TubeMogul
+2014-10-12,22,False,TubeMogul
+2014-10-19,44,False,TubeMogul
+2014-10-26,28,False,TubeMogul
+2014-11-02,36,False,TubeMogul
+2014-11-09,49,False,TubeMogul
+2014-11-16,37,False,TubeMogul
+2014-11-23,18,False,TubeMogul
+2014-11-30,36,False,TubeMogul
+2014-12-07,32,False,TubeMogul
+2014-12-14,34,False,TubeMogul
+2014-12-21,14,False,TubeMogul
+2014-12-28,25,False,TubeMogul
+2015-01-04,26,False,TubeMogul
+2015-01-11,35,False,TubeMogul
+2015-01-18,34,False,TubeMogul
+2015-01-25,37,False,TubeMogul
+2015-02-01,29,False,TubeMogul
+2015-02-08,39,False,TubeMogul
+2015-02-15,27,False,TubeMogul
+2015-02-22,45,False,TubeMogul
+2015-03-01,31,False,TubeMogul
+2015-03-08,29,False,TubeMogul
+2015-03-15,32,False,TubeMogul
+2015-03-22,31,False,TubeMogul
+2015-03-29,27,False,TubeMogul
+2015-04-05,36,False,TubeMogul
+2015-04-12,29,False,TubeMogul
+2014-04-27,91,False,Medical Transcription Billing
+2014-05-04,22,False,Medical Transcription Billing
+2014-05-11,44,False,Medical Transcription Billing
+2014-05-18,35,False,Medical Transcription Billing
+2014-05-25,12,False,Medical Transcription Billing
+2014-06-01,12,False,Medical Transcription Billing
+2014-06-08,50,False,Medical Transcription Billing
+2014-06-15,38,False,Medical Transcription Billing
+2014-06-22,63,False,Medical Transcription Billing
+2014-06-29,63,False,Medical Transcription Billing
+2014-07-06,100,False,Medical Transcription Billing
+2014-07-13,50,False,Medical Transcription Billing
+2014-07-20,38,False,Medical Transcription Billing
+2014-07-27,63,False,Medical Transcription Billing
+2014-08-03,78,False,Medical Transcription Billing
+2014-08-10,62,False,Medical Transcription Billing
+2014-08-17,49,False,Medical Transcription Billing
+2014-08-24,24,False,Medical Transcription Billing
+2014-08-31,47,False,Medical Transcription Billing
+2014-09-07,23,False,Medical Transcription Billing
+2014-09-14,59,False,Medical Transcription Billing
+2014-09-21,23,False,Medical Transcription Billing
+2014-09-28,12,False,Medical Transcription Billing
+2014-10-05,23,False,Medical Transcription Billing
+2014-10-12,23,False,Medical Transcription Billing
+2014-10-19,46,False,Medical Transcription Billing
+2014-10-26,34,False,Medical Transcription Billing
+2014-11-02,33,False,Medical Transcription Billing
+2014-11-09,45,False,Medical Transcription Billing
+2014-11-16,23,False,Medical Transcription Billing
+2014-11-23,0,False,Medical Transcription Billing
+2014-11-30,44,False,Medical Transcription Billing
+2014-12-07,34,False,Medical Transcription Billing
+2014-12-14,35,False,Medical Transcription Billing
+2014-12-21,38,False,Medical Transcription Billing
+2014-12-28,49,False,Medical Transcription Billing
+2015-01-04,54,False,Medical Transcription Billing
+2015-01-11,32,False,Medical Transcription Billing
+2015-01-18,42,False,Medical Transcription Billing
+2015-01-25,64,False,Medical Transcription Billing
+2015-02-01,32,False,Medical Transcription Billing
+2015-02-08,32,False,Medical Transcription Billing
+2015-02-15,77,False,Medical Transcription Billing
+2015-02-22,52,False,Medical Transcription Billing
+2015-03-01,31,False,Medical Transcription Billing
+2015-03-08,42,False,Medical Transcription Billing
+2015-03-15,85,False,Medical Transcription Billing
+2015-03-22,46,False,Medical Transcription Billing
+2015-03-29,44,False,Medical Transcription Billing
+2015-04-05,32,False,Medical Transcription Billing
+2015-04-12,21,False,Medical Transcription Billing
+2015-04-19,21,False,Medical Transcription Billing
+2014-04-27,17,False,Immune Design
+2014-05-04,16,False,Immune Design
+2014-05-11,11,False,Immune Design
+2014-05-18,35,False,Immune Design
+2014-05-25,49,False,Immune Design
+2014-06-01,18,False,Immune Design
+2014-06-08,0,False,Immune Design
+2014-06-15,31,False,Immune Design
+2014-06-22,56,False,Immune Design
+2014-06-29,25,False,Immune Design
+2014-07-06,49,False,Immune Design
+2014-07-13,31,False,Immune Design
+2014-07-20,100,False,Immune Design
+2014-07-27,56,False,Immune Design
+2014-08-03,26,False,Immune Design
+2014-08-10,61,False,Immune Design
+2014-08-17,48,False,Immune Design
+2014-08-24,24,False,Immune Design
+2014-08-31,17,False,Immune Design
+2014-09-07,40,False,Immune Design
+2014-09-14,47,False,Immune Design
+2014-09-21,23,False,Immune Design
+2014-09-28,40,False,Immune Design
+2014-10-05,28,False,Immune Design
+2014-10-12,17,False,Immune Design
+2014-10-19,39,False,Immune Design
+2014-10-26,34,False,Immune Design
+2014-11-02,38,False,Immune Design
+2014-11-09,27,False,Immune Design
+2014-11-16,39,False,Immune Design
+2014-11-23,22,False,Immune Design
+2014-11-30,22,False,Immune Design
+2014-12-07,33,False,Immune Design
+2014-12-14,40,False,Immune Design
+2014-12-21,25,False,Immune Design
+2014-12-28,0,False,Immune Design
+2015-01-04,27,False,Immune Design
+2015-01-11,31,False,Immune Design
+2015-01-18,26,False,Immune Design
+2015-01-25,42,False,Immune Design
+2015-02-01,16,False,Immune Design
+2015-02-08,26,False,Immune Design
+2015-02-15,38,False,Immune Design
+2015-02-22,5,False,Immune Design
+2015-03-01,15,False,Immune Design
+2015-03-08,31,False,Immune Design
+2015-03-15,10,False,Immune Design
+2015-03-22,45,False,Immune Design
+2015-03-29,48,False,Immune Design
+2015-04-05,32,False,Immune Design
+2015-04-12,36,False,Immune Design
+2015-04-19,31,False,Immune Design
+2014-04-27,36,False,Intersect ENT
+2014-05-04,26,False,Intersect ENT
+2014-05-11,35,False,Intersect ENT
+2014-05-18,18,False,Intersect ENT
+2014-05-25,10,False,Intersect ENT
+2014-06-01,10,False,Intersect ENT
+2014-06-08,39,False,Intersect ENT
+2014-06-15,10,False,Intersect ENT
+2014-06-22,69,False,Intersect ENT
+2014-06-29,60,False,Intersect ENT
+2014-07-06,39,False,Intersect ENT
+2014-07-13,59,False,Intersect ENT
+2014-07-20,100,False,Intersect ENT
+2014-07-27,69,False,Intersect ENT
+2014-08-03,10,False,Intersect ENT
+2014-08-10,39,False,Intersect ENT
+2014-08-17,19,False,Intersect ENT
+2014-08-24,19,False,Intersect ENT
+2014-08-31,28,False,Intersect ENT
+2014-09-07,37,False,Intersect ENT
+2014-09-14,65,False,Intersect ENT
+2014-09-21,46,False,Intersect ENT
+2014-09-28,18,False,Intersect ENT
+2014-10-05,18,False,Intersect ENT
+2014-10-12,36,False,Intersect ENT
+2014-10-19,18,False,Intersect ENT
+2014-10-26,45,False,Intersect ENT
+2014-11-02,26,False,Intersect ENT
+2014-11-09,35,False,Intersect ENT
+2014-11-16,27,False,Intersect ENT
+2014-11-23,27,False,Intersect ENT
+2014-11-30,43,False,Intersect ENT
+2014-12-07,27,False,Intersect ENT
+2014-12-14,18,False,Intersect ENT
+2014-12-21,10,False,Intersect ENT
+2014-12-28,19,False,Intersect ENT
+2015-01-04,34,False,Intersect ENT
+2015-01-11,42,False,Intersect ENT
+2015-01-18,8,False,Intersect ENT
+2015-01-25,17,False,Intersect ENT
+2015-02-01,33,False,Intersect ENT
+2015-02-08,67,False,Intersect ENT
+2015-02-15,9,False,Intersect ENT
+2015-02-22,33,False,Intersect ENT
+2015-03-01,49,False,Intersect ENT
+2015-03-08,8,False,Intersect ENT
+2015-03-15,33,False,Intersect ENT
+2015-03-22,0,False,Intersect ENT
+2015-03-29,0,False,Intersect ENT
+2015-04-05,26,False,Intersect ENT
+2015-04-12,41,False,Intersect ENT
+2015-04-19,17,False,Intersect ENT

@@ -1,0 +1,261 @@
+date,SVI,isPartial,Issuer
+2019-04-28,11,False,Castle Biosciences
+2019-05-05,23,False,Castle Biosciences
+2019-05-12,6,False,Castle Biosciences
+2019-05-19,6,False,Castle Biosciences
+2019-05-26,0,False,Castle Biosciences
+2019-06-02,22,False,Castle Biosciences
+2019-06-09,6,False,Castle Biosciences
+2019-06-16,0,False,Castle Biosciences
+2019-06-23,11,False,Castle Biosciences
+2019-06-30,29,False,Castle Biosciences
+2019-07-07,17,False,Castle Biosciences
+2019-07-14,12,False,Castle Biosciences
+2019-07-21,100,False,Castle Biosciences
+2019-07-28,24,False,Castle Biosciences
+2019-08-04,47,False,Castle Biosciences
+2019-08-11,29,False,Castle Biosciences
+2019-08-18,23,False,Castle Biosciences
+2019-08-25,33,False,Castle Biosciences
+2019-09-01,28,False,Castle Biosciences
+2019-09-08,27,False,Castle Biosciences
+2019-09-15,5,False,Castle Biosciences
+2019-09-22,16,False,Castle Biosciences
+2019-09-29,16,False,Castle Biosciences
+2019-10-06,22,False,Castle Biosciences
+2019-10-13,11,False,Castle Biosciences
+2019-10-20,21,False,Castle Biosciences
+2019-10-27,27,False,Castle Biosciences
+2019-11-03,37,False,Castle Biosciences
+2019-11-10,26,False,Castle Biosciences
+2019-11-17,16,False,Castle Biosciences
+2019-11-24,10,False,Castle Biosciences
+2019-12-01,42,False,Castle Biosciences
+2019-12-08,5,False,Castle Biosciences
+2019-12-15,16,False,Castle Biosciences
+2019-12-22,17,False,Castle Biosciences
+2019-12-29,6,False,Castle Biosciences
+2020-01-05,21,False,Castle Biosciences
+2020-01-12,35,False,Castle Biosciences
+2020-01-19,25,False,Castle Biosciences
+2020-01-26,20,False,Castle Biosciences
+2020-02-02,51,False,Castle Biosciences
+2020-02-09,10,False,Castle Biosciences
+2020-02-16,15,False,Castle Biosciences
+2020-02-23,25,False,Castle Biosciences
+2020-03-01,24,False,Castle Biosciences
+2020-03-08,24,False,Castle Biosciences
+2020-03-15,24,False,Castle Biosciences
+2020-03-22,18,False,Castle Biosciences
+2020-03-29,5,False,Castle Biosciences
+2020-04-05,24,False,Castle Biosciences
+2020-04-12,9,False,Castle Biosciences
+2020-04-19,14,False,Castle Biosciences
+2019-04-28,0,False,Fellazo
+2019-05-05,0,False,Fellazo
+2019-05-12,0,False,Fellazo
+2019-05-19,83,False,Fellazo
+2019-05-26,0,False,Fellazo
+2019-06-02,0,False,Fellazo
+2019-06-09,16,False,Fellazo
+2019-06-16,0,False,Fellazo
+2019-06-23,17,False,Fellazo
+2019-06-30,100,False,Fellazo
+2019-07-07,50,False,Fellazo
+2019-07-14,17,False,Fellazo
+2019-07-21,51,False,Fellazo
+2019-07-28,17,False,Fellazo
+2019-08-04,34,False,Fellazo
+2019-08-11,34,False,Fellazo
+2019-08-18,49,False,Fellazo
+2019-08-25,16,False,Fellazo
+2019-09-01,16,False,Fellazo
+2019-09-08,16,False,Fellazo
+2019-09-15,16,False,Fellazo
+2019-09-22,0,False,Fellazo
+2019-09-29,0,False,Fellazo
+2019-10-06,16,False,Fellazo
+2019-10-13,31,False,Fellazo
+2019-10-20,0,False,Fellazo
+2019-10-27,0,False,Fellazo
+2019-11-03,46,False,Fellazo
+2019-11-10,0,False,Fellazo
+2019-11-17,0,False,Fellazo
+2019-11-24,15,False,Fellazo
+2019-12-01,15,False,Fellazo
+2019-12-08,0,False,Fellazo
+2019-12-15,32,False,Fellazo
+2019-12-22,17,False,Fellazo
+2019-12-29,0,False,Fellazo
+2020-01-05,15,False,Fellazo
+2020-01-12,29,False,Fellazo
+2020-01-19,15,False,Fellazo
+2020-01-26,0,False,Fellazo
+2020-02-02,15,False,Fellazo
+2020-02-09,29,False,Fellazo
+2020-02-16,29,False,Fellazo
+2020-02-23,14,False,Fellazo
+2020-03-01,14,False,Fellazo
+2020-03-08,0,False,Fellazo
+2020-03-15,28,False,Fellazo
+2020-03-22,27,False,Fellazo
+2020-03-29,40,False,Fellazo
+2020-04-05,28,False,Fellazo
+2020-04-12,0,False,Fellazo
+2020-04-19,13,False,Fellazo
+2019-04-28,29,False,Health Catalyst
+2019-05-05,37,False,Health Catalyst
+2019-05-12,29,False,Health Catalyst
+2019-05-19,39,False,Health Catalyst
+2019-05-26,37,False,Health Catalyst
+2019-06-02,34,False,Health Catalyst
+2019-06-09,41,False,Health Catalyst
+2019-06-16,38,False,Health Catalyst
+2019-06-23,46,False,Health Catalyst
+2019-06-30,37,False,Health Catalyst
+2019-07-07,40,False,Health Catalyst
+2019-07-14,40,False,Health Catalyst
+2019-07-21,100,False,Health Catalyst
+2019-07-28,78,False,Health Catalyst
+2019-08-04,64,False,Health Catalyst
+2019-08-11,47,False,Health Catalyst
+2019-08-18,62,False,Health Catalyst
+2019-08-25,41,False,Health Catalyst
+2019-09-01,29,False,Health Catalyst
+2019-09-08,40,False,Health Catalyst
+2019-09-15,39,False,Health Catalyst
+2019-09-22,42,False,Health Catalyst
+2019-09-29,46,False,Health Catalyst
+2019-10-06,42,False,Health Catalyst
+2019-10-13,32,False,Health Catalyst
+2019-10-20,25,False,Health Catalyst
+2019-10-27,38,False,Health Catalyst
+2019-11-03,39,False,Health Catalyst
+2019-11-10,35,False,Health Catalyst
+2019-11-17,36,False,Health Catalyst
+2019-11-24,21,False,Health Catalyst
+2019-12-01,53,False,Health Catalyst
+2019-12-08,27,False,Health Catalyst
+2019-12-15,32,False,Health Catalyst
+2019-12-22,16,False,Health Catalyst
+2019-12-29,23,False,Health Catalyst
+2020-01-05,39,False,Health Catalyst
+2020-01-12,34,False,Health Catalyst
+2020-01-19,26,False,Health Catalyst
+2020-01-26,34,False,Health Catalyst
+2020-02-02,32,False,Health Catalyst
+2020-02-09,50,False,Health Catalyst
+2020-02-16,37,False,Health Catalyst
+2020-02-23,37,False,Health Catalyst
+2020-03-01,38,False,Health Catalyst
+2020-03-08,43,False,Health Catalyst
+2020-03-15,31,False,Health Catalyst
+2020-03-22,37,False,Health Catalyst
+2020-03-29,16,False,Health Catalyst
+2020-04-05,36,False,Health Catalyst
+2020-04-12,30,False,Health Catalyst
+2020-04-19,32,False,Health Catalyst
+2019-04-28,11,False,Livongo Health
+2019-05-05,4,False,Livongo Health
+2019-05-12,6,False,Livongo Health
+2019-05-19,7,False,Livongo Health
+2019-05-26,6,False,Livongo Health
+2019-06-02,11,False,Livongo Health
+2019-06-09,7,False,Livongo Health
+2019-06-16,11,False,Livongo Health
+2019-06-23,21,False,Livongo Health
+2019-06-30,19,False,Livongo Health
+2019-07-07,19,False,Livongo Health
+2019-07-14,32,False,Livongo Health
+2019-07-21,100,False,Livongo Health
+2019-07-28,39,False,Livongo Health
+2019-08-04,23,False,Livongo Health
+2019-08-11,36,False,Livongo Health
+2019-08-18,15,False,Livongo Health
+2019-08-25,11,False,Livongo Health
+2019-09-01,33,False,Livongo Health
+2019-09-08,16,False,Livongo Health
+2019-09-15,18,False,Livongo Health
+2019-09-22,21,False,Livongo Health
+2019-09-29,21,False,Livongo Health
+2019-10-06,28,False,Livongo Health
+2019-10-13,21,False,Livongo Health
+2019-10-20,21,False,Livongo Health
+2019-10-27,19,False,Livongo Health
+2019-11-03,21,False,Livongo Health
+2019-11-10,19,False,Livongo Health
+2019-11-17,5,False,Livongo Health
+2019-11-24,9,False,Livongo Health
+2019-12-01,21,False,Livongo Health
+2019-12-08,12,False,Livongo Health
+2019-12-15,12,False,Livongo Health
+2019-12-22,13,False,Livongo Health
+2019-12-29,17,False,Livongo Health
+2020-01-05,19,False,Livongo Health
+2020-01-12,34,False,Livongo Health
+2020-01-19,13,False,Livongo Health
+2020-01-26,20,False,Livongo Health
+2020-02-02,25,False,Livongo Health
+2020-02-09,20,False,Livongo Health
+2020-02-16,12,False,Livongo Health
+2020-02-23,11,False,Livongo Health
+2020-03-01,29,False,Livongo Health
+2020-03-08,14,False,Livongo Health
+2020-03-15,9,False,Livongo Health
+2020-03-22,20,False,Livongo Health
+2020-03-29,63,False,Livongo Health
+2020-04-05,39,False,Livongo Health
+2020-04-12,49,False,Livongo Health
+2020-04-19,40,False,Livongo Health
+2019-04-28,0,False,ProSight Global
+2019-05-05,0,False,ProSight Global
+2019-05-12,0,False,ProSight Global
+2019-05-19,0,False,ProSight Global
+2019-05-26,0,False,ProSight Global
+2019-06-02,0,False,ProSight Global
+2019-06-09,0,False,ProSight Global
+2019-06-16,0,False,ProSight Global
+2019-06-23,8,False,ProSight Global
+2019-06-30,8,False,ProSight Global
+2019-07-07,0,False,ProSight Global
+2019-07-14,8,False,ProSight Global
+2019-07-21,100,False,ProSight Global
+2019-07-28,25,False,ProSight Global
+2019-08-04,17,False,ProSight Global
+2019-08-11,8,False,ProSight Global
+2019-08-18,8,False,ProSight Global
+2019-08-25,0,False,ProSight Global
+2019-09-01,16,False,ProSight Global
+2019-09-08,0,False,ProSight Global
+2019-09-15,0,False,ProSight Global
+2019-09-22,0,False,ProSight Global
+2019-09-29,0,False,ProSight Global
+2019-10-06,0,False,ProSight Global
+2019-10-13,0,False,ProSight Global
+2019-10-20,7,False,ProSight Global
+2019-10-27,15,False,ProSight Global
+2019-11-03,7,False,ProSight Global
+2019-11-10,0,False,ProSight Global
+2019-11-17,0,False,ProSight Global
+2019-11-24,0,False,ProSight Global
+2019-12-01,15,False,ProSight Global
+2019-12-08,0,False,ProSight Global
+2019-12-15,15,False,ProSight Global
+2019-12-22,0,False,ProSight Global
+2019-12-29,0,False,ProSight Global
+2020-01-05,0,False,ProSight Global
+2020-01-12,0,False,ProSight Global
+2020-01-19,0,False,ProSight Global
+2020-01-26,0,False,ProSight Global
+2020-02-02,0,False,ProSight Global
+2020-02-09,14,False,ProSight Global
+2020-02-16,7,False,ProSight Global
+2020-02-23,7,False,ProSight Global
+2020-03-01,0,False,ProSight Global
+2020-03-08,0,False,ProSight Global
+2020-03-15,0,False,ProSight Global
+2020-03-22,7,False,ProSight Global
+2020-03-29,13,False,ProSight Global
+2020-04-05,0,False,ProSight Global
+2020-04-12,6,False,ProSight Global
+2020-04-19,0,False,ProSight Global

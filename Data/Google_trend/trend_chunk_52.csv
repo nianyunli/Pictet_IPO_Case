@@ -1,0 +1,264 @@
+date,SVI,isPartial,Issuer
+2019-02-03,0,False,Red River Bancshares
+2019-02-10,0,False,Red River Bancshares
+2019-02-17,0,False,Red River Bancshares
+2019-02-24,0,False,Red River Bancshares
+2019-03-03,0,False,Red River Bancshares
+2019-03-10,0,False,Red River Bancshares
+2019-03-17,0,False,Red River Bancshares
+2019-03-24,0,False,Red River Bancshares
+2019-03-31,0,False,Red River Bancshares
+2019-04-07,0,False,Red River Bancshares
+2019-04-14,0,False,Red River Bancshares
+2019-04-21,17,False,Red River Bancshares
+2019-04-28,100,False,Red River Bancshares
+2019-05-05,17,False,Red River Bancshares
+2019-05-12,17,False,Red River Bancshares
+2019-05-19,0,False,Red River Bancshares
+2019-05-26,0,False,Red River Bancshares
+2019-06-02,0,False,Red River Bancshares
+2019-06-09,0,False,Red River Bancshares
+2019-06-16,0,False,Red River Bancshares
+2019-06-23,0,False,Red River Bancshares
+2019-06-30,17,False,Red River Bancshares
+2019-07-07,0,False,Red River Bancshares
+2019-07-14,0,False,Red River Bancshares
+2019-07-21,0,False,Red River Bancshares
+2019-07-28,0,False,Red River Bancshares
+2019-08-04,0,False,Red River Bancshares
+2019-08-11,0,False,Red River Bancshares
+2019-08-18,0,False,Red River Bancshares
+2019-08-25,0,False,Red River Bancshares
+2019-09-01,0,False,Red River Bancshares
+2019-09-08,0,False,Red River Bancshares
+2019-09-15,0,False,Red River Bancshares
+2019-09-22,0,False,Red River Bancshares
+2019-09-29,0,False,Red River Bancshares
+2019-10-06,0,False,Red River Bancshares
+2019-10-13,0,False,Red River Bancshares
+2019-10-20,15,False,Red River Bancshares
+2019-10-27,0,False,Red River Bancshares
+2019-11-03,0,False,Red River Bancshares
+2019-11-10,46,False,Red River Bancshares
+2019-11-17,47,False,Red River Bancshares
+2019-11-24,0,False,Red River Bancshares
+2019-12-01,15,False,Red River Bancshares
+2019-12-08,16,False,Red River Bancshares
+2019-12-15,0,False,Red River Bancshares
+2019-12-22,0,False,Red River Bancshares
+2019-12-29,0,False,Red River Bancshares
+2020-01-05,15,False,Red River Bancshares
+2020-01-12,0,False,Red River Bancshares
+2020-01-19,0,False,Red River Bancshares
+2020-01-26,30,False,Red River Bancshares
+2020-02-02,0,False,Red River Bancshares
+2019-02-03,0,False,SciPlay
+2019-02-10,0,False,SciPlay
+2019-02-17,0,False,SciPlay
+2019-02-24,0,False,SciPlay
+2019-03-03,0,False,SciPlay
+2019-03-10,5,False,SciPlay
+2019-03-17,3,False,SciPlay
+2019-03-24,0,False,SciPlay
+2019-03-31,5,False,SciPlay
+2019-04-07,16,False,SciPlay
+2019-04-14,8,False,SciPlay
+2019-04-21,43,False,SciPlay
+2019-04-28,100,False,SciPlay
+2019-05-05,50,False,SciPlay
+2019-05-12,18,False,SciPlay
+2019-05-19,8,False,SciPlay
+2019-05-26,8,False,SciPlay
+2019-06-02,26,False,SciPlay
+2019-06-09,26,False,SciPlay
+2019-06-16,16,False,SciPlay
+2019-06-23,16,False,SciPlay
+2019-06-30,18,False,SciPlay
+2019-07-07,26,False,SciPlay
+2019-07-14,13,False,SciPlay
+2019-07-21,24,False,SciPlay
+2019-07-28,43,False,SciPlay
+2019-08-04,27,False,SciPlay
+2019-08-11,21,False,SciPlay
+2019-08-18,23,False,SciPlay
+2019-08-25,18,False,SciPlay
+2019-09-01,18,False,SciPlay
+2019-09-08,15,False,SciPlay
+2019-09-15,53,False,SciPlay
+2019-09-22,17,False,SciPlay
+2019-09-29,22,False,SciPlay
+2019-10-06,17,False,SciPlay
+2019-10-13,30,False,SciPlay
+2019-10-20,34,False,SciPlay
+2019-10-27,46,False,SciPlay
+2019-11-03,34,False,SciPlay
+2019-11-10,34,False,SciPlay
+2019-11-17,15,False,SciPlay
+2019-11-24,14,False,SciPlay
+2019-12-01,34,False,SciPlay
+2019-12-08,10,False,SciPlay
+2019-12-15,33,False,SciPlay
+2019-12-22,5,False,SciPlay
+2019-12-29,16,False,SciPlay
+2020-01-05,17,False,SciPlay
+2020-01-12,21,False,SciPlay
+2020-01-19,35,False,SciPlay
+2020-01-26,33,False,SciPlay
+2020-02-02,28,False,SciPlay
+2019-02-03,5,False,Yunji
+2019-02-10,10,False,Yunji
+2019-02-17,2,False,Yunji
+2019-02-24,19,False,Yunji
+2019-03-03,0,False,Yunji
+2019-03-10,17,False,Yunji
+2019-03-17,23,False,Yunji
+2019-03-24,25,False,Yunji
+2019-03-31,15,False,Yunji
+2019-04-07,15,False,Yunji
+2019-04-14,26,False,Yunji
+2019-04-21,66,False,Yunji
+2019-04-28,100,False,Yunji
+2019-05-05,37,False,Yunji
+2019-05-12,33,False,Yunji
+2019-05-19,20,False,Yunji
+2019-05-26,13,False,Yunji
+2019-06-02,20,False,Yunji
+2019-06-09,15,False,Yunji
+2019-06-16,7,False,Yunji
+2019-06-23,22,False,Yunji
+2019-06-30,18,False,Yunji
+2019-07-07,10,False,Yunji
+2019-07-14,13,False,Yunji
+2019-07-21,26,False,Yunji
+2019-07-28,13,False,Yunji
+2019-08-04,21,False,Yunji
+2019-08-11,28,False,Yunji
+2019-08-18,12,False,Yunji
+2019-08-25,27,False,Yunji
+2019-09-01,17,False,Yunji
+2019-09-08,14,False,Yunji
+2019-09-15,29,False,Yunji
+2019-09-22,21,False,Yunji
+2019-09-29,19,False,Yunji
+2019-10-06,21,False,Yunji
+2019-10-13,9,False,Yunji
+2019-10-20,30,False,Yunji
+2019-10-27,21,False,Yunji
+2019-11-03,14,False,Yunji
+2019-11-10,16,False,Yunji
+2019-11-17,12,False,Yunji
+2019-11-24,18,False,Yunji
+2019-12-01,28,False,Yunji
+2019-12-08,19,False,Yunji
+2019-12-15,14,False,Yunji
+2019-12-22,20,False,Yunji
+2019-12-29,10,False,Yunji
+2020-01-05,23,False,Yunji
+2020-01-12,26,False,Yunji
+2020-01-19,11,False,Yunji
+2020-01-26,25,False,Yunji
+2020-02-02,16,False,Yunji
+2019-02-10,0,False,Landcadia Holdings II
+2019-02-17,0,False,Landcadia Holdings II
+2019-02-24,0,False,Landcadia Holdings II
+2019-03-03,0,False,Landcadia Holdings II
+2019-03-10,0,False,Landcadia Holdings II
+2019-03-17,0,False,Landcadia Holdings II
+2019-03-24,0,False,Landcadia Holdings II
+2019-03-31,0,False,Landcadia Holdings II
+2019-04-07,0,False,Landcadia Holdings II
+2019-04-14,0,False,Landcadia Holdings II
+2019-04-21,0,False,Landcadia Holdings II
+2019-04-28,0,False,Landcadia Holdings II
+2019-05-05,100,False,Landcadia Holdings II
+2019-05-12,0,False,Landcadia Holdings II
+2019-05-19,0,False,Landcadia Holdings II
+2019-05-26,0,False,Landcadia Holdings II
+2019-06-02,16,False,Landcadia Holdings II
+2019-06-09,0,False,Landcadia Holdings II
+2019-06-16,0,False,Landcadia Holdings II
+2019-06-23,0,False,Landcadia Holdings II
+2019-06-30,0,False,Landcadia Holdings II
+2019-07-07,0,False,Landcadia Holdings II
+2019-07-14,0,False,Landcadia Holdings II
+2019-07-21,0,False,Landcadia Holdings II
+2019-07-28,0,False,Landcadia Holdings II
+2019-08-04,0,False,Landcadia Holdings II
+2019-08-11,0,False,Landcadia Holdings II
+2019-08-18,0,False,Landcadia Holdings II
+2019-08-25,16,False,Landcadia Holdings II
+2019-09-01,0,False,Landcadia Holdings II
+2019-09-08,0,False,Landcadia Holdings II
+2019-09-15,0,False,Landcadia Holdings II
+2019-09-22,0,False,Landcadia Holdings II
+2019-09-29,16,False,Landcadia Holdings II
+2019-10-06,0,False,Landcadia Holdings II
+2019-10-13,0,False,Landcadia Holdings II
+2019-10-20,0,False,Landcadia Holdings II
+2019-10-27,0,False,Landcadia Holdings II
+2019-11-03,15,False,Landcadia Holdings II
+2019-11-10,15,False,Landcadia Holdings II
+2019-11-17,0,False,Landcadia Holdings II
+2019-11-24,0,False,Landcadia Holdings II
+2019-12-01,0,False,Landcadia Holdings II
+2019-12-08,0,False,Landcadia Holdings II
+2019-12-15,0,False,Landcadia Holdings II
+2019-12-22,0,False,Landcadia Holdings II
+2019-12-29,0,False,Landcadia Holdings II
+2020-01-05,0,False,Landcadia Holdings II
+2020-01-12,0,False,Landcadia Holdings II
+2020-01-19,0,False,Landcadia Holdings II
+2020-01-26,0,False,Landcadia Holdings II
+2020-02-02,0,False,Landcadia Holdings II
+2019-02-10,12,False,Trevi Therapeutics
+2019-02-17,12,False,Trevi Therapeutics
+2019-02-24,24,False,Trevi Therapeutics
+2019-03-03,0,False,Trevi Therapeutics
+2019-03-10,0,False,Trevi Therapeutics
+2019-03-17,12,False,Trevi Therapeutics
+2019-03-24,0,False,Trevi Therapeutics
+2019-03-31,12,False,Trevi Therapeutics
+2019-04-07,49,False,Trevi Therapeutics
+2019-04-14,25,False,Trevi Therapeutics
+2019-04-21,100,False,Trevi Therapeutics
+2019-04-28,49,False,Trevi Therapeutics
+2019-05-05,61,False,Trevi Therapeutics
+2019-05-12,12,False,Trevi Therapeutics
+2019-05-19,0,False,Trevi Therapeutics
+2019-05-26,0,False,Trevi Therapeutics
+2019-06-02,12,False,Trevi Therapeutics
+2019-06-09,24,False,Trevi Therapeutics
+2019-06-16,24,False,Trevi Therapeutics
+2019-06-23,0,False,Trevi Therapeutics
+2019-06-30,0,False,Trevi Therapeutics
+2019-07-07,0,False,Trevi Therapeutics
+2019-07-14,25,False,Trevi Therapeutics
+2019-07-21,0,False,Trevi Therapeutics
+2019-07-28,0,False,Trevi Therapeutics
+2019-08-04,0,False,Trevi Therapeutics
+2019-08-11,0,False,Trevi Therapeutics
+2019-08-18,0,False,Trevi Therapeutics
+2019-08-25,0,False,Trevi Therapeutics
+2019-09-01,12,False,Trevi Therapeutics
+2019-09-08,23,False,Trevi Therapeutics
+2019-09-15,12,False,Trevi Therapeutics
+2019-09-22,11,False,Trevi Therapeutics
+2019-09-29,0,False,Trevi Therapeutics
+2019-10-06,0,False,Trevi Therapeutics
+2019-10-13,23,False,Trevi Therapeutics
+2019-10-20,0,False,Trevi Therapeutics
+2019-10-27,0,False,Trevi Therapeutics
+2019-11-03,0,False,Trevi Therapeutics
+2019-11-10,11,False,Trevi Therapeutics
+2019-11-17,69,False,Trevi Therapeutics
+2019-11-24,0,False,Trevi Therapeutics
+2019-12-01,0,False,Trevi Therapeutics
+2019-12-08,0,False,Trevi Therapeutics
+2019-12-15,12,False,Trevi Therapeutics
+2019-12-22,0,False,Trevi Therapeutics
+2019-12-29,0,False,Trevi Therapeutics
+2020-01-05,45,False,Trevi Therapeutics
+2020-01-12,0,False,Trevi Therapeutics
+2020-01-19,0,False,Trevi Therapeutics
+2020-01-26,11,False,Trevi Therapeutics
+2020-02-02,22,False,Trevi Therapeutics

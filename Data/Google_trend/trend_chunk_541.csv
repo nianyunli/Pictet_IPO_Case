@@ -1,0 +1,157 @@
+date,SVI,isPartial,Issuer
+2004-12-19,0,False,BofI Holding
+2004-12-26,0,False,BofI Holding
+2005-01-02,0,False,BofI Holding
+2005-01-09,0,False,BofI Holding
+2005-01-16,0,False,BofI Holding
+2005-01-23,0,False,BofI Holding
+2005-01-30,0,False,BofI Holding
+2005-02-06,0,False,BofI Holding
+2005-02-13,0,False,BofI Holding
+2005-02-20,0,False,BofI Holding
+2005-02-27,0,False,BofI Holding
+2005-03-06,100,False,BofI Holding
+2005-03-13,0,False,BofI Holding
+2005-03-20,0,False,BofI Holding
+2005-03-27,49,False,BofI Holding
+2005-04-03,0,False,BofI Holding
+2005-04-10,0,False,BofI Holding
+2005-04-17,0,False,BofI Holding
+2005-04-24,0,False,BofI Holding
+2005-05-01,0,False,BofI Holding
+2005-05-08,0,False,BofI Holding
+2005-05-15,0,False,BofI Holding
+2005-05-22,0,False,BofI Holding
+2005-05-29,0,False,BofI Holding
+2005-06-05,0,False,BofI Holding
+2005-06-12,0,False,BofI Holding
+2005-06-19,0,False,BofI Holding
+2005-06-26,0,False,BofI Holding
+2005-07-03,0,False,BofI Holding
+2005-07-10,0,False,BofI Holding
+2005-07-17,0,False,BofI Holding
+2005-07-24,0,False,BofI Holding
+2005-07-31,0,False,BofI Holding
+2005-08-07,0,False,BofI Holding
+2005-08-14,0,False,BofI Holding
+2005-08-21,0,False,BofI Holding
+2005-08-28,0,False,BofI Holding
+2005-09-04,0,False,BofI Holding
+2005-09-11,0,False,BofI Holding
+2005-09-18,0,False,BofI Holding
+2005-09-25,0,False,BofI Holding
+2005-10-02,0,False,BofI Holding
+2005-10-09,0,False,BofI Holding
+2005-10-16,0,False,BofI Holding
+2005-10-23,0,False,BofI Holding
+2005-10-30,0,False,BofI Holding
+2005-11-06,0,False,BofI Holding
+2005-11-13,0,False,BofI Holding
+2005-11-20,0,False,BofI Holding
+2005-11-27,0,False,BofI Holding
+2005-12-04,0,False,BofI Holding
+2005-12-11,0,False,BofI Holding
+2004-12-19,0,False,Diana Shipping
+2004-12-26,0,False,Diana Shipping
+2005-01-02,0,False,Diana Shipping
+2005-01-09,22,False,Diana Shipping
+2005-01-16,0,False,Diana Shipping
+2005-01-23,0,False,Diana Shipping
+2005-01-30,0,False,Diana Shipping
+2005-02-06,0,False,Diana Shipping
+2005-02-13,0,False,Diana Shipping
+2005-02-20,0,False,Diana Shipping
+2005-02-27,42,False,Diana Shipping
+2005-03-06,20,False,Diana Shipping
+2005-03-13,100,False,Diana Shipping
+2005-03-20,22,False,Diana Shipping
+2005-03-27,19,False,Diana Shipping
+2005-04-03,0,False,Diana Shipping
+2005-04-10,0,False,Diana Shipping
+2005-04-17,40,False,Diana Shipping
+2005-04-24,0,False,Diana Shipping
+2005-05-01,0,False,Diana Shipping
+2005-05-08,57,False,Diana Shipping
+2005-05-15,19,False,Diana Shipping
+2005-05-22,0,False,Diana Shipping
+2005-05-29,0,False,Diana Shipping
+2005-06-05,0,False,Diana Shipping
+2005-06-12,19,False,Diana Shipping
+2005-06-19,0,False,Diana Shipping
+2005-06-26,0,False,Diana Shipping
+2005-07-03,0,False,Diana Shipping
+2005-07-10,0,False,Diana Shipping
+2005-07-17,0,False,Diana Shipping
+2005-07-24,0,False,Diana Shipping
+2005-07-31,79,False,Diana Shipping
+2005-08-07,0,False,Diana Shipping
+2005-08-14,0,False,Diana Shipping
+2005-08-21,22,False,Diana Shipping
+2005-08-28,0,False,Diana Shipping
+2005-09-04,36,False,Diana Shipping
+2005-09-11,34,False,Diana Shipping
+2005-09-18,34,False,Diana Shipping
+2005-09-25,0,False,Diana Shipping
+2005-10-02,33,False,Diana Shipping
+2005-10-09,0,False,Diana Shipping
+2005-10-16,32,False,Diana Shipping
+2005-10-23,0,False,Diana Shipping
+2005-10-30,33,False,Diana Shipping
+2005-11-06,0,False,Diana Shipping
+2005-11-13,31,False,Diana Shipping
+2005-11-20,48,False,Diana Shipping
+2005-11-27,44,False,Diana Shipping
+2005-12-04,60,False,Diana Shipping
+2005-12-11,30,False,Diana Shipping
+2005-01-02,100,False,Fastclick
+2005-01-09,52,False,Fastclick
+2005-01-16,69,False,Fastclick
+2005-01-23,51,False,Fastclick
+2005-01-30,45,False,Fastclick
+2005-02-06,52,False,Fastclick
+2005-02-13,39,False,Fastclick
+2005-02-20,59,False,Fastclick
+2005-02-27,45,False,Fastclick
+2005-03-06,68,False,Fastclick
+2005-03-13,37,False,Fastclick
+2005-03-20,64,False,Fastclick
+2005-03-27,92,False,Fastclick
+2005-04-03,62,False,Fastclick
+2005-04-10,63,False,Fastclick
+2005-04-17,37,False,Fastclick
+2005-04-24,62,False,Fastclick
+2005-05-01,59,False,Fastclick
+2005-05-08,35,False,Fastclick
+2005-05-15,50,False,Fastclick
+2005-05-22,47,False,Fastclick
+2005-05-29,16,False,Fastclick
+2005-06-05,20,False,Fastclick
+2005-06-12,20,False,Fastclick
+2005-06-19,47,False,Fastclick
+2005-06-26,36,False,Fastclick
+2005-07-03,32,False,Fastclick
+2005-07-10,42,False,Fastclick
+2005-07-17,51,False,Fastclick
+2005-07-24,62,False,Fastclick
+2005-07-31,47,False,Fastclick
+2005-08-07,61,False,Fastclick
+2005-08-14,61,False,Fastclick
+2005-08-21,46,False,Fastclick
+2005-08-28,33,False,Fastclick
+2005-09-04,23,False,Fastclick
+2005-09-11,31,False,Fastclick
+2005-09-18,27,False,Fastclick
+2005-09-25,74,False,Fastclick
+2005-10-02,61,False,Fastclick
+2005-10-09,64,False,Fastclick
+2005-10-16,76,False,Fastclick
+2005-10-23,51,False,Fastclick
+2005-10-30,35,False,Fastclick
+2005-11-06,53,False,Fastclick
+2005-11-13,53,False,Fastclick
+2005-11-20,55,False,Fastclick
+2005-11-27,47,False,Fastclick
+2005-12-04,47,False,Fastclick
+2005-12-11,48,False,Fastclick
+2005-12-18,22,False,Fastclick
+2005-12-25,35,False,Fastclick

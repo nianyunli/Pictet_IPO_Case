@@ -1,0 +1,261 @@
+date,SVI,isPartial,Issuer
+2005-04-03,0,False,Columbia Equity Trust
+2005-04-10,0,False,Columbia Equity Trust
+2005-04-17,50,False,Columbia Equity Trust
+2005-04-24,0,False,Columbia Equity Trust
+2005-05-01,0,False,Columbia Equity Trust
+2005-05-08,0,False,Columbia Equity Trust
+2005-05-15,0,False,Columbia Equity Trust
+2005-05-22,0,False,Columbia Equity Trust
+2005-05-29,0,False,Columbia Equity Trust
+2005-06-05,0,False,Columbia Equity Trust
+2005-06-12,49,False,Columbia Equity Trust
+2005-06-19,50,False,Columbia Equity Trust
+2005-06-26,100,False,Columbia Equity Trust
+2005-07-03,0,False,Columbia Equity Trust
+2005-07-10,0,False,Columbia Equity Trust
+2005-07-17,0,False,Columbia Equity Trust
+2005-07-24,50,False,Columbia Equity Trust
+2005-07-31,0,False,Columbia Equity Trust
+2005-08-07,0,False,Columbia Equity Trust
+2005-08-14,0,False,Columbia Equity Trust
+2005-08-21,0,False,Columbia Equity Trust
+2005-08-28,45,False,Columbia Equity Trust
+2005-09-04,0,False,Columbia Equity Trust
+2005-09-11,0,False,Columbia Equity Trust
+2005-09-18,0,False,Columbia Equity Trust
+2005-09-25,0,False,Columbia Equity Trust
+2005-10-02,0,False,Columbia Equity Trust
+2005-10-09,0,False,Columbia Equity Trust
+2005-10-16,0,False,Columbia Equity Trust
+2005-10-23,0,False,Columbia Equity Trust
+2005-10-30,0,False,Columbia Equity Trust
+2005-11-06,0,False,Columbia Equity Trust
+2005-11-13,0,False,Columbia Equity Trust
+2005-11-20,0,False,Columbia Equity Trust
+2005-11-27,74,False,Columbia Equity Trust
+2005-12-04,0,False,Columbia Equity Trust
+2005-12-11,38,False,Columbia Equity Trust
+2005-12-18,0,False,Columbia Equity Trust
+2005-12-25,0,False,Columbia Equity Trust
+2006-01-01,0,False,Columbia Equity Trust
+2006-01-08,0,False,Columbia Equity Trust
+2006-01-15,35,False,Columbia Equity Trust
+2006-01-22,0,False,Columbia Equity Trust
+2006-01-29,0,False,Columbia Equity Trust
+2006-02-05,0,False,Columbia Equity Trust
+2006-02-12,0,False,Columbia Equity Trust
+2006-02-19,0,False,Columbia Equity Trust
+2006-02-26,0,False,Columbia Equity Trust
+2006-03-05,32,False,Columbia Equity Trust
+2006-03-12,0,False,Columbia Equity Trust
+2006-03-19,0,False,Columbia Equity Trust
+2006-03-26,0,False,Columbia Equity Trust
+2005-04-03,0,False,HemoSense
+2005-04-10,15,False,HemoSense
+2005-04-17,15,False,HemoSense
+2005-04-24,14,False,HemoSense
+2005-05-01,0,False,HemoSense
+2005-05-08,0,False,HemoSense
+2005-05-15,0,False,HemoSense
+2005-05-22,15,False,HemoSense
+2005-05-29,0,False,HemoSense
+2005-06-05,14,False,HemoSense
+2005-06-12,100,False,HemoSense
+2005-06-19,15,False,HemoSense
+2005-06-26,15,False,HemoSense
+2005-07-03,15,False,HemoSense
+2005-07-10,29,False,HemoSense
+2005-07-17,0,False,HemoSense
+2005-07-24,0,False,HemoSense
+2005-07-31,15,False,HemoSense
+2005-08-07,29,False,HemoSense
+2005-08-14,43,False,HemoSense
+2005-08-21,16,False,HemoSense
+2005-08-28,13,False,HemoSense
+2005-09-04,13,False,HemoSense
+2005-09-11,0,False,HemoSense
+2005-09-18,0,False,HemoSense
+2005-09-25,12,False,HemoSense
+2005-10-02,12,False,HemoSense
+2005-10-09,12,False,HemoSense
+2005-10-16,24,False,HemoSense
+2005-10-23,12,False,HemoSense
+2005-10-30,24,False,HemoSense
+2005-11-06,27,False,HemoSense
+2005-11-13,11,False,HemoSense
+2005-11-20,12,False,HemoSense
+2005-11-27,0,False,HemoSense
+2005-12-04,0,False,HemoSense
+2005-12-11,0,False,HemoSense
+2005-12-18,12,False,HemoSense
+2005-12-25,14,False,HemoSense
+2006-01-01,23,False,HemoSense
+2006-01-08,21,False,HemoSense
+2006-01-15,0,False,HemoSense
+2006-01-22,20,False,HemoSense
+2006-01-29,20,False,HemoSense
+2006-02-05,0,False,HemoSense
+2006-02-12,10,False,HemoSense
+2006-02-19,0,False,HemoSense
+2006-02-26,0,False,HemoSense
+2006-03-05,0,False,HemoSense
+2006-03-12,9,False,HemoSense
+2006-03-19,0,False,HemoSense
+2006-03-26,19,False,HemoSense
+2005-04-03,42,False,DSW
+2005-04-10,55,False,DSW
+2005-04-17,100,False,DSW
+2005-04-24,53,False,DSW
+2005-05-01,56,False,DSW
+2005-05-08,58,False,DSW
+2005-05-15,50,False,DSW
+2005-05-22,45,False,DSW
+2005-05-29,38,False,DSW
+2005-06-05,37,False,DSW
+2005-06-12,43,False,DSW
+2005-06-19,43,False,DSW
+2005-06-26,42,False,DSW
+2005-07-03,36,False,DSW
+2005-07-10,37,False,DSW
+2005-07-17,34,False,DSW
+2005-07-24,38,False,DSW
+2005-07-31,32,False,DSW
+2005-08-07,47,False,DSW
+2005-08-14,51,False,DSW
+2005-08-21,45,False,DSW
+2005-08-28,40,False,DSW
+2005-09-04,35,False,DSW
+2005-09-11,49,False,DSW
+2005-09-18,46,False,DSW
+2005-09-25,49,False,DSW
+2005-10-02,57,False,DSW
+2005-10-09,67,False,DSW
+2005-10-16,61,False,DSW
+2005-10-23,59,False,DSW
+2005-10-30,44,False,DSW
+2005-11-06,48,False,DSW
+2005-11-13,48,False,DSW
+2005-11-20,47,False,DSW
+2005-11-27,51,False,DSW
+2005-12-04,50,False,DSW
+2005-12-11,47,False,DSW
+2005-12-18,48,False,DSW
+2005-12-25,59,False,DSW
+2006-01-01,43,False,DSW
+2006-01-08,36,False,DSW
+2006-01-15,38,False,DSW
+2006-01-22,36,False,DSW
+2006-01-29,41,False,DSW
+2006-02-05,37,False,DSW
+2006-02-12,36,False,DSW
+2006-02-19,33,False,DSW
+2006-02-26,36,False,DSW
+2006-03-05,40,False,DSW
+2006-03-12,45,False,DSW
+2006-03-19,47,False,DSW
+2006-03-26,48,False,DSW
+2005-04-03,7,False,NeuStar
+2005-04-10,20,False,NeuStar
+2005-04-17,0,False,NeuStar
+2005-04-24,10,False,NeuStar
+2005-05-01,10,False,NeuStar
+2005-05-08,19,False,NeuStar
+2005-05-15,14,False,NeuStar
+2005-05-22,10,False,NeuStar
+2005-05-29,20,False,NeuStar
+2005-06-05,34,False,NeuStar
+2005-06-12,29,False,NeuStar
+2005-06-19,40,False,NeuStar
+2005-06-26,100,False,NeuStar
+2005-07-03,35,False,NeuStar
+2005-07-10,30,False,NeuStar
+2005-07-17,15,False,NeuStar
+2005-07-24,15,False,NeuStar
+2005-07-31,40,False,NeuStar
+2005-08-07,24,False,NeuStar
+2005-08-14,20,False,NeuStar
+2005-08-21,22,False,NeuStar
+2005-08-28,23,False,NeuStar
+2005-09-04,27,False,NeuStar
+2005-09-11,9,False,NeuStar
+2005-09-18,17,False,NeuStar
+2005-09-25,29,False,NeuStar
+2005-10-02,21,False,NeuStar
+2005-10-09,8,False,NeuStar
+2005-10-16,20,False,NeuStar
+2005-10-23,16,False,NeuStar
+2005-10-30,17,False,NeuStar
+2005-11-06,5,False,NeuStar
+2005-11-13,8,False,NeuStar
+2005-11-20,12,False,NeuStar
+2005-11-27,19,False,NeuStar
+2005-12-04,19,False,NeuStar
+2005-12-11,4,False,NeuStar
+2005-12-18,17,False,NeuStar
+2005-12-25,24,False,NeuStar
+2006-01-01,8,False,NeuStar
+2006-01-08,18,False,NeuStar
+2006-01-15,24,False,NeuStar
+2006-01-22,7,False,NeuStar
+2006-01-29,14,False,NeuStar
+2006-02-05,10,False,NeuStar
+2006-02-12,10,False,NeuStar
+2006-02-19,23,False,NeuStar
+2006-02-26,13,False,NeuStar
+2006-03-05,16,False,NeuStar
+2006-03-12,13,False,NeuStar
+2006-03-19,16,False,NeuStar
+2006-03-26,6,False,NeuStar
+2005-04-03,0,False,Silicon Motion Technology
+2005-04-10,0,False,Silicon Motion Technology
+2005-04-17,0,False,Silicon Motion Technology
+2005-04-24,0,False,Silicon Motion Technology
+2005-05-01,0,False,Silicon Motion Technology
+2005-05-08,0,False,Silicon Motion Technology
+2005-05-15,0,False,Silicon Motion Technology
+2005-05-22,0,False,Silicon Motion Technology
+2005-05-29,0,False,Silicon Motion Technology
+2005-06-05,0,False,Silicon Motion Technology
+2005-06-12,88,False,Silicon Motion Technology
+2005-06-19,91,False,Silicon Motion Technology
+2005-06-26,91,False,Silicon Motion Technology
+2005-07-03,0,False,Silicon Motion Technology
+2005-07-10,0,False,Silicon Motion Technology
+2005-07-17,89,False,Silicon Motion Technology
+2005-07-24,0,False,Silicon Motion Technology
+2005-07-31,0,False,Silicon Motion Technology
+2005-08-07,0,False,Silicon Motion Technology
+2005-08-14,0,False,Silicon Motion Technology
+2005-08-21,100,False,Silicon Motion Technology
+2005-08-28,82,False,Silicon Motion Technology
+2005-09-04,81,False,Silicon Motion Technology
+2005-09-11,0,False,Silicon Motion Technology
+2005-09-18,0,False,Silicon Motion Technology
+2005-09-25,0,False,Silicon Motion Technology
+2005-10-02,0,False,Silicon Motion Technology
+2005-10-09,0,False,Silicon Motion Technology
+2005-10-16,0,False,Silicon Motion Technology
+2005-10-23,73,False,Silicon Motion Technology
+2005-10-30,0,False,Silicon Motion Technology
+2005-11-06,0,False,Silicon Motion Technology
+2005-11-13,0,False,Silicon Motion Technology
+2005-11-20,0,False,Silicon Motion Technology
+2005-11-27,0,False,Silicon Motion Technology
+2005-12-04,0,False,Silicon Motion Technology
+2005-12-11,70,False,Silicon Motion Technology
+2005-12-18,0,False,Silicon Motion Technology
+2005-12-25,0,False,Silicon Motion Technology
+2006-01-01,0,False,Silicon Motion Technology
+2006-01-08,0,False,Silicon Motion Technology
+2006-01-15,0,False,Silicon Motion Technology
+2006-01-22,0,False,Silicon Motion Technology
+2006-01-29,63,False,Silicon Motion Technology
+2006-02-05,0,False,Silicon Motion Technology
+2006-02-12,0,False,Silicon Motion Technology
+2006-02-19,0,False,Silicon Motion Technology
+2006-02-26,0,False,Silicon Motion Technology
+2006-03-05,0,False,Silicon Motion Technology
+2006-03-12,58,False,Silicon Motion Technology
+2006-03-19,0,False,Silicon Motion Technology
+2006-03-26,0,False,Silicon Motion Technology

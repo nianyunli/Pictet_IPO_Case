@@ -1,0 +1,157 @@
+date,SVI,isPartial,Issuer
+2007-02-25,79,False,B&G Foods
+2007-03-04,26,False,B&G Foods
+2007-03-11,27,False,B&G Foods
+2007-03-18,26,False,B&G Foods
+2007-03-25,51,False,B&G Foods
+2007-04-01,83,False,B&G Foods
+2007-04-08,26,False,B&G Foods
+2007-04-15,26,False,B&G Foods
+2007-04-22,51,False,B&G Foods
+2007-04-29,51,False,B&G Foods
+2007-05-06,94,False,B&G Foods
+2007-05-13,71,False,B&G Foods
+2007-05-20,47,False,B&G Foods
+2007-05-27,47,False,B&G Foods
+2007-06-03,23,False,B&G Foods
+2007-06-10,70,False,B&G Foods
+2007-06-17,48,False,B&G Foods
+2007-06-24,23,False,B&G Foods
+2007-07-01,47,False,B&G Foods
+2007-07-08,71,False,B&G Foods
+2007-07-15,48,False,B&G Foods
+2007-07-22,72,False,B&G Foods
+2007-07-29,94,False,B&G Foods
+2007-08-05,0,False,B&G Foods
+2007-08-12,72,False,B&G Foods
+2007-08-19,69,False,B&G Foods
+2007-08-26,0,False,B&G Foods
+2007-09-02,65,False,B&G Foods
+2007-09-09,42,False,B&G Foods
+2007-09-16,42,False,B&G Foods
+2007-09-23,42,False,B&G Foods
+2007-09-30,61,False,B&G Foods
+2007-10-07,0,False,B&G Foods
+2007-10-14,100,False,B&G Foods
+2007-10-21,0,False,B&G Foods
+2007-10-28,40,False,B&G Foods
+2007-11-04,39,False,B&G Foods
+2007-11-11,35,False,B&G Foods
+2007-11-18,0,False,B&G Foods
+2007-11-25,19,False,B&G Foods
+2007-12-02,56,False,B&G Foods
+2007-12-09,19,False,B&G Foods
+2007-12-16,81,False,B&G Foods
+2007-12-23,49,False,B&G Foods
+2007-12-30,22,False,B&G Foods
+2008-01-06,37,False,B&G Foods
+2008-01-13,18,False,B&G Foods
+2008-01-20,53,False,B&G Foods
+2008-01-27,36,False,B&G Foods
+2008-02-03,18,False,B&G Foods
+2008-02-10,53,False,B&G Foods
+2008-02-17,52,False,B&G Foods
+2007-02-25,38,False,Sirtris
+2007-03-04,43,False,Sirtris
+2007-03-11,5,False,Sirtris
+2007-03-18,23,False,Sirtris
+2007-03-25,19,False,Sirtris
+2007-04-01,30,False,Sirtris
+2007-04-08,10,False,Sirtris
+2007-04-15,9,False,Sirtris
+2007-04-22,9,False,Sirtris
+2007-04-29,14,False,Sirtris
+2007-05-06,21,False,Sirtris
+2007-05-13,26,False,Sirtris
+2007-05-20,55,False,Sirtris
+2007-05-27,34,False,Sirtris
+2007-06-03,30,False,Sirtris
+2007-06-10,17,False,Sirtris
+2007-06-17,9,False,Sirtris
+2007-06-24,21,False,Sirtris
+2007-07-01,0,False,Sirtris
+2007-07-08,43,False,Sirtris
+2007-07-15,100,False,Sirtris
+2007-07-22,22,False,Sirtris
+2007-07-29,21,False,Sirtris
+2007-08-05,13,False,Sirtris
+2007-08-12,22,False,Sirtris
+2007-08-19,21,False,Sirtris
+2007-08-26,32,False,Sirtris
+2007-09-02,4,False,Sirtris
+2007-09-09,23,False,Sirtris
+2007-09-16,61,False,Sirtris
+2007-09-23,49,False,Sirtris
+2007-09-30,15,False,Sirtris
+2007-10-07,26,False,Sirtris
+2007-10-14,15,False,Sirtris
+2007-10-21,28,False,Sirtris
+2007-10-28,22,False,Sirtris
+2007-11-04,21,False,Sirtris
+2007-11-11,47,False,Sirtris
+2007-11-18,14,False,Sirtris
+2007-11-25,84,False,Sirtris
+2007-12-02,24,False,Sirtris
+2007-12-09,34,False,Sirtris
+2007-12-16,29,False,Sirtris
+2007-12-23,18,False,Sirtris
+2007-12-30,24,False,Sirtris
+2008-01-06,57,False,Sirtris
+2008-01-13,29,False,Sirtris
+2008-01-20,29,False,Sirtris
+2008-01-27,16,False,Sirtris
+2008-02-03,7,False,Sirtris
+2008-02-10,19,False,Sirtris
+2008-02-17,6,False,Sirtris
+2007-02-25,0,False,RSC Holdings
+2007-03-04,0,False,RSC Holdings
+2007-03-11,0,False,RSC Holdings
+2007-03-18,100,False,RSC Holdings
+2007-03-25,0,False,RSC Holdings
+2007-04-01,0,False,RSC Holdings
+2007-04-08,0,False,RSC Holdings
+2007-04-15,50,False,RSC Holdings
+2007-04-22,0,False,RSC Holdings
+2007-04-29,0,False,RSC Holdings
+2007-05-06,45,False,RSC Holdings
+2007-05-13,46,False,RSC Holdings
+2007-05-20,45,False,RSC Holdings
+2007-05-27,91,False,RSC Holdings
+2007-06-03,0,False,RSC Holdings
+2007-06-10,0,False,RSC Holdings
+2007-06-17,92,False,RSC Holdings
+2007-06-24,45,False,RSC Holdings
+2007-07-01,46,False,RSC Holdings
+2007-07-08,0,False,RSC Holdings
+2007-07-15,0,False,RSC Holdings
+2007-07-22,0,False,RSC Holdings
+2007-07-29,0,False,RSC Holdings
+2007-08-05,0,False,RSC Holdings
+2007-08-12,0,False,RSC Holdings
+2007-08-19,0,False,RSC Holdings
+2007-08-26,0,False,RSC Holdings
+2007-09-02,0,False,RSC Holdings
+2007-09-09,41,False,RSC Holdings
+2007-09-16,41,False,RSC Holdings
+2007-09-23,0,False,RSC Holdings
+2007-09-30,0,False,RSC Holdings
+2007-10-07,0,False,RSC Holdings
+2007-10-14,0,False,RSC Holdings
+2007-10-21,76,False,RSC Holdings
+2007-10-28,0,False,RSC Holdings
+2007-11-04,37,False,RSC Holdings
+2007-11-11,33,False,RSC Holdings
+2007-11-18,0,False,RSC Holdings
+2007-11-25,0,False,RSC Holdings
+2007-12-02,36,False,RSC Holdings
+2007-12-09,0,False,RSC Holdings
+2007-12-16,0,False,RSC Holdings
+2007-12-23,0,False,RSC Holdings
+2007-12-30,0,False,RSC Holdings
+2008-01-06,0,False,RSC Holdings
+2008-01-13,0,False,RSC Holdings
+2008-01-20,0,False,RSC Holdings
+2008-01-27,35,False,RSC Holdings
+2008-02-03,0,False,RSC Holdings
+2008-02-10,0,False,RSC Holdings
+2008-02-17,67,False,RSC Holdings

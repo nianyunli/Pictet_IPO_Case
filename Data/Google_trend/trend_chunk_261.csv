@@ -1,0 +1,209 @@
+date,SVI,isPartial,Issuer
+2014-05-11,0,False,Ryerson Holding
+2014-05-18,0,False,Ryerson Holding
+2014-05-25,0,False,Ryerson Holding
+2014-06-01,0,False,Ryerson Holding
+2014-06-08,0,False,Ryerson Holding
+2014-06-15,9,False,Ryerson Holding
+2014-06-22,0,False,Ryerson Holding
+2014-06-29,0,False,Ryerson Holding
+2014-07-06,0,False,Ryerson Holding
+2014-07-13,17,False,Ryerson Holding
+2014-07-20,9,False,Ryerson Holding
+2014-07-27,9,False,Ryerson Holding
+2014-08-03,100,False,Ryerson Holding
+2014-08-10,17,False,Ryerson Holding
+2014-08-17,8,False,Ryerson Holding
+2014-08-24,25,False,Ryerson Holding
+2014-08-31,25,False,Ryerson Holding
+2014-09-07,8,False,Ryerson Holding
+2014-09-14,8,False,Ryerson Holding
+2014-09-21,8,False,Ryerson Holding
+2014-09-28,16,False,Ryerson Holding
+2014-10-05,0,False,Ryerson Holding
+2014-10-12,16,False,Ryerson Holding
+2014-10-19,0,False,Ryerson Holding
+2014-10-26,8,False,Ryerson Holding
+2014-11-02,23,False,Ryerson Holding
+2014-11-09,8,False,Ryerson Holding
+2014-11-16,0,False,Ryerson Holding
+2014-11-23,0,False,Ryerson Holding
+2014-11-30,0,False,Ryerson Holding
+2014-12-07,8,False,Ryerson Holding
+2014-12-14,8,False,Ryerson Holding
+2014-12-21,0,False,Ryerson Holding
+2014-12-28,0,False,Ryerson Holding
+2015-01-04,0,False,Ryerson Holding
+2015-01-11,0,False,Ryerson Holding
+2015-01-18,7,False,Ryerson Holding
+2015-01-25,0,False,Ryerson Holding
+2015-02-01,0,False,Ryerson Holding
+2015-02-08,0,False,Ryerson Holding
+2015-02-15,8,False,Ryerson Holding
+2015-02-22,0,False,Ryerson Holding
+2015-03-01,7,False,Ryerson Holding
+2015-03-08,7,False,Ryerson Holding
+2015-03-15,15,False,Ryerson Holding
+2015-03-22,8,False,Ryerson Holding
+2015-03-29,0,False,Ryerson Holding
+2015-04-05,0,False,Ryerson Holding
+2015-04-12,15,False,Ryerson Holding
+2015-04-19,0,False,Ryerson Holding
+2015-04-26,0,False,Ryerson Holding
+2015-05-03,15,False,Ryerson Holding
+2014-05-18,3,False,Otonomy
+2014-05-25,7,False,Otonomy
+2014-06-01,4,False,Otonomy
+2014-06-08,11,False,Otonomy
+2014-06-15,11,False,Otonomy
+2014-06-22,7,False,Otonomy
+2014-06-29,8,False,Otonomy
+2014-07-06,7,False,Otonomy
+2014-07-13,37,False,Otonomy
+2014-07-20,8,False,Otonomy
+2014-07-27,7,False,Otonomy
+2014-08-03,16,False,Otonomy
+2014-08-10,100,False,Otonomy
+2014-08-17,11,False,Otonomy
+2014-08-24,21,False,Otonomy
+2014-08-31,14,False,Otonomy
+2014-09-07,7,False,Otonomy
+2014-09-14,11,False,Otonomy
+2014-09-21,31,False,Otonomy
+2014-09-28,21,False,Otonomy
+2014-10-05,10,False,Otonomy
+2014-10-12,20,False,Otonomy
+2014-10-19,27,False,Otonomy
+2014-10-26,7,False,Otonomy
+2014-11-02,10,False,Otonomy
+2014-11-09,3,False,Otonomy
+2014-11-16,7,False,Otonomy
+2014-11-23,3,False,Otonomy
+2014-11-30,7,False,Otonomy
+2014-12-07,10,False,Otonomy
+2014-12-14,7,False,Otonomy
+2014-12-21,4,False,Otonomy
+2014-12-28,11,False,Otonomy
+2015-01-04,23,False,Otonomy
+2015-01-11,35,False,Otonomy
+2015-01-18,19,False,Otonomy
+2015-01-25,22,False,Otonomy
+2015-02-01,22,False,Otonomy
+2015-02-08,3,False,Otonomy
+2015-02-15,13,False,Otonomy
+2015-02-22,22,False,Otonomy
+2015-03-01,16,False,Otonomy
+2015-03-08,16,False,Otonomy
+2015-03-15,22,False,Otonomy
+2015-03-22,17,False,Otonomy
+2015-03-29,16,False,Otonomy
+2015-04-05,13,False,Otonomy
+2015-04-12,28,False,Otonomy
+2015-04-19,31,False,Otonomy
+2015-04-26,22,False,Otonomy
+2015-05-03,16,False,Otonomy
+2015-05-10,13,False,Otonomy
+2014-05-18,13,False,C1 Financial
+2014-05-25,0,False,C1 Financial
+2014-06-01,14,False,C1 Financial
+2014-06-08,14,False,C1 Financial
+2014-06-15,43,False,C1 Financial
+2014-06-22,0,False,C1 Financial
+2014-06-29,0,False,C1 Financial
+2014-07-06,0,False,C1 Financial
+2014-07-13,29,False,C1 Financial
+2014-07-20,29,False,C1 Financial
+2014-07-27,14,False,C1 Financial
+2014-08-03,30,False,C1 Financial
+2014-08-10,100,False,C1 Financial
+2014-08-17,56,False,C1 Financial
+2014-08-24,69,False,C1 Financial
+2014-08-31,54,False,C1 Financial
+2014-09-07,0,False,C1 Financial
+2014-09-14,41,False,C1 Financial
+2014-09-21,13,False,C1 Financial
+2014-09-28,27,False,C1 Financial
+2014-10-05,0,False,C1 Financial
+2014-10-12,0,False,C1 Financial
+2014-10-19,26,False,C1 Financial
+2014-10-26,26,False,C1 Financial
+2014-11-02,38,False,C1 Financial
+2014-11-09,26,False,C1 Financial
+2014-11-16,0,False,C1 Financial
+2014-11-23,13,False,C1 Financial
+2014-11-30,13,False,C1 Financial
+2014-12-07,26,False,C1 Financial
+2014-12-14,0,False,C1 Financial
+2014-12-21,0,False,C1 Financial
+2014-12-28,0,False,C1 Financial
+2015-01-04,0,False,C1 Financial
+2015-01-11,37,False,C1 Financial
+2015-01-18,24,False,C1 Financial
+2015-01-25,12,False,C1 Financial
+2015-02-01,0,False,C1 Financial
+2015-02-08,24,False,C1 Financial
+2015-02-15,25,False,C1 Financial
+2015-02-22,24,False,C1 Financial
+2015-03-01,12,False,C1 Financial
+2015-03-08,12,False,C1 Financial
+2015-03-15,37,False,C1 Financial
+2015-03-22,13,False,C1 Financial
+2015-03-29,0,False,C1 Financial
+2015-04-05,12,False,C1 Financial
+2015-04-12,48,False,C1 Financial
+2015-04-19,24,False,C1 Financial
+2015-04-26,0,False,C1 Financial
+2015-05-03,12,False,C1 Financial
+2015-05-10,24,False,C1 Financial
+2014-06-15,0,False,Affimed Therapeutics B.V.
+2014-06-22,0,False,Affimed Therapeutics B.V.
+2014-06-29,0,False,Affimed Therapeutics B.V.
+2014-07-06,0,False,Affimed Therapeutics B.V.
+2014-07-13,0,False,Affimed Therapeutics B.V.
+2014-07-20,0,False,Affimed Therapeutics B.V.
+2014-07-27,0,False,Affimed Therapeutics B.V.
+2014-08-03,0,False,Affimed Therapeutics B.V.
+2014-08-10,0,False,Affimed Therapeutics B.V.
+2014-08-17,0,False,Affimed Therapeutics B.V.
+2014-08-24,0,False,Affimed Therapeutics B.V.
+2014-08-31,51,False,Affimed Therapeutics B.V.
+2014-09-07,100,False,Affimed Therapeutics B.V.
+2014-09-14,51,False,Affimed Therapeutics B.V.
+2014-09-21,0,False,Affimed Therapeutics B.V.
+2014-09-28,0,False,Affimed Therapeutics B.V.
+2014-10-05,0,False,Affimed Therapeutics B.V.
+2014-10-12,0,False,Affimed Therapeutics B.V.
+2014-10-19,0,False,Affimed Therapeutics B.V.
+2014-10-26,0,False,Affimed Therapeutics B.V.
+2014-11-02,0,False,Affimed Therapeutics B.V.
+2014-11-09,0,False,Affimed Therapeutics B.V.
+2014-11-16,0,False,Affimed Therapeutics B.V.
+2014-11-23,0,False,Affimed Therapeutics B.V.
+2014-11-30,0,False,Affimed Therapeutics B.V.
+2014-12-07,0,False,Affimed Therapeutics B.V.
+2014-12-14,0,False,Affimed Therapeutics B.V.
+2014-12-21,0,False,Affimed Therapeutics B.V.
+2014-12-28,0,False,Affimed Therapeutics B.V.
+2015-01-04,0,False,Affimed Therapeutics B.V.
+2015-01-11,0,False,Affimed Therapeutics B.V.
+2015-01-18,0,False,Affimed Therapeutics B.V.
+2015-01-25,0,False,Affimed Therapeutics B.V.
+2015-02-01,0,False,Affimed Therapeutics B.V.
+2015-02-08,0,False,Affimed Therapeutics B.V.
+2015-02-15,0,False,Affimed Therapeutics B.V.
+2015-02-22,45,False,Affimed Therapeutics B.V.
+2015-03-01,0,False,Affimed Therapeutics B.V.
+2015-03-08,0,False,Affimed Therapeutics B.V.
+2015-03-15,0,False,Affimed Therapeutics B.V.
+2015-03-22,0,False,Affimed Therapeutics B.V.
+2015-03-29,0,False,Affimed Therapeutics B.V.
+2015-04-05,0,False,Affimed Therapeutics B.V.
+2015-04-12,0,False,Affimed Therapeutics B.V.
+2015-04-19,0,False,Affimed Therapeutics B.V.
+2015-04-26,0,False,Affimed Therapeutics B.V.
+2015-05-03,0,False,Affimed Therapeutics B.V.
+2015-05-10,0,False,Affimed Therapeutics B.V.
+2015-05-17,0,False,Affimed Therapeutics B.V.
+2015-05-24,0,False,Affimed Therapeutics B.V.
+2015-05-31,0,False,Affimed Therapeutics B.V.
+2015-06-07,0,False,Affimed Therapeutics B.V.

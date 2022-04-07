@@ -1,0 +1,209 @@
+date,SVI,isPartial,Issuer
+2012-09-16,18,False,SolarCity
+2012-09-23,15,False,SolarCity
+2012-09-30,20,False,SolarCity
+2012-10-07,29,False,SolarCity
+2012-10-14,19,False,SolarCity
+2012-10-21,17,False,SolarCity
+2012-10-28,10,False,SolarCity
+2012-11-04,12,False,SolarCity
+2012-11-11,20,False,SolarCity
+2012-11-18,12,False,SolarCity
+2012-11-25,18,False,SolarCity
+2012-12-02,30,False,SolarCity
+2012-12-09,100,False,SolarCity
+2012-12-16,27,False,SolarCity
+2012-12-23,16,False,SolarCity
+2012-12-30,18,False,SolarCity
+2013-01-06,25,False,SolarCity
+2013-01-13,23,False,SolarCity
+2013-01-20,17,False,SolarCity
+2013-01-27,23,False,SolarCity
+2013-02-03,17,False,SolarCity
+2013-02-10,20,False,SolarCity
+2013-02-17,22,False,SolarCity
+2013-02-24,29,False,SolarCity
+2013-03-03,37,False,SolarCity
+2013-03-10,22,False,SolarCity
+2013-03-17,27,False,SolarCity
+2013-03-24,22,False,SolarCity
+2013-03-31,24,False,SolarCity
+2013-04-07,26,False,SolarCity
+2013-04-14,23,False,SolarCity
+2013-04-21,29,False,SolarCity
+2013-04-28,31,False,SolarCity
+2013-05-05,28,False,SolarCity
+2013-05-12,61,False,SolarCity
+2013-05-19,42,False,SolarCity
+2013-05-26,42,False,SolarCity
+2013-06-02,35,False,SolarCity
+2013-06-09,34,False,SolarCity
+2013-06-16,30,False,SolarCity
+2013-06-23,32,False,SolarCity
+2013-06-30,28,False,SolarCity
+2013-07-07,27,False,SolarCity
+2013-07-14,30,False,SolarCity
+2013-07-21,28,False,SolarCity
+2013-07-28,27,False,SolarCity
+2013-08-04,42,False,SolarCity
+2013-08-11,47,False,SolarCity
+2013-08-18,27,False,SolarCity
+2013-08-25,25,False,SolarCity
+2013-09-01,30,False,SolarCity
+2013-09-08,36,False,SolarCity
+2012-09-16,89,False,Chart Acquisition
+2012-09-23,69,False,Chart Acquisition
+2012-09-30,98,False,Chart Acquisition
+2012-10-07,38,False,Chart Acquisition
+2012-10-14,94,False,Chart Acquisition
+2012-10-21,47,False,Chart Acquisition
+2012-10-28,47,False,Chart Acquisition
+2012-11-04,64,False,Chart Acquisition
+2012-11-11,56,False,Chart Acquisition
+2012-11-18,28,False,Chart Acquisition
+2012-11-25,81,False,Chart Acquisition
+2012-12-02,63,False,Chart Acquisition
+2012-12-09,81,False,Chart Acquisition
+2012-12-16,37,False,Chart Acquisition
+2012-12-23,31,False,Chart Acquisition
+2012-12-30,49,False,Chart Acquisition
+2013-01-06,35,False,Chart Acquisition
+2013-01-13,52,False,Chart Acquisition
+2013-01-20,86,False,Chart Acquisition
+2013-01-27,34,False,Chart Acquisition
+2013-02-03,52,False,Chart Acquisition
+2013-02-10,52,False,Chart Acquisition
+2013-02-17,60,False,Chart Acquisition
+2013-02-24,75,False,Chart Acquisition
+2013-03-03,51,False,Chart Acquisition
+2013-03-10,49,False,Chart Acquisition
+2013-03-17,100,False,Chart Acquisition
+2013-03-24,51,False,Chart Acquisition
+2013-03-31,92,False,Chart Acquisition
+2013-04-07,66,False,Chart Acquisition
+2013-04-14,42,False,Chart Acquisition
+2013-04-21,43,False,Chart Acquisition
+2013-04-28,43,False,Chart Acquisition
+2013-05-05,25,False,Chart Acquisition
+2013-05-12,75,False,Chart Acquisition
+2013-05-19,50,False,Chart Acquisition
+2013-05-26,33,False,Chart Acquisition
+2013-06-02,65,False,Chart Acquisition
+2013-06-09,58,False,Chart Acquisition
+2013-06-16,17,False,Chart Acquisition
+2013-06-23,50,False,Chart Acquisition
+2013-06-30,51,False,Chart Acquisition
+2013-07-07,77,False,Chart Acquisition
+2013-07-14,68,False,Chart Acquisition
+2013-07-21,42,False,Chart Acquisition
+2013-07-28,93,False,Chart Acquisition
+2013-08-04,34,False,Chart Acquisition
+2013-08-11,85,False,Chart Acquisition
+2013-08-18,58,False,Chart Acquisition
+2013-08-25,99,False,Chart Acquisition
+2013-09-01,32,False,Chart Acquisition
+2013-09-08,39,False,Chart Acquisition
+2012-09-16,25,False,Silver Bay Realty Trust
+2012-09-23,8,False,Silver Bay Realty Trust
+2012-09-30,8,False,Silver Bay Realty Trust
+2012-10-07,32,False,Silver Bay Realty Trust
+2012-10-14,8,False,Silver Bay Realty Trust
+2012-10-21,16,False,Silver Bay Realty Trust
+2012-10-28,0,False,Silver Bay Realty Trust
+2012-11-04,0,False,Silver Bay Realty Trust
+2012-11-11,8,False,Silver Bay Realty Trust
+2012-11-18,31,False,Silver Bay Realty Trust
+2012-11-25,8,False,Silver Bay Realty Trust
+2012-12-02,45,False,Silver Bay Realty Trust
+2012-12-09,83,False,Silver Bay Realty Trust
+2012-12-16,100,False,Silver Bay Realty Trust
+2012-12-23,26,False,Silver Bay Realty Trust
+2012-12-30,49,False,Silver Bay Realty Trust
+2013-01-06,81,False,Silver Bay Realty Trust
+2013-01-13,51,False,Silver Bay Realty Trust
+2013-01-20,29,False,Silver Bay Realty Trust
+2013-01-27,14,False,Silver Bay Realty Trust
+2013-02-03,72,False,Silver Bay Realty Trust
+2013-02-10,0,False,Silver Bay Realty Trust
+2013-02-17,28,False,Silver Bay Realty Trust
+2013-02-24,21,False,Silver Bay Realty Trust
+2013-03-03,21,False,Silver Bay Realty Trust
+2013-03-10,28,False,Silver Bay Realty Trust
+2013-03-17,56,False,Silver Bay Realty Trust
+2013-03-24,22,False,Silver Bay Realty Trust
+2013-03-31,49,False,Silver Bay Realty Trust
+2013-04-07,14,False,Silver Bay Realty Trust
+2013-04-14,14,False,Silver Bay Realty Trust
+2013-04-21,79,False,Silver Bay Realty Trust
+2013-04-28,50,False,Silver Bay Realty Trust
+2013-05-05,56,False,Silver Bay Realty Trust
+2013-05-12,49,False,Silver Bay Realty Trust
+2013-05-19,42,False,Silver Bay Realty Trust
+2013-05-26,7,False,Silver Bay Realty Trust
+2013-06-02,34,False,Silver Bay Realty Trust
+2013-06-09,7,False,Silver Bay Realty Trust
+2013-06-16,7,False,Silver Bay Realty Trust
+2013-06-23,14,False,Silver Bay Realty Trust
+2013-06-30,29,False,Silver Bay Realty Trust
+2013-07-07,7,False,Silver Bay Realty Trust
+2013-07-14,21,False,Silver Bay Realty Trust
+2013-07-21,14,False,Silver Bay Realty Trust
+2013-07-28,35,False,Silver Bay Realty Trust
+2013-08-04,28,False,Silver Bay Realty Trust
+2013-08-11,7,False,Silver Bay Realty Trust
+2013-08-18,14,False,Silver Bay Realty Trust
+2013-08-25,21,False,Silver Bay Realty Trust
+2013-09-01,0,False,Silver Bay Realty Trust
+2013-09-08,13,False,Silver Bay Realty Trust
+2012-09-23,0,False,Sprott Physical Platinum and Palladium Trust
+2012-09-30,0,False,Sprott Physical Platinum and Palladium Trust
+2012-10-07,0,False,Sprott Physical Platinum and Palladium Trust
+2012-10-14,0,False,Sprott Physical Platinum and Palladium Trust
+2012-10-21,0,False,Sprott Physical Platinum and Palladium Trust
+2012-10-28,0,False,Sprott Physical Platinum and Palladium Trust
+2012-11-04,0,False,Sprott Physical Platinum and Palladium Trust
+2012-11-11,0,False,Sprott Physical Platinum and Palladium Trust
+2012-11-18,0,False,Sprott Physical Platinum and Palladium Trust
+2012-11-25,35,False,Sprott Physical Platinum and Palladium Trust
+2012-12-02,0,False,Sprott Physical Platinum and Palladium Trust
+2012-12-09,0,False,Sprott Physical Platinum and Palladium Trust
+2012-12-16,0,False,Sprott Physical Platinum and Palladium Trust
+2012-12-23,0,False,Sprott Physical Platinum and Palladium Trust
+2012-12-30,0,False,Sprott Physical Platinum and Palladium Trust
+2013-01-06,0,False,Sprott Physical Platinum and Palladium Trust
+2013-01-13,0,False,Sprott Physical Platinum and Palladium Trust
+2013-01-20,33,False,Sprott Physical Platinum and Palladium Trust
+2013-01-27,65,False,Sprott Physical Platinum and Palladium Trust
+2013-02-03,33,False,Sprott Physical Platinum and Palladium Trust
+2013-02-10,100,False,Sprott Physical Platinum and Palladium Trust
+2013-02-17,0,False,Sprott Physical Platinum and Palladium Trust
+2013-02-24,0,False,Sprott Physical Platinum and Palladium Trust
+2013-03-03,0,False,Sprott Physical Platinum and Palladium Trust
+2013-03-10,0,False,Sprott Physical Platinum and Palladium Trust
+2013-03-17,32,False,Sprott Physical Platinum and Palladium Trust
+2013-03-24,0,False,Sprott Physical Platinum and Palladium Trust
+2013-03-31,32,False,Sprott Physical Platinum and Palladium Trust
+2013-04-07,0,False,Sprott Physical Platinum and Palladium Trust
+2013-04-14,0,False,Sprott Physical Platinum and Palladium Trust
+2013-04-21,0,False,Sprott Physical Platinum and Palladium Trust
+2013-04-28,33,False,Sprott Physical Platinum and Palladium Trust
+2013-05-05,0,False,Sprott Physical Platinum and Palladium Trust
+2013-05-12,0,False,Sprott Physical Platinum and Palladium Trust
+2013-05-19,32,False,Sprott Physical Platinum and Palladium Trust
+2013-05-26,0,False,Sprott Physical Platinum and Palladium Trust
+2013-06-02,63,False,Sprott Physical Platinum and Palladium Trust
+2013-06-09,32,False,Sprott Physical Platinum and Palladium Trust
+2013-06-16,32,False,Sprott Physical Platinum and Palladium Trust
+2013-06-23,0,False,Sprott Physical Platinum and Palladium Trust
+2013-06-30,0,False,Sprott Physical Platinum and Palladium Trust
+2013-07-07,0,False,Sprott Physical Platinum and Palladium Trust
+2013-07-14,0,False,Sprott Physical Platinum and Palladium Trust
+2013-07-21,0,False,Sprott Physical Platinum and Palladium Trust
+2013-07-28,32,False,Sprott Physical Platinum and Palladium Trust
+2013-08-04,0,False,Sprott Physical Platinum and Palladium Trust
+2013-08-11,0,False,Sprott Physical Platinum and Palladium Trust
+2013-08-18,0,False,Sprott Physical Platinum and Palladium Trust
+2013-08-25,0,False,Sprott Physical Platinum and Palladium Trust
+2013-09-01,0,False,Sprott Physical Platinum and Palladium Trust
+2013-09-08,0,False,Sprott Physical Platinum and Palladium Trust
+2013-09-15,0,False,Sprott Physical Platinum and Palladium Trust

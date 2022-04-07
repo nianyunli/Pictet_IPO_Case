@@ -1,0 +1,159 @@
+date,SVI,isPartial,Issuer
+2014-01-19,74,False,Weibo
+2014-01-26,69,False,Weibo
+2014-02-02,73,False,Weibo
+2014-02-09,73,False,Weibo
+2014-02-16,70,False,Weibo
+2014-02-23,79,False,Weibo
+2014-03-02,88,False,Weibo
+2014-03-09,84,False,Weibo
+2014-03-16,81,False,Weibo
+2014-03-23,78,False,Weibo
+2014-03-30,80,False,Weibo
+2014-04-06,74,False,Weibo
+2014-04-13,100,False,Weibo
+2014-04-20,91,False,Weibo
+2014-04-27,79,False,Weibo
+2014-05-04,76,False,Weibo
+2014-05-11,89,False,Weibo
+2014-05-18,81,False,Weibo
+2014-05-25,66,False,Weibo
+2014-06-01,59,False,Weibo
+2014-06-08,60,False,Weibo
+2014-06-15,56,False,Weibo
+2014-06-22,57,False,Weibo
+2014-06-29,57,False,Weibo
+2014-07-06,58,False,Weibo
+2014-07-13,55,False,Weibo
+2014-07-20,55,False,Weibo
+2014-07-27,61,False,Weibo
+2014-08-03,61,False,Weibo
+2014-08-10,58,False,Weibo
+2014-08-17,60,False,Weibo
+2014-08-24,56,False,Weibo
+2014-08-31,54,False,Weibo
+2014-09-07,53,False,Weibo
+2014-09-14,62,False,Weibo
+2014-09-21,55,False,Weibo
+2014-09-28,80,False,Weibo
+2014-10-05,64,False,Weibo
+2014-10-12,60,False,Weibo
+2014-10-19,64,False,Weibo
+2014-10-26,69,False,Weibo
+2014-11-02,61,False,Weibo
+2014-11-09,58,False,Weibo
+2014-11-16,53,False,Weibo
+2014-11-23,55,False,Weibo
+2014-11-30,50,False,Weibo
+2014-12-07,49,False,Weibo
+2014-12-14,51,False,Weibo
+2014-12-21,47,False,Weibo
+2014-12-28,54,False,Weibo
+2015-01-04,53,False,Weibo
+2015-01-11,54,False,Weibo
+2014-01-26,75,False,Quotient
+2014-02-02,75,False,Quotient
+2014-02-09,69,False,Quotient
+2014-02-16,67,False,Quotient
+2014-02-23,72,False,Quotient
+2014-03-02,62,False,Quotient
+2014-03-09,60,False,Quotient
+2014-03-16,54,False,Quotient
+2014-03-23,57,False,Quotient
+2014-03-30,58,False,Quotient
+2014-04-06,56,False,Quotient
+2014-04-13,54,False,Quotient
+2014-04-20,61,False,Quotient
+2014-04-27,61,False,Quotient
+2014-05-04,60,False,Quotient
+2014-05-11,59,False,Quotient
+2014-05-18,53,False,Quotient
+2014-05-25,45,False,Quotient
+2014-06-01,49,False,Quotient
+2014-06-08,46,False,Quotient
+2014-06-15,46,False,Quotient
+2014-06-22,38,False,Quotient
+2014-06-29,37,False,Quotient
+2014-07-06,36,False,Quotient
+2014-07-13,33,False,Quotient
+2014-07-20,36,False,Quotient
+2014-07-27,37,False,Quotient
+2014-08-03,37,False,Quotient
+2014-08-10,40,False,Quotient
+2014-08-17,61,False,Quotient
+2014-08-24,78,False,Quotient
+2014-08-31,92,False,Quotient
+2014-09-07,95,False,Quotient
+2014-09-14,99,False,Quotient
+2014-09-21,100,False,Quotient
+2014-09-28,92,False,Quotient
+2014-10-05,90,False,Quotient
+2014-10-12,81,False,Quotient
+2014-10-19,81,False,Quotient
+2014-10-26,78,False,Quotient
+2014-11-02,78,False,Quotient
+2014-11-09,76,False,Quotient
+2014-11-16,80,False,Quotient
+2014-11-23,55,False,Quotient
+2014-11-30,75,False,Quotient
+2014-12-07,81,False,Quotient
+2014-12-14,60,False,Quotient
+2014-12-21,26,False,Quotient
+2014-12-28,33,False,Quotient
+2015-01-04,63,False,Quotient
+2015-01-11,75,False,Quotient
+2015-01-18,76,False,Quotient
+2015-01-25,78,False,Quotient
+2014-02-02,0,False,Aldeyra Therapeutics
+2014-02-09,0,False,Aldeyra Therapeutics
+2014-02-16,0,False,Aldeyra Therapeutics
+2014-02-23,0,False,Aldeyra Therapeutics
+2014-03-02,0,False,Aldeyra Therapeutics
+2014-03-09,0,False,Aldeyra Therapeutics
+2014-03-16,63,False,Aldeyra Therapeutics
+2014-03-23,0,False,Aldeyra Therapeutics
+2014-03-30,0,False,Aldeyra Therapeutics
+2014-04-06,0,False,Aldeyra Therapeutics
+2014-04-13,33,False,Aldeyra Therapeutics
+2014-04-20,66,False,Aldeyra Therapeutics
+2014-04-27,0,False,Aldeyra Therapeutics
+2014-05-04,32,False,Aldeyra Therapeutics
+2014-05-11,0,False,Aldeyra Therapeutics
+2014-05-18,34,False,Aldeyra Therapeutics
+2014-05-25,0,False,Aldeyra Therapeutics
+2014-06-01,0,False,Aldeyra Therapeutics
+2014-06-08,0,False,Aldeyra Therapeutics
+2014-06-15,0,False,Aldeyra Therapeutics
+2014-06-22,0,False,Aldeyra Therapeutics
+2014-06-29,0,False,Aldeyra Therapeutics
+2014-07-06,0,False,Aldeyra Therapeutics
+2014-07-13,0,False,Aldeyra Therapeutics
+2014-07-20,0,False,Aldeyra Therapeutics
+2014-07-27,37,False,Aldeyra Therapeutics
+2014-08-03,0,False,Aldeyra Therapeutics
+2014-08-10,36,False,Aldeyra Therapeutics
+2014-08-17,35,False,Aldeyra Therapeutics
+2014-08-24,0,False,Aldeyra Therapeutics
+2014-08-31,69,False,Aldeyra Therapeutics
+2014-09-07,0,False,Aldeyra Therapeutics
+2014-09-14,0,False,Aldeyra Therapeutics
+2014-09-21,0,False,Aldeyra Therapeutics
+2014-09-28,0,False,Aldeyra Therapeutics
+2014-10-05,67,False,Aldeyra Therapeutics
+2014-10-12,0,False,Aldeyra Therapeutics
+2014-10-19,33,False,Aldeyra Therapeutics
+2014-10-26,100,False,Aldeyra Therapeutics
+2014-11-02,65,False,Aldeyra Therapeutics
+2014-11-09,32,False,Aldeyra Therapeutics
+2014-11-16,66,False,Aldeyra Therapeutics
+2014-11-23,33,False,Aldeyra Therapeutics
+2014-11-30,32,False,Aldeyra Therapeutics
+2014-12-07,33,False,Aldeyra Therapeutics
+2014-12-14,0,False,Aldeyra Therapeutics
+2014-12-21,0,False,Aldeyra Therapeutics
+2014-12-28,36,False,Aldeyra Therapeutics
+2015-01-04,0,False,Aldeyra Therapeutics
+2015-01-11,0,False,Aldeyra Therapeutics
+2015-01-18,61,False,Aldeyra Therapeutics
+2015-01-25,0,False,Aldeyra Therapeutics
+2015-02-01,0,False,Aldeyra Therapeutics

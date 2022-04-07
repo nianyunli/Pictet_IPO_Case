@@ -1,0 +1,209 @@
+date,SVI,isPartial,Issuer
+2013-06-30,17,False,Violin Memory
+2013-07-07,19,False,Violin Memory
+2013-07-14,19,False,Violin Memory
+2013-07-21,26,False,Violin Memory
+2013-07-28,18,False,Violin Memory
+2013-08-04,24,False,Violin Memory
+2013-08-11,21,False,Violin Memory
+2013-08-18,15,False,Violin Memory
+2013-08-25,48,False,Violin Memory
+2013-09-01,20,False,Violin Memory
+2013-09-08,30,False,Violin Memory
+2013-09-15,46,False,Violin Memory
+2013-09-22,100,False,Violin Memory
+2013-09-29,35,False,Violin Memory
+2013-10-06,38,False,Violin Memory
+2013-10-13,19,False,Violin Memory
+2013-10-20,23,False,Violin Memory
+2013-10-27,18,False,Violin Memory
+2013-11-03,22,False,Violin Memory
+2013-11-10,21,False,Violin Memory
+2013-11-17,33,False,Violin Memory
+2013-11-24,19,False,Violin Memory
+2013-12-01,22,False,Violin Memory
+2013-12-08,26,False,Violin Memory
+2013-12-15,40,False,Violin Memory
+2013-12-22,8,False,Violin Memory
+2013-12-29,20,False,Violin Memory
+2014-01-05,21,False,Violin Memory
+2014-01-12,25,False,Violin Memory
+2014-01-19,20,False,Violin Memory
+2014-01-26,22,False,Violin Memory
+2014-02-02,18,False,Violin Memory
+2014-02-09,14,False,Violin Memory
+2014-02-16,24,False,Violin Memory
+2014-02-23,17,False,Violin Memory
+2014-03-02,24,False,Violin Memory
+2014-03-09,14,False,Violin Memory
+2014-03-16,16,False,Violin Memory
+2014-03-23,16,False,Violin Memory
+2014-03-30,17,False,Violin Memory
+2014-04-06,14,False,Violin Memory
+2014-04-13,16,False,Violin Memory
+2014-04-20,17,False,Violin Memory
+2014-04-27,17,False,Violin Memory
+2014-05-04,15,False,Violin Memory
+2014-05-11,21,False,Violin Memory
+2014-05-18,17,False,Violin Memory
+2014-05-25,18,False,Violin Memory
+2014-06-01,21,False,Violin Memory
+2014-06-08,12,False,Violin Memory
+2014-06-15,12,False,Violin Memory
+2014-06-22,10,False,Violin Memory
+2013-07-07,0,False,Fate Therapeutics
+2013-07-14,23,False,Fate Therapeutics
+2013-07-21,17,False,Fate Therapeutics
+2013-07-28,11,False,Fate Therapeutics
+2013-08-04,11,False,Fate Therapeutics
+2013-08-11,40,False,Fate Therapeutics
+2013-08-18,28,False,Fate Therapeutics
+2013-08-25,11,False,Fate Therapeutics
+2013-09-01,48,False,Fate Therapeutics
+2013-09-08,31,False,Fate Therapeutics
+2013-09-15,74,False,Fate Therapeutics
+2013-09-22,21,False,Fate Therapeutics
+2013-09-29,100,False,Fate Therapeutics
+2013-10-06,42,False,Fate Therapeutics
+2013-10-13,26,False,Fate Therapeutics
+2013-10-20,16,False,Fate Therapeutics
+2013-10-27,37,False,Fate Therapeutics
+2013-11-03,36,False,Fate Therapeutics
+2013-11-10,21,False,Fate Therapeutics
+2013-11-17,15,False,Fate Therapeutics
+2013-11-24,10,False,Fate Therapeutics
+2013-12-01,30,False,Fate Therapeutics
+2013-12-08,21,False,Fate Therapeutics
+2013-12-15,16,False,Fate Therapeutics
+2013-12-22,6,False,Fate Therapeutics
+2013-12-29,0,False,Fate Therapeutics
+2014-01-05,10,False,Fate Therapeutics
+2014-01-12,10,False,Fate Therapeutics
+2014-01-19,19,False,Fate Therapeutics
+2014-01-26,0,False,Fate Therapeutics
+2014-02-02,25,False,Fate Therapeutics
+2014-02-09,10,False,Fate Therapeutics
+2014-02-16,19,False,Fate Therapeutics
+2014-02-23,19,False,Fate Therapeutics
+2014-03-02,34,False,Fate Therapeutics
+2014-03-09,20,False,Fate Therapeutics
+2014-03-16,33,False,Fate Therapeutics
+2014-03-23,9,False,Fate Therapeutics
+2014-03-30,14,False,Fate Therapeutics
+2014-04-06,10,False,Fate Therapeutics
+2014-04-13,10,False,Fate Therapeutics
+2014-04-20,35,False,Fate Therapeutics
+2014-04-27,25,False,Fate Therapeutics
+2014-05-04,0,False,Fate Therapeutics
+2014-05-11,14,False,Fate Therapeutics
+2014-05-18,15,False,Fate Therapeutics
+2014-05-25,22,False,Fate Therapeutics
+2014-06-01,11,False,Fate Therapeutics
+2014-06-08,5,False,Fate Therapeutics
+2014-06-15,11,False,Fate Therapeutics
+2014-06-22,22,False,Fate Therapeutics
+2014-06-29,0,False,Fate Therapeutics
+2013-07-07,54,False,Burlington Holdings
+2013-07-14,54,False,Burlington Holdings
+2013-07-21,53,False,Burlington Holdings
+2013-07-28,0,False,Burlington Holdings
+2013-08-04,53,False,Burlington Holdings
+2013-08-11,0,False,Burlington Holdings
+2013-08-18,0,False,Burlington Holdings
+2013-08-25,26,False,Burlington Holdings
+2013-09-01,25,False,Burlington Holdings
+2013-09-08,74,False,Burlington Holdings
+2013-09-15,0,False,Burlington Holdings
+2013-09-22,100,False,Burlington Holdings
+2013-09-29,25,False,Burlington Holdings
+2013-10-06,99,False,Burlington Holdings
+2013-10-13,0,False,Burlington Holdings
+2013-10-20,74,False,Burlington Holdings
+2013-10-27,99,False,Burlington Holdings
+2013-11-03,48,False,Burlington Holdings
+2013-11-10,49,False,Burlington Holdings
+2013-11-17,47,False,Burlington Holdings
+2013-11-24,24,False,Burlington Holdings
+2013-12-01,71,False,Burlington Holdings
+2013-12-08,0,False,Burlington Holdings
+2013-12-15,25,False,Burlington Holdings
+2013-12-22,27,False,Burlington Holdings
+2013-12-29,0,False,Burlington Holdings
+2014-01-05,95,False,Burlington Holdings
+2014-01-12,69,False,Burlington Holdings
+2014-01-19,0,False,Burlington Holdings
+2014-01-26,46,False,Burlington Holdings
+2014-02-02,0,False,Burlington Holdings
+2014-02-09,0,False,Burlington Holdings
+2014-02-16,23,False,Burlington Holdings
+2014-02-23,22,False,Burlington Holdings
+2014-03-02,0,False,Burlington Holdings
+2014-03-09,70,False,Burlington Holdings
+2014-03-16,67,False,Burlington Holdings
+2014-03-23,67,False,Burlington Holdings
+2014-03-30,45,False,Burlington Holdings
+2014-04-06,23,False,Burlington Holdings
+2014-04-13,47,False,Burlington Holdings
+2014-04-20,70,False,Burlington Holdings
+2014-04-27,47,False,Burlington Holdings
+2014-05-04,69,False,Burlington Holdings
+2014-05-11,23,False,Burlington Holdings
+2014-05-18,72,False,Burlington Holdings
+2014-05-25,0,False,Burlington Holdings
+2014-06-01,0,False,Burlington Holdings
+2014-06-08,0,False,Burlington Holdings
+2014-06-15,52,False,Burlington Holdings
+2014-06-22,78,False,Burlington Holdings
+2014-06-29,78,False,Burlington Holdings
+2013-07-07,2,False,Empire State Realty Trust
+2013-07-14,4,False,Empire State Realty Trust
+2013-07-21,5,False,Empire State Realty Trust
+2013-07-28,4,False,Empire State Realty Trust
+2013-08-04,4,False,Empire State Realty Trust
+2013-08-11,0,False,Empire State Realty Trust
+2013-08-18,7,False,Empire State Realty Trust
+2013-08-25,3,False,Empire State Realty Trust
+2013-09-01,5,False,Empire State Realty Trust
+2013-09-08,10,False,Empire State Realty Trust
+2013-09-15,13,False,Empire State Realty Trust
+2013-09-22,20,False,Empire State Realty Trust
+2013-09-29,100,False,Empire State Realty Trust
+2013-10-06,33,False,Empire State Realty Trust
+2013-10-13,12,False,Empire State Realty Trust
+2013-10-20,5,False,Empire State Realty Trust
+2013-10-27,7,False,Empire State Realty Trust
+2013-11-03,6,False,Empire State Realty Trust
+2013-11-10,6,False,Empire State Realty Trust
+2013-11-17,3,False,Empire State Realty Trust
+2013-11-24,3,False,Empire State Realty Trust
+2013-12-01,6,False,Empire State Realty Trust
+2013-12-08,3,False,Empire State Realty Trust
+2013-12-15,3,False,Empire State Realty Trust
+2013-12-22,5,False,Empire State Realty Trust
+2013-12-29,5,False,Empire State Realty Trust
+2014-01-05,5,False,Empire State Realty Trust
+2014-01-12,0,False,Empire State Realty Trust
+2014-01-19,5,False,Empire State Realty Trust
+2014-01-26,8,False,Empire State Realty Trust
+2014-02-02,6,False,Empire State Realty Trust
+2014-02-09,6,False,Empire State Realty Trust
+2014-02-16,3,False,Empire State Realty Trust
+2014-02-23,9,False,Empire State Realty Trust
+2014-03-02,5,False,Empire State Realty Trust
+2014-03-09,3,False,Empire State Realty Trust
+2014-03-16,9,False,Empire State Realty Trust
+2014-03-23,12,False,Empire State Realty Trust
+2014-03-30,13,False,Empire State Realty Trust
+2014-04-06,0,False,Empire State Realty Trust
+2014-04-13,6,False,Empire State Realty Trust
+2014-04-20,3,False,Empire State Realty Trust
+2014-04-27,12,False,Empire State Realty Trust
+2014-05-04,14,False,Empire State Realty Trust
+2014-05-11,3,False,Empire State Realty Trust
+2014-05-18,5,False,Empire State Realty Trust
+2014-05-25,12,False,Empire State Realty Trust
+2014-06-01,3,False,Empire State Realty Trust
+2014-06-08,5,False,Empire State Realty Trust
+2014-06-15,7,False,Empire State Realty Trust
+2014-06-22,12,False,Empire State Realty Trust
+2014-06-29,2,False,Empire State Realty Trust

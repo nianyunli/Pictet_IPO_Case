@@ -1,0 +1,261 @@
+date,SVI,isPartial,Issuer
+2013-11-03,13,False,Ultragenyx Pharmaceutical
+2013-11-10,0,False,Ultragenyx Pharmaceutical
+2013-11-17,13,False,Ultragenyx Pharmaceutical
+2013-11-24,0,False,Ultragenyx Pharmaceutical
+2013-12-01,13,False,Ultragenyx Pharmaceutical
+2013-12-08,0,False,Ultragenyx Pharmaceutical
+2013-12-15,0,False,Ultragenyx Pharmaceutical
+2013-12-22,0,False,Ultragenyx Pharmaceutical
+2013-12-29,14,False,Ultragenyx Pharmaceutical
+2014-01-05,13,False,Ultragenyx Pharmaceutical
+2014-01-12,0,False,Ultragenyx Pharmaceutical
+2014-01-19,25,False,Ultragenyx Pharmaceutical
+2014-01-26,100,False,Ultragenyx Pharmaceutical
+2014-02-02,66,False,Ultragenyx Pharmaceutical
+2014-02-09,25,False,Ultragenyx Pharmaceutical
+2014-02-16,12,False,Ultragenyx Pharmaceutical
+2014-02-23,12,False,Ultragenyx Pharmaceutical
+2014-03-02,13,False,Ultragenyx Pharmaceutical
+2014-03-09,26,False,Ultragenyx Pharmaceutical
+2014-03-16,12,False,Ultragenyx Pharmaceutical
+2014-03-23,0,False,Ultragenyx Pharmaceutical
+2014-03-30,12,False,Ultragenyx Pharmaceutical
+2014-04-06,13,False,Ultragenyx Pharmaceutical
+2014-04-13,0,False,Ultragenyx Pharmaceutical
+2014-04-20,13,False,Ultragenyx Pharmaceutical
+2014-04-27,39,False,Ultragenyx Pharmaceutical
+2014-05-04,13,False,Ultragenyx Pharmaceutical
+2014-05-11,25,False,Ultragenyx Pharmaceutical
+2014-05-18,13,False,Ultragenyx Pharmaceutical
+2014-05-25,0,False,Ultragenyx Pharmaceutical
+2014-06-01,0,False,Ultragenyx Pharmaceutical
+2014-06-08,14,False,Ultragenyx Pharmaceutical
+2014-06-15,28,False,Ultragenyx Pharmaceutical
+2014-06-22,14,False,Ultragenyx Pharmaceutical
+2014-06-29,14,False,Ultragenyx Pharmaceutical
+2014-07-06,0,False,Ultragenyx Pharmaceutical
+2014-07-13,14,False,Ultragenyx Pharmaceutical
+2014-07-20,14,False,Ultragenyx Pharmaceutical
+2014-07-27,0,False,Ultragenyx Pharmaceutical
+2014-08-03,15,False,Ultragenyx Pharmaceutical
+2014-08-10,14,False,Ultragenyx Pharmaceutical
+2014-08-17,0,False,Ultragenyx Pharmaceutical
+2014-08-24,0,False,Ultragenyx Pharmaceutical
+2014-08-31,27,False,Ultragenyx Pharmaceutical
+2014-09-07,13,False,Ultragenyx Pharmaceutical
+2014-09-14,0,False,Ultragenyx Pharmaceutical
+2014-09-21,0,False,Ultragenyx Pharmaceutical
+2014-09-28,0,False,Ultragenyx Pharmaceutical
+2014-10-05,13,False,Ultragenyx Pharmaceutical
+2014-10-12,0,False,Ultragenyx Pharmaceutical
+2014-10-19,13,False,Ultragenyx Pharmaceutical
+2014-10-26,26,False,Ultragenyx Pharmaceutical
+2013-11-10,0,False,Auspex Pharmaceuticals
+2013-11-17,0,False,Auspex Pharmaceuticals
+2013-11-24,0,False,Auspex Pharmaceuticals
+2013-12-01,21,False,Auspex Pharmaceuticals
+2013-12-08,0,False,Auspex Pharmaceuticals
+2013-12-15,44,False,Auspex Pharmaceuticals
+2013-12-22,72,False,Auspex Pharmaceuticals
+2013-12-29,46,False,Auspex Pharmaceuticals
+2014-01-05,42,False,Auspex Pharmaceuticals
+2014-01-12,40,False,Auspex Pharmaceuticals
+2014-01-19,0,False,Auspex Pharmaceuticals
+2014-01-26,60,False,Auspex Pharmaceuticals
+2014-02-02,84,False,Auspex Pharmaceuticals
+2014-02-09,79,False,Auspex Pharmaceuticals
+2014-02-16,100,False,Auspex Pharmaceuticals
+2014-02-23,20,False,Auspex Pharmaceuticals
+2014-03-02,20,False,Auspex Pharmaceuticals
+2014-03-09,61,False,Auspex Pharmaceuticals
+2014-03-16,59,False,Auspex Pharmaceuticals
+2014-03-23,59,False,Auspex Pharmaceuticals
+2014-03-30,0,False,Auspex Pharmaceuticals
+2014-04-06,20,False,Auspex Pharmaceuticals
+2014-04-13,0,False,Auspex Pharmaceuticals
+2014-04-20,41,False,Auspex Pharmaceuticals
+2014-04-27,41,False,Auspex Pharmaceuticals
+2014-05-04,20,False,Auspex Pharmaceuticals
+2014-05-11,40,False,Auspex Pharmaceuticals
+2014-05-18,64,False,Auspex Pharmaceuticals
+2014-05-25,23,False,Auspex Pharmaceuticals
+2014-06-01,0,False,Auspex Pharmaceuticals
+2014-06-08,0,False,Auspex Pharmaceuticals
+2014-06-15,0,False,Auspex Pharmaceuticals
+2014-06-22,23,False,Auspex Pharmaceuticals
+2014-06-29,0,False,Auspex Pharmaceuticals
+2014-07-06,0,False,Auspex Pharmaceuticals
+2014-07-13,45,False,Auspex Pharmaceuticals
+2014-07-20,46,False,Auspex Pharmaceuticals
+2014-07-27,23,False,Auspex Pharmaceuticals
+2014-08-03,47,False,Auspex Pharmaceuticals
+2014-08-10,0,False,Auspex Pharmaceuticals
+2014-08-17,0,False,Auspex Pharmaceuticals
+2014-08-24,0,False,Auspex Pharmaceuticals
+2014-08-31,0,False,Auspex Pharmaceuticals
+2014-09-07,0,False,Auspex Pharmaceuticals
+2014-09-14,0,False,Auspex Pharmaceuticals
+2014-09-21,42,False,Auspex Pharmaceuticals
+2014-09-28,43,False,Auspex Pharmaceuticals
+2014-10-05,0,False,Auspex Pharmaceuticals
+2014-10-12,42,False,Auspex Pharmaceuticals
+2014-10-19,21,False,Auspex Pharmaceuticals
+2014-10-26,21,False,Auspex Pharmaceuticals
+2014-11-02,40,False,Auspex Pharmaceuticals
+2013-11-10,25,False,Biocept
+2013-11-17,25,False,Biocept
+2013-11-24,0,False,Biocept
+2013-12-01,37,False,Biocept
+2013-12-08,13,False,Biocept
+2013-12-15,13,False,Biocept
+2013-12-22,0,False,Biocept
+2013-12-29,14,False,Biocept
+2014-01-05,25,False,Biocept
+2014-01-12,12,False,Biocept
+2014-01-19,36,False,Biocept
+2014-01-26,47,False,Biocept
+2014-02-02,100,False,Biocept
+2014-02-09,71,False,Biocept
+2014-02-16,59,False,Biocept
+2014-02-23,58,False,Biocept
+2014-03-02,24,False,Biocept
+2014-03-09,36,False,Biocept
+2014-03-16,12,False,Biocept
+2014-03-23,12,False,Biocept
+2014-03-30,35,False,Biocept
+2014-04-06,36,False,Biocept
+2014-04-13,12,False,Biocept
+2014-04-20,12,False,Biocept
+2014-04-27,12,False,Biocept
+2014-05-04,24,False,Biocept
+2014-05-11,24,False,Biocept
+2014-05-18,25,False,Biocept
+2014-05-25,40,False,Biocept
+2014-06-01,0,False,Biocept
+2014-06-08,27,False,Biocept
+2014-06-15,27,False,Biocept
+2014-06-22,27,False,Biocept
+2014-06-29,54,False,Biocept
+2014-07-06,40,False,Biocept
+2014-07-13,13,False,Biocept
+2014-07-20,27,False,Biocept
+2014-07-27,14,False,Biocept
+2014-08-03,70,False,Biocept
+2014-08-10,40,False,Biocept
+2014-08-17,0,False,Biocept
+2014-08-24,26,False,Biocept
+2014-08-31,0,False,Biocept
+2014-09-07,50,False,Biocept
+2014-09-14,38,False,Biocept
+2014-09-21,37,False,Biocept
+2014-09-28,13,False,Biocept
+2014-10-05,100,False,Biocept
+2014-10-12,49,False,Biocept
+2014-10-19,25,False,Biocept
+2014-10-26,37,False,Biocept
+2014-11-02,48,False,Biocept
+2013-11-10,17,False,Continental Building Products
+2013-11-17,66,False,Continental Building Products
+2013-11-24,17,False,Continental Building Products
+2013-12-01,17,False,Continental Building Products
+2013-12-08,34,False,Continental Building Products
+2013-12-15,0,False,Continental Building Products
+2013-12-22,39,False,Continental Building Products
+2013-12-29,19,False,Continental Building Products
+2014-01-05,100,False,Continental Building Products
+2014-01-12,16,False,Continental Building Products
+2014-01-19,48,False,Continental Building Products
+2014-01-26,80,False,Continental Building Products
+2014-02-02,84,False,Continental Building Products
+2014-02-09,79,False,Continental Building Products
+2014-02-16,64,False,Continental Building Products
+2014-02-23,31,False,Continental Building Products
+2014-03-02,16,False,Continental Building Products
+2014-03-09,82,False,Continental Building Products
+2014-03-16,0,False,Continental Building Products
+2014-03-23,16,False,Continental Building Products
+2014-03-30,16,False,Continental Building Products
+2014-04-06,32,False,Continental Building Products
+2014-04-13,83,False,Continental Building Products
+2014-04-20,66,False,Continental Building Products
+2014-04-27,16,False,Continental Building Products
+2014-05-04,16,False,Continental Building Products
+2014-05-11,16,False,Continental Building Products
+2014-05-18,17,False,Continental Building Products
+2014-05-25,72,False,Continental Building Products
+2014-06-01,18,False,Continental Building Products
+2014-06-08,36,False,Continental Building Products
+2014-06-15,0,False,Continental Building Products
+2014-06-22,36,False,Continental Building Products
+2014-06-29,55,False,Continental Building Products
+2014-07-06,36,False,Continental Building Products
+2014-07-13,91,False,Continental Building Products
+2014-07-20,18,False,Continental Building Products
+2014-07-27,55,False,Continental Building Products
+2014-08-03,38,False,Continental Building Products
+2014-08-10,72,False,Continental Building Products
+2014-08-17,70,False,Continental Building Products
+2014-08-24,17,False,Continental Building Products
+2014-08-31,51,False,Continental Building Products
+2014-09-07,51,False,Continental Building Products
+2014-09-14,0,False,Continental Building Products
+2014-09-21,50,False,Continental Building Products
+2014-09-28,68,False,Continental Building Products
+2014-10-05,17,False,Continental Building Products
+2014-10-12,17,False,Continental Building Products
+2014-10-19,50,False,Continental Building Products
+2014-10-26,50,False,Continental Building Products
+2014-11-02,16,False,Continental Building Products
+2013-11-10,20,False,Genocea Biosciences
+2013-11-17,0,False,Genocea Biosciences
+2013-11-24,20,False,Genocea Biosciences
+2013-12-01,0,False,Genocea Biosciences
+2013-12-08,20,False,Genocea Biosciences
+2013-12-15,0,False,Genocea Biosciences
+2013-12-22,69,False,Genocea Biosciences
+2013-12-29,0,False,Genocea Biosciences
+2014-01-05,59,False,Genocea Biosciences
+2014-01-12,19,False,Genocea Biosciences
+2014-01-19,19,False,Genocea Biosciences
+2014-01-26,19,False,Genocea Biosciences
+2014-02-02,100,False,Genocea Biosciences
+2014-02-09,38,False,Genocea Biosciences
+2014-02-16,38,False,Genocea Biosciences
+2014-02-23,37,False,Genocea Biosciences
+2014-03-02,38,False,Genocea Biosciences
+2014-03-09,58,False,Genocea Biosciences
+2014-03-16,19,False,Genocea Biosciences
+2014-03-23,19,False,Genocea Biosciences
+2014-03-30,0,False,Genocea Biosciences
+2014-04-06,0,False,Genocea Biosciences
+2014-04-13,20,False,Genocea Biosciences
+2014-04-20,0,False,Genocea Biosciences
+2014-04-27,0,False,Genocea Biosciences
+2014-05-04,19,False,Genocea Biosciences
+2014-05-11,0,False,Genocea Biosciences
+2014-05-18,0,False,Genocea Biosciences
+2014-05-25,43,False,Genocea Biosciences
+2014-06-01,0,False,Genocea Biosciences
+2014-06-08,0,False,Genocea Biosciences
+2014-06-15,22,False,Genocea Biosciences
+2014-06-22,0,False,Genocea Biosciences
+2014-06-29,0,False,Genocea Biosciences
+2014-07-06,86,False,Genocea Biosciences
+2014-07-13,0,False,Genocea Biosciences
+2014-07-20,22,False,Genocea Biosciences
+2014-07-27,0,False,Genocea Biosciences
+2014-08-03,22,False,Genocea Biosciences
+2014-08-10,21,False,Genocea Biosciences
+2014-08-17,0,False,Genocea Biosciences
+2014-08-24,41,False,Genocea Biosciences
+2014-08-31,61,False,Genocea Biosciences
+2014-09-07,0,False,Genocea Biosciences
+2014-09-14,0,False,Genocea Biosciences
+2014-09-21,20,False,Genocea Biosciences
+2014-09-28,0,False,Genocea Biosciences
+2014-10-05,0,False,Genocea Biosciences
+2014-10-12,0,False,Genocea Biosciences
+2014-10-19,20,False,Genocea Biosciences
+2014-10-26,20,False,Genocea Biosciences
+2014-11-02,0,False,Genocea Biosciences

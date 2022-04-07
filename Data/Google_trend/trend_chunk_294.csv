@@ -1,0 +1,209 @@
+date,SVI,isPartial,Issuer
+2013-03-03,3,False,Epizyme
+2013-03-10,17,False,Epizyme
+2013-03-17,10,False,Epizyme
+2013-03-24,17,False,Epizyme
+2013-03-31,10,False,Epizyme
+2013-04-07,13,False,Epizyme
+2013-04-14,24,False,Epizyme
+2013-04-21,21,False,Epizyme
+2013-04-28,17,False,Epizyme
+2013-05-05,24,False,Epizyme
+2013-05-12,30,False,Epizyme
+2013-05-19,27,False,Epizyme
+2013-05-26,89,False,Epizyme
+2013-06-02,56,False,Epizyme
+2013-06-09,43,False,Epizyme
+2013-06-16,30,False,Epizyme
+2013-06-23,27,False,Epizyme
+2013-06-30,14,False,Epizyme
+2013-07-07,55,False,Epizyme
+2013-07-14,69,False,Epizyme
+2013-07-21,44,False,Epizyme
+2013-07-28,27,False,Epizyme
+2013-08-04,24,False,Epizyme
+2013-08-11,34,False,Epizyme
+2013-08-18,17,False,Epizyme
+2013-08-25,17,False,Epizyme
+2013-09-01,16,False,Epizyme
+2013-09-08,13,False,Epizyme
+2013-09-15,28,False,Epizyme
+2013-09-22,35,False,Epizyme
+2013-09-29,16,False,Epizyme
+2013-10-06,16,False,Epizyme
+2013-10-13,32,False,Epizyme
+2013-10-20,22,False,Epizyme
+2013-10-27,25,False,Epizyme
+2013-11-03,25,False,Epizyme
+2013-11-10,87,False,Epizyme
+2013-11-17,42,False,Epizyme
+2013-11-24,34,False,Epizyme
+2013-12-01,27,False,Epizyme
+2013-12-08,28,False,Epizyme
+2013-12-15,13,False,Epizyme
+2013-12-22,18,False,Epizyme
+2013-12-29,13,False,Epizyme
+2014-01-05,100,False,Epizyme
+2014-01-12,23,False,Epizyme
+2014-01-19,26,False,Epizyme
+2014-01-26,47,False,Epizyme
+2014-02-02,31,False,Epizyme
+2014-02-09,23,False,Epizyme
+2014-02-16,26,False,Epizyme
+2014-02-23,23,False,Epizyme
+2013-03-10,13,False,RCS Capital
+2013-03-17,13,False,RCS Capital
+2013-03-24,5,False,RCS Capital
+2013-03-31,9,False,RCS Capital
+2013-04-07,17,False,RCS Capital
+2013-04-14,9,False,RCS Capital
+2013-04-21,9,False,RCS Capital
+2013-04-28,5,False,RCS Capital
+2013-05-05,4,False,RCS Capital
+2013-05-12,4,False,RCS Capital
+2013-05-19,17,False,RCS Capital
+2013-05-26,4,False,RCS Capital
+2013-06-02,26,False,RCS Capital
+2013-06-09,22,False,RCS Capital
+2013-06-16,18,False,RCS Capital
+2013-06-23,13,False,RCS Capital
+2013-06-30,23,False,RCS Capital
+2013-07-07,9,False,RCS Capital
+2013-07-14,27,False,RCS Capital
+2013-07-21,4,False,RCS Capital
+2013-07-28,22,False,RCS Capital
+2013-08-04,4,False,RCS Capital
+2013-08-11,9,False,RCS Capital
+2013-08-18,18,False,RCS Capital
+2013-08-25,17,False,RCS Capital
+2013-09-01,25,False,RCS Capital
+2013-09-08,12,False,RCS Capital
+2013-09-15,12,False,RCS Capital
+2013-09-22,13,False,RCS Capital
+2013-09-29,54,False,RCS Capital
+2013-10-06,29,False,RCS Capital
+2013-10-13,29,False,RCS Capital
+2013-10-20,33,False,RCS Capital
+2013-10-27,12,False,RCS Capital
+2013-11-03,20,False,RCS Capital
+2013-11-10,12,False,RCS Capital
+2013-11-17,16,False,RCS Capital
+2013-11-24,12,False,RCS Capital
+2013-12-01,16,False,RCS Capital
+2013-12-08,25,False,RCS Capital
+2013-12-15,25,False,RCS Capital
+2013-12-22,0,False,RCS Capital
+2013-12-29,4,False,RCS Capital
+2014-01-05,24,False,RCS Capital
+2014-01-12,100,False,RCS Capital
+2014-01-19,42,False,RCS Capital
+2014-01-26,49,False,RCS Capital
+2014-02-02,24,False,RCS Capital
+2014-02-09,34,False,RCS Capital
+2014-02-16,15,False,RCS Capital
+2014-02-23,19,False,RCS Capital
+2014-03-02,42,False,RCS Capital
+2013-03-10,69,False,Textura
+2013-03-17,76,False,Textura
+2013-03-24,65,False,Textura
+2013-03-31,75,False,Textura
+2013-04-07,76,False,Textura
+2013-04-14,84,False,Textura
+2013-04-21,84,False,Textura
+2013-04-28,79,False,Textura
+2013-05-05,82,False,Textura
+2013-05-12,85,False,Textura
+2013-05-19,81,False,Textura
+2013-05-26,79,False,Textura
+2013-06-02,87,False,Textura
+2013-06-09,82,False,Textura
+2013-06-16,78,False,Textura
+2013-06-23,74,False,Textura
+2013-06-30,82,False,Textura
+2013-07-07,86,False,Textura
+2013-07-14,79,False,Textura
+2013-07-21,72,False,Textura
+2013-07-28,73,False,Textura
+2013-08-04,76,False,Textura
+2013-08-11,81,False,Textura
+2013-08-18,83,False,Textura
+2013-08-25,79,False,Textura
+2013-09-01,85,False,Textura
+2013-09-08,79,False,Textura
+2013-09-15,82,False,Textura
+2013-09-22,85,False,Textura
+2013-09-29,87,False,Textura
+2013-10-06,90,False,Textura
+2013-10-13,89,False,Textura
+2013-10-20,93,False,Textura
+2013-10-27,94,False,Textura
+2013-11-03,95,False,Textura
+2013-11-10,91,False,Textura
+2013-11-17,97,False,Textura
+2013-11-24,100,False,Textura
+2013-12-01,86,False,Textura
+2013-12-08,86,False,Textura
+2013-12-15,77,False,Textura
+2013-12-22,57,False,Textura
+2013-12-29,52,False,Textura
+2014-01-05,71,False,Textura
+2014-01-12,78,False,Textura
+2014-01-19,82,False,Textura
+2014-01-26,80,False,Textura
+2014-02-02,81,False,Textura
+2014-02-09,82,False,Textura
+2014-02-16,83,False,Textura
+2014-02-23,83,False,Textura
+2014-03-02,77,False,Textura
+2013-03-17,10,False,Gigamon
+2013-03-24,14,False,Gigamon
+2013-03-31,10,False,Gigamon
+2013-04-07,7,False,Gigamon
+2013-04-14,10,False,Gigamon
+2013-04-21,7,False,Gigamon
+2013-04-28,13,False,Gigamon
+2013-05-05,19,False,Gigamon
+2013-05-12,15,False,Gigamon
+2013-05-19,9,False,Gigamon
+2013-05-26,14,False,Gigamon
+2013-06-02,22,False,Gigamon
+2013-06-09,100,False,Gigamon
+2013-06-16,19,False,Gigamon
+2013-06-23,14,False,Gigamon
+2013-06-30,9,False,Gigamon
+2013-07-07,21,False,Gigamon
+2013-07-14,23,False,Gigamon
+2013-07-21,20,False,Gigamon
+2013-07-28,19,False,Gigamon
+2013-08-04,10,False,Gigamon
+2013-08-11,18,False,Gigamon
+2013-08-18,14,False,Gigamon
+2013-08-25,14,False,Gigamon
+2013-09-01,5,False,Gigamon
+2013-09-08,19,False,Gigamon
+2013-09-15,16,False,Gigamon
+2013-09-22,12,False,Gigamon
+2013-09-29,15,False,Gigamon
+2013-10-06,16,False,Gigamon
+2013-10-13,12,False,Gigamon
+2013-10-20,14,False,Gigamon
+2013-10-27,14,False,Gigamon
+2013-11-03,20,False,Gigamon
+2013-11-10,15,False,Gigamon
+2013-11-17,13,False,Gigamon
+2013-11-24,5,False,Gigamon
+2013-12-01,17,False,Gigamon
+2013-12-08,13,False,Gigamon
+2013-12-15,16,False,Gigamon
+2013-12-22,9,False,Gigamon
+2013-12-29,8,False,Gigamon
+2014-01-05,11,False,Gigamon
+2014-01-12,11,False,Gigamon
+2014-01-19,13,False,Gigamon
+2014-01-26,12,False,Gigamon
+2014-02-02,16,False,Gigamon
+2014-02-09,20,False,Gigamon
+2014-02-16,16,False,Gigamon
+2014-02-23,18,False,Gigamon
+2014-03-02,10,False,Gigamon
+2014-03-09,14,False,Gigamon

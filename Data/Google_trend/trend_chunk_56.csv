@@ -1,0 +1,264 @@
+date,SVI,isPartial,Issuer
+2019-02-17,0,False,Postal Realty Trust
+2019-02-24,16,False,Postal Realty Trust
+2019-03-03,0,False,Postal Realty Trust
+2019-03-10,0,False,Postal Realty Trust
+2019-03-17,0,False,Postal Realty Trust
+2019-03-24,0,False,Postal Realty Trust
+2019-03-31,0,False,Postal Realty Trust
+2019-04-07,17,False,Postal Realty Trust
+2019-04-14,0,False,Postal Realty Trust
+2019-04-21,0,False,Postal Realty Trust
+2019-04-28,100,False,Postal Realty Trust
+2019-05-05,100,False,Postal Realty Trust
+2019-05-12,33,False,Postal Realty Trust
+2019-05-19,0,False,Postal Realty Trust
+2019-05-26,0,False,Postal Realty Trust
+2019-06-02,16,False,Postal Realty Trust
+2019-06-09,33,False,Postal Realty Trust
+2019-06-16,16,False,Postal Realty Trust
+2019-06-23,17,False,Postal Realty Trust
+2019-06-30,0,False,Postal Realty Trust
+2019-07-07,17,False,Postal Realty Trust
+2019-07-14,0,False,Postal Realty Trust
+2019-07-21,0,False,Postal Realty Trust
+2019-07-28,17,False,Postal Realty Trust
+2019-08-04,17,False,Postal Realty Trust
+2019-08-11,17,False,Postal Realty Trust
+2019-08-18,33,False,Postal Realty Trust
+2019-08-25,0,False,Postal Realty Trust
+2019-09-01,16,False,Postal Realty Trust
+2019-09-08,16,False,Postal Realty Trust
+2019-09-15,16,False,Postal Realty Trust
+2019-09-22,16,False,Postal Realty Trust
+2019-09-29,0,False,Postal Realty Trust
+2019-10-06,32,False,Postal Realty Trust
+2019-10-13,0,False,Postal Realty Trust
+2019-10-20,0,False,Postal Realty Trust
+2019-10-27,15,False,Postal Realty Trust
+2019-11-03,15,False,Postal Realty Trust
+2019-11-10,15,False,Postal Realty Trust
+2019-11-17,16,False,Postal Realty Trust
+2019-11-24,15,False,Postal Realty Trust
+2019-12-01,46,False,Postal Realty Trust
+2019-12-08,16,False,Postal Realty Trust
+2019-12-15,0,False,Postal Realty Trust
+2019-12-22,17,False,Postal Realty Trust
+2019-12-29,0,False,Postal Realty Trust
+2020-01-05,30,False,Postal Realty Trust
+2020-01-12,0,False,Postal Realty Trust
+2020-01-19,15,False,Postal Realty Trust
+2020-01-26,0,False,Postal Realty Trust
+2020-02-02,15,False,Postal Realty Trust
+2020-02-09,0,False,Postal Realty Trust
+2019-02-17,39,False,Avantor
+2019-02-24,31,False,Avantor
+2019-03-03,33,False,Avantor
+2019-03-10,33,False,Avantor
+2019-03-17,36,False,Avantor
+2019-03-24,38,False,Avantor
+2019-03-31,41,False,Avantor
+2019-04-07,34,False,Avantor
+2019-04-14,31,False,Avantor
+2019-04-21,39,False,Avantor
+2019-04-28,34,False,Avantor
+2019-05-05,55,False,Avantor
+2019-05-12,100,False,Avantor
+2019-05-19,74,False,Avantor
+2019-05-26,53,False,Avantor
+2019-06-02,41,False,Avantor
+2019-06-09,45,False,Avantor
+2019-06-16,47,False,Avantor
+2019-06-23,49,False,Avantor
+2019-06-30,46,False,Avantor
+2019-07-07,41,False,Avantor
+2019-07-14,46,False,Avantor
+2019-07-21,38,False,Avantor
+2019-07-28,38,False,Avantor
+2019-08-04,51,False,Avantor
+2019-08-11,44,False,Avantor
+2019-08-18,44,False,Avantor
+2019-08-25,39,False,Avantor
+2019-09-01,43,False,Avantor
+2019-09-08,49,False,Avantor
+2019-09-15,40,False,Avantor
+2019-09-22,34,False,Avantor
+2019-09-29,48,False,Avantor
+2019-10-06,39,False,Avantor
+2019-10-13,44,False,Avantor
+2019-10-20,43,False,Avantor
+2019-10-27,37,False,Avantor
+2019-11-03,48,False,Avantor
+2019-11-10,47,False,Avantor
+2019-11-17,42,False,Avantor
+2019-11-24,30,False,Avantor
+2019-12-01,43,False,Avantor
+2019-12-08,35,False,Avantor
+2019-12-15,44,False,Avantor
+2019-12-22,18,False,Avantor
+2019-12-29,26,False,Avantor
+2020-01-05,36,False,Avantor
+2020-01-12,44,False,Avantor
+2020-01-19,45,False,Avantor
+2020-01-26,41,False,Avantor
+2020-02-02,53,False,Avantor
+2020-02-09,39,False,Avantor
+2020-02-16,35,False,Avantor
+2019-02-17,38,False,Fastly
+2019-02-24,40,False,Fastly
+2019-03-03,38,False,Fastly
+2019-03-10,42,False,Fastly
+2019-03-17,44,False,Fastly
+2019-03-24,45,False,Fastly
+2019-03-31,40,False,Fastly
+2019-04-07,39,False,Fastly
+2019-04-14,48,False,Fastly
+2019-04-21,53,False,Fastly
+2019-04-28,43,False,Fastly
+2019-05-05,53,False,Fastly
+2019-05-12,100,False,Fastly
+2019-05-19,64,False,Fastly
+2019-05-26,44,False,Fastly
+2019-06-02,48,False,Fastly
+2019-06-09,50,False,Fastly
+2019-06-16,51,False,Fastly
+2019-06-23,48,False,Fastly
+2019-06-30,39,False,Fastly
+2019-07-07,44,False,Fastly
+2019-07-14,45,False,Fastly
+2019-07-21,44,False,Fastly
+2019-07-28,46,False,Fastly
+2019-08-04,56,False,Fastly
+2019-08-11,47,False,Fastly
+2019-08-18,58,False,Fastly
+2019-08-25,59,False,Fastly
+2019-09-01,48,False,Fastly
+2019-09-08,55,False,Fastly
+2019-09-15,49,False,Fastly
+2019-09-22,46,False,Fastly
+2019-09-29,49,False,Fastly
+2019-10-06,43,False,Fastly
+2019-10-13,41,False,Fastly
+2019-10-20,43,False,Fastly
+2019-10-27,36,False,Fastly
+2019-11-03,52,False,Fastly
+2019-11-10,47,False,Fastly
+2019-11-17,47,False,Fastly
+2019-11-24,40,False,Fastly
+2019-12-01,38,False,Fastly
+2019-12-08,37,False,Fastly
+2019-12-15,42,False,Fastly
+2019-12-22,33,False,Fastly
+2019-12-29,27,False,Fastly
+2020-01-05,44,False,Fastly
+2020-01-12,42,False,Fastly
+2020-01-19,39,False,Fastly
+2020-01-26,46,False,Fastly
+2020-02-02,47,False,Fastly
+2020-02-09,43,False,Fastly
+2020-02-16,58,False,Fastly
+2019-02-17,4,False,Luckin Coffee
+2019-02-24,6,False,Luckin Coffee
+2019-03-03,6,False,Luckin Coffee
+2019-03-10,6,False,Luckin Coffee
+2019-03-17,7,False,Luckin Coffee
+2019-03-24,3,False,Luckin Coffee
+2019-03-31,3,False,Luckin Coffee
+2019-04-07,4,False,Luckin Coffee
+2019-04-14,6,False,Luckin Coffee
+2019-04-21,34,False,Luckin Coffee
+2019-04-28,13,False,Luckin Coffee
+2019-05-05,35,False,Luckin Coffee
+2019-05-12,100,False,Luckin Coffee
+2019-05-19,80,False,Luckin Coffee
+2019-05-26,27,False,Luckin Coffee
+2019-06-02,26,False,Luckin Coffee
+2019-06-09,21,False,Luckin Coffee
+2019-06-16,29,False,Luckin Coffee
+2019-06-23,18,False,Luckin Coffee
+2019-06-30,16,False,Luckin Coffee
+2019-07-07,16,False,Luckin Coffee
+2019-07-14,18,False,Luckin Coffee
+2019-07-21,30,False,Luckin Coffee
+2019-07-28,42,False,Luckin Coffee
+2019-08-04,28,False,Luckin Coffee
+2019-08-11,39,False,Luckin Coffee
+2019-08-18,25,False,Luckin Coffee
+2019-08-25,17,False,Luckin Coffee
+2019-09-01,18,False,Luckin Coffee
+2019-09-08,18,False,Luckin Coffee
+2019-09-15,16,False,Luckin Coffee
+2019-09-22,14,False,Luckin Coffee
+2019-09-29,14,False,Luckin Coffee
+2019-10-06,16,False,Luckin Coffee
+2019-10-13,9,False,Luckin Coffee
+2019-10-20,15,False,Luckin Coffee
+2019-10-27,11,False,Luckin Coffee
+2019-11-03,12,False,Luckin Coffee
+2019-11-10,33,False,Luckin Coffee
+2019-11-17,36,False,Luckin Coffee
+2019-11-24,29,False,Luckin Coffee
+2019-12-01,25,False,Luckin Coffee
+2019-12-08,28,False,Luckin Coffee
+2019-12-15,26,False,Luckin Coffee
+2019-12-22,28,False,Luckin Coffee
+2019-12-29,39,False,Luckin Coffee
+2020-01-05,59,False,Luckin Coffee
+2020-01-12,61,False,Luckin Coffee
+2020-01-19,52,False,Luckin Coffee
+2020-01-26,76,False,Luckin Coffee
+2020-02-02,84,False,Luckin Coffee
+2020-02-09,55,False,Luckin Coffee
+2020-02-16,50,False,Luckin Coffee
+2019-02-24,0,False,GX Acquisition
+2019-03-03,0,False,GX Acquisition
+2019-03-10,0,False,GX Acquisition
+2019-03-17,33,False,GX Acquisition
+2019-03-24,0,False,GX Acquisition
+2019-03-31,0,False,GX Acquisition
+2019-04-07,33,False,GX Acquisition
+2019-04-14,35,False,GX Acquisition
+2019-04-21,0,False,GX Acquisition
+2019-04-28,0,False,GX Acquisition
+2019-05-05,0,False,GX Acquisition
+2019-05-12,0,False,GX Acquisition
+2019-05-19,100,False,GX Acquisition
+2019-05-26,0,False,GX Acquisition
+2019-06-02,0,False,GX Acquisition
+2019-06-09,33,False,GX Acquisition
+2019-06-16,0,False,GX Acquisition
+2019-06-23,0,False,GX Acquisition
+2019-06-30,0,False,GX Acquisition
+2019-07-07,0,False,GX Acquisition
+2019-07-14,0,False,GX Acquisition
+2019-07-21,0,False,GX Acquisition
+2019-07-28,0,False,GX Acquisition
+2019-08-04,0,False,GX Acquisition
+2019-08-11,0,False,GX Acquisition
+2019-08-18,0,False,GX Acquisition
+2019-08-25,0,False,GX Acquisition
+2019-09-01,0,False,GX Acquisition
+2019-09-08,0,False,GX Acquisition
+2019-09-15,0,False,GX Acquisition
+2019-09-22,31,False,GX Acquisition
+2019-09-29,31,False,GX Acquisition
+2019-10-06,0,False,GX Acquisition
+2019-10-13,31,False,GX Acquisition
+2019-10-20,31,False,GX Acquisition
+2019-10-27,0,False,GX Acquisition
+2019-11-03,0,False,GX Acquisition
+2019-11-10,31,False,GX Acquisition
+2019-11-17,0,False,GX Acquisition
+2019-11-24,31,False,GX Acquisition
+2019-12-01,0,False,GX Acquisition
+2019-12-08,0,False,GX Acquisition
+2019-12-15,0,False,GX Acquisition
+2019-12-22,0,False,GX Acquisition
+2019-12-29,0,False,GX Acquisition
+2020-01-05,0,False,GX Acquisition
+2020-01-12,0,False,GX Acquisition
+2020-01-19,0,False,GX Acquisition
+2020-01-26,0,False,GX Acquisition
+2020-02-02,0,False,GX Acquisition
+2020-02-09,0,False,GX Acquisition
+2020-02-16,0,False,GX Acquisition

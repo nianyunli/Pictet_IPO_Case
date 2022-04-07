@@ -1,0 +1,209 @@
+date,SVI,isPartial,Issuer
+2011-11-27,33,False,ROI Acquisition
+2011-12-04,0,False,ROI Acquisition
+2011-12-11,100,False,ROI Acquisition
+2011-12-18,36,False,ROI Acquisition
+2011-12-25,37,False,ROI Acquisition
+2012-01-01,0,False,ROI Acquisition
+2012-01-08,32,False,ROI Acquisition
+2012-01-15,0,False,ROI Acquisition
+2012-01-22,31,False,ROI Acquisition
+2012-01-29,0,False,ROI Acquisition
+2012-02-05,0,False,ROI Acquisition
+2012-02-12,62,False,ROI Acquisition
+2012-02-19,63,False,ROI Acquisition
+2012-02-26,0,False,ROI Acquisition
+2012-03-04,94,False,ROI Acquisition
+2012-03-11,0,False,ROI Acquisition
+2012-03-18,31,False,ROI Acquisition
+2012-03-25,31,False,ROI Acquisition
+2012-04-01,96,False,ROI Acquisition
+2012-04-08,0,False,ROI Acquisition
+2012-04-15,31,False,ROI Acquisition
+2012-04-22,31,False,ROI Acquisition
+2012-04-29,0,False,ROI Acquisition
+2012-05-06,31,False,ROI Acquisition
+2012-05-13,31,False,ROI Acquisition
+2012-05-20,0,False,ROI Acquisition
+2012-05-27,0,False,ROI Acquisition
+2012-06-03,0,False,ROI Acquisition
+2012-06-10,61,False,ROI Acquisition
+2012-06-17,30,False,ROI Acquisition
+2012-06-24,31,False,ROI Acquisition
+2012-07-01,31,False,ROI Acquisition
+2012-07-08,62,False,ROI Acquisition
+2012-07-15,31,False,ROI Acquisition
+2012-07-22,0,False,ROI Acquisition
+2012-07-29,31,False,ROI Acquisition
+2012-08-05,31,False,ROI Acquisition
+2012-08-12,0,False,ROI Acquisition
+2012-08-19,0,False,ROI Acquisition
+2012-08-26,30,False,ROI Acquisition
+2012-09-02,30,False,ROI Acquisition
+2012-09-09,0,False,ROI Acquisition
+2012-09-16,0,False,ROI Acquisition
+2012-09-23,29,False,ROI Acquisition
+2012-09-30,29,False,ROI Acquisition
+2012-10-07,0,False,ROI Acquisition
+2012-10-14,28,False,ROI Acquisition
+2012-10-21,0,False,ROI Acquisition
+2012-10-28,0,False,ROI Acquisition
+2012-11-04,81,False,ROI Acquisition
+2012-11-11,0,False,ROI Acquisition
+2012-11-18,0,False,ROI Acquisition
+2011-12-04,27,False,Home Loan Servicing Solutions
+2011-12-11,0,False,Home Loan Servicing Solutions
+2011-12-18,29,False,Home Loan Servicing Solutions
+2011-12-25,0,False,Home Loan Servicing Solutions
+2012-01-01,0,False,Home Loan Servicing Solutions
+2012-01-08,0,False,Home Loan Servicing Solutions
+2012-01-15,25,False,Home Loan Servicing Solutions
+2012-01-22,25,False,Home Loan Servicing Solutions
+2012-01-29,0,False,Home Loan Servicing Solutions
+2012-02-05,0,False,Home Loan Servicing Solutions
+2012-02-12,100,False,Home Loan Servicing Solutions
+2012-02-19,25,False,Home Loan Servicing Solutions
+2012-02-26,51,False,Home Loan Servicing Solutions
+2012-03-04,0,False,Home Loan Servicing Solutions
+2012-03-11,25,False,Home Loan Servicing Solutions
+2012-03-18,50,False,Home Loan Servicing Solutions
+2012-03-25,0,False,Home Loan Servicing Solutions
+2012-04-01,0,False,Home Loan Servicing Solutions
+2012-04-08,26,False,Home Loan Servicing Solutions
+2012-04-15,0,False,Home Loan Servicing Solutions
+2012-04-22,0,False,Home Loan Servicing Solutions
+2012-04-29,0,False,Home Loan Servicing Solutions
+2012-05-06,0,False,Home Loan Servicing Solutions
+2012-05-13,0,False,Home Loan Servicing Solutions
+2012-05-20,0,False,Home Loan Servicing Solutions
+2012-05-27,0,False,Home Loan Servicing Solutions
+2012-06-03,49,False,Home Loan Servicing Solutions
+2012-06-10,0,False,Home Loan Servicing Solutions
+2012-06-17,25,False,Home Loan Servicing Solutions
+2012-06-24,25,False,Home Loan Servicing Solutions
+2012-07-01,0,False,Home Loan Servicing Solutions
+2012-07-08,50,False,Home Loan Servicing Solutions
+2012-07-15,25,False,Home Loan Servicing Solutions
+2012-07-22,51,False,Home Loan Servicing Solutions
+2012-07-29,25,False,Home Loan Servicing Solutions
+2012-08-05,0,False,Home Loan Servicing Solutions
+2012-08-12,25,False,Home Loan Servicing Solutions
+2012-08-19,0,False,Home Loan Servicing Solutions
+2012-08-26,24,False,Home Loan Servicing Solutions
+2012-09-02,48,False,Home Loan Servicing Solutions
+2012-09-09,0,False,Home Loan Servicing Solutions
+2012-09-16,47,False,Home Loan Servicing Solutions
+2012-09-23,0,False,Home Loan Servicing Solutions
+2012-09-30,70,False,Home Loan Servicing Solutions
+2012-10-07,23,False,Home Loan Servicing Solutions
+2012-10-14,45,False,Home Loan Servicing Solutions
+2012-10-21,22,False,Home Loan Servicing Solutions
+2012-10-28,68,False,Home Loan Servicing Solutions
+2012-11-04,44,False,Home Loan Servicing Solutions
+2012-11-11,0,False,Home Loan Servicing Solutions
+2012-11-18,22,False,Home Loan Servicing Solutions
+2012-11-25,22,False,Home Loan Servicing Solutions
+2011-12-11,0,False,Select Income REIT
+2011-12-18,0,False,Select Income REIT
+2011-12-25,41,False,Select Income REIT
+2012-01-01,19,False,Select Income REIT
+2012-01-08,18,False,Select Income REIT
+2012-01-15,17,False,Select Income REIT
+2012-01-22,0,False,Select Income REIT
+2012-01-29,0,False,Select Income REIT
+2012-02-05,0,False,Select Income REIT
+2012-02-12,0,False,Select Income REIT
+2012-02-19,0,False,Select Income REIT
+2012-02-26,34,False,Select Income REIT
+2012-03-04,85,False,Select Income REIT
+2012-03-11,17,False,Select Income REIT
+2012-03-18,0,False,Select Income REIT
+2012-03-25,17,False,Select Income REIT
+2012-04-01,18,False,Select Income REIT
+2012-04-08,18,False,Select Income REIT
+2012-04-15,33,False,Select Income REIT
+2012-04-22,0,False,Select Income REIT
+2012-04-29,0,False,Select Income REIT
+2012-05-06,0,False,Select Income REIT
+2012-05-13,17,False,Select Income REIT
+2012-05-20,0,False,Select Income REIT
+2012-05-27,0,False,Select Income REIT
+2012-06-03,0,False,Select Income REIT
+2012-06-10,100,False,Select Income REIT
+2012-06-17,0,False,Select Income REIT
+2012-06-24,0,False,Select Income REIT
+2012-07-01,34,False,Select Income REIT
+2012-07-08,51,False,Select Income REIT
+2012-07-15,34,False,Select Income REIT
+2012-07-22,0,False,Select Income REIT
+2012-07-29,17,False,Select Income REIT
+2012-08-05,0,False,Select Income REIT
+2012-08-12,0,False,Select Income REIT
+2012-08-19,0,False,Select Income REIT
+2012-08-26,0,False,Select Income REIT
+2012-09-02,16,False,Select Income REIT
+2012-09-09,0,False,Select Income REIT
+2012-09-16,0,False,Select Income REIT
+2012-09-23,0,False,Select Income REIT
+2012-09-30,0,False,Select Income REIT
+2012-10-07,0,False,Select Income REIT
+2012-10-14,0,False,Select Income REIT
+2012-10-21,0,False,Select Income REIT
+2012-10-28,15,False,Select Income REIT
+2012-11-04,0,False,Select Income REIT
+2012-11-11,0,False,Select Income REIT
+2012-11-18,15,False,Select Income REIT
+2012-11-25,0,False,Select Income REIT
+2012-12-02,29,False,Select Income REIT
+2011-12-11,0,False,Nationstar Mortgage Holdings
+2011-12-18,0,False,Nationstar Mortgage Holdings
+2011-12-25,0,False,Nationstar Mortgage Holdings
+2012-01-01,0,False,Nationstar Mortgage Holdings
+2012-01-08,0,False,Nationstar Mortgage Holdings
+2012-01-15,0,False,Nationstar Mortgage Holdings
+2012-01-22,0,False,Nationstar Mortgage Holdings
+2012-01-29,0,False,Nationstar Mortgage Holdings
+2012-02-05,0,False,Nationstar Mortgage Holdings
+2012-02-12,0,False,Nationstar Mortgage Holdings
+2012-02-19,0,False,Nationstar Mortgage Holdings
+2012-02-26,0,False,Nationstar Mortgage Holdings
+2012-03-04,68,False,Nationstar Mortgage Holdings
+2012-03-11,67,False,Nationstar Mortgage Holdings
+2012-03-18,68,False,Nationstar Mortgage Holdings
+2012-03-25,0,False,Nationstar Mortgage Holdings
+2012-04-01,0,False,Nationstar Mortgage Holdings
+2012-04-08,35,False,Nationstar Mortgage Holdings
+2012-04-15,0,False,Nationstar Mortgage Holdings
+2012-04-22,34,False,Nationstar Mortgage Holdings
+2012-04-29,0,False,Nationstar Mortgage Holdings
+2012-05-06,0,False,Nationstar Mortgage Holdings
+2012-05-13,34,False,Nationstar Mortgage Holdings
+2012-05-20,33,False,Nationstar Mortgage Holdings
+2012-05-27,0,False,Nationstar Mortgage Holdings
+2012-06-03,33,False,Nationstar Mortgage Holdings
+2012-06-10,0,False,Nationstar Mortgage Holdings
+2012-06-17,100,False,Nationstar Mortgage Holdings
+2012-06-24,0,False,Nationstar Mortgage Holdings
+2012-07-01,0,False,Nationstar Mortgage Holdings
+2012-07-08,0,False,Nationstar Mortgage Holdings
+2012-07-15,0,False,Nationstar Mortgage Holdings
+2012-07-22,0,False,Nationstar Mortgage Holdings
+2012-07-29,0,False,Nationstar Mortgage Holdings
+2012-08-05,34,False,Nationstar Mortgage Holdings
+2012-08-12,34,False,Nationstar Mortgage Holdings
+2012-08-19,0,False,Nationstar Mortgage Holdings
+2012-08-26,33,False,Nationstar Mortgage Holdings
+2012-09-02,32,False,Nationstar Mortgage Holdings
+2012-09-09,0,False,Nationstar Mortgage Holdings
+2012-09-16,0,False,Nationstar Mortgage Holdings
+2012-09-23,32,False,Nationstar Mortgage Holdings
+2012-09-30,0,False,Nationstar Mortgage Holdings
+2012-10-07,93,False,Nationstar Mortgage Holdings
+2012-10-14,0,False,Nationstar Mortgage Holdings
+2012-10-21,31,False,Nationstar Mortgage Holdings
+2012-10-28,0,False,Nationstar Mortgage Holdings
+2012-11-04,0,False,Nationstar Mortgage Holdings
+2012-11-11,0,False,Nationstar Mortgage Holdings
+2012-11-18,31,False,Nationstar Mortgage Holdings
+2012-11-25,0,False,Nationstar Mortgage Holdings
+2012-12-02,0,False,Nationstar Mortgage Holdings

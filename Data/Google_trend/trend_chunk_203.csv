@@ -1,0 +1,262 @@
+date,SVI,isPartial,Issuer
+2015-03-15,24,False,Invuity
+2015-03-22,13,False,Invuity
+2015-03-29,18,False,Invuity
+2015-04-05,24,False,Invuity
+2015-04-12,18,False,Invuity
+2015-04-19,100,False,Invuity
+2015-04-26,18,False,Invuity
+2015-05-03,35,False,Invuity
+2015-05-10,6,False,Invuity
+2015-05-17,35,False,Invuity
+2015-05-24,12,False,Invuity
+2015-05-31,89,False,Invuity
+2015-06-07,88,False,Invuity
+2015-06-14,53,False,Invuity
+2015-06-21,35,False,Invuity
+2015-06-28,30,False,Invuity
+2015-07-05,12,False,Invuity
+2015-07-12,6,False,Invuity
+2015-07-19,24,False,Invuity
+2015-07-26,36,False,Invuity
+2015-08-02,18,False,Invuity
+2015-08-09,29,False,Invuity
+2015-08-16,18,False,Invuity
+2015-08-23,29,False,Invuity
+2015-08-30,34,False,Invuity
+2015-09-06,17,False,Invuity
+2015-09-13,44,False,Invuity
+2015-09-20,28,False,Invuity
+2015-09-27,33,False,Invuity
+2015-10-04,11,False,Invuity
+2015-10-11,5,False,Invuity
+2015-10-18,22,False,Invuity
+2015-10-25,5,False,Invuity
+2015-11-01,27,False,Invuity
+2015-11-08,5,False,Invuity
+2015-11-15,16,False,Invuity
+2015-11-22,16,False,Invuity
+2015-11-29,43,False,Invuity
+2015-12-06,27,False,Invuity
+2015-12-13,22,False,Invuity
+2015-12-20,31,False,Invuity
+2015-12-27,19,False,Invuity
+2016-01-03,17,False,Invuity
+2016-01-10,28,False,Invuity
+2016-01-17,17,False,Invuity
+2016-01-24,23,False,Invuity
+2016-01-31,23,False,Invuity
+2016-02-07,23,False,Invuity
+2016-02-14,34,False,Invuity
+2016-02-21,34,False,Invuity
+2016-02-28,11,False,Invuity
+2016-03-06,11,False,Invuity
+2016-03-13,34,False,Invuity
+2015-03-22,0,False,Nivalis Therapeutics
+2015-03-29,9,False,Nivalis Therapeutics
+2015-04-05,9,False,Nivalis Therapeutics
+2015-04-12,0,False,Nivalis Therapeutics
+2015-04-19,0,False,Nivalis Therapeutics
+2015-04-26,0,False,Nivalis Therapeutics
+2015-05-03,0,False,Nivalis Therapeutics
+2015-05-10,28,False,Nivalis Therapeutics
+2015-05-17,18,False,Nivalis Therapeutics
+2015-05-24,9,False,Nivalis Therapeutics
+2015-05-31,46,False,Nivalis Therapeutics
+2015-06-07,46,False,Nivalis Therapeutics
+2015-06-14,100,False,Nivalis Therapeutics
+2015-06-21,46,False,Nivalis Therapeutics
+2015-06-28,9,False,Nivalis Therapeutics
+2015-07-05,0,False,Nivalis Therapeutics
+2015-07-12,0,False,Nivalis Therapeutics
+2015-07-19,0,False,Nivalis Therapeutics
+2015-07-26,0,False,Nivalis Therapeutics
+2015-08-02,19,False,Nivalis Therapeutics
+2015-08-09,9,False,Nivalis Therapeutics
+2015-08-16,9,False,Nivalis Therapeutics
+2015-08-23,18,False,Nivalis Therapeutics
+2015-08-30,26,False,Nivalis Therapeutics
+2015-09-06,9,False,Nivalis Therapeutics
+2015-09-13,9,False,Nivalis Therapeutics
+2015-09-20,18,False,Nivalis Therapeutics
+2015-09-27,26,False,Nivalis Therapeutics
+2015-10-04,8,False,Nivalis Therapeutics
+2015-10-11,25,False,Nivalis Therapeutics
+2015-10-18,9,False,Nivalis Therapeutics
+2015-10-25,0,False,Nivalis Therapeutics
+2015-11-01,0,False,Nivalis Therapeutics
+2015-11-08,9,False,Nivalis Therapeutics
+2015-11-15,34,False,Nivalis Therapeutics
+2015-11-22,17,False,Nivalis Therapeutics
+2015-11-29,0,False,Nivalis Therapeutics
+2015-12-06,17,False,Nivalis Therapeutics
+2015-12-13,9,False,Nivalis Therapeutics
+2015-12-20,10,False,Nivalis Therapeutics
+2015-12-27,0,False,Nivalis Therapeutics
+2016-01-03,0,False,Nivalis Therapeutics
+2016-01-10,18,False,Nivalis Therapeutics
+2016-01-17,9,False,Nivalis Therapeutics
+2016-01-24,0,False,Nivalis Therapeutics
+2016-01-31,9,False,Nivalis Therapeutics
+2016-02-07,0,False,Nivalis Therapeutics
+2016-02-14,18,False,Nivalis Therapeutics
+2016-02-21,9,False,Nivalis Therapeutics
+2016-02-28,0,False,Nivalis Therapeutics
+2016-03-06,0,False,Nivalis Therapeutics
+2016-03-13,0,False,Nivalis Therapeutics
+2015-03-22,32,False,Fitbit
+2015-03-29,32,False,Fitbit
+2015-04-05,34,False,Fitbit
+2015-04-12,34,False,Fitbit
+2015-04-19,34,False,Fitbit
+2015-04-26,37,False,Fitbit
+2015-05-03,47,False,Fitbit
+2015-05-10,47,False,Fitbit
+2015-05-17,42,False,Fitbit
+2015-05-24,43,False,Fitbit
+2015-05-31,44,False,Fitbit
+2015-06-07,43,False,Fitbit
+2015-06-14,51,False,Fitbit
+2015-06-21,47,False,Fitbit
+2015-06-28,40,False,Fitbit
+2015-07-05,38,False,Fitbit
+2015-07-12,42,False,Fitbit
+2015-07-19,38,False,Fitbit
+2015-07-26,36,False,Fitbit
+2015-08-02,37,False,Fitbit
+2015-08-09,36,False,Fitbit
+2015-08-16,36,False,Fitbit
+2015-08-23,35,False,Fitbit
+2015-08-30,35,False,Fitbit
+2015-09-06,34,False,Fitbit
+2015-09-13,34,False,Fitbit
+2015-09-20,34,False,Fitbit
+2015-09-27,33,False,Fitbit
+2015-10-04,32,False,Fitbit
+2015-10-11,31,False,Fitbit
+2015-10-18,30,False,Fitbit
+2015-10-25,32,False,Fitbit
+2015-11-01,37,False,Fitbit
+2015-11-08,36,False,Fitbit
+2015-11-15,38,False,Fitbit
+2015-11-22,63,False,Fitbit
+2015-11-29,62,False,Fitbit
+2015-12-06,57,False,Fitbit
+2015-12-13,61,False,Fitbit
+2015-12-20,100,False,Fitbit
+2015-12-27,99,False,Fitbit
+2016-01-03,88,False,Fitbit
+2016-01-10,64,False,Fitbit
+2016-01-17,52,False,Fitbit
+2016-01-24,52,False,Fitbit
+2016-01-31,53,False,Fitbit
+2016-02-07,59,False,Fitbit
+2016-02-14,50,False,Fitbit
+2016-02-21,49,False,Fitbit
+2016-02-28,49,False,Fitbit
+2016-03-06,51,False,Fitbit
+2016-03-13,52,False,Fitbit
+2015-03-22,56,False,Univar
+2015-03-29,59,False,Univar
+2015-04-05,60,False,Univar
+2015-04-12,55,False,Univar
+2015-04-19,70,False,Univar
+2015-04-26,71,False,Univar
+2015-05-03,84,False,Univar
+2015-05-10,66,False,Univar
+2015-05-17,61,False,Univar
+2015-05-24,57,False,Univar
+2015-05-31,67,False,Univar
+2015-06-07,90,False,Univar
+2015-06-14,100,False,Univar
+2015-06-21,82,False,Univar
+2015-06-28,71,False,Univar
+2015-07-05,77,False,Univar
+2015-07-12,70,False,Univar
+2015-07-19,80,False,Univar
+2015-07-26,72,False,Univar
+2015-08-02,64,False,Univar
+2015-08-09,76,False,Univar
+2015-08-16,63,False,Univar
+2015-08-23,70,False,Univar
+2015-08-30,58,False,Univar
+2015-09-06,58,False,Univar
+2015-09-13,53,False,Univar
+2015-09-20,59,False,Univar
+2015-09-27,75,False,Univar
+2015-10-04,73,False,Univar
+2015-10-11,64,False,Univar
+2015-10-18,63,False,Univar
+2015-10-25,50,False,Univar
+2015-11-01,63,False,Univar
+2015-11-08,65,False,Univar
+2015-11-15,54,False,Univar
+2015-11-22,54,False,Univar
+2015-11-29,63,False,Univar
+2015-12-06,69,False,Univar
+2015-12-13,61,False,Univar
+2015-12-20,37,False,Univar
+2015-12-27,29,False,Univar
+2016-01-03,57,False,Univar
+2016-01-10,56,False,Univar
+2016-01-17,64,False,Univar
+2016-01-24,59,False,Univar
+2016-01-31,58,False,Univar
+2016-02-07,60,False,Univar
+2016-02-14,61,False,Univar
+2016-02-21,59,False,Univar
+2016-02-28,59,False,Univar
+2016-03-06,57,False,Univar
+2016-03-13,69,False,Univar
+2015-03-22,0,False,8point3 Energy Partners LP
+2015-03-29,0,False,8point3 Energy Partners LP
+2015-04-05,0,False,8point3 Energy Partners LP
+2015-04-12,0,False,8point3 Energy Partners LP
+2015-04-19,0,False,8point3 Energy Partners LP
+2015-04-26,0,False,8point3 Energy Partners LP
+2015-05-03,0,False,8point3 Energy Partners LP
+2015-05-10,49,False,8point3 Energy Partners LP
+2015-05-17,0,False,8point3 Energy Partners LP
+2015-05-24,0,False,8point3 Energy Partners LP
+2015-05-31,0,False,8point3 Energy Partners LP
+2015-06-07,49,False,8point3 Energy Partners LP
+2015-06-14,49,False,8point3 Energy Partners LP
+2015-06-21,49,False,8point3 Energy Partners LP
+2015-06-28,100,False,8point3 Energy Partners LP
+2015-07-05,50,False,8point3 Energy Partners LP
+2015-07-12,50,False,8point3 Energy Partners LP
+2015-07-19,51,False,8point3 Energy Partners LP
+2015-07-26,0,False,8point3 Energy Partners LP
+2015-08-02,0,False,8point3 Energy Partners LP
+2015-08-09,0,False,8point3 Energy Partners LP
+2015-08-16,0,False,8point3 Energy Partners LP
+2015-08-23,0,False,8point3 Energy Partners LP
+2015-08-30,47,False,8point3 Energy Partners LP
+2015-09-06,0,False,8point3 Energy Partners LP
+2015-09-13,0,False,8point3 Energy Partners LP
+2015-09-20,0,False,8point3 Energy Partners LP
+2015-09-27,46,False,8point3 Energy Partners LP
+2015-10-04,0,False,8point3 Energy Partners LP
+2015-10-11,0,False,8point3 Energy Partners LP
+2015-10-18,0,False,8point3 Energy Partners LP
+2015-10-25,45,False,8point3 Energy Partners LP
+2015-11-01,0,False,8point3 Energy Partners LP
+2015-11-08,0,False,8point3 Energy Partners LP
+2015-11-15,0,False,8point3 Energy Partners LP
+2015-11-22,0,False,8point3 Energy Partners LP
+2015-11-29,0,False,8point3 Energy Partners LP
+2015-12-06,0,False,8point3 Energy Partners LP
+2015-12-13,0,False,8point3 Energy Partners LP
+2015-12-20,51,False,8point3 Energy Partners LP
+2015-12-27,52,False,8point3 Energy Partners LP
+2016-01-03,0,False,8point3 Energy Partners LP
+2016-01-10,0,False,8point3 Energy Partners LP
+2016-01-17,47,False,8point3 Energy Partners LP
+2016-01-24,0,False,8point3 Energy Partners LP
+2016-01-31,0,False,8point3 Energy Partners LP
+2016-02-07,0,False,8point3 Energy Partners LP
+2016-02-14,0,False,8point3 Energy Partners LP
+2016-02-21,0,False,8point3 Energy Partners LP
+2016-02-28,0,False,8point3 Energy Partners LP
+2016-03-06,0,False,8point3 Energy Partners LP
+2016-03-13,47,False,8point3 Energy Partners LP

@@ -1,0 +1,263 @@
+date,SVI,isPartial,Issuer
+2020-02-23,20,False,SelectQuote
+2020-03-01,26,False,SelectQuote
+2020-03-08,16,False,SelectQuote
+2020-03-15,14,False,SelectQuote
+2020-03-22,21,False,SelectQuote
+2020-03-29,17,False,SelectQuote
+2020-04-05,27,False,SelectQuote
+2020-04-12,24,False,SelectQuote
+2020-04-19,33,False,SelectQuote
+2020-04-26,27,False,SelectQuote
+2020-05-03,23,False,SelectQuote
+2020-05-10,28,False,SelectQuote
+2020-05-17,100,False,SelectQuote
+2020-05-24,36,False,SelectQuote
+2020-05-31,36,False,SelectQuote
+2020-06-07,30,False,SelectQuote
+2020-06-14,28,False,SelectQuote
+2020-06-21,22,False,SelectQuote
+2020-06-28,28,False,SelectQuote
+2020-07-05,28,False,SelectQuote
+2020-07-12,27,False,SelectQuote
+2020-07-19,33,False,SelectQuote
+2020-07-26,29,False,SelectQuote
+2020-08-02,23,False,SelectQuote
+2020-08-09,30,False,SelectQuote
+2020-08-16,27,False,SelectQuote
+2020-08-23,25,False,SelectQuote
+2020-08-30,28,False,SelectQuote
+2020-09-06,24,False,SelectQuote
+2020-09-13,17,False,SelectQuote
+2020-09-20,29,False,SelectQuote
+2020-09-27,23,False,SelectQuote
+2020-10-04,25,False,SelectQuote
+2020-10-11,21,False,SelectQuote
+2020-10-18,25,False,SelectQuote
+2020-10-25,22,False,SelectQuote
+2020-11-01,19,False,SelectQuote
+2020-11-08,24,False,SelectQuote
+2020-11-15,14,False,SelectQuote
+2020-11-22,13,False,SelectQuote
+2020-11-29,13,False,SelectQuote
+2020-12-06,9,False,SelectQuote
+2020-12-13,14,False,SelectQuote
+2020-12-20,9,False,SelectQuote
+2020-12-27,16,False,SelectQuote
+2021-01-03,17,False,SelectQuote
+2021-01-10,24,False,SelectQuote
+2021-01-17,21,False,SelectQuote
+2021-01-24,20,False,SelectQuote
+2021-01-31,16,False,SelectQuote
+2021-02-07,14,False,SelectQuote
+2021-02-14,17,False,SelectQuote
+2021-02-21,15,False,SelectQuote
+2020-02-23,13,False,Inari Medical
+2020-03-01,8,False,Inari Medical
+2020-03-08,3,False,Inari Medical
+2020-03-15,7,False,Inari Medical
+2020-03-22,4,False,Inari Medical
+2020-03-29,1,False,Inari Medical
+2020-04-05,0,False,Inari Medical
+2020-04-12,4,False,Inari Medical
+2020-04-19,9,False,Inari Medical
+2020-04-26,2,False,Inari Medical
+2020-05-03,3,False,Inari Medical
+2020-05-10,4,False,Inari Medical
+2020-05-17,100,False,Inari Medical
+2020-05-24,42,False,Inari Medical
+2020-05-31,33,False,Inari Medical
+2020-06-07,12,False,Inari Medical
+2020-06-14,11,False,Inari Medical
+2020-06-21,3,False,Inari Medical
+2020-06-28,13,False,Inari Medical
+2020-07-05,7,False,Inari Medical
+2020-07-12,13,False,Inari Medical
+2020-07-19,17,False,Inari Medical
+2020-07-26,12,False,Inari Medical
+2020-08-02,14,False,Inari Medical
+2020-08-09,17,False,Inari Medical
+2020-08-16,13,False,Inari Medical
+2020-08-23,8,False,Inari Medical
+2020-08-30,14,False,Inari Medical
+2020-09-06,15,False,Inari Medical
+2020-09-13,13,False,Inari Medical
+2020-09-20,12,False,Inari Medical
+2020-09-27,2,False,Inari Medical
+2020-10-04,14,False,Inari Medical
+2020-10-11,11,False,Inari Medical
+2020-10-18,12,False,Inari Medical
+2020-10-25,12,False,Inari Medical
+2020-11-01,10,False,Inari Medical
+2020-11-08,18,False,Inari Medical
+2020-11-15,10,False,Inari Medical
+2020-11-22,11,False,Inari Medical
+2020-11-29,12,False,Inari Medical
+2020-12-06,7,False,Inari Medical
+2020-12-13,10,False,Inari Medical
+2020-12-20,8,False,Inari Medical
+2020-12-27,9,False,Inari Medical
+2021-01-03,10,False,Inari Medical
+2021-01-10,19,False,Inari Medical
+2021-01-17,31,False,Inari Medical
+2021-01-24,13,False,Inari Medical
+2021-01-31,13,False,Inari Medical
+2021-02-07,13,False,Inari Medical
+2021-02-14,18,False,Inari Medical
+2021-02-21,14,False,Inari Medical
+2020-03-01,0,False,Foley Trasimene Acquisition
+2020-03-08,0,False,Foley Trasimene Acquisition
+2020-03-15,0,False,Foley Trasimene Acquisition
+2020-03-22,0,False,Foley Trasimene Acquisition
+2020-03-29,0,False,Foley Trasimene Acquisition
+2020-04-05,0,False,Foley Trasimene Acquisition
+2020-04-12,0,False,Foley Trasimene Acquisition
+2020-04-19,0,False,Foley Trasimene Acquisition
+2020-04-26,1,False,Foley Trasimene Acquisition
+2020-05-03,0,False,Foley Trasimene Acquisition
+2020-05-10,2,False,Foley Trasimene Acquisition
+2020-05-17,1,False,Foley Trasimene Acquisition
+2020-05-24,2,False,Foley Trasimene Acquisition
+2020-05-31,2,False,Foley Trasimene Acquisition
+2020-06-07,1,False,Foley Trasimene Acquisition
+2020-06-14,1,False,Foley Trasimene Acquisition
+2020-06-21,1,False,Foley Trasimene Acquisition
+2020-06-28,1,False,Foley Trasimene Acquisition
+2020-07-05,0,False,Foley Trasimene Acquisition
+2020-07-12,2,False,Foley Trasimene Acquisition
+2020-07-19,1,False,Foley Trasimene Acquisition
+2020-07-26,0,False,Foley Trasimene Acquisition
+2020-08-02,1,False,Foley Trasimene Acquisition
+2020-08-09,0,False,Foley Trasimene Acquisition
+2020-08-16,3,False,Foley Trasimene Acquisition
+2020-08-23,1,False,Foley Trasimene Acquisition
+2020-08-30,1,False,Foley Trasimene Acquisition
+2020-09-06,1,False,Foley Trasimene Acquisition
+2020-09-13,0,False,Foley Trasimene Acquisition
+2020-09-20,1,False,Foley Trasimene Acquisition
+2020-09-27,1,False,Foley Trasimene Acquisition
+2020-10-04,1,False,Foley Trasimene Acquisition
+2020-10-11,1,False,Foley Trasimene Acquisition
+2020-10-18,0,False,Foley Trasimene Acquisition
+2020-10-25,0,False,Foley Trasimene Acquisition
+2020-11-01,2,False,Foley Trasimene Acquisition
+2020-11-08,2,False,Foley Trasimene Acquisition
+2020-11-15,1,False,Foley Trasimene Acquisition
+2020-11-22,1,False,Foley Trasimene Acquisition
+2020-11-29,0,False,Foley Trasimene Acquisition
+2020-12-06,100,False,Foley Trasimene Acquisition
+2020-12-13,42,False,Foley Trasimene Acquisition
+2020-12-20,38,False,Foley Trasimene Acquisition
+2020-12-27,35,False,Foley Trasimene Acquisition
+2021-01-03,24,False,Foley Trasimene Acquisition
+2021-01-10,27,False,Foley Trasimene Acquisition
+2021-01-17,30,False,Foley Trasimene Acquisition
+2021-01-24,56,False,Foley Trasimene Acquisition
+2021-01-31,18,False,Foley Trasimene Acquisition
+2021-02-07,16,False,Foley Trasimene Acquisition
+2021-02-14,20,False,Foley Trasimene Acquisition
+2021-02-21,15,False,Foley Trasimene Acquisition
+2020-03-08,4,False,Pliant Therapeutics
+2020-03-15,4,False,Pliant Therapeutics
+2020-03-22,4,False,Pliant Therapeutics
+2020-03-29,6,False,Pliant Therapeutics
+2020-04-05,4,False,Pliant Therapeutics
+2020-04-12,0,False,Pliant Therapeutics
+2020-04-19,4,False,Pliant Therapeutics
+2020-04-26,2,False,Pliant Therapeutics
+2020-05-03,6,False,Pliant Therapeutics
+2020-05-10,13,False,Pliant Therapeutics
+2020-05-17,6,False,Pliant Therapeutics
+2020-05-24,27,False,Pliant Therapeutics
+2020-05-31,100,False,Pliant Therapeutics
+2020-06-07,23,False,Pliant Therapeutics
+2020-06-14,29,False,Pliant Therapeutics
+2020-06-21,26,False,Pliant Therapeutics
+2020-06-28,6,False,Pliant Therapeutics
+2020-07-05,8,False,Pliant Therapeutics
+2020-07-12,17,False,Pliant Therapeutics
+2020-07-19,17,False,Pliant Therapeutics
+2020-07-26,4,False,Pliant Therapeutics
+2020-08-02,12,False,Pliant Therapeutics
+2020-08-09,6,False,Pliant Therapeutics
+2020-08-16,8,False,Pliant Therapeutics
+2020-08-23,2,False,Pliant Therapeutics
+2020-08-30,6,False,Pliant Therapeutics
+2020-09-06,8,False,Pliant Therapeutics
+2020-09-13,12,False,Pliant Therapeutics
+2020-09-20,6,False,Pliant Therapeutics
+2020-09-27,16,False,Pliant Therapeutics
+2020-10-04,10,False,Pliant Therapeutics
+2020-10-11,2,False,Pliant Therapeutics
+2020-10-18,6,False,Pliant Therapeutics
+2020-10-25,0,False,Pliant Therapeutics
+2020-11-01,2,False,Pliant Therapeutics
+2020-11-08,4,False,Pliant Therapeutics
+2020-11-15,6,False,Pliant Therapeutics
+2020-11-22,2,False,Pliant Therapeutics
+2020-11-29,2,False,Pliant Therapeutics
+2020-12-06,2,False,Pliant Therapeutics
+2020-12-13,0,False,Pliant Therapeutics
+2020-12-20,0,False,Pliant Therapeutics
+2020-12-27,5,False,Pliant Therapeutics
+2021-01-03,8,False,Pliant Therapeutics
+2021-01-10,2,False,Pliant Therapeutics
+2021-01-17,0,False,Pliant Therapeutics
+2021-01-24,4,False,Pliant Therapeutics
+2021-01-31,6,False,Pliant Therapeutics
+2021-02-07,8,False,Pliant Therapeutics
+2021-02-14,2,False,Pliant Therapeutics
+2021-02-21,10,False,Pliant Therapeutics
+2021-02-28,13,False,Pliant Therapeutics
+2005-02-13,15,False,Warner Music Group
+2005-02-20,16,False,Warner Music Group
+2005-02-27,45,False,Warner Music Group
+2005-03-06,28,False,Warner Music Group
+2005-03-13,35,False,Warner Music Group
+2005-03-20,54,False,Warner Music Group
+2005-03-27,34,False,Warner Music Group
+2005-04-03,52,False,Warner Music Group
+2005-04-10,35,False,Warner Music Group
+2005-04-17,35,False,Warner Music Group
+2005-04-24,28,False,Warner Music Group
+2005-05-01,100,False,Warner Music Group
+2005-05-08,81,False,Warner Music Group
+2005-05-15,20,False,Warner Music Group
+2005-05-22,49,False,Warner Music Group
+2005-05-29,28,False,Warner Music Group
+2005-06-05,54,False,Warner Music Group
+2005-06-12,41,False,Warner Music Group
+2005-06-19,28,False,Warner Music Group
+2005-06-26,14,False,Warner Music Group
+2005-07-03,49,False,Warner Music Group
+2005-07-10,35,False,Warner Music Group
+2005-07-17,48,False,Warner Music Group
+2005-07-24,14,False,Warner Music Group
+2005-07-31,35,False,Warner Music Group
+2005-08-07,48,False,Warner Music Group
+2005-08-14,14,False,Warner Music Group
+2005-08-21,15,False,Warner Music Group
+2005-08-28,13,False,Warner Music Group
+2005-09-04,44,False,Warner Music Group
+2005-09-11,42,False,Warner Music Group
+2005-09-18,24,False,Warner Music Group
+2005-09-25,35,False,Warner Music Group
+2005-10-02,35,False,Warner Music Group
+2005-10-09,23,False,Warner Music Group
+2005-10-16,45,False,Warner Music Group
+2005-10-23,34,False,Warner Music Group
+2005-10-30,23,False,Warner Music Group
+2005-11-06,26,False,Warner Music Group
+2005-11-13,32,False,Warner Music Group
+2005-11-20,45,False,Warner Music Group
+2005-11-27,57,False,Warner Music Group
+2005-12-04,21,False,Warner Music Group
+2005-12-11,48,False,Warner Music Group
+2005-12-18,6,False,Warner Music Group
+2005-12-25,20,False,Warner Music Group
+2006-01-01,33,False,Warner Music Group
+2006-01-08,35,False,Warner Music Group
+2006-01-15,83,False,Warner Music Group
+2006-01-22,67,False,Warner Music Group
+2006-01-29,48,False,Warner Music Group
+2006-02-05,28,False,Warner Music Group

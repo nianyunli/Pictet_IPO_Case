@@ -1,0 +1,157 @@
+date,SVI,isPartial,Issuer
+2011-03-13,0,False,Taomee Holdings
+2011-03-20,0,False,Taomee Holdings
+2011-03-27,0,False,Taomee Holdings
+2011-04-03,0,False,Taomee Holdings
+2011-04-10,0,False,Taomee Holdings
+2011-04-17,0,False,Taomee Holdings
+2011-04-24,0,False,Taomee Holdings
+2011-05-01,0,False,Taomee Holdings
+2011-05-08,0,False,Taomee Holdings
+2011-05-15,0,False,Taomee Holdings
+2011-05-22,99,False,Taomee Holdings
+2011-05-29,25,False,Taomee Holdings
+2011-06-05,100,False,Taomee Holdings
+2011-06-12,0,False,Taomee Holdings
+2011-06-19,50,False,Taomee Holdings
+2011-06-26,25,False,Taomee Holdings
+2011-07-03,25,False,Taomee Holdings
+2011-07-10,51,False,Taomee Holdings
+2011-07-17,49,False,Taomee Holdings
+2011-07-24,25,False,Taomee Holdings
+2011-07-31,0,False,Taomee Holdings
+2011-08-07,0,False,Taomee Holdings
+2011-08-14,0,False,Taomee Holdings
+2011-08-21,0,False,Taomee Holdings
+2011-08-28,24,False,Taomee Holdings
+2011-09-04,0,False,Taomee Holdings
+2011-09-11,0,False,Taomee Holdings
+2011-09-18,0,False,Taomee Holdings
+2011-09-25,0,False,Taomee Holdings
+2011-10-02,22,False,Taomee Holdings
+2011-10-09,0,False,Taomee Holdings
+2011-10-16,0,False,Taomee Holdings
+2011-10-23,0,False,Taomee Holdings
+2011-10-30,0,False,Taomee Holdings
+2011-11-06,0,False,Taomee Holdings
+2011-11-13,0,False,Taomee Holdings
+2011-11-20,22,False,Taomee Holdings
+2011-11-27,0,False,Taomee Holdings
+2011-12-04,0,False,Taomee Holdings
+2011-12-11,21,False,Taomee Holdings
+2011-12-18,22,False,Taomee Holdings
+2011-12-25,0,False,Taomee Holdings
+2012-01-01,0,False,Taomee Holdings
+2012-01-08,0,False,Taomee Holdings
+2012-01-15,0,False,Taomee Holdings
+2012-01-22,0,False,Taomee Holdings
+2012-01-29,0,False,Taomee Holdings
+2012-02-05,0,False,Taomee Holdings
+2012-02-12,0,False,Taomee Holdings
+2012-02-19,0,False,Taomee Holdings
+2012-02-26,0,False,Taomee Holdings
+2012-03-04,0,False,Taomee Holdings
+2011-03-20,29,False,Pandora Media
+2011-03-27,20,False,Pandora Media
+2011-04-03,28,False,Pandora Media
+2011-04-10,21,False,Pandora Media
+2011-04-17,27,False,Pandora Media
+2011-04-24,23,False,Pandora Media
+2011-05-01,21,False,Pandora Media
+2011-05-08,20,False,Pandora Media
+2011-05-15,28,False,Pandora Media
+2011-05-22,28,False,Pandora Media
+2011-05-29,30,False,Pandora Media
+2011-06-05,28,False,Pandora Media
+2011-06-12,100,False,Pandora Media
+2011-06-19,36,False,Pandora Media
+2011-06-26,23,False,Pandora Media
+2011-07-03,25,False,Pandora Media
+2011-07-10,30,False,Pandora Media
+2011-07-17,20,False,Pandora Media
+2011-07-24,26,False,Pandora Media
+2011-07-31,35,False,Pandora Media
+2011-08-07,32,False,Pandora Media
+2011-08-14,27,False,Pandora Media
+2011-08-21,35,False,Pandora Media
+2011-08-28,30,False,Pandora Media
+2011-09-04,18,False,Pandora Media
+2011-09-11,24,False,Pandora Media
+2011-09-18,33,False,Pandora Media
+2011-09-25,43,False,Pandora Media
+2011-10-02,37,False,Pandora Media
+2011-10-09,27,False,Pandora Media
+2011-10-16,41,False,Pandora Media
+2011-10-23,39,False,Pandora Media
+2011-10-30,38,False,Pandora Media
+2011-11-06,29,False,Pandora Media
+2011-11-13,37,False,Pandora Media
+2011-11-20,37,False,Pandora Media
+2011-11-27,43,False,Pandora Media
+2011-12-04,41,False,Pandora Media
+2011-12-11,29,False,Pandora Media
+2011-12-18,46,False,Pandora Media
+2011-12-25,29,False,Pandora Media
+2012-01-01,27,False,Pandora Media
+2012-01-08,30,False,Pandora Media
+2012-01-15,32,False,Pandora Media
+2012-01-22,29,False,Pandora Media
+2012-01-29,34,False,Pandora Media
+2012-02-05,31,False,Pandora Media
+2012-02-12,28,False,Pandora Media
+2012-02-19,34,False,Pandora Media
+2012-02-26,22,False,Pandora Media
+2012-03-04,31,False,Pandora Media
+2012-03-11,27,False,Pandora Media
+2011-03-20,55,False,Bankrate
+2011-03-27,51,False,Bankrate
+2011-04-03,51,False,Bankrate
+2011-04-10,43,False,Bankrate
+2011-04-17,56,False,Bankrate
+2011-04-24,54,False,Bankrate
+2011-05-01,51,False,Bankrate
+2011-05-08,56,False,Bankrate
+2011-05-15,49,False,Bankrate
+2011-05-22,48,False,Bankrate
+2011-05-29,48,False,Bankrate
+2011-06-05,54,False,Bankrate
+2011-06-12,71,False,Bankrate
+2011-06-19,57,False,Bankrate
+2011-06-26,51,False,Bankrate
+2011-07-03,54,False,Bankrate
+2011-07-10,57,False,Bankrate
+2011-07-17,52,False,Bankrate
+2011-07-24,55,False,Bankrate
+2011-07-31,82,False,Bankrate
+2011-08-07,100,False,Bankrate
+2011-08-14,91,False,Bankrate
+2011-08-21,64,False,Bankrate
+2011-08-28,60,False,Bankrate
+2011-09-04,55,False,Bankrate
+2011-09-11,65,False,Bankrate
+2011-09-18,76,False,Bankrate
+2011-09-25,73,False,Bankrate
+2011-10-02,74,False,Bankrate
+2011-10-09,64,False,Bankrate
+2011-10-16,59,False,Bankrate
+2011-10-23,61,False,Bankrate
+2011-10-30,54,False,Bankrate
+2011-11-06,56,False,Bankrate
+2011-11-13,46,False,Bankrate
+2011-11-20,40,False,Bankrate
+2011-11-27,51,False,Bankrate
+2011-12-04,46,False,Bankrate
+2011-12-11,47,False,Bankrate
+2011-12-18,51,False,Bankrate
+2011-12-25,48,False,Bankrate
+2012-01-01,65,False,Bankrate
+2012-01-08,62,False,Bankrate
+2012-01-15,62,False,Bankrate
+2012-01-22,61,False,Bankrate
+2012-01-29,65,False,Bankrate
+2012-02-05,64,False,Bankrate
+2012-02-12,61,False,Bankrate
+2012-02-19,63,False,Bankrate
+2012-02-26,56,False,Bankrate
+2012-03-04,58,False,Bankrate
+2012-03-11,57,False,Bankrate

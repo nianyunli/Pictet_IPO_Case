@@ -1,0 +1,261 @@
+date,SVI,isPartial,Issuer
+2011-10-23,63,False,Renewable Energy Group
+2011-10-30,76,False,Renewable Energy Group
+2011-11-06,17,False,Renewable Energy Group
+2011-11-13,40,False,Renewable Energy Group
+2011-11-20,34,False,Renewable Energy Group
+2011-11-27,50,False,Renewable Energy Group
+2011-12-04,39,False,Renewable Energy Group
+2011-12-11,33,False,Renewable Energy Group
+2011-12-18,18,False,Renewable Energy Group
+2011-12-25,19,False,Renewable Energy Group
+2012-01-01,62,False,Renewable Energy Group
+2012-01-08,91,False,Renewable Energy Group
+2012-01-15,100,False,Renewable Energy Group
+2012-01-22,74,False,Renewable Energy Group
+2012-01-29,62,False,Renewable Energy Group
+2012-02-05,83,False,Renewable Energy Group
+2012-02-12,16,False,Renewable Energy Group
+2012-02-19,58,False,Renewable Energy Group
+2012-02-26,47,False,Renewable Energy Group
+2012-03-04,42,False,Renewable Energy Group
+2012-03-11,51,False,Renewable Energy Group
+2012-03-18,37,False,Renewable Energy Group
+2012-03-25,78,False,Renewable Energy Group
+2012-04-01,48,False,Renewable Energy Group
+2012-04-08,49,False,Renewable Energy Group
+2012-04-15,72,False,Renewable Energy Group
+2012-04-22,83,False,Renewable Energy Group
+2012-04-29,53,False,Renewable Energy Group
+2012-05-06,77,False,Renewable Energy Group
+2012-05-13,47,False,Renewable Energy Group
+2012-05-20,71,False,Renewable Energy Group
+2012-05-27,52,False,Renewable Energy Group
+2012-06-03,77,False,Renewable Energy Group
+2012-06-10,92,False,Renewable Energy Group
+2012-06-17,46,False,Renewable Energy Group
+2012-06-24,47,False,Renewable Energy Group
+2012-07-01,62,False,Renewable Energy Group
+2012-07-08,67,False,Renewable Energy Group
+2012-07-15,78,False,Renewable Energy Group
+2012-07-22,63,False,Renewable Energy Group
+2012-07-29,36,False,Renewable Energy Group
+2012-08-05,56,False,Renewable Energy Group
+2012-08-12,68,False,Renewable Energy Group
+2012-08-19,94,False,Renewable Energy Group
+2012-08-26,46,False,Renewable Energy Group
+2012-09-02,54,False,Renewable Energy Group
+2012-09-09,78,False,Renewable Energy Group
+2012-09-16,54,False,Renewable Energy Group
+2012-09-23,49,False,Renewable Energy Group
+2012-09-30,54,False,Renewable Energy Group
+2012-10-07,19,False,Renewable Energy Group
+2012-10-14,23,False,Renewable Energy Group
+2011-10-30,15,False,Guidewire Software
+2011-11-06,5,False,Guidewire Software
+2011-11-13,15,False,Guidewire Software
+2011-11-20,20,False,Guidewire Software
+2011-11-27,10,False,Guidewire Software
+2011-12-04,10,False,Guidewire Software
+2011-12-11,24,False,Guidewire Software
+2011-12-18,0,False,Guidewire Software
+2011-12-25,0,False,Guidewire Software
+2012-01-01,5,False,Guidewire Software
+2012-01-08,33,False,Guidewire Software
+2012-01-15,32,False,Guidewire Software
+2012-01-22,100,False,Guidewire Software
+2012-01-29,22,False,Guidewire Software
+2012-02-05,22,False,Guidewire Software
+2012-02-12,31,False,Guidewire Software
+2012-02-19,27,False,Guidewire Software
+2012-02-26,9,False,Guidewire Software
+2012-03-04,9,False,Guidewire Software
+2012-03-11,36,False,Guidewire Software
+2012-03-18,18,False,Guidewire Software
+2012-03-25,13,False,Guidewire Software
+2012-04-01,19,False,Guidewire Software
+2012-04-08,19,False,Guidewire Software
+2012-04-15,31,False,Guidewire Software
+2012-04-22,9,False,Guidewire Software
+2012-04-29,23,False,Guidewire Software
+2012-05-06,9,False,Guidewire Software
+2012-05-13,18,False,Guidewire Software
+2012-05-20,4,False,Guidewire Software
+2012-05-27,18,False,Guidewire Software
+2012-06-03,22,False,Guidewire Software
+2012-06-10,13,False,Guidewire Software
+2012-06-17,26,False,Guidewire Software
+2012-06-24,54,False,Guidewire Software
+2012-07-01,36,False,Guidewire Software
+2012-07-08,18,False,Guidewire Software
+2012-07-15,32,False,Guidewire Software
+2012-07-22,18,False,Guidewire Software
+2012-07-29,13,False,Guidewire Software
+2012-08-05,9,False,Guidewire Software
+2012-08-12,9,False,Guidewire Software
+2012-08-19,36,False,Guidewire Software
+2012-08-26,18,False,Guidewire Software
+2012-09-02,9,False,Guidewire Software
+2012-09-09,17,False,Guidewire Software
+2012-09-16,25,False,Guidewire Software
+2012-09-23,38,False,Guidewire Software
+2012-09-30,55,False,Guidewire Software
+2012-10-07,12,False,Guidewire Software
+2012-10-14,12,False,Guidewire Software
+2012-10-21,20,False,Guidewire Software
+2011-10-30,79,False,Verastem
+2011-11-06,23,False,Verastem
+2011-11-13,38,False,Verastem
+2011-11-20,8,False,Verastem
+2011-11-27,23,False,Verastem
+2011-12-04,8,False,Verastem
+2011-12-11,8,False,Verastem
+2011-12-18,24,False,Verastem
+2011-12-25,8,False,Verastem
+2012-01-01,15,False,Verastem
+2012-01-08,15,False,Verastem
+2012-01-15,7,False,Verastem
+2012-01-22,100,False,Verastem
+2012-01-29,91,False,Verastem
+2012-02-05,21,False,Verastem
+2012-02-12,71,False,Verastem
+2012-02-19,0,False,Verastem
+2012-02-26,14,False,Verastem
+2012-03-04,21,False,Verastem
+2012-03-11,28,False,Verastem
+2012-03-18,28,False,Verastem
+2012-03-25,28,False,Verastem
+2012-04-01,0,False,Verastem
+2012-04-08,7,False,Verastem
+2012-04-15,21,False,Verastem
+2012-04-22,21,False,Verastem
+2012-04-29,21,False,Verastem
+2012-05-06,14,False,Verastem
+2012-05-13,28,False,Verastem
+2012-05-20,42,False,Verastem
+2012-05-27,21,False,Verastem
+2012-06-03,7,False,Verastem
+2012-06-10,14,False,Verastem
+2012-06-17,14,False,Verastem
+2012-06-24,14,False,Verastem
+2012-07-01,14,False,Verastem
+2012-07-08,56,False,Verastem
+2012-07-15,50,False,Verastem
+2012-07-22,7,False,Verastem
+2012-07-29,35,False,Verastem
+2012-08-05,42,False,Verastem
+2012-08-12,14,False,Verastem
+2012-08-19,28,False,Verastem
+2012-08-26,21,False,Verastem
+2012-09-02,13,False,Verastem
+2012-09-09,27,False,Verastem
+2012-09-16,27,False,Verastem
+2012-09-23,7,False,Verastem
+2012-09-30,7,False,Verastem
+2012-10-07,13,False,Verastem
+2012-10-14,25,False,Verastem
+2012-10-21,38,False,Verastem
+2011-11-06,0,False,U.S. Silica Holdings
+2011-11-13,0,False,U.S. Silica Holdings
+2011-11-20,0,False,U.S. Silica Holdings
+2011-11-27,0,False,U.S. Silica Holdings
+2011-12-04,0,False,U.S. Silica Holdings
+2011-12-11,0,False,U.S. Silica Holdings
+2011-12-18,0,False,U.S. Silica Holdings
+2011-12-25,0,False,U.S. Silica Holdings
+2012-01-01,0,False,U.S. Silica Holdings
+2012-01-08,0,False,U.S. Silica Holdings
+2012-01-15,0,False,U.S. Silica Holdings
+2012-01-22,0,False,U.S. Silica Holdings
+2012-01-29,98,False,U.S. Silica Holdings
+2012-02-05,0,False,U.S. Silica Holdings
+2012-02-12,0,False,U.S. Silica Holdings
+2012-02-19,0,False,U.S. Silica Holdings
+2012-02-26,0,False,U.S. Silica Holdings
+2012-03-04,0,False,U.S. Silica Holdings
+2012-03-11,0,False,U.S. Silica Holdings
+2012-03-18,0,False,U.S. Silica Holdings
+2012-03-25,0,False,U.S. Silica Holdings
+2012-04-01,0,False,U.S. Silica Holdings
+2012-04-08,0,False,U.S. Silica Holdings
+2012-04-15,0,False,U.S. Silica Holdings
+2012-04-22,0,False,U.S. Silica Holdings
+2012-04-29,0,False,U.S. Silica Holdings
+2012-05-06,0,False,U.S. Silica Holdings
+2012-05-13,0,False,U.S. Silica Holdings
+2012-05-20,0,False,U.S. Silica Holdings
+2012-05-27,0,False,U.S. Silica Holdings
+2012-06-03,0,False,U.S. Silica Holdings
+2012-06-10,0,False,U.S. Silica Holdings
+2012-06-17,0,False,U.S. Silica Holdings
+2012-06-24,98,False,U.S. Silica Holdings
+2012-07-01,0,False,U.S. Silica Holdings
+2012-07-08,0,False,U.S. Silica Holdings
+2012-07-15,0,False,U.S. Silica Holdings
+2012-07-22,100,False,U.S. Silica Holdings
+2012-07-29,0,False,U.S. Silica Holdings
+2012-08-05,0,False,U.S. Silica Holdings
+2012-08-12,100,False,U.S. Silica Holdings
+2012-08-19,0,False,U.S. Silica Holdings
+2012-08-26,0,False,U.S. Silica Holdings
+2012-09-02,0,False,U.S. Silica Holdings
+2012-09-09,0,False,U.S. Silica Holdings
+2012-09-16,0,False,U.S. Silica Holdings
+2012-09-23,0,False,U.S. Silica Holdings
+2012-09-30,0,False,U.S. Silica Holdings
+2012-10-07,0,False,U.S. Silica Holdings
+2012-10-14,88,False,U.S. Silica Holdings
+2012-10-21,0,False,U.S. Silica Holdings
+2012-10-28,0,False,U.S. Silica Holdings
+2011-11-06,0,False,AVG Technologies N.V.
+2011-11-13,0,False,AVG Technologies N.V.
+2011-11-20,0,False,AVG Technologies N.V.
+2011-11-27,0,False,AVG Technologies N.V.
+2011-12-04,0,False,AVG Technologies N.V.
+2011-12-11,0,False,AVG Technologies N.V.
+2011-12-18,0,False,AVG Technologies N.V.
+2011-12-25,0,False,AVG Technologies N.V.
+2012-01-01,0,False,AVG Technologies N.V.
+2012-01-08,0,False,AVG Technologies N.V.
+2012-01-15,0,False,AVG Technologies N.V.
+2012-01-22,0,False,AVG Technologies N.V.
+2012-01-29,0,False,AVG Technologies N.V.
+2012-02-05,0,False,AVG Technologies N.V.
+2012-02-12,0,False,AVG Technologies N.V.
+2012-02-19,100,False,AVG Technologies N.V.
+2012-02-26,0,False,AVG Technologies N.V.
+2012-03-04,0,False,AVG Technologies N.V.
+2012-03-11,0,False,AVG Technologies N.V.
+2012-03-18,0,False,AVG Technologies N.V.
+2012-03-25,0,False,AVG Technologies N.V.
+2012-04-01,0,False,AVG Technologies N.V.
+2012-04-08,0,False,AVG Technologies N.V.
+2012-04-15,0,False,AVG Technologies N.V.
+2012-04-22,0,False,AVG Technologies N.V.
+2012-04-29,0,False,AVG Technologies N.V.
+2012-05-06,0,False,AVG Technologies N.V.
+2012-05-13,0,False,AVG Technologies N.V.
+2012-05-20,0,False,AVG Technologies N.V.
+2012-05-27,0,False,AVG Technologies N.V.
+2012-06-03,0,False,AVG Technologies N.V.
+2012-06-10,97,False,AVG Technologies N.V.
+2012-06-17,0,False,AVG Technologies N.V.
+2012-06-24,0,False,AVG Technologies N.V.
+2012-07-01,0,False,AVG Technologies N.V.
+2012-07-08,99,False,AVG Technologies N.V.
+2012-07-15,0,False,AVG Technologies N.V.
+2012-07-22,0,False,AVG Technologies N.V.
+2012-07-29,0,False,AVG Technologies N.V.
+2012-08-05,0,False,AVG Technologies N.V.
+2012-08-12,0,False,AVG Technologies N.V.
+2012-08-19,0,False,AVG Technologies N.V.
+2012-08-26,0,False,AVG Technologies N.V.
+2012-09-02,0,False,AVG Technologies N.V.
+2012-09-09,94,False,AVG Technologies N.V.
+2012-09-16,93,False,AVG Technologies N.V.
+2012-09-23,0,False,AVG Technologies N.V.
+2012-09-30,0,False,AVG Technologies N.V.
+2012-10-07,0,False,AVG Technologies N.V.
+2012-10-14,0,False,AVG Technologies N.V.
+2012-10-21,0,False,AVG Technologies N.V.
+2012-10-28,0,False,AVG Technologies N.V.

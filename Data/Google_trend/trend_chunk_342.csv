@@ -1,0 +1,261 @@
+date,SVI,isPartial,Issuer
+2012-04-29,16,False,E2open
+2012-05-06,8,False,E2open
+2012-05-13,21,False,E2open
+2012-05-20,21,False,E2open
+2012-05-27,13,False,E2open
+2012-06-03,16,False,E2open
+2012-06-10,21,False,E2open
+2012-06-17,16,False,E2open
+2012-06-24,37,False,E2open
+2012-07-01,34,False,E2open
+2012-07-08,35,False,E2open
+2012-07-15,35,False,E2open
+2012-07-22,100,False,E2open
+2012-07-29,40,False,E2open
+2012-08-05,16,False,E2open
+2012-08-12,5,False,E2open
+2012-08-19,5,False,E2open
+2012-08-26,13,False,E2open
+2012-09-02,15,False,E2open
+2012-09-09,13,False,E2open
+2012-09-16,15,False,E2open
+2012-09-23,10,False,E2open
+2012-09-30,13,False,E2open
+2012-10-07,15,False,E2open
+2012-10-14,17,False,E2open
+2012-10-21,17,False,E2open
+2012-10-28,14,False,E2open
+2012-11-04,21,False,E2open
+2012-11-11,21,False,E2open
+2012-11-18,10,False,E2open
+2012-11-25,21,False,E2open
+2012-12-02,30,False,E2open
+2012-12-09,9,False,E2open
+2012-12-16,12,False,E2open
+2012-12-23,16,False,E2open
+2012-12-30,20,False,E2open
+2013-01-06,23,False,E2open
+2013-01-13,18,False,E2open
+2013-01-20,20,False,E2open
+2013-01-27,33,False,E2open
+2013-02-03,15,False,E2open
+2013-02-10,13,False,E2open
+2013-02-17,22,False,E2open
+2013-02-24,11,False,E2open
+2013-03-03,22,False,E2open
+2013-03-10,23,False,E2open
+2013-03-17,26,False,E2open
+2013-03-24,18,False,E2open
+2013-03-31,21,False,E2open
+2013-04-07,25,False,E2open
+2013-04-14,28,False,E2open
+2013-04-21,9,False,E2open
+2012-04-29,0,False,Hyperion Therapeutics
+2012-05-06,16,False,Hyperion Therapeutics
+2012-05-13,0,False,Hyperion Therapeutics
+2012-05-20,0,False,Hyperion Therapeutics
+2012-05-27,31,False,Hyperion Therapeutics
+2012-06-03,31,False,Hyperion Therapeutics
+2012-06-10,0,False,Hyperion Therapeutics
+2012-06-17,46,False,Hyperion Therapeutics
+2012-06-24,47,False,Hyperion Therapeutics
+2012-07-01,0,False,Hyperion Therapeutics
+2012-07-08,16,False,Hyperion Therapeutics
+2012-07-15,47,False,Hyperion Therapeutics
+2012-07-22,64,False,Hyperion Therapeutics
+2012-07-29,16,False,Hyperion Therapeutics
+2012-08-05,31,False,Hyperion Therapeutics
+2012-08-12,64,False,Hyperion Therapeutics
+2012-08-19,32,False,Hyperion Therapeutics
+2012-08-26,0,False,Hyperion Therapeutics
+2012-09-02,0,False,Hyperion Therapeutics
+2012-09-09,15,False,Hyperion Therapeutics
+2012-09-16,0,False,Hyperion Therapeutics
+2012-09-23,30,False,Hyperion Therapeutics
+2012-09-30,30,False,Hyperion Therapeutics
+2012-10-07,100,False,Hyperion Therapeutics
+2012-10-14,14,False,Hyperion Therapeutics
+2012-10-21,14,False,Hyperion Therapeutics
+2012-10-28,14,False,Hyperion Therapeutics
+2012-11-04,27,False,Hyperion Therapeutics
+2012-11-11,14,False,Hyperion Therapeutics
+2012-11-18,0,False,Hyperion Therapeutics
+2012-11-25,27,False,Hyperion Therapeutics
+2012-12-02,0,False,Hyperion Therapeutics
+2012-12-09,54,False,Hyperion Therapeutics
+2012-12-16,28,False,Hyperion Therapeutics
+2012-12-23,0,False,Hyperion Therapeutics
+2012-12-30,0,False,Hyperion Therapeutics
+2013-01-06,27,False,Hyperion Therapeutics
+2013-01-13,65,False,Hyperion Therapeutics
+2013-01-20,39,False,Hyperion Therapeutics
+2013-01-27,51,False,Hyperion Therapeutics
+2013-02-03,78,False,Hyperion Therapeutics
+2013-02-10,39,False,Hyperion Therapeutics
+2013-02-17,0,False,Hyperion Therapeutics
+2013-02-24,0,False,Hyperion Therapeutics
+2013-03-03,38,False,Hyperion Therapeutics
+2013-03-10,25,False,Hyperion Therapeutics
+2013-03-17,25,False,Hyperion Therapeutics
+2013-03-24,51,False,Hyperion Therapeutics
+2013-03-31,25,False,Hyperion Therapeutics
+2013-04-07,37,False,Hyperion Therapeutics
+2013-04-14,63,False,Hyperion Therapeutics
+2013-04-21,0,False,Hyperion Therapeutics
+2012-04-29,6,False,Northern Tier Energy
+2012-05-06,18,False,Northern Tier Energy
+2012-05-13,18,False,Northern Tier Energy
+2012-05-20,18,False,Northern Tier Energy
+2012-05-27,25,False,Northern Tier Energy
+2012-06-03,0,False,Northern Tier Energy
+2012-06-10,42,False,Northern Tier Energy
+2012-06-17,24,False,Northern Tier Energy
+2012-06-24,25,False,Northern Tier Energy
+2012-07-01,18,False,Northern Tier Energy
+2012-07-08,6,False,Northern Tier Energy
+2012-07-15,81,False,Northern Tier Energy
+2012-07-22,100,False,Northern Tier Energy
+2012-07-29,12,False,Northern Tier Energy
+2012-08-05,61,False,Northern Tier Energy
+2012-08-12,31,False,Northern Tier Energy
+2012-08-19,62,False,Northern Tier Energy
+2012-08-26,18,False,Northern Tier Energy
+2012-09-02,29,False,Northern Tier Energy
+2012-09-09,17,False,Northern Tier Energy
+2012-09-16,35,False,Northern Tier Energy
+2012-09-23,52,False,Northern Tier Energy
+2012-09-30,12,False,Northern Tier Energy
+2012-10-07,28,False,Northern Tier Energy
+2012-10-14,17,False,Northern Tier Energy
+2012-10-21,22,False,Northern Tier Energy
+2012-10-28,45,False,Northern Tier Energy
+2012-11-04,16,False,Northern Tier Energy
+2012-11-11,50,False,Northern Tier Energy
+2012-11-18,44,False,Northern Tier Energy
+2012-11-25,27,False,Northern Tier Energy
+2012-12-02,48,False,Northern Tier Energy
+2012-12-09,27,False,Northern Tier Energy
+2012-12-16,38,False,Northern Tier Energy
+2012-12-23,30,False,Northern Tier Energy
+2012-12-30,40,False,Northern Tier Energy
+2013-01-06,31,False,Northern Tier Energy
+2013-01-13,82,False,Northern Tier Energy
+2013-01-20,51,False,Northern Tier Energy
+2013-01-27,30,False,Northern Tier Energy
+2013-02-03,36,False,Northern Tier Energy
+2013-02-10,92,False,Northern Tier Energy
+2013-02-17,50,False,Northern Tier Energy
+2013-02-24,54,False,Northern Tier Energy
+2013-03-03,100,False,Northern Tier Energy
+2013-03-10,63,False,Northern Tier Energy
+2013-03-17,79,False,Northern Tier Energy
+2013-03-24,46,False,Northern Tier Energy
+2013-03-31,44,False,Northern Tier Energy
+2013-04-07,29,False,Northern Tier Energy
+2013-04-14,65,False,Northern Tier Energy
+2013-04-21,55,False,Northern Tier Energy
+2012-04-29,13,False,AmREIT
+2012-05-06,24,False,AmREIT
+2012-05-13,49,False,AmREIT
+2012-05-20,24,False,AmREIT
+2012-05-27,25,False,AmREIT
+2012-06-03,24,False,AmREIT
+2012-06-10,24,False,AmREIT
+2012-06-17,12,False,AmREIT
+2012-06-24,25,False,AmREIT
+2012-07-01,12,False,AmREIT
+2012-07-08,37,False,AmREIT
+2012-07-15,87,False,AmREIT
+2012-07-22,100,False,AmREIT
+2012-07-29,37,False,AmREIT
+2012-08-05,12,False,AmREIT
+2012-08-12,38,False,AmREIT
+2012-08-19,12,False,AmREIT
+2012-08-26,12,False,AmREIT
+2012-09-02,35,False,AmREIT
+2012-09-09,23,False,AmREIT
+2012-09-16,35,False,AmREIT
+2012-09-23,58,False,AmREIT
+2012-09-30,0,False,AmREIT
+2012-10-07,34,False,AmREIT
+2012-10-14,22,False,AmREIT
+2012-10-21,0,False,AmREIT
+2012-10-28,22,False,AmREIT
+2012-11-04,0,False,AmREIT
+2012-11-11,0,False,AmREIT
+2012-11-18,11,False,AmREIT
+2012-11-25,21,False,AmREIT
+2012-12-02,64,False,AmREIT
+2012-12-09,21,False,AmREIT
+2012-12-16,54,False,AmREIT
+2012-12-23,0,False,AmREIT
+2012-12-30,57,False,AmREIT
+2013-01-06,31,False,AmREIT
+2013-01-13,31,False,AmREIT
+2013-01-20,71,False,AmREIT
+2013-01-27,40,False,AmREIT
+2013-02-03,31,False,AmREIT
+2013-02-10,31,False,AmREIT
+2013-02-17,30,False,AmREIT
+2013-02-24,20,False,AmREIT
+2013-03-03,20,False,AmREIT
+2013-03-10,19,False,AmREIT
+2013-03-17,30,False,AmREIT
+2013-03-24,71,False,AmREIT
+2013-03-31,10,False,AmREIT
+2013-04-07,29,False,AmREIT
+2013-04-14,50,False,AmREIT
+2013-04-21,40,False,AmREIT
+2012-04-29,0,False,Del Friscos Restaurant Group
+2012-05-06,0,False,Del Friscos Restaurant Group
+2012-05-13,0,False,Del Friscos Restaurant Group
+2012-05-20,0,False,Del Friscos Restaurant Group
+2012-05-27,0,False,Del Friscos Restaurant Group
+2012-06-03,0,False,Del Friscos Restaurant Group
+2012-06-10,0,False,Del Friscos Restaurant Group
+2012-06-17,0,False,Del Friscos Restaurant Group
+2012-06-24,0,False,Del Friscos Restaurant Group
+2012-07-01,0,False,Del Friscos Restaurant Group
+2012-07-08,0,False,Del Friscos Restaurant Group
+2012-07-15,100,False,Del Friscos Restaurant Group
+2012-07-22,0,False,Del Friscos Restaurant Group
+2012-07-29,0,False,Del Friscos Restaurant Group
+2012-08-05,0,False,Del Friscos Restaurant Group
+2012-08-12,0,False,Del Friscos Restaurant Group
+2012-08-19,0,False,Del Friscos Restaurant Group
+2012-08-26,0,False,Del Friscos Restaurant Group
+2012-09-02,0,False,Del Friscos Restaurant Group
+2012-09-09,94,False,Del Friscos Restaurant Group
+2012-09-16,0,False,Del Friscos Restaurant Group
+2012-09-23,0,False,Del Friscos Restaurant Group
+2012-09-30,0,False,Del Friscos Restaurant Group
+2012-10-07,0,False,Del Friscos Restaurant Group
+2012-10-14,0,False,Del Friscos Restaurant Group
+2012-10-21,0,False,Del Friscos Restaurant Group
+2012-10-28,0,False,Del Friscos Restaurant Group
+2012-11-04,0,False,Del Friscos Restaurant Group
+2012-11-11,0,False,Del Friscos Restaurant Group
+2012-11-18,0,False,Del Friscos Restaurant Group
+2012-11-25,0,False,Del Friscos Restaurant Group
+2012-12-02,0,False,Del Friscos Restaurant Group
+2012-12-09,0,False,Del Friscos Restaurant Group
+2012-12-16,0,False,Del Friscos Restaurant Group
+2012-12-23,0,False,Del Friscos Restaurant Group
+2012-12-30,0,False,Del Friscos Restaurant Group
+2013-01-06,0,False,Del Friscos Restaurant Group
+2013-01-13,0,False,Del Friscos Restaurant Group
+2013-01-20,82,False,Del Friscos Restaurant Group
+2013-01-27,0,False,Del Friscos Restaurant Group
+2013-02-03,82,False,Del Friscos Restaurant Group
+2013-02-10,0,False,Del Friscos Restaurant Group
+2013-02-17,0,False,Del Friscos Restaurant Group
+2013-02-24,0,False,Del Friscos Restaurant Group
+2013-03-03,0,False,Del Friscos Restaurant Group
+2013-03-10,0,False,Del Friscos Restaurant Group
+2013-03-17,0,False,Del Friscos Restaurant Group
+2013-03-24,0,False,Del Friscos Restaurant Group
+2013-03-31,0,False,Del Friscos Restaurant Group
+2013-04-07,0,False,Del Friscos Restaurant Group
+2013-04-14,0,False,Del Friscos Restaurant Group
+2013-04-21,0,False,Del Friscos Restaurant Group

@@ -1,0 +1,210 @@
+date,SVI,isPartial,Issuer
+2015-04-19,46,False,Chiasma
+2015-04-26,41,False,Chiasma
+2015-05-03,36,False,Chiasma
+2015-05-10,42,False,Chiasma
+2015-05-17,39,False,Chiasma
+2015-05-24,51,False,Chiasma
+2015-05-31,40,False,Chiasma
+2015-06-07,51,False,Chiasma
+2015-06-14,36,False,Chiasma
+2015-06-21,28,False,Chiasma
+2015-06-28,38,False,Chiasma
+2015-07-05,53,False,Chiasma
+2015-07-12,48,False,Chiasma
+2015-07-19,33,False,Chiasma
+2015-07-26,32,False,Chiasma
+2015-08-02,26,False,Chiasma
+2015-08-09,29,False,Chiasma
+2015-08-16,31,False,Chiasma
+2015-08-23,32,False,Chiasma
+2015-08-30,28,False,Chiasma
+2015-09-06,43,False,Chiasma
+2015-09-13,42,False,Chiasma
+2015-09-20,43,False,Chiasma
+2015-09-27,41,False,Chiasma
+2015-10-04,57,False,Chiasma
+2015-10-11,50,False,Chiasma
+2015-10-18,47,False,Chiasma
+2015-10-25,63,False,Chiasma
+2015-11-01,64,False,Chiasma
+2015-11-08,63,False,Chiasma
+2015-11-15,73,False,Chiasma
+2015-11-22,46,False,Chiasma
+2015-11-29,71,False,Chiasma
+2015-12-06,66,False,Chiasma
+2015-12-13,51,False,Chiasma
+2015-12-20,24,False,Chiasma
+2015-12-27,22,False,Chiasma
+2016-01-03,42,False,Chiasma
+2016-01-10,43,False,Chiasma
+2016-01-17,64,False,Chiasma
+2016-01-24,45,False,Chiasma
+2016-01-31,48,False,Chiasma
+2016-02-07,66,False,Chiasma
+2016-02-14,49,False,Chiasma
+2016-02-21,55,False,Chiasma
+2016-02-28,55,False,Chiasma
+2016-03-06,58,False,Chiasma
+2016-03-13,70,False,Chiasma
+2016-03-20,52,False,Chiasma
+2016-03-27,54,False,Chiasma
+2016-04-03,54,False,Chiasma
+2016-04-10,100,False,Chiasma
+2015-04-19,0,False,Jupai Holdings
+2015-04-26,0,False,Jupai Holdings
+2015-05-03,0,False,Jupai Holdings
+2015-05-10,0,False,Jupai Holdings
+2015-05-17,0,False,Jupai Holdings
+2015-05-24,0,False,Jupai Holdings
+2015-05-31,0,False,Jupai Holdings
+2015-06-07,0,False,Jupai Holdings
+2015-06-14,39,False,Jupai Holdings
+2015-06-21,19,False,Jupai Holdings
+2015-06-28,0,False,Jupai Holdings
+2015-07-05,98,False,Jupai Holdings
+2015-07-12,100,False,Jupai Holdings
+2015-07-19,0,False,Jupai Holdings
+2015-07-26,0,False,Jupai Holdings
+2015-08-02,0,False,Jupai Holdings
+2015-08-09,19,False,Jupai Holdings
+2015-08-16,0,False,Jupai Holdings
+2015-08-23,19,False,Jupai Holdings
+2015-08-30,19,False,Jupai Holdings
+2015-09-06,19,False,Jupai Holdings
+2015-09-13,18,False,Jupai Holdings
+2015-09-20,0,False,Jupai Holdings
+2015-09-27,0,False,Jupai Holdings
+2015-10-04,18,False,Jupai Holdings
+2015-10-11,18,False,Jupai Holdings
+2015-10-18,0,False,Jupai Holdings
+2015-10-25,0,False,Jupai Holdings
+2015-11-01,0,False,Jupai Holdings
+2015-11-08,18,False,Jupai Holdings
+2015-11-15,0,False,Jupai Holdings
+2015-11-22,0,False,Jupai Holdings
+2015-11-29,0,False,Jupai Holdings
+2015-12-06,0,False,Jupai Holdings
+2015-12-13,0,False,Jupai Holdings
+2015-12-20,0,False,Jupai Holdings
+2015-12-27,0,False,Jupai Holdings
+2016-01-03,19,False,Jupai Holdings
+2016-01-10,19,False,Jupai Holdings
+2016-01-17,0,False,Jupai Holdings
+2016-01-24,0,False,Jupai Holdings
+2016-01-31,0,False,Jupai Holdings
+2016-02-07,0,False,Jupai Holdings
+2016-02-14,0,False,Jupai Holdings
+2016-02-21,37,False,Jupai Holdings
+2016-02-28,0,False,Jupai Holdings
+2016-03-06,0,False,Jupai Holdings
+2016-03-13,0,False,Jupai Holdings
+2016-03-20,0,False,Jupai Holdings
+2016-03-27,0,False,Jupai Holdings
+2016-04-03,0,False,Jupai Holdings
+2016-04-10,0,False,Jupai Holdings
+2015-04-19,0,False,ProNAi Therapeutics
+2015-04-26,6,False,ProNAi Therapeutics
+2015-05-03,6,False,ProNAi Therapeutics
+2015-05-10,0,False,ProNAi Therapeutics
+2015-05-17,0,False,ProNAi Therapeutics
+2015-05-24,0,False,ProNAi Therapeutics
+2015-05-31,6,False,ProNAi Therapeutics
+2015-06-07,6,False,ProNAi Therapeutics
+2015-06-14,23,False,ProNAi Therapeutics
+2015-06-21,6,False,ProNAi Therapeutics
+2015-06-28,6,False,ProNAi Therapeutics
+2015-07-05,29,False,ProNAi Therapeutics
+2015-07-12,100,False,ProNAi Therapeutics
+2015-07-19,12,False,ProNAi Therapeutics
+2015-07-26,6,False,ProNAi Therapeutics
+2015-08-02,23,False,ProNAi Therapeutics
+2015-08-09,11,False,ProNAi Therapeutics
+2015-08-16,17,False,ProNAi Therapeutics
+2015-08-23,17,False,ProNAi Therapeutics
+2015-08-30,11,False,ProNAi Therapeutics
+2015-09-06,0,False,ProNAi Therapeutics
+2015-09-13,0,False,ProNAi Therapeutics
+2015-09-20,16,False,ProNAi Therapeutics
+2015-09-27,11,False,ProNAi Therapeutics
+2015-10-04,16,False,ProNAi Therapeutics
+2015-10-11,11,False,ProNAi Therapeutics
+2015-10-18,11,False,ProNAi Therapeutics
+2015-10-25,11,False,ProNAi Therapeutics
+2015-11-01,5,False,ProNAi Therapeutics
+2015-11-08,0,False,ProNAi Therapeutics
+2015-11-15,5,False,ProNAi Therapeutics
+2015-11-22,11,False,ProNAi Therapeutics
+2015-11-29,5,False,ProNAi Therapeutics
+2015-12-06,16,False,ProNAi Therapeutics
+2015-12-13,5,False,ProNAi Therapeutics
+2015-12-20,6,False,ProNAi Therapeutics
+2015-12-27,12,False,ProNAi Therapeutics
+2016-01-03,0,False,ProNAi Therapeutics
+2016-01-10,11,False,ProNAi Therapeutics
+2016-01-17,17,False,ProNAi Therapeutics
+2016-01-24,11,False,ProNAi Therapeutics
+2016-01-31,6,False,ProNAi Therapeutics
+2016-02-07,11,False,ProNAi Therapeutics
+2016-02-14,0,False,ProNAi Therapeutics
+2016-02-21,11,False,ProNAi Therapeutics
+2016-02-28,11,False,ProNAi Therapeutics
+2016-03-06,11,False,ProNAi Therapeutics
+2016-03-13,0,False,ProNAi Therapeutics
+2016-03-20,17,False,ProNAi Therapeutics
+2016-03-27,0,False,ProNAi Therapeutics
+2016-04-03,6,False,ProNAi Therapeutics
+2016-04-10,17,False,ProNAi Therapeutics
+2015-04-19,0,False,MCBC Holdings
+2015-04-26,0,False,MCBC Holdings
+2015-05-03,0,False,MCBC Holdings
+2015-05-10,0,False,MCBC Holdings
+2015-05-17,49,False,MCBC Holdings
+2015-05-24,0,False,MCBC Holdings
+2015-05-31,0,False,MCBC Holdings
+2015-06-07,0,False,MCBC Holdings
+2015-06-14,0,False,MCBC Holdings
+2015-06-21,0,False,MCBC Holdings
+2015-06-28,50,False,MCBC Holdings
+2015-07-05,0,False,MCBC Holdings
+2015-07-12,100,False,MCBC Holdings
+2015-07-19,51,False,MCBC Holdings
+2015-07-26,0,False,MCBC Holdings
+2015-08-02,49,False,MCBC Holdings
+2015-08-09,0,False,MCBC Holdings
+2015-08-16,48,False,MCBC Holdings
+2015-08-23,48,False,MCBC Holdings
+2015-08-30,0,False,MCBC Holdings
+2015-09-06,0,False,MCBC Holdings
+2015-09-13,0,False,MCBC Holdings
+2015-09-20,47,False,MCBC Holdings
+2015-09-27,0,False,MCBC Holdings
+2015-10-04,0,False,MCBC Holdings
+2015-10-11,0,False,MCBC Holdings
+2015-10-18,0,False,MCBC Holdings
+2015-10-25,0,False,MCBC Holdings
+2015-11-01,90,False,MCBC Holdings
+2015-11-08,0,False,MCBC Holdings
+2015-11-15,0,False,MCBC Holdings
+2015-11-22,0,False,MCBC Holdings
+2015-11-29,0,False,MCBC Holdings
+2015-12-06,0,False,MCBC Holdings
+2015-12-13,0,False,MCBC Holdings
+2015-12-20,0,False,MCBC Holdings
+2015-12-27,0,False,MCBC Holdings
+2016-01-03,0,False,MCBC Holdings
+2016-01-10,0,False,MCBC Holdings
+2016-01-17,0,False,MCBC Holdings
+2016-01-24,0,False,MCBC Holdings
+2016-01-31,0,False,MCBC Holdings
+2016-02-07,0,False,MCBC Holdings
+2016-02-14,0,False,MCBC Holdings
+2016-02-21,0,False,MCBC Holdings
+2016-02-28,0,False,MCBC Holdings
+2016-03-06,0,False,MCBC Holdings
+2016-03-13,0,False,MCBC Holdings
+2016-03-20,0,False,MCBC Holdings
+2016-03-27,0,False,MCBC Holdings
+2016-04-03,0,False,MCBC Holdings
+2016-04-10,94,False,MCBC Holdings
+2016-04-17,0,False,MCBC Holdings

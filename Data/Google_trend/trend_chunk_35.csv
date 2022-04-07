@@ -1,0 +1,209 @@
+date,SVI,isPartial,Issuer
+2020-05-24,0,False,Inhibrx
+2020-05-31,4,False,Inhibrx
+2020-06-07,4,False,Inhibrx
+2020-06-14,0,False,Inhibrx
+2020-06-21,5,False,Inhibrx
+2020-06-28,0,False,Inhibrx
+2020-07-05,2,False,Inhibrx
+2020-07-12,5,False,Inhibrx
+2020-07-19,5,False,Inhibrx
+2020-07-26,7,False,Inhibrx
+2020-08-02,2,False,Inhibrx
+2020-08-09,25,False,Inhibrx
+2020-08-16,100,False,Inhibrx
+2020-08-23,16,False,Inhibrx
+2020-08-30,11,False,Inhibrx
+2020-09-06,9,False,Inhibrx
+2020-09-13,14,False,Inhibrx
+2020-09-20,7,False,Inhibrx
+2020-09-27,5,False,Inhibrx
+2020-10-04,2,False,Inhibrx
+2020-10-11,0,False,Inhibrx
+2020-10-18,12,False,Inhibrx
+2020-10-25,12,False,Inhibrx
+2020-11-01,13,False,Inhibrx
+2020-11-08,5,False,Inhibrx
+2020-11-15,7,False,Inhibrx
+2020-11-22,9,False,Inhibrx
+2020-11-29,21,False,Inhibrx
+2020-12-06,12,False,Inhibrx
+2020-12-13,10,False,Inhibrx
+2020-12-20,5,False,Inhibrx
+2020-12-27,3,False,Inhibrx
+2021-01-03,10,False,Inhibrx
+2021-01-10,12,False,Inhibrx
+2021-01-17,5,False,Inhibrx
+2021-01-24,12,False,Inhibrx
+2021-01-31,7,False,Inhibrx
+2021-02-07,7,False,Inhibrx
+2021-02-14,31,False,Inhibrx
+2021-02-21,12,False,Inhibrx
+2021-02-28,14,False,Inhibrx
+2021-03-07,5,False,Inhibrx
+2021-03-14,18,False,Inhibrx
+2021-03-21,9,False,Inhibrx
+2021-03-28,5,False,Inhibrx
+2021-04-04,10,False,Inhibrx
+2021-04-11,7,False,Inhibrx
+2021-04-18,7,False,Inhibrx
+2021-04-25,5,False,Inhibrx
+2021-05-02,7,False,Inhibrx
+2021-05-09,5,False,Inhibrx
+2021-05-16,17,False,Inhibrx
+2020-05-24,0,False,Colonnade Acquisition
+2020-05-31,0,False,Colonnade Acquisition
+2020-06-07,0,False,Colonnade Acquisition
+2020-06-14,0,False,Colonnade Acquisition
+2020-06-21,0,False,Colonnade Acquisition
+2020-06-28,0,False,Colonnade Acquisition
+2020-07-05,0,False,Colonnade Acquisition
+2020-07-12,0,False,Colonnade Acquisition
+2020-07-19,0,False,Colonnade Acquisition
+2020-07-26,0,False,Colonnade Acquisition
+2020-08-02,0,False,Colonnade Acquisition
+2020-08-09,0,False,Colonnade Acquisition
+2020-08-16,0,False,Colonnade Acquisition
+2020-08-23,0,False,Colonnade Acquisition
+2020-08-30,2,False,Colonnade Acquisition
+2020-09-06,2,False,Colonnade Acquisition
+2020-09-13,0,False,Colonnade Acquisition
+2020-09-20,0,False,Colonnade Acquisition
+2020-09-27,0,False,Colonnade Acquisition
+2020-10-04,2,False,Colonnade Acquisition
+2020-10-11,0,False,Colonnade Acquisition
+2020-10-18,0,False,Colonnade Acquisition
+2020-10-25,0,False,Colonnade Acquisition
+2020-11-01,0,False,Colonnade Acquisition
+2020-11-08,0,False,Colonnade Acquisition
+2020-11-15,7,False,Colonnade Acquisition
+2020-11-22,0,False,Colonnade Acquisition
+2020-11-29,2,False,Colonnade Acquisition
+2020-12-06,2,False,Colonnade Acquisition
+2020-12-13,0,False,Colonnade Acquisition
+2020-12-20,100,False,Colonnade Acquisition
+2020-12-27,47,False,Colonnade Acquisition
+2021-01-03,31,False,Colonnade Acquisition
+2021-01-10,11,False,Colonnade Acquisition
+2021-01-17,19,False,Colonnade Acquisition
+2021-01-24,19,False,Colonnade Acquisition
+2021-01-31,20,False,Colonnade Acquisition
+2021-02-07,9,False,Colonnade Acquisition
+2021-02-14,18,False,Colonnade Acquisition
+2021-02-21,15,False,Colonnade Acquisition
+2021-02-28,29,False,Colonnade Acquisition
+2021-03-07,35,False,Colonnade Acquisition
+2021-03-14,8,False,Colonnade Acquisition
+2021-03-21,13,False,Colonnade Acquisition
+2021-03-28,5,False,Colonnade Acquisition
+2021-04-04,2,False,Colonnade Acquisition
+2021-04-11,4,False,Colonnade Acquisition
+2021-04-18,4,False,Colonnade Acquisition
+2021-04-25,0,False,Colonnade Acquisition
+2021-05-02,7,False,Colonnade Acquisition
+2021-05-09,2,False,Colonnade Acquisition
+2021-05-16,2,False,Colonnade Acquisition
+2020-05-24,8,False,FAST Acquisition
+2020-05-31,6,False,FAST Acquisition
+2020-06-07,3,False,FAST Acquisition
+2020-06-14,15,False,FAST Acquisition
+2020-06-21,9,False,FAST Acquisition
+2020-06-28,7,False,FAST Acquisition
+2020-07-05,7,False,FAST Acquisition
+2020-07-12,2,False,FAST Acquisition
+2020-07-19,7,False,FAST Acquisition
+2020-07-26,7,False,FAST Acquisition
+2020-08-02,7,False,FAST Acquisition
+2020-08-09,10,False,FAST Acquisition
+2020-08-16,24,False,FAST Acquisition
+2020-08-23,21,False,FAST Acquisition
+2020-08-30,12,False,FAST Acquisition
+2020-09-06,17,False,FAST Acquisition
+2020-09-13,8,False,FAST Acquisition
+2020-09-20,3,False,FAST Acquisition
+2020-09-27,12,False,FAST Acquisition
+2020-10-04,11,False,FAST Acquisition
+2020-10-11,2,False,FAST Acquisition
+2020-10-18,0,False,FAST Acquisition
+2020-10-25,18,False,FAST Acquisition
+2020-11-01,8,False,FAST Acquisition
+2020-11-08,11,False,FAST Acquisition
+2020-11-15,16,False,FAST Acquisition
+2020-11-22,9,False,FAST Acquisition
+2020-11-29,19,False,FAST Acquisition
+2020-12-06,7,False,FAST Acquisition
+2020-12-13,15,False,FAST Acquisition
+2020-12-20,2,False,FAST Acquisition
+2020-12-27,16,False,FAST Acquisition
+2021-01-03,14,False,FAST Acquisition
+2021-01-10,16,False,FAST Acquisition
+2021-01-17,14,False,FAST Acquisition
+2021-01-24,12,False,FAST Acquisition
+2021-01-31,100,False,FAST Acquisition
+2021-02-07,37,False,FAST Acquisition
+2021-02-14,20,False,FAST Acquisition
+2021-02-21,11,False,FAST Acquisition
+2021-02-28,22,False,FAST Acquisition
+2021-03-07,23,False,FAST Acquisition
+2021-03-14,12,False,FAST Acquisition
+2021-03-21,12,False,FAST Acquisition
+2021-03-28,19,False,FAST Acquisition
+2021-04-04,5,False,FAST Acquisition
+2021-04-11,14,False,FAST Acquisition
+2021-04-18,9,False,FAST Acquisition
+2021-04-25,16,False,FAST Acquisition
+2021-05-02,11,False,FAST Acquisition
+2021-05-09,13,False,FAST Acquisition
+2021-05-16,11,False,FAST Acquisition
+2020-05-24,2,False,Foley Trasimene Acquisition II
+2020-05-31,0,False,Foley Trasimene Acquisition II
+2020-06-07,0,False,Foley Trasimene Acquisition II
+2020-06-14,0,False,Foley Trasimene Acquisition II
+2020-06-21,0,False,Foley Trasimene Acquisition II
+2020-06-28,0,False,Foley Trasimene Acquisition II
+2020-07-05,0,False,Foley Trasimene Acquisition II
+2020-07-12,0,False,Foley Trasimene Acquisition II
+2020-07-19,0,False,Foley Trasimene Acquisition II
+2020-07-26,0,False,Foley Trasimene Acquisition II
+2020-08-02,2,False,Foley Trasimene Acquisition II
+2020-08-09,0,False,Foley Trasimene Acquisition II
+2020-08-16,3,False,Foley Trasimene Acquisition II
+2020-08-23,2,False,Foley Trasimene Acquisition II
+2020-08-30,3,False,Foley Trasimene Acquisition II
+2020-09-06,2,False,Foley Trasimene Acquisition II
+2020-09-13,0,False,Foley Trasimene Acquisition II
+2020-09-20,0,False,Foley Trasimene Acquisition II
+2020-09-27,3,False,Foley Trasimene Acquisition II
+2020-10-04,0,False,Foley Trasimene Acquisition II
+2020-10-11,0,False,Foley Trasimene Acquisition II
+2020-10-18,0,False,Foley Trasimene Acquisition II
+2020-10-25,0,False,Foley Trasimene Acquisition II
+2020-11-01,5,False,Foley Trasimene Acquisition II
+2020-11-08,3,False,Foley Trasimene Acquisition II
+2020-11-15,3,False,Foley Trasimene Acquisition II
+2020-11-22,0,False,Foley Trasimene Acquisition II
+2020-11-29,0,False,Foley Trasimene Acquisition II
+2020-12-06,100,False,Foley Trasimene Acquisition II
+2020-12-13,56,False,Foley Trasimene Acquisition II
+2020-12-20,41,False,Foley Trasimene Acquisition II
+2020-12-27,52,False,Foley Trasimene Acquisition II
+2021-01-03,29,False,Foley Trasimene Acquisition II
+2021-01-10,14,False,Foley Trasimene Acquisition II
+2021-01-17,38,False,Foley Trasimene Acquisition II
+2021-01-24,38,False,Foley Trasimene Acquisition II
+2021-01-31,19,False,Foley Trasimene Acquisition II
+2021-02-07,15,False,Foley Trasimene Acquisition II
+2021-02-14,17,False,Foley Trasimene Acquisition II
+2021-02-21,19,False,Foley Trasimene Acquisition II
+2021-02-28,14,False,Foley Trasimene Acquisition II
+2021-03-07,10,False,Foley Trasimene Acquisition II
+2021-03-14,21,False,Foley Trasimene Acquisition II
+2021-03-21,19,False,Foley Trasimene Acquisition II
+2021-03-28,11,False,Foley Trasimene Acquisition II
+2021-04-04,7,False,Foley Trasimene Acquisition II
+2021-04-11,2,False,Foley Trasimene Acquisition II
+2021-04-18,2,False,Foley Trasimene Acquisition II
+2021-04-25,0,False,Foley Trasimene Acquisition II
+2021-05-02,0,False,Foley Trasimene Acquisition II
+2021-05-09,0,False,Foley Trasimene Acquisition II
+2021-05-16,2,False,Foley Trasimene Acquisition II

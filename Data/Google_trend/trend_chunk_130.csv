@@ -1,0 +1,261 @@
+date,SVI,isPartial,Issuer
+2016-10-23,41,False,Keane Group
+2016-10-30,37,False,Keane Group
+2016-11-06,30,False,Keane Group
+2016-11-13,28,False,Keane Group
+2016-11-20,20,False,Keane Group
+2016-11-27,49,False,Keane Group
+2016-12-04,24,False,Keane Group
+2016-12-11,43,False,Keane Group
+2016-12-18,35,False,Keane Group
+2016-12-25,35,False,Keane Group
+2017-01-01,33,False,Keane Group
+2017-01-08,91,False,Keane Group
+2017-01-15,100,False,Keane Group
+2017-01-22,54,False,Keane Group
+2017-01-29,41,False,Keane Group
+2017-02-05,45,False,Keane Group
+2017-02-12,57,False,Keane Group
+2017-02-19,54,False,Keane Group
+2017-02-26,43,False,Keane Group
+2017-03-05,35,False,Keane Group
+2017-03-12,48,False,Keane Group
+2017-03-19,39,False,Keane Group
+2017-03-26,37,False,Keane Group
+2017-04-02,42,False,Keane Group
+2017-04-09,30,False,Keane Group
+2017-04-16,47,False,Keane Group
+2017-04-23,78,False,Keane Group
+2017-04-30,55,False,Keane Group
+2017-05-07,34,False,Keane Group
+2017-05-14,64,False,Keane Group
+2017-05-21,48,False,Keane Group
+2017-05-28,39,False,Keane Group
+2017-06-04,46,False,Keane Group
+2017-06-11,39,False,Keane Group
+2017-06-18,72,False,Keane Group
+2017-06-25,65,False,Keane Group
+2017-07-02,28,False,Keane Group
+2017-07-09,36,False,Keane Group
+2017-07-16,45,False,Keane Group
+2017-07-23,33,False,Keane Group
+2017-07-30,47,False,Keane Group
+2017-08-06,38,False,Keane Group
+2017-08-13,42,False,Keane Group
+2017-08-20,49,False,Keane Group
+2017-08-27,21,False,Keane Group
+2017-09-03,19,False,Keane Group
+2017-09-10,80,False,Keane Group
+2017-09-17,45,False,Keane Group
+2017-09-24,35,False,Keane Group
+2017-10-01,26,False,Keane Group
+2017-10-08,53,False,Keane Group
+2017-10-15,53,False,Keane Group
+2016-10-30,6,False,AnaptysBio
+2016-11-06,23,False,AnaptysBio
+2016-11-13,12,False,AnaptysBio
+2016-11-20,0,False,AnaptysBio
+2016-11-27,6,False,AnaptysBio
+2016-12-04,11,False,AnaptysBio
+2016-12-11,0,False,AnaptysBio
+2016-12-18,12,False,AnaptysBio
+2016-12-25,6,False,AnaptysBio
+2017-01-01,6,False,AnaptysBio
+2017-01-08,17,False,AnaptysBio
+2017-01-15,28,False,AnaptysBio
+2017-01-22,66,False,AnaptysBio
+2017-01-29,22,False,AnaptysBio
+2017-02-05,17,False,AnaptysBio
+2017-02-12,22,False,AnaptysBio
+2017-02-19,11,False,AnaptysBio
+2017-02-26,11,False,AnaptysBio
+2017-03-05,5,False,AnaptysBio
+2017-03-12,11,False,AnaptysBio
+2017-03-19,16,False,AnaptysBio
+2017-03-26,33,False,AnaptysBio
+2017-04-02,5,False,AnaptysBio
+2017-04-09,23,False,AnaptysBio
+2017-04-16,17,False,AnaptysBio
+2017-04-23,16,False,AnaptysBio
+2017-04-30,17,False,AnaptysBio
+2017-05-07,22,False,AnaptysBio
+2017-05-14,35,False,AnaptysBio
+2017-05-21,12,False,AnaptysBio
+2017-05-28,0,False,AnaptysBio
+2017-06-04,23,False,AnaptysBio
+2017-06-11,6,False,AnaptysBio
+2017-06-18,11,False,AnaptysBio
+2017-06-25,6,False,AnaptysBio
+2017-07-02,6,False,AnaptysBio
+2017-07-09,6,False,AnaptysBio
+2017-07-16,6,False,AnaptysBio
+2017-07-23,29,False,AnaptysBio
+2017-07-30,17,False,AnaptysBio
+2017-08-06,17,False,AnaptysBio
+2017-08-13,6,False,AnaptysBio
+2017-08-20,11,False,AnaptysBio
+2017-08-27,6,False,AnaptysBio
+2017-09-03,6,False,AnaptysBio
+2017-09-10,17,False,AnaptysBio
+2017-09-17,17,False,AnaptysBio
+2017-09-24,22,False,AnaptysBio
+2017-10-01,11,False,AnaptysBio
+2017-10-08,100,False,AnaptysBio
+2017-10-15,39,False,AnaptysBio
+2017-10-22,22,False,AnaptysBio
+2016-10-30,33,False,Jounce Therapeutics
+2016-11-06,0,False,Jounce Therapeutics
+2016-11-13,19,False,Jounce Therapeutics
+2016-11-20,25,False,Jounce Therapeutics
+2016-11-27,18,False,Jounce Therapeutics
+2016-12-04,18,False,Jounce Therapeutics
+2016-12-11,37,False,Jounce Therapeutics
+2016-12-18,7,False,Jounce Therapeutics
+2016-12-25,7,False,Jounce Therapeutics
+2017-01-01,88,False,Jounce Therapeutics
+2017-01-08,12,False,Jounce Therapeutics
+2017-01-15,18,False,Jounce Therapeutics
+2017-01-22,100,False,Jounce Therapeutics
+2017-01-29,53,False,Jounce Therapeutics
+2017-02-05,60,False,Jounce Therapeutics
+2017-02-12,35,False,Jounce Therapeutics
+2017-02-19,41,False,Jounce Therapeutics
+2017-02-26,6,False,Jounce Therapeutics
+2017-03-05,34,False,Jounce Therapeutics
+2017-03-12,46,False,Jounce Therapeutics
+2017-03-19,29,False,Jounce Therapeutics
+2017-03-26,30,False,Jounce Therapeutics
+2017-04-02,18,False,Jounce Therapeutics
+2017-04-09,25,False,Jounce Therapeutics
+2017-04-16,42,False,Jounce Therapeutics
+2017-04-23,18,False,Jounce Therapeutics
+2017-04-30,30,False,Jounce Therapeutics
+2017-05-07,42,False,Jounce Therapeutics
+2017-05-14,25,False,Jounce Therapeutics
+2017-05-21,6,False,Jounce Therapeutics
+2017-05-28,32,False,Jounce Therapeutics
+2017-06-04,31,False,Jounce Therapeutics
+2017-06-11,32,False,Jounce Therapeutics
+2017-06-18,24,False,Jounce Therapeutics
+2017-06-25,26,False,Jounce Therapeutics
+2017-07-02,26,False,Jounce Therapeutics
+2017-07-09,19,False,Jounce Therapeutics
+2017-07-16,32,False,Jounce Therapeutics
+2017-07-23,31,False,Jounce Therapeutics
+2017-07-30,69,False,Jounce Therapeutics
+2017-08-06,43,False,Jounce Therapeutics
+2017-08-13,25,False,Jounce Therapeutics
+2017-08-20,25,False,Jounce Therapeutics
+2017-08-27,18,False,Jounce Therapeutics
+2017-09-03,6,False,Jounce Therapeutics
+2017-09-10,18,False,Jounce Therapeutics
+2017-09-17,30,False,Jounce Therapeutics
+2017-09-24,0,False,Jounce Therapeutics
+2017-10-01,6,False,Jounce Therapeutics
+2017-10-08,48,False,Jounce Therapeutics
+2017-10-15,60,False,Jounce Therapeutics
+2017-10-22,41,False,Jounce Therapeutics
+2016-11-06,37,False,Invitation Homes
+2016-11-13,36,False,Invitation Homes
+2016-11-20,27,False,Invitation Homes
+2016-11-27,55,False,Invitation Homes
+2016-12-04,53,False,Invitation Homes
+2016-12-11,39,False,Invitation Homes
+2016-12-18,32,False,Invitation Homes
+2016-12-25,48,False,Invitation Homes
+2017-01-01,70,False,Invitation Homes
+2017-01-08,56,False,Invitation Homes
+2017-01-15,46,False,Invitation Homes
+2017-01-22,50,False,Invitation Homes
+2017-01-29,100,False,Invitation Homes
+2017-02-05,53,False,Invitation Homes
+2017-02-12,52,False,Invitation Homes
+2017-02-19,53,False,Invitation Homes
+2017-02-26,84,False,Invitation Homes
+2017-03-05,60,False,Invitation Homes
+2017-03-12,54,False,Invitation Homes
+2017-03-19,54,False,Invitation Homes
+2017-03-26,61,False,Invitation Homes
+2017-04-02,62,False,Invitation Homes
+2017-04-09,47,False,Invitation Homes
+2017-04-16,54,False,Invitation Homes
+2017-04-23,57,False,Invitation Homes
+2017-04-30,79,False,Invitation Homes
+2017-05-07,58,False,Invitation Homes
+2017-05-14,56,False,Invitation Homes
+2017-05-21,46,False,Invitation Homes
+2017-05-28,65,False,Invitation Homes
+2017-06-04,57,False,Invitation Homes
+2017-06-11,42,False,Invitation Homes
+2017-06-18,52,False,Invitation Homes
+2017-06-25,56,False,Invitation Homes
+2017-07-02,67,False,Invitation Homes
+2017-07-09,55,False,Invitation Homes
+2017-07-16,54,False,Invitation Homes
+2017-07-23,54,False,Invitation Homes
+2017-07-30,79,False,Invitation Homes
+2017-08-06,66,False,Invitation Homes
+2017-08-13,50,False,Invitation Homes
+2017-08-20,47,False,Invitation Homes
+2017-08-27,53,False,Invitation Homes
+2017-09-03,46,False,Invitation Homes
+2017-09-10,44,False,Invitation Homes
+2017-09-17,46,False,Invitation Homes
+2017-09-24,58,False,Invitation Homes
+2017-10-01,68,False,Invitation Homes
+2017-10-08,39,False,Invitation Homes
+2017-10-15,47,False,Invitation Homes
+2017-10-22,36,False,Invitation Homes
+2017-10-29,62,False,Invitation Homes
+2016-11-06,30,False,Laureate Education
+2016-11-13,17,False,Laureate Education
+2016-11-20,33,False,Laureate Education
+2016-11-27,42,False,Laureate Education
+2016-12-04,29,False,Laureate Education
+2016-12-11,29,False,Laureate Education
+2016-12-18,11,False,Laureate Education
+2016-12-25,16,False,Laureate Education
+2017-01-01,28,False,Laureate Education
+2017-01-08,27,False,Laureate Education
+2017-01-15,31,False,Laureate Education
+2017-01-22,26,False,Laureate Education
+2017-01-29,100,False,Laureate Education
+2017-02-05,49,False,Laureate Education
+2017-02-12,28,False,Laureate Education
+2017-02-19,28,False,Laureate Education
+2017-02-26,29,False,Laureate Education
+2017-03-05,47,False,Laureate Education
+2017-03-12,40,False,Laureate Education
+2017-03-19,22,False,Laureate Education
+2017-03-26,49,False,Laureate Education
+2017-04-02,34,False,Laureate Education
+2017-04-09,19,False,Laureate Education
+2017-04-16,26,False,Laureate Education
+2017-04-23,40,False,Laureate Education
+2017-04-30,37,False,Laureate Education
+2017-05-07,33,False,Laureate Education
+2017-05-14,28,False,Laureate Education
+2017-05-21,31,False,Laureate Education
+2017-05-28,41,False,Laureate Education
+2017-06-04,25,False,Laureate Education
+2017-06-11,22,False,Laureate Education
+2017-06-18,35,False,Laureate Education
+2017-06-25,29,False,Laureate Education
+2017-07-02,22,False,Laureate Education
+2017-07-09,28,False,Laureate Education
+2017-07-16,24,False,Laureate Education
+2017-07-23,30,False,Laureate Education
+2017-07-30,28,False,Laureate Education
+2017-08-06,25,False,Laureate Education
+2017-08-13,17,False,Laureate Education
+2017-08-20,29,False,Laureate Education
+2017-08-27,21,False,Laureate Education
+2017-09-03,23,False,Laureate Education
+2017-09-10,45,False,Laureate Education
+2017-09-17,25,False,Laureate Education
+2017-09-24,37,False,Laureate Education
+2017-10-01,35,False,Laureate Education
+2017-10-08,18,False,Laureate Education
+2017-10-15,31,False,Laureate Education
+2017-10-22,38,False,Laureate Education
+2017-10-29,26,False,Laureate Education

@@ -1,0 +1,210 @@
+date,SVI,isPartial,Issuer
+2005-03-13,36,False,Rackable Systems
+2005-03-20,20,False,Rackable Systems
+2005-03-27,18,False,Rackable Systems
+2005-04-03,53,False,Rackable Systems
+2005-04-10,54,False,Rackable Systems
+2005-04-17,18,False,Rackable Systems
+2005-04-24,35,False,Rackable Systems
+2005-05-01,18,False,Rackable Systems
+2005-05-08,52,False,Rackable Systems
+2005-05-15,35,False,Rackable Systems
+2005-05-22,36,False,Rackable Systems
+2005-05-29,36,False,Rackable Systems
+2005-06-05,17,False,Rackable Systems
+2005-06-12,35,False,Rackable Systems
+2005-06-19,18,False,Rackable Systems
+2005-06-26,18,False,Rackable Systems
+2005-07-03,0,False,Rackable Systems
+2005-07-10,18,False,Rackable Systems
+2005-07-17,35,False,Rackable Systems
+2005-07-24,54,False,Rackable Systems
+2005-07-31,18,False,Rackable Systems
+2005-08-07,53,False,Rackable Systems
+2005-08-14,35,False,Rackable Systems
+2005-08-21,0,False,Rackable Systems
+2005-08-28,16,False,Rackable Systems
+2005-09-04,81,False,Rackable Systems
+2005-09-11,15,False,Rackable Systems
+2005-09-18,47,False,Rackable Systems
+2005-09-25,15,False,Rackable Systems
+2005-10-02,0,False,Rackable Systems
+2005-10-09,30,False,Rackable Systems
+2005-10-16,15,False,Rackable Systems
+2005-10-23,0,False,Rackable Systems
+2005-10-30,15,False,Rackable Systems
+2005-11-06,0,False,Rackable Systems
+2005-11-13,14,False,Rackable Systems
+2005-11-20,29,False,Rackable Systems
+2005-11-27,27,False,Rackable Systems
+2005-12-04,55,False,Rackable Systems
+2005-12-11,14,False,Rackable Systems
+2005-12-18,76,False,Rackable Systems
+2005-12-25,69,False,Rackable Systems
+2006-01-01,29,False,Rackable Systems
+2006-01-08,26,False,Rackable Systems
+2006-01-15,13,False,Rackable Systems
+2006-01-22,25,False,Rackable Systems
+2006-01-29,100,False,Rackable Systems
+2006-02-05,24,False,Rackable Systems
+2006-02-12,36,False,Rackable Systems
+2006-02-19,12,False,Rackable Systems
+2006-02-26,12,False,Rackable Systems
+2006-03-05,12,False,Rackable Systems
+2005-03-13,40,False,Premium Standard Farms
+2005-03-20,22,False,Premium Standard Farms
+2005-03-27,20,False,Premium Standard Farms
+2005-04-03,30,False,Premium Standard Farms
+2005-04-10,100,False,Premium Standard Farms
+2005-04-17,0,False,Premium Standard Farms
+2005-04-24,39,False,Premium Standard Farms
+2005-05-01,41,False,Premium Standard Farms
+2005-05-08,0,False,Premium Standard Farms
+2005-05-15,39,False,Premium Standard Farms
+2005-05-22,20,False,Premium Standard Farms
+2005-05-29,0,False,Premium Standard Farms
+2005-06-05,38,False,Premium Standard Farms
+2005-06-12,78,False,Premium Standard Farms
+2005-06-19,40,False,Premium Standard Farms
+2005-06-26,20,False,Premium Standard Farms
+2005-07-03,20,False,Premium Standard Farms
+2005-07-10,0,False,Premium Standard Farms
+2005-07-17,39,False,Premium Standard Farms
+2005-07-24,20,False,Premium Standard Farms
+2005-07-31,0,False,Premium Standard Farms
+2005-08-07,20,False,Premium Standard Farms
+2005-08-14,39,False,Premium Standard Farms
+2005-08-21,0,False,Premium Standard Farms
+2005-08-28,18,False,Premium Standard Farms
+2005-09-04,0,False,Premium Standard Farms
+2005-09-11,0,False,Premium Standard Farms
+2005-09-18,69,False,Premium Standard Farms
+2005-09-25,33,False,Premium Standard Farms
+2005-10-02,17,False,Premium Standard Farms
+2005-10-09,0,False,Premium Standard Farms
+2005-10-16,0,False,Premium Standard Farms
+2005-10-23,0,False,Premium Standard Farms
+2005-10-30,0,False,Premium Standard Farms
+2005-11-06,19,False,Premium Standard Farms
+2005-11-13,0,False,Premium Standard Farms
+2005-11-20,0,False,Premium Standard Farms
+2005-11-27,30,False,Premium Standard Farms
+2005-12-04,0,False,Premium Standard Farms
+2005-12-11,46,False,Premium Standard Farms
+2005-12-18,17,False,Premium Standard Farms
+2005-12-25,19,False,Premium Standard Farms
+2006-01-01,0,False,Premium Standard Farms
+2006-01-08,0,False,Premium Standard Farms
+2006-01-15,56,False,Premium Standard Farms
+2006-01-22,14,False,Premium Standard Farms
+2006-01-29,14,False,Premium Standard Farms
+2006-02-05,27,False,Premium Standard Farms
+2006-02-12,13,False,Premium Standard Farms
+2006-02-19,0,False,Premium Standard Farms
+2006-02-26,0,False,Premium Standard Farms
+2006-03-05,13,False,Premium Standard Farms
+2006-03-12,13,False,Premium Standard Farms
+2005-03-20,13,False,ev3
+2005-03-27,22,False,ev3
+2005-04-03,67,False,ev3
+2005-04-10,68,False,ev3
+2005-04-17,69,False,ev3
+2005-04-24,0,False,ev3
+2005-05-01,58,False,ev3
+2005-05-08,77,False,ev3
+2005-05-15,33,False,ev3
+2005-05-22,34,False,ev3
+2005-05-29,46,False,ev3
+2005-06-05,87,False,ev3
+2005-06-12,100,False,ev3
+2005-06-19,80,False,ev3
+2005-06-26,34,False,ev3
+2005-07-03,92,False,ev3
+2005-07-10,68,False,ev3
+2005-07-17,67,False,ev3
+2005-07-24,11,False,ev3
+2005-07-31,11,False,ev3
+2005-08-07,22,False,ev3
+2005-08-14,45,False,ev3
+2005-08-21,25,False,ev3
+2005-08-28,52,False,ev3
+2005-09-04,72,False,ev3
+2005-09-11,29,False,ev3
+2005-09-18,69,False,ev3
+2005-09-25,66,False,ev3
+2005-10-02,29,False,ev3
+2005-10-09,37,False,ev3
+2005-10-16,37,False,ev3
+2005-10-23,28,False,ev3
+2005-10-30,19,False,ev3
+2005-11-06,32,False,ev3
+2005-11-13,44,False,ev3
+2005-11-20,37,False,ev3
+2005-11-27,68,False,ev3
+2005-12-04,0,False,ev3
+2005-12-11,9,False,ev3
+2005-12-18,58,False,ev3
+2005-12-25,33,False,ev3
+2006-01-01,36,False,ev3
+2006-01-08,41,False,ev3
+2006-01-15,32,False,ev3
+2006-01-22,94,False,ev3
+2006-01-29,47,False,ev3
+2006-02-05,31,False,ev3
+2006-02-12,23,False,ev3
+2006-02-19,23,False,ev3
+2006-02-26,52,False,ev3
+2006-03-05,52,False,ev3
+2006-03-12,44,False,ev3
+2005-03-20,0,False,Micrus Endovascular
+2005-03-27,0,False,Micrus Endovascular
+2005-04-03,0,False,Micrus Endovascular
+2005-04-10,0,False,Micrus Endovascular
+2005-04-17,0,False,Micrus Endovascular
+2005-04-24,0,False,Micrus Endovascular
+2005-05-01,0,False,Micrus Endovascular
+2005-05-08,0,False,Micrus Endovascular
+2005-05-15,0,False,Micrus Endovascular
+2005-05-22,0,False,Micrus Endovascular
+2005-05-29,40,False,Micrus Endovascular
+2005-06-05,0,False,Micrus Endovascular
+2005-06-12,39,False,Micrus Endovascular
+2005-06-19,80,False,Micrus Endovascular
+2005-06-26,0,False,Micrus Endovascular
+2005-07-03,40,False,Micrus Endovascular
+2005-07-10,80,False,Micrus Endovascular
+2005-07-17,0,False,Micrus Endovascular
+2005-07-24,0,False,Micrus Endovascular
+2005-07-31,0,False,Micrus Endovascular
+2005-08-07,0,False,Micrus Endovascular
+2005-08-14,0,False,Micrus Endovascular
+2005-08-21,0,False,Micrus Endovascular
+2005-08-28,0,False,Micrus Endovascular
+2005-09-04,36,False,Micrus Endovascular
+2005-09-11,0,False,Micrus Endovascular
+2005-09-18,0,False,Micrus Endovascular
+2005-09-25,0,False,Micrus Endovascular
+2005-10-02,100,False,Micrus Endovascular
+2005-10-09,0,False,Micrus Endovascular
+2005-10-16,32,False,Micrus Endovascular
+2005-10-23,0,False,Micrus Endovascular
+2005-10-30,0,False,Micrus Endovascular
+2005-11-06,0,False,Micrus Endovascular
+2005-11-13,0,False,Micrus Endovascular
+2005-11-20,32,False,Micrus Endovascular
+2005-11-27,0,False,Micrus Endovascular
+2005-12-04,0,False,Micrus Endovascular
+2005-12-11,0,False,Micrus Endovascular
+2005-12-18,0,False,Micrus Endovascular
+2005-12-25,0,False,Micrus Endovascular
+2006-01-01,32,False,Micrus Endovascular
+2006-01-08,0,False,Micrus Endovascular
+2006-01-15,0,False,Micrus Endovascular
+2006-01-22,0,False,Micrus Endovascular
+2006-01-29,0,False,Micrus Endovascular
+2006-02-05,0,False,Micrus Endovascular
+2006-02-12,0,False,Micrus Endovascular
+2006-02-19,0,False,Micrus Endovascular
+2006-02-26,0,False,Micrus Endovascular
+2006-03-05,26,False,Micrus Endovascular
+2006-03-12,0,False,Micrus Endovascular

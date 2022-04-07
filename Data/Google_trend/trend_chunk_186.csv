@@ -1,0 +1,209 @@
+date,SVI,isPartial,Issuer
+2016-09-11,20,False,SenesTech
+2016-09-18,100,False,SenesTech
+2016-09-25,20,False,SenesTech
+2016-10-02,10,False,SenesTech
+2016-10-09,50,False,SenesTech
+2016-10-16,0,False,SenesTech
+2016-10-23,30,False,SenesTech
+2016-10-30,30,False,SenesTech
+2016-11-06,48,False,SenesTech
+2016-11-13,29,False,SenesTech
+2016-11-20,10,False,SenesTech
+2016-11-27,9,False,SenesTech
+2016-12-04,55,False,SenesTech
+2016-12-11,38,False,SenesTech
+2016-12-18,0,False,SenesTech
+2016-12-25,20,False,SenesTech
+2017-01-01,19,False,SenesTech
+2017-01-08,37,False,SenesTech
+2017-01-15,37,False,SenesTech
+2017-01-22,45,False,SenesTech
+2017-01-29,71,False,SenesTech
+2017-02-05,37,False,SenesTech
+2017-02-12,9,False,SenesTech
+2017-02-19,27,False,SenesTech
+2017-02-26,35,False,SenesTech
+2017-03-05,17,False,SenesTech
+2017-03-12,0,False,SenesTech
+2017-03-19,27,False,SenesTech
+2017-03-26,9,False,SenesTech
+2017-04-02,9,False,SenesTech
+2017-04-09,9,False,SenesTech
+2017-04-16,0,False,SenesTech
+2017-04-23,36,False,SenesTech
+2017-04-30,27,False,SenesTech
+2017-05-07,18,False,SenesTech
+2017-05-14,0,False,SenesTech
+2017-05-21,20,False,SenesTech
+2017-05-28,10,False,SenesTech
+2017-06-04,38,False,SenesTech
+2017-06-11,29,False,SenesTech
+2017-06-18,56,False,SenesTech
+2017-06-25,10,False,SenesTech
+2017-07-02,10,False,SenesTech
+2017-07-09,29,False,SenesTech
+2017-07-16,39,False,SenesTech
+2017-07-23,38,False,SenesTech
+2017-07-30,19,False,SenesTech
+2017-08-06,37,False,SenesTech
+2017-08-13,10,False,SenesTech
+2017-08-20,0,False,SenesTech
+2017-08-27,9,False,SenesTech
+2017-09-03,9,False,SenesTech
+2016-09-11,0,False,Athene Holding Ltd.
+2016-09-18,0,False,Athene Holding Ltd.
+2016-09-25,0,False,Athene Holding Ltd.
+2016-10-02,0,False,Athene Holding Ltd.
+2016-10-09,0,False,Athene Holding Ltd.
+2016-10-16,0,False,Athene Holding Ltd.
+2016-10-23,0,False,Athene Holding Ltd.
+2016-10-30,0,False,Athene Holding Ltd.
+2016-11-06,0,False,Athene Holding Ltd.
+2016-11-13,0,False,Athene Holding Ltd.
+2016-11-20,54,False,Athene Holding Ltd.
+2016-11-27,0,False,Athene Holding Ltd.
+2016-12-04,0,False,Athene Holding Ltd.
+2016-12-11,0,False,Athene Holding Ltd.
+2016-12-18,0,False,Athene Holding Ltd.
+2016-12-25,0,False,Athene Holding Ltd.
+2017-01-01,0,False,Athene Holding Ltd.
+2017-01-08,0,False,Athene Holding Ltd.
+2017-01-15,0,False,Athene Holding Ltd.
+2017-01-22,0,False,Athene Holding Ltd.
+2017-01-29,0,False,Athene Holding Ltd.
+2017-02-05,0,False,Athene Holding Ltd.
+2017-02-12,0,False,Athene Holding Ltd.
+2017-02-19,50,False,Athene Holding Ltd.
+2017-02-26,0,False,Athene Holding Ltd.
+2017-03-05,0,False,Athene Holding Ltd.
+2017-03-12,0,False,Athene Holding Ltd.
+2017-03-19,0,False,Athene Holding Ltd.
+2017-03-26,51,False,Athene Holding Ltd.
+2017-04-02,50,False,Athene Holding Ltd.
+2017-04-09,0,False,Athene Holding Ltd.
+2017-04-16,0,False,Athene Holding Ltd.
+2017-04-23,100,False,Athene Holding Ltd.
+2017-04-30,0,False,Athene Holding Ltd.
+2017-05-07,51,False,Athene Holding Ltd.
+2017-05-14,0,False,Athene Holding Ltd.
+2017-05-21,0,False,Athene Holding Ltd.
+2017-05-28,0,False,Athene Holding Ltd.
+2017-06-04,53,False,Athene Holding Ltd.
+2017-06-11,54,False,Athene Holding Ltd.
+2017-06-18,0,False,Athene Holding Ltd.
+2017-06-25,0,False,Athene Holding Ltd.
+2017-07-02,0,False,Athene Holding Ltd.
+2017-07-09,0,False,Athene Holding Ltd.
+2017-07-16,0,False,Athene Holding Ltd.
+2017-07-23,0,False,Athene Holding Ltd.
+2017-07-30,0,False,Athene Holding Ltd.
+2017-08-06,0,False,Athene Holding Ltd.
+2017-08-13,0,False,Athene Holding Ltd.
+2017-08-20,0,False,Athene Holding Ltd.
+2017-08-27,0,False,Athene Holding Ltd.
+2017-09-03,0,False,Athene Holding Ltd.
+2016-09-18,0,False,WildHorse Resource Development
+2016-09-25,0,False,WildHorse Resource Development
+2016-10-02,0,False,WildHorse Resource Development
+2016-10-09,0,False,WildHorse Resource Development
+2016-10-16,0,False,WildHorse Resource Development
+2016-10-23,0,False,WildHorse Resource Development
+2016-10-30,0,False,WildHorse Resource Development
+2016-11-06,16,False,WildHorse Resource Development
+2016-11-13,17,False,WildHorse Resource Development
+2016-11-20,33,False,WildHorse Resource Development
+2016-11-27,32,False,WildHorse Resource Development
+2016-12-04,47,False,WildHorse Resource Development
+2016-12-11,64,False,WildHorse Resource Development
+2016-12-18,69,False,WildHorse Resource Development
+2016-12-25,0,False,WildHorse Resource Development
+2017-01-01,49,False,WildHorse Resource Development
+2017-01-08,32,False,WildHorse Resource Development
+2017-01-15,16,False,WildHorse Resource Development
+2017-01-22,15,False,WildHorse Resource Development
+2017-01-29,15,False,WildHorse Resource Development
+2017-02-05,31,False,WildHorse Resource Development
+2017-02-12,30,False,WildHorse Resource Development
+2017-02-19,15,False,WildHorse Resource Development
+2017-02-26,45,False,WildHorse Resource Development
+2017-03-05,0,False,WildHorse Resource Development
+2017-03-12,15,False,WildHorse Resource Development
+2017-03-19,15,False,WildHorse Resource Development
+2017-03-26,0,False,WildHorse Resource Development
+2017-04-02,15,False,WildHorse Resource Development
+2017-04-09,16,False,WildHorse Resource Development
+2017-04-16,16,False,WildHorse Resource Development
+2017-04-23,15,False,WildHorse Resource Development
+2017-04-30,0,False,WildHorse Resource Development
+2017-05-07,93,False,WildHorse Resource Development
+2017-05-14,50,False,WildHorse Resource Development
+2017-05-21,100,False,WildHorse Resource Development
+2017-05-28,0,False,WildHorse Resource Development
+2017-06-04,0,False,WildHorse Resource Development
+2017-06-11,17,False,WildHorse Resource Development
+2017-06-18,64,False,WildHorse Resource Development
+2017-06-25,0,False,WildHorse Resource Development
+2017-07-02,17,False,WildHorse Resource Development
+2017-07-09,33,False,WildHorse Resource Development
+2017-07-16,0,False,WildHorse Resource Development
+2017-07-23,0,False,WildHorse Resource Development
+2017-07-30,0,False,WildHorse Resource Development
+2017-08-06,0,False,WildHorse Resource Development
+2017-08-13,0,False,WildHorse Resource Development
+2017-08-20,0,False,WildHorse Resource Development
+2017-08-27,16,False,WildHorse Resource Development
+2017-09-03,0,False,WildHorse Resource Development
+2017-09-10,31,False,WildHorse Resource Development
+2016-09-18,0,False,trivago N.V.
+2016-09-25,0,False,trivago N.V.
+2016-10-02,0,False,trivago N.V.
+2016-10-09,0,False,trivago N.V.
+2016-10-16,0,False,trivago N.V.
+2016-10-23,0,False,trivago N.V.
+2016-10-30,0,False,trivago N.V.
+2016-11-06,0,False,trivago N.V.
+2016-11-13,0,False,trivago N.V.
+2016-11-20,0,False,trivago N.V.
+2016-11-27,0,False,trivago N.V.
+2016-12-04,0,False,trivago N.V.
+2016-12-11,0,False,trivago N.V.
+2016-12-18,99,False,trivago N.V.
+2016-12-25,100,False,trivago N.V.
+2017-01-01,0,False,trivago N.V.
+2017-01-08,0,False,trivago N.V.
+2017-01-15,89,False,trivago N.V.
+2017-01-22,0,False,trivago N.V.
+2017-01-29,87,False,trivago N.V.
+2017-02-05,0,False,trivago N.V.
+2017-02-12,0,False,trivago N.V.
+2017-02-19,0,False,trivago N.V.
+2017-02-26,0,False,trivago N.V.
+2017-03-05,0,False,trivago N.V.
+2017-03-12,0,False,trivago N.V.
+2017-03-19,0,False,trivago N.V.
+2017-03-26,0,False,trivago N.V.
+2017-04-02,0,False,trivago N.V.
+2017-04-09,0,False,trivago N.V.
+2017-04-16,0,False,trivago N.V.
+2017-04-23,0,False,trivago N.V.
+2017-04-30,0,False,trivago N.V.
+2017-05-07,0,False,trivago N.V.
+2017-05-14,0,False,trivago N.V.
+2017-05-21,0,False,trivago N.V.
+2017-05-28,0,False,trivago N.V.
+2017-06-04,0,False,trivago N.V.
+2017-06-11,0,False,trivago N.V.
+2017-06-18,0,False,trivago N.V.
+2017-06-25,0,False,trivago N.V.
+2017-07-02,0,False,trivago N.V.
+2017-07-09,0,False,trivago N.V.
+2017-07-16,0,False,trivago N.V.
+2017-07-23,93,False,trivago N.V.
+2017-07-30,94,False,trivago N.V.
+2017-08-06,0,False,trivago N.V.
+2017-08-13,0,False,trivago N.V.
+2017-08-20,0,False,trivago N.V.
+2017-08-27,0,False,trivago N.V.
+2017-09-03,0,False,trivago N.V.
+2017-09-10,0,False,trivago N.V.

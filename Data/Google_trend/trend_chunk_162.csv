@@ -1,0 +1,261 @@
+date,SVI,isPartial,Issuer
+2017-08-20,66,False,Legacy Acquisition
+2017-08-27,22,False,Legacy Acquisition
+2017-09-03,0,False,Legacy Acquisition
+2017-09-10,0,False,Legacy Acquisition
+2017-09-17,65,False,Legacy Acquisition
+2017-09-24,0,False,Legacy Acquisition
+2017-10-01,21,False,Legacy Acquisition
+2017-10-08,22,False,Legacy Acquisition
+2017-10-15,43,False,Legacy Acquisition
+2017-10-22,42,False,Legacy Acquisition
+2017-10-29,21,False,Legacy Acquisition
+2017-11-05,62,False,Legacy Acquisition
+2017-11-12,83,False,Legacy Acquisition
+2017-11-19,84,False,Legacy Acquisition
+2017-11-26,83,False,Legacy Acquisition
+2017-12-03,42,False,Legacy Acquisition
+2017-12-10,42,False,Legacy Acquisition
+2017-12-17,22,False,Legacy Acquisition
+2017-12-24,0,False,Legacy Acquisition
+2017-12-31,43,False,Legacy Acquisition
+2018-01-07,41,False,Legacy Acquisition
+2018-01-14,20,False,Legacy Acquisition
+2018-01-21,20,False,Legacy Acquisition
+2018-01-28,20,False,Legacy Acquisition
+2018-02-04,20,False,Legacy Acquisition
+2018-02-11,0,False,Legacy Acquisition
+2018-02-18,20,False,Legacy Acquisition
+2018-02-25,0,False,Legacy Acquisition
+2018-03-04,60,False,Legacy Acquisition
+2018-03-11,100,False,Legacy Acquisition
+2018-03-18,40,False,Legacy Acquisition
+2018-03-25,62,False,Legacy Acquisition
+2018-04-01,62,False,Legacy Acquisition
+2018-04-08,80,False,Legacy Acquisition
+2018-04-15,40,False,Legacy Acquisition
+2018-04-22,40,False,Legacy Acquisition
+2018-04-29,40,False,Legacy Acquisition
+2018-05-06,40,False,Legacy Acquisition
+2018-05-13,0,False,Legacy Acquisition
+2018-05-20,41,False,Legacy Acquisition
+2018-05-27,41,False,Legacy Acquisition
+2018-06-03,40,False,Legacy Acquisition
+2018-06-10,59,False,Legacy Acquisition
+2018-06-17,20,False,Legacy Acquisition
+2018-06-24,40,False,Legacy Acquisition
+2018-07-01,40,False,Legacy Acquisition
+2018-07-08,0,False,Legacy Acquisition
+2018-07-15,21,False,Legacy Acquisition
+2018-07-22,0,False,Legacy Acquisition
+2018-07-29,20,False,Legacy Acquisition
+2018-08-05,60,False,Legacy Acquisition
+2018-08-12,20,False,Legacy Acquisition
+2017-08-20,0,False,SailPoint Technologies Holdings
+2017-08-27,0,False,SailPoint Technologies Holdings
+2017-09-03,0,False,SailPoint Technologies Holdings
+2017-09-10,0,False,SailPoint Technologies Holdings
+2017-09-17,0,False,SailPoint Technologies Holdings
+2017-09-24,0,False,SailPoint Technologies Holdings
+2017-10-01,0,False,SailPoint Technologies Holdings
+2017-10-08,0,False,SailPoint Technologies Holdings
+2017-10-15,35,False,SailPoint Technologies Holdings
+2017-10-22,0,False,SailPoint Technologies Holdings
+2017-10-29,0,False,SailPoint Technologies Holdings
+2017-11-05,99,False,SailPoint Technologies Holdings
+2017-11-12,99,False,SailPoint Technologies Holdings
+2017-11-19,100,False,SailPoint Technologies Holdings
+2017-11-26,0,False,SailPoint Technologies Holdings
+2017-12-03,0,False,SailPoint Technologies Holdings
+2017-12-10,33,False,SailPoint Technologies Holdings
+2017-12-17,0,False,SailPoint Technologies Holdings
+2017-12-24,0,False,SailPoint Technologies Holdings
+2017-12-31,0,False,SailPoint Technologies Holdings
+2018-01-07,0,False,SailPoint Technologies Holdings
+2018-01-14,0,False,SailPoint Technologies Holdings
+2018-01-21,32,False,SailPoint Technologies Holdings
+2018-01-28,0,False,SailPoint Technologies Holdings
+2018-02-04,0,False,SailPoint Technologies Holdings
+2018-02-11,0,False,SailPoint Technologies Holdings
+2018-02-18,0,False,SailPoint Technologies Holdings
+2018-02-25,0,False,SailPoint Technologies Holdings
+2018-03-04,0,False,SailPoint Technologies Holdings
+2018-03-11,0,False,SailPoint Technologies Holdings
+2018-03-18,0,False,SailPoint Technologies Holdings
+2018-03-25,33,False,SailPoint Technologies Holdings
+2018-04-01,0,False,SailPoint Technologies Holdings
+2018-04-08,0,False,SailPoint Technologies Holdings
+2018-04-15,0,False,SailPoint Technologies Holdings
+2018-04-22,0,False,SailPoint Technologies Holdings
+2018-04-29,0,False,SailPoint Technologies Holdings
+2018-05-06,0,False,SailPoint Technologies Holdings
+2018-05-13,0,False,SailPoint Technologies Holdings
+2018-05-20,0,False,SailPoint Technologies Holdings
+2018-05-27,0,False,SailPoint Technologies Holdings
+2018-06-03,0,False,SailPoint Technologies Holdings
+2018-06-10,0,False,SailPoint Technologies Holdings
+2018-06-17,0,False,SailPoint Technologies Holdings
+2018-06-24,0,False,SailPoint Technologies Holdings
+2018-07-01,0,False,SailPoint Technologies Holdings
+2018-07-08,0,False,SailPoint Technologies Holdings
+2018-07-15,0,False,SailPoint Technologies Holdings
+2018-07-22,0,False,SailPoint Technologies Holdings
+2018-07-29,0,False,SailPoint Technologies Holdings
+2018-08-05,32,False,SailPoint Technologies Holdings
+2018-08-12,0,False,SailPoint Technologies Holdings
+2017-08-20,21,False,scPharmaceuticals
+2017-08-27,0,False,scPharmaceuticals
+2017-09-03,0,False,scPharmaceuticals
+2017-09-10,11,False,scPharmaceuticals
+2017-09-17,0,False,scPharmaceuticals
+2017-09-24,0,False,scPharmaceuticals
+2017-10-01,10,False,scPharmaceuticals
+2017-10-08,10,False,scPharmaceuticals
+2017-10-15,0,False,scPharmaceuticals
+2017-10-22,31,False,scPharmaceuticals
+2017-10-29,0,False,scPharmaceuticals
+2017-11-05,40,False,scPharmaceuticals
+2017-11-12,100,False,scPharmaceuticals
+2017-11-19,71,False,scPharmaceuticals
+2017-11-26,60,False,scPharmaceuticals
+2017-12-03,10,False,scPharmaceuticals
+2017-12-10,0,False,scPharmaceuticals
+2017-12-17,32,False,scPharmaceuticals
+2017-12-24,11,False,scPharmaceuticals
+2017-12-31,10,False,scPharmaceuticals
+2018-01-07,10,False,scPharmaceuticals
+2018-01-14,29,False,scPharmaceuticals
+2018-01-21,39,False,scPharmaceuticals
+2018-01-28,0,False,scPharmaceuticals
+2018-02-04,10,False,scPharmaceuticals
+2018-02-11,39,False,scPharmaceuticals
+2018-02-18,39,False,scPharmaceuticals
+2018-02-25,0,False,scPharmaceuticals
+2018-03-04,29,False,scPharmaceuticals
+2018-03-11,10,False,scPharmaceuticals
+2018-03-18,0,False,scPharmaceuticals
+2018-03-25,30,False,scPharmaceuticals
+2018-04-01,50,False,scPharmaceuticals
+2018-04-08,29,False,scPharmaceuticals
+2018-04-15,39,False,scPharmaceuticals
+2018-04-22,29,False,scPharmaceuticals
+2018-04-29,20,False,scPharmaceuticals
+2018-05-06,78,False,scPharmaceuticals
+2018-05-13,49,False,scPharmaceuticals
+2018-05-20,10,False,scPharmaceuticals
+2018-05-27,50,False,scPharmaceuticals
+2018-06-03,20,False,scPharmaceuticals
+2018-06-10,57,False,scPharmaceuticals
+2018-06-17,39,False,scPharmaceuticals
+2018-06-24,29,False,scPharmaceuticals
+2018-07-01,10,False,scPharmaceuticals
+2018-07-08,10,False,scPharmaceuticals
+2018-07-15,10,False,scPharmaceuticals
+2018-07-22,0,False,scPharmaceuticals
+2018-07-29,20,False,scPharmaceuticals
+2018-08-05,10,False,scPharmaceuticals
+2018-08-12,39,False,scPharmaceuticals
+2017-08-20,84,False,Stitch Fix
+2017-08-27,75,False,Stitch Fix
+2017-09-03,71,False,Stitch Fix
+2017-09-10,83,False,Stitch Fix
+2017-09-17,84,False,Stitch Fix
+2017-09-24,78,False,Stitch Fix
+2017-10-01,77,False,Stitch Fix
+2017-10-08,74,False,Stitch Fix
+2017-10-15,89,False,Stitch Fix
+2017-10-22,85,False,Stitch Fix
+2017-10-29,67,False,Stitch Fix
+2017-11-05,69,False,Stitch Fix
+2017-11-12,100,False,Stitch Fix
+2017-11-19,70,False,Stitch Fix
+2017-11-26,64,False,Stitch Fix
+2017-12-03,57,False,Stitch Fix
+2017-12-10,71,False,Stitch Fix
+2017-12-17,69,False,Stitch Fix
+2017-12-24,66,False,Stitch Fix
+2017-12-31,67,False,Stitch Fix
+2018-01-07,67,False,Stitch Fix
+2018-01-14,65,False,Stitch Fix
+2018-01-21,77,False,Stitch Fix
+2018-01-28,80,False,Stitch Fix
+2018-02-04,72,False,Stitch Fix
+2018-02-11,69,False,Stitch Fix
+2018-02-18,74,False,Stitch Fix
+2018-02-25,73,False,Stitch Fix
+2018-03-04,78,False,Stitch Fix
+2018-03-11,74,False,Stitch Fix
+2018-03-18,77,False,Stitch Fix
+2018-03-25,70,False,Stitch Fix
+2018-04-01,81,False,Stitch Fix
+2018-04-08,70,False,Stitch Fix
+2018-04-15,67,False,Stitch Fix
+2018-04-22,74,False,Stitch Fix
+2018-04-29,58,False,Stitch Fix
+2018-05-06,60,False,Stitch Fix
+2018-05-13,57,False,Stitch Fix
+2018-05-20,58,False,Stitch Fix
+2018-05-27,57,False,Stitch Fix
+2018-06-03,61,False,Stitch Fix
+2018-06-10,60,False,Stitch Fix
+2018-06-17,61,False,Stitch Fix
+2018-06-24,62,False,Stitch Fix
+2018-07-01,57,False,Stitch Fix
+2018-07-08,69,False,Stitch Fix
+2018-07-15,84,False,Stitch Fix
+2018-07-22,90,False,Stitch Fix
+2018-07-29,94,False,Stitch Fix
+2018-08-05,80,False,Stitch Fix
+2018-08-12,76,False,Stitch Fix
+2017-08-20,39,False,Sterling Bancorp
+2017-08-27,51,False,Sterling Bancorp
+2017-09-03,13,False,Sterling Bancorp
+2017-09-10,25,False,Sterling Bancorp
+2017-09-17,0,False,Sterling Bancorp
+2017-09-24,25,False,Sterling Bancorp
+2017-10-01,100,False,Sterling Bancorp
+2017-10-08,50,False,Sterling Bancorp
+2017-10-15,38,False,Sterling Bancorp
+2017-10-22,49,False,Sterling Bancorp
+2017-10-29,12,False,Sterling Bancorp
+2017-11-05,61,False,Sterling Bancorp
+2017-11-12,85,False,Sterling Bancorp
+2017-11-19,37,False,Sterling Bancorp
+2017-11-26,48,False,Sterling Bancorp
+2017-12-03,0,False,Sterling Bancorp
+2017-12-10,24,False,Sterling Bancorp
+2017-12-17,38,False,Sterling Bancorp
+2017-12-24,40,False,Sterling Bancorp
+2017-12-31,0,False,Sterling Bancorp
+2018-01-07,36,False,Sterling Bancorp
+2018-01-14,0,False,Sterling Bancorp
+2018-01-21,35,False,Sterling Bancorp
+2018-01-28,0,False,Sterling Bancorp
+2018-02-04,24,False,Sterling Bancorp
+2018-02-11,59,False,Sterling Bancorp
+2018-02-18,35,False,Sterling Bancorp
+2018-02-25,47,False,Sterling Bancorp
+2018-03-04,58,False,Sterling Bancorp
+2018-03-11,47,False,Sterling Bancorp
+2018-03-18,12,False,Sterling Bancorp
+2018-03-25,12,False,Sterling Bancorp
+2018-04-01,48,False,Sterling Bancorp
+2018-04-08,94,False,Sterling Bancorp
+2018-04-15,12,False,Sterling Bancorp
+2018-04-22,58,False,Sterling Bancorp
+2018-04-29,47,False,Sterling Bancorp
+2018-05-06,59,False,Sterling Bancorp
+2018-05-13,12,False,Sterling Bancorp
+2018-05-20,36,False,Sterling Bancorp
+2018-05-27,24,False,Sterling Bancorp
+2018-06-03,0,False,Sterling Bancorp
+2018-06-10,35,False,Sterling Bancorp
+2018-06-17,24,False,Sterling Bancorp
+2018-06-24,59,False,Sterling Bancorp
+2018-07-01,23,False,Sterling Bancorp
+2018-07-08,47,False,Sterling Bancorp
+2018-07-15,0,False,Sterling Bancorp
+2018-07-22,24,False,Sterling Bancorp
+2018-07-29,35,False,Sterling Bancorp
+2018-08-05,0,False,Sterling Bancorp
+2018-08-12,23,False,Sterling Bancorp

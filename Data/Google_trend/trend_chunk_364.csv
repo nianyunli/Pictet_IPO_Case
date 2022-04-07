@@ -1,0 +1,261 @@
+date,SVI,isPartial,Issuer
+2011-01-23,69,False,Air Lease
+2011-01-30,46,False,Air Lease
+2011-02-06,30,False,Air Lease
+2011-02-13,32,False,Air Lease
+2011-02-20,24,False,Air Lease
+2011-02-27,62,False,Air Lease
+2011-03-06,49,False,Air Lease
+2011-03-13,68,False,Air Lease
+2011-03-20,62,False,Air Lease
+2011-03-27,51,False,Air Lease
+2011-04-03,81,False,Air Lease
+2011-04-10,95,False,Air Lease
+2011-04-17,100,False,Air Lease
+2011-04-24,64,False,Air Lease
+2011-05-01,67,False,Air Lease
+2011-05-08,70,False,Air Lease
+2011-05-15,34,False,Air Lease
+2011-05-22,62,False,Air Lease
+2011-05-29,57,False,Air Lease
+2011-06-05,57,False,Air Lease
+2011-06-12,43,False,Air Lease
+2011-06-19,85,False,Air Lease
+2011-06-26,49,False,Air Lease
+2011-07-03,63,False,Air Lease
+2011-07-10,52,False,Air Lease
+2011-07-17,61,False,Air Lease
+2011-07-24,62,False,Air Lease
+2011-07-31,44,False,Air Lease
+2011-08-07,50,False,Air Lease
+2011-08-14,59,False,Air Lease
+2011-08-21,57,False,Air Lease
+2011-08-28,53,False,Air Lease
+2011-09-04,52,False,Air Lease
+2011-09-11,44,False,Air Lease
+2011-09-18,54,False,Air Lease
+2011-09-25,59,False,Air Lease
+2011-10-02,43,False,Air Lease
+2011-10-09,49,False,Air Lease
+2011-10-16,48,False,Air Lease
+2011-10-23,35,False,Air Lease
+2011-10-30,48,False,Air Lease
+2011-11-06,23,False,Air Lease
+2011-11-13,62,False,Air Lease
+2011-11-20,44,False,Air Lease
+2011-11-27,53,False,Air Lease
+2011-12-04,45,False,Air Lease
+2011-12-11,61,False,Air Lease
+2011-12-18,46,False,Air Lease
+2011-12-25,36,False,Air Lease
+2012-01-01,53,False,Air Lease
+2012-01-08,55,False,Air Lease
+2012-01-15,24,False,Air Lease
+2011-01-23,0,False,Sagent Pharmaceuticals
+2011-01-30,40,False,Sagent Pharmaceuticals
+2011-02-06,28,False,Sagent Pharmaceuticals
+2011-02-13,14,False,Sagent Pharmaceuticals
+2011-02-20,13,False,Sagent Pharmaceuticals
+2011-02-27,27,False,Sagent Pharmaceuticals
+2011-03-06,0,False,Sagent Pharmaceuticals
+2011-03-13,0,False,Sagent Pharmaceuticals
+2011-03-20,54,False,Sagent Pharmaceuticals
+2011-03-27,13,False,Sagent Pharmaceuticals
+2011-04-03,41,False,Sagent Pharmaceuticals
+2011-04-10,27,False,Sagent Pharmaceuticals
+2011-04-17,100,False,Sagent Pharmaceuticals
+2011-04-24,28,False,Sagent Pharmaceuticals
+2011-05-01,27,False,Sagent Pharmaceuticals
+2011-05-08,13,False,Sagent Pharmaceuticals
+2011-05-15,13,False,Sagent Pharmaceuticals
+2011-05-22,0,False,Sagent Pharmaceuticals
+2011-05-29,14,False,Sagent Pharmaceuticals
+2011-06-05,13,False,Sagent Pharmaceuticals
+2011-06-12,13,False,Sagent Pharmaceuticals
+2011-06-19,27,False,Sagent Pharmaceuticals
+2011-06-26,27,False,Sagent Pharmaceuticals
+2011-07-03,55,False,Sagent Pharmaceuticals
+2011-07-10,28,False,Sagent Pharmaceuticals
+2011-07-17,13,False,Sagent Pharmaceuticals
+2011-07-24,54,False,Sagent Pharmaceuticals
+2011-07-31,0,False,Sagent Pharmaceuticals
+2011-08-07,26,False,Sagent Pharmaceuticals
+2011-08-14,40,False,Sagent Pharmaceuticals
+2011-08-21,26,False,Sagent Pharmaceuticals
+2011-08-28,13,False,Sagent Pharmaceuticals
+2011-09-04,25,False,Sagent Pharmaceuticals
+2011-09-11,12,False,Sagent Pharmaceuticals
+2011-09-18,24,False,Sagent Pharmaceuticals
+2011-09-25,37,False,Sagent Pharmaceuticals
+2011-10-02,48,False,Sagent Pharmaceuticals
+2011-10-09,35,False,Sagent Pharmaceuticals
+2011-10-16,48,False,Sagent Pharmaceuticals
+2011-10-23,0,False,Sagent Pharmaceuticals
+2011-10-30,36,False,Sagent Pharmaceuticals
+2011-11-06,59,False,Sagent Pharmaceuticals
+2011-11-13,23,False,Sagent Pharmaceuticals
+2011-11-20,35,False,Sagent Pharmaceuticals
+2011-11-27,34,False,Sagent Pharmaceuticals
+2011-12-04,11,False,Sagent Pharmaceuticals
+2011-12-11,23,False,Sagent Pharmaceuticals
+2011-12-18,36,False,Sagent Pharmaceuticals
+2011-12-25,0,False,Sagent Pharmaceuticals
+2012-01-01,23,False,Sagent Pharmaceuticals
+2012-01-08,44,False,Sagent Pharmaceuticals
+2012-01-15,0,False,Sagent Pharmaceuticals
+2011-01-23,0,False,Tesoro Logistics LP
+2011-01-30,0,False,Tesoro Logistics LP
+2011-02-06,0,False,Tesoro Logistics LP
+2011-02-13,0,False,Tesoro Logistics LP
+2011-02-20,0,False,Tesoro Logistics LP
+2011-02-27,0,False,Tesoro Logistics LP
+2011-03-06,0,False,Tesoro Logistics LP
+2011-03-13,0,False,Tesoro Logistics LP
+2011-03-20,0,False,Tesoro Logistics LP
+2011-03-27,0,False,Tesoro Logistics LP
+2011-04-03,0,False,Tesoro Logistics LP
+2011-04-10,24,False,Tesoro Logistics LP
+2011-04-17,100,False,Tesoro Logistics LP
+2011-04-24,0,False,Tesoro Logistics LP
+2011-05-01,0,False,Tesoro Logistics LP
+2011-05-08,23,False,Tesoro Logistics LP
+2011-05-15,0,False,Tesoro Logistics LP
+2011-05-22,23,False,Tesoro Logistics LP
+2011-05-29,24,False,Tesoro Logistics LP
+2011-06-05,0,False,Tesoro Logistics LP
+2011-06-12,0,False,Tesoro Logistics LP
+2011-06-19,0,False,Tesoro Logistics LP
+2011-06-26,24,False,Tesoro Logistics LP
+2011-07-03,24,False,Tesoro Logistics LP
+2011-07-10,0,False,Tesoro Logistics LP
+2011-07-17,47,False,Tesoro Logistics LP
+2011-07-24,47,False,Tesoro Logistics LP
+2011-07-31,0,False,Tesoro Logistics LP
+2011-08-07,0,False,Tesoro Logistics LP
+2011-08-14,0,False,Tesoro Logistics LP
+2011-08-21,0,False,Tesoro Logistics LP
+2011-08-28,0,False,Tesoro Logistics LP
+2011-09-04,0,False,Tesoro Logistics LP
+2011-09-11,0,False,Tesoro Logistics LP
+2011-09-18,0,False,Tesoro Logistics LP
+2011-09-25,0,False,Tesoro Logistics LP
+2011-10-02,21,False,Tesoro Logistics LP
+2011-10-09,0,False,Tesoro Logistics LP
+2011-10-16,21,False,Tesoro Logistics LP
+2011-10-23,0,False,Tesoro Logistics LP
+2011-10-30,0,False,Tesoro Logistics LP
+2011-11-06,0,False,Tesoro Logistics LP
+2011-11-13,0,False,Tesoro Logistics LP
+2011-11-20,0,False,Tesoro Logistics LP
+2011-11-27,0,False,Tesoro Logistics LP
+2011-12-04,0,False,Tesoro Logistics LP
+2011-12-11,0,False,Tesoro Logistics LP
+2011-12-18,21,False,Tesoro Logistics LP
+2011-12-25,0,False,Tesoro Logistics LP
+2012-01-01,0,False,Tesoro Logistics LP
+2012-01-08,19,False,Tesoro Logistics LP
+2012-01-15,0,False,Tesoro Logistics LP
+2011-01-23,0,False,21Vianet Group
+2011-01-30,0,False,21Vianet Group
+2011-02-06,0,False,21Vianet Group
+2011-02-13,0,False,21Vianet Group
+2011-02-20,0,False,21Vianet Group
+2011-02-27,0,False,21Vianet Group
+2011-03-06,0,False,21Vianet Group
+2011-03-13,0,False,21Vianet Group
+2011-03-20,0,False,21Vianet Group
+2011-03-27,0,False,21Vianet Group
+2011-04-03,0,False,21Vianet Group
+2011-04-10,0,False,21Vianet Group
+2011-04-17,100,False,21Vianet Group
+2011-04-24,0,False,21Vianet Group
+2011-05-01,0,False,21Vianet Group
+2011-05-08,0,False,21Vianet Group
+2011-05-15,23,False,21Vianet Group
+2011-05-22,0,False,21Vianet Group
+2011-05-29,0,False,21Vianet Group
+2011-06-05,0,False,21Vianet Group
+2011-06-12,0,False,21Vianet Group
+2011-06-19,0,False,21Vianet Group
+2011-06-26,0,False,21Vianet Group
+2011-07-03,0,False,21Vianet Group
+2011-07-10,0,False,21Vianet Group
+2011-07-17,47,False,21Vianet Group
+2011-07-24,24,False,21Vianet Group
+2011-07-31,0,False,21Vianet Group
+2011-08-07,0,False,21Vianet Group
+2011-08-14,0,False,21Vianet Group
+2011-08-21,0,False,21Vianet Group
+2011-08-28,0,False,21Vianet Group
+2011-09-04,0,False,21Vianet Group
+2011-09-11,22,False,21Vianet Group
+2011-09-18,0,False,21Vianet Group
+2011-09-25,0,False,21Vianet Group
+2011-10-02,0,False,21Vianet Group
+2011-10-09,0,False,21Vianet Group
+2011-10-16,0,False,21Vianet Group
+2011-10-23,0,False,21Vianet Group
+2011-10-30,0,False,21Vianet Group
+2011-11-06,0,False,21Vianet Group
+2011-11-13,20,False,21Vianet Group
+2011-11-20,0,False,21Vianet Group
+2011-11-27,20,False,21Vianet Group
+2011-12-04,0,False,21Vianet Group
+2011-12-11,20,False,21Vianet Group
+2011-12-18,0,False,21Vianet Group
+2011-12-25,22,False,21Vianet Group
+2012-01-01,0,False,21Vianet Group
+2012-01-08,0,False,21Vianet Group
+2012-01-15,0,False,21Vianet Group
+2011-01-23,31,False,Responsys
+2011-01-30,37,False,Responsys
+2011-02-06,44,False,Responsys
+2011-02-13,25,False,Responsys
+2011-02-20,20,False,Responsys
+2011-02-27,35,False,Responsys
+2011-03-06,49,False,Responsys
+2011-03-13,23,False,Responsys
+2011-03-20,25,False,Responsys
+2011-03-27,35,False,Responsys
+2011-04-03,43,False,Responsys
+2011-04-10,41,False,Responsys
+2011-04-17,100,False,Responsys
+2011-04-24,62,False,Responsys
+2011-05-01,35,False,Responsys
+2011-05-08,33,False,Responsys
+2011-05-15,42,False,Responsys
+2011-05-22,55,False,Responsys
+2011-05-29,25,False,Responsys
+2011-06-05,18,False,Responsys
+2011-06-12,31,False,Responsys
+2011-06-19,32,False,Responsys
+2011-06-26,29,False,Responsys
+2011-07-03,33,False,Responsys
+2011-07-10,31,False,Responsys
+2011-07-17,38,False,Responsys
+2011-07-24,27,False,Responsys
+2011-07-31,21,False,Responsys
+2011-08-07,48,False,Responsys
+2011-08-14,33,False,Responsys
+2011-08-21,28,False,Responsys
+2011-08-28,17,False,Responsys
+2011-09-04,26,False,Responsys
+2011-09-11,47,False,Responsys
+2011-09-18,26,False,Responsys
+2011-09-25,15,False,Responsys
+2011-10-02,13,False,Responsys
+2011-10-09,21,False,Responsys
+2011-10-16,27,False,Responsys
+2011-10-23,34,False,Responsys
+2011-10-30,16,False,Responsys
+2011-11-06,43,False,Responsys
+2011-11-13,39,False,Responsys
+2011-11-20,14,False,Responsys
+2011-11-27,26,False,Responsys
+2011-12-04,21,False,Responsys
+2011-12-11,28,False,Responsys
+2011-12-18,11,False,Responsys
+2011-12-25,12,False,Responsys
+2012-01-01,26,False,Responsys
+2012-01-08,18,False,Responsys
+2012-01-15,36,False,Responsys

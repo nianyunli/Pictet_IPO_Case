@@ -1,0 +1,209 @@
+date,SVI,isPartial,Issuer
+2014-09-07,0,False,Histogenics
+2014-09-14,4,False,Histogenics
+2014-09-21,13,False,Histogenics
+2014-09-28,4,False,Histogenics
+2014-10-05,25,False,Histogenics
+2014-10-12,4,False,Histogenics
+2014-10-19,12,False,Histogenics
+2014-10-26,8,False,Histogenics
+2014-11-02,4,False,Histogenics
+2014-11-09,4,False,Histogenics
+2014-11-16,57,False,Histogenics
+2014-11-23,29,False,Histogenics
+2014-11-30,100,False,Histogenics
+2014-12-07,4,False,Histogenics
+2014-12-14,4,False,Histogenics
+2014-12-21,5,False,Histogenics
+2014-12-28,4,False,Histogenics
+2015-01-04,16,False,Histogenics
+2015-01-11,4,False,Histogenics
+2015-01-18,15,False,Histogenics
+2015-01-25,0,False,Histogenics
+2015-02-01,15,False,Histogenics
+2015-02-08,12,False,Histogenics
+2015-02-15,12,False,Histogenics
+2015-02-22,11,False,Histogenics
+2015-03-01,11,False,Histogenics
+2015-03-08,27,False,Histogenics
+2015-03-15,12,False,Histogenics
+2015-03-22,0,False,Histogenics
+2015-03-29,4,False,Histogenics
+2015-04-05,0,False,Histogenics
+2015-04-12,19,False,Histogenics
+2015-04-19,0,False,Histogenics
+2015-04-26,0,False,Histogenics
+2015-05-03,11,False,Histogenics
+2015-05-10,27,False,Histogenics
+2015-05-17,15,False,Histogenics
+2015-05-24,0,False,Histogenics
+2015-05-31,4,False,Histogenics
+2015-06-07,11,False,Histogenics
+2015-06-14,4,False,Histogenics
+2015-06-21,15,False,Histogenics
+2015-06-28,19,False,Histogenics
+2015-07-05,12,False,Histogenics
+2015-07-12,16,False,Histogenics
+2015-07-19,8,False,Histogenics
+2015-07-26,16,False,Histogenics
+2015-08-02,8,False,Histogenics
+2015-08-09,4,False,Histogenics
+2015-08-16,11,False,Histogenics
+2015-08-23,22,False,Histogenics
+2015-08-30,7,False,Histogenics
+2014-09-14,21,False,LendingClub
+2014-09-21,14,False,LendingClub
+2014-09-28,24,False,LendingClub
+2014-10-05,19,False,LendingClub
+2014-10-12,18,False,LendingClub
+2014-10-19,28,False,LendingClub
+2014-10-26,20,False,LendingClub
+2014-11-02,21,False,LendingClub
+2014-11-09,24,False,LendingClub
+2014-11-16,24,False,LendingClub
+2014-11-23,25,False,LendingClub
+2014-11-30,35,False,LendingClub
+2014-12-07,100,False,LendingClub
+2014-12-14,52,False,LendingClub
+2014-12-21,35,False,LendingClub
+2014-12-28,28,False,LendingClub
+2015-01-04,30,False,LendingClub
+2015-01-11,28,False,LendingClub
+2015-01-18,24,False,LendingClub
+2015-01-25,32,False,LendingClub
+2015-02-01,29,False,LendingClub
+2015-02-08,22,False,LendingClub
+2015-02-15,24,False,LendingClub
+2015-02-22,23,False,LendingClub
+2015-03-01,22,False,LendingClub
+2015-03-08,23,False,LendingClub
+2015-03-15,30,False,LendingClub
+2015-03-22,28,False,LendingClub
+2015-03-29,34,False,LendingClub
+2015-04-05,35,False,LendingClub
+2015-04-12,33,False,LendingClub
+2015-04-19,34,False,LendingClub
+2015-04-26,18,False,LendingClub
+2015-05-03,29,False,LendingClub
+2015-05-10,29,False,LendingClub
+2015-05-17,30,False,LendingClub
+2015-05-24,25,False,LendingClub
+2015-05-31,29,False,LendingClub
+2015-06-07,32,False,LendingClub
+2015-06-14,28,False,LendingClub
+2015-06-21,24,False,LendingClub
+2015-06-28,40,False,LendingClub
+2015-07-05,37,False,LendingClub
+2015-07-12,40,False,LendingClub
+2015-07-19,30,False,LendingClub
+2015-07-26,23,False,LendingClub
+2015-08-02,28,False,LendingClub
+2015-08-09,34,False,LendingClub
+2015-08-16,26,False,LendingClub
+2015-08-23,25,False,LendingClub
+2015-08-30,19,False,LendingClub
+2015-09-06,24,False,LendingClub
+2014-09-14,81,False,Momo
+2014-09-21,82,False,Momo
+2014-09-28,78,False,Momo
+2014-10-05,79,False,Momo
+2014-10-12,79,False,Momo
+2014-10-19,75,False,Momo
+2014-10-26,76,False,Momo
+2014-11-02,78,False,Momo
+2014-11-09,93,False,Momo
+2014-11-16,82,False,Momo
+2014-11-23,80,False,Momo
+2014-11-30,84,False,Momo
+2014-12-07,93,False,Momo
+2014-12-14,88,False,Momo
+2014-12-21,90,False,Momo
+2014-12-28,84,False,Momo
+2015-01-04,79,False,Momo
+2015-01-11,80,False,Momo
+2015-01-18,83,False,Momo
+2015-01-25,90,False,Momo
+2015-02-01,91,False,Momo
+2015-02-08,100,False,Momo
+2015-02-15,77,False,Momo
+2015-02-22,83,False,Momo
+2015-03-01,83,False,Momo
+2015-03-08,89,False,Momo
+2015-03-15,88,False,Momo
+2015-03-22,87,False,Momo
+2015-03-29,78,False,Momo
+2015-04-05,90,False,Momo
+2015-04-12,85,False,Momo
+2015-04-19,84,False,Momo
+2015-04-26,86,False,Momo
+2015-05-03,92,False,Momo
+2015-05-10,87,False,Momo
+2015-05-17,86,False,Momo
+2015-05-24,86,False,Momo
+2015-05-31,93,False,Momo
+2015-06-07,93,False,Momo
+2015-06-14,80,False,Momo
+2015-06-21,88,False,Momo
+2015-06-28,85,False,Momo
+2015-07-05,88,False,Momo
+2015-07-12,89,False,Momo
+2015-07-19,92,False,Momo
+2015-07-26,95,False,Momo
+2015-08-02,97,False,Momo
+2015-08-09,97,False,Momo
+2015-08-16,96,False,Momo
+2015-08-23,92,False,Momo
+2015-08-30,94,False,Momo
+2015-09-06,93,False,Momo
+2014-09-14,0,False,CB Pharma Acquisition
+2014-09-21,0,False,CB Pharma Acquisition
+2014-09-28,0,False,CB Pharma Acquisition
+2014-10-05,0,False,CB Pharma Acquisition
+2014-10-12,0,False,CB Pharma Acquisition
+2014-10-19,0,False,CB Pharma Acquisition
+2014-10-26,25,False,CB Pharma Acquisition
+2014-11-02,0,False,CB Pharma Acquisition
+2014-11-09,0,False,CB Pharma Acquisition
+2014-11-16,50,False,CB Pharma Acquisition
+2014-11-23,100,False,CB Pharma Acquisition
+2014-11-30,73,False,CB Pharma Acquisition
+2014-12-07,0,False,CB Pharma Acquisition
+2014-12-14,26,False,CB Pharma Acquisition
+2014-12-21,0,False,CB Pharma Acquisition
+2014-12-28,0,False,CB Pharma Acquisition
+2015-01-04,0,False,CB Pharma Acquisition
+2015-01-11,0,False,CB Pharma Acquisition
+2015-01-18,0,False,CB Pharma Acquisition
+2015-01-25,47,False,CB Pharma Acquisition
+2015-02-01,0,False,CB Pharma Acquisition
+2015-02-08,0,False,CB Pharma Acquisition
+2015-02-15,0,False,CB Pharma Acquisition
+2015-02-22,0,False,CB Pharma Acquisition
+2015-03-01,23,False,CB Pharma Acquisition
+2015-03-08,0,False,CB Pharma Acquisition
+2015-03-15,0,False,CB Pharma Acquisition
+2015-03-22,0,False,CB Pharma Acquisition
+2015-03-29,0,False,CB Pharma Acquisition
+2015-04-05,0,False,CB Pharma Acquisition
+2015-04-12,0,False,CB Pharma Acquisition
+2015-04-19,23,False,CB Pharma Acquisition
+2015-04-26,0,False,CB Pharma Acquisition
+2015-05-03,0,False,CB Pharma Acquisition
+2015-05-10,0,False,CB Pharma Acquisition
+2015-05-17,0,False,CB Pharma Acquisition
+2015-05-24,23,False,CB Pharma Acquisition
+2015-05-31,23,False,CB Pharma Acquisition
+2015-06-07,0,False,CB Pharma Acquisition
+2015-06-14,0,False,CB Pharma Acquisition
+2015-06-21,0,False,CB Pharma Acquisition
+2015-06-28,0,False,CB Pharma Acquisition
+2015-07-05,0,False,CB Pharma Acquisition
+2015-07-12,0,False,CB Pharma Acquisition
+2015-07-19,0,False,CB Pharma Acquisition
+2015-07-26,0,False,CB Pharma Acquisition
+2015-08-02,0,False,CB Pharma Acquisition
+2015-08-09,0,False,CB Pharma Acquisition
+2015-08-16,0,False,CB Pharma Acquisition
+2015-08-23,23,False,CB Pharma Acquisition
+2015-08-30,22,False,CB Pharma Acquisition
+2015-09-06,0,False,CB Pharma Acquisition

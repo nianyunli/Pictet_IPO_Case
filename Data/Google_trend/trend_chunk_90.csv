@@ -1,0 +1,209 @@
+date,SVI,isPartial,Issuer
+2017-11-19,34,False,Leo Holdings
+2017-11-26,0,False,Leo Holdings
+2017-12-03,17,False,Leo Holdings
+2017-12-10,17,False,Leo Holdings
+2017-12-17,54,False,Leo Holdings
+2017-12-24,19,False,Leo Holdings
+2017-12-31,18,False,Leo Holdings
+2018-01-07,0,False,Leo Holdings
+2018-01-14,17,False,Leo Holdings
+2018-01-21,33,False,Leo Holdings
+2018-01-28,50,False,Leo Holdings
+2018-02-04,66,False,Leo Holdings
+2018-02-11,100,False,Leo Holdings
+2018-02-18,49,False,Leo Holdings
+2018-02-25,16,False,Leo Holdings
+2018-03-04,16,False,Leo Holdings
+2018-03-11,0,False,Leo Holdings
+2018-03-18,0,False,Leo Holdings
+2018-03-25,34,False,Leo Holdings
+2018-04-01,51,False,Leo Holdings
+2018-04-08,0,False,Leo Holdings
+2018-04-15,16,False,Leo Holdings
+2018-04-22,0,False,Leo Holdings
+2018-04-29,50,False,Leo Holdings
+2018-05-06,33,False,Leo Holdings
+2018-05-13,17,False,Leo Holdings
+2018-05-20,67,False,Leo Holdings
+2018-05-27,50,False,Leo Holdings
+2018-06-03,33,False,Leo Holdings
+2018-06-10,49,False,Leo Holdings
+2018-06-17,33,False,Leo Holdings
+2018-06-24,49,False,Leo Holdings
+2018-07-01,16,False,Leo Holdings
+2018-07-08,33,False,Leo Holdings
+2018-07-15,17,False,Leo Holdings
+2018-07-22,17,False,Leo Holdings
+2018-07-29,0,False,Leo Holdings
+2018-08-05,16,False,Leo Holdings
+2018-08-12,0,False,Leo Holdings
+2018-08-19,33,False,Leo Holdings
+2018-08-26,0,False,Leo Holdings
+2018-09-02,16,False,Leo Holdings
+2018-09-09,16,False,Leo Holdings
+2018-09-16,48,False,Leo Holdings
+2018-09-23,0,False,Leo Holdings
+2018-09-30,0,False,Leo Holdings
+2018-10-07,16,False,Leo Holdings
+2018-10-14,17,False,Leo Holdings
+2018-10-21,16,False,Leo Holdings
+2018-10-28,0,False,Leo Holdings
+2018-11-04,47,False,Leo Holdings
+2018-11-11,0,False,Leo Holdings
+2017-11-19,0,False,Motus GI Holdings
+2017-11-26,0,False,Motus GI Holdings
+2017-12-03,0,False,Motus GI Holdings
+2017-12-10,35,False,Motus GI Holdings
+2017-12-17,0,False,Motus GI Holdings
+2017-12-24,0,False,Motus GI Holdings
+2017-12-31,36,False,Motus GI Holdings
+2018-01-07,0,False,Motus GI Holdings
+2018-01-14,0,False,Motus GI Holdings
+2018-01-21,0,False,Motus GI Holdings
+2018-01-28,34,False,Motus GI Holdings
+2018-02-04,100,False,Motus GI Holdings
+2018-02-11,67,False,Motus GI Holdings
+2018-02-18,33,False,Motus GI Holdings
+2018-02-25,33,False,Motus GI Holdings
+2018-03-04,0,False,Motus GI Holdings
+2018-03-11,33,False,Motus GI Holdings
+2018-03-18,0,False,Motus GI Holdings
+2018-03-25,34,False,Motus GI Holdings
+2018-04-01,0,False,Motus GI Holdings
+2018-04-08,0,False,Motus GI Holdings
+2018-04-15,0,False,Motus GI Holdings
+2018-04-22,0,False,Motus GI Holdings
+2018-04-29,0,False,Motus GI Holdings
+2018-05-06,0,False,Motus GI Holdings
+2018-05-13,0,False,Motus GI Holdings
+2018-05-20,0,False,Motus GI Holdings
+2018-05-27,0,False,Motus GI Holdings
+2018-06-03,0,False,Motus GI Holdings
+2018-06-10,0,False,Motus GI Holdings
+2018-06-17,0,False,Motus GI Holdings
+2018-06-24,0,False,Motus GI Holdings
+2018-07-01,33,False,Motus GI Holdings
+2018-07-08,0,False,Motus GI Holdings
+2018-07-15,34,False,Motus GI Holdings
+2018-07-22,0,False,Motus GI Holdings
+2018-07-29,0,False,Motus GI Holdings
+2018-08-05,0,False,Motus GI Holdings
+2018-08-12,0,False,Motus GI Holdings
+2018-08-19,0,False,Motus GI Holdings
+2018-08-26,0,False,Motus GI Holdings
+2018-09-02,66,False,Motus GI Holdings
+2018-09-09,0,False,Motus GI Holdings
+2018-09-16,0,False,Motus GI Holdings
+2018-09-23,0,False,Motus GI Holdings
+2018-09-30,0,False,Motus GI Holdings
+2018-10-07,0,False,Motus GI Holdings
+2018-10-14,0,False,Motus GI Holdings
+2018-10-21,33,False,Motus GI Holdings
+2018-10-28,0,False,Motus GI Holdings
+2018-11-04,0,False,Motus GI Holdings
+2018-11-11,0,False,Motus GI Holdings
+2017-11-19,0,False,Farmmi
+2017-11-26,0,False,Farmmi
+2017-12-03,0,False,Farmmi
+2017-12-10,0,False,Farmmi
+2017-12-17,28,False,Farmmi
+2017-12-24,0,False,Farmmi
+2017-12-31,27,False,Farmmi
+2018-01-07,26,False,Farmmi
+2018-01-14,51,False,Farmmi
+2018-01-21,0,False,Farmmi
+2018-01-28,0,False,Farmmi
+2018-02-04,0,False,Farmmi
+2018-02-11,77,False,Farmmi
+2018-02-18,50,False,Farmmi
+2018-02-25,100,False,Farmmi
+2018-03-04,100,False,Farmmi
+2018-03-11,0,False,Farmmi
+2018-03-18,76,False,Farmmi
+2018-03-25,0,False,Farmmi
+2018-04-01,0,False,Farmmi
+2018-04-08,0,False,Farmmi
+2018-04-15,0,False,Farmmi
+2018-04-22,25,False,Farmmi
+2018-04-29,25,False,Farmmi
+2018-05-06,0,False,Farmmi
+2018-05-13,0,False,Farmmi
+2018-05-20,0,False,Farmmi
+2018-05-27,52,False,Farmmi
+2018-06-03,0,False,Farmmi
+2018-06-10,25,False,Farmmi
+2018-06-17,0,False,Farmmi
+2018-06-24,25,False,Farmmi
+2018-07-01,25,False,Farmmi
+2018-07-08,25,False,Farmmi
+2018-07-15,0,False,Farmmi
+2018-07-22,52,False,Farmmi
+2018-07-29,25,False,Farmmi
+2018-08-05,0,False,Farmmi
+2018-08-12,25,False,Farmmi
+2018-08-19,51,False,Farmmi
+2018-08-26,0,False,Farmmi
+2018-09-02,0,False,Farmmi
+2018-09-09,0,False,Farmmi
+2018-09-16,99,False,Farmmi
+2018-09-23,49,False,Farmmi
+2018-09-30,25,False,Farmmi
+2018-10-07,25,False,Farmmi
+2018-10-14,51,False,Farmmi
+2018-10-21,50,False,Farmmi
+2018-10-28,50,False,Farmmi
+2018-11-04,0,False,Farmmi
+2018-11-11,25,False,Farmmi
+2017-12-03,72,False,Union Acquisition
+2017-12-10,13,False,Union Acquisition
+2017-12-17,21,False,Union Acquisition
+2017-12-24,15,False,Union Acquisition
+2017-12-31,34,False,Union Acquisition
+2018-01-07,19,False,Union Acquisition
+2018-01-14,38,False,Union Acquisition
+2018-01-21,19,False,Union Acquisition
+2018-01-28,32,False,Union Acquisition
+2018-02-04,32,False,Union Acquisition
+2018-02-11,45,False,Union Acquisition
+2018-02-18,76,False,Union Acquisition
+2018-02-25,100,False,Union Acquisition
+2018-03-04,50,False,Union Acquisition
+2018-03-11,31,False,Union Acquisition
+2018-03-18,25,False,Union Acquisition
+2018-03-25,65,False,Union Acquisition
+2018-04-01,13,False,Union Acquisition
+2018-04-08,50,False,Union Acquisition
+2018-04-15,44,False,Union Acquisition
+2018-04-22,31,False,Union Acquisition
+2018-04-29,38,False,Union Acquisition
+2018-05-06,19,False,Union Acquisition
+2018-05-13,32,False,Union Acquisition
+2018-05-20,78,False,Union Acquisition
+2018-05-27,19,False,Union Acquisition
+2018-06-03,6,False,Union Acquisition
+2018-06-10,44,False,Union Acquisition
+2018-06-17,25,False,Union Acquisition
+2018-06-24,25,False,Union Acquisition
+2018-07-01,25,False,Union Acquisition
+2018-07-08,63,False,Union Acquisition
+2018-07-15,39,False,Union Acquisition
+2018-07-22,46,False,Union Acquisition
+2018-07-29,44,False,Union Acquisition
+2018-08-05,31,False,Union Acquisition
+2018-08-12,32,False,Union Acquisition
+2018-08-19,26,False,Union Acquisition
+2018-08-26,19,False,Union Acquisition
+2018-09-02,37,False,Union Acquisition
+2018-09-09,31,False,Union Acquisition
+2018-09-16,37,False,Union Acquisition
+2018-09-23,43,False,Union Acquisition
+2018-09-30,25,False,Union Acquisition
+2018-10-07,57,False,Union Acquisition
+2018-10-14,38,False,Union Acquisition
+2018-10-21,38,False,Union Acquisition
+2018-10-28,31,False,Union Acquisition
+2018-11-04,49,False,Union Acquisition
+2018-11-11,25,False,Union Acquisition
+2018-11-18,25,False,Union Acquisition
+2018-11-25,25,False,Union Acquisition

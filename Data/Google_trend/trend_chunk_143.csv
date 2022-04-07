@@ -1,0 +1,209 @@
+date,SVI,isPartial,Issuer
+2017-03-19,16,False,Athenex
+2017-03-26,11,False,Athenex
+2017-04-02,9,False,Athenex
+2017-04-09,16,False,Athenex
+2017-04-16,7,False,Athenex
+2017-04-23,20,False,Athenex
+2017-04-30,9,False,Athenex
+2017-05-07,7,False,Athenex
+2017-05-14,31,False,Athenex
+2017-05-21,5,False,Athenex
+2017-05-28,22,False,Athenex
+2017-06-04,45,False,Athenex
+2017-06-11,100,False,Athenex
+2017-06-18,54,False,Athenex
+2017-06-25,29,False,Athenex
+2017-07-02,44,False,Athenex
+2017-07-09,34,False,Athenex
+2017-07-16,32,False,Athenex
+2017-07-23,31,False,Athenex
+2017-07-30,29,False,Athenex
+2017-08-06,26,False,Athenex
+2017-08-13,19,False,Athenex
+2017-08-20,26,False,Athenex
+2017-08-27,21,False,Athenex
+2017-09-03,26,False,Athenex
+2017-09-10,21,False,Athenex
+2017-09-17,16,False,Athenex
+2017-09-24,16,False,Athenex
+2017-10-01,29,False,Athenex
+2017-10-08,9,False,Athenex
+2017-10-15,23,False,Athenex
+2017-10-22,20,False,Athenex
+2017-10-29,23,False,Athenex
+2017-11-05,18,False,Athenex
+2017-11-12,22,False,Athenex
+2017-11-19,22,False,Athenex
+2017-11-26,28,False,Athenex
+2017-12-03,31,False,Athenex
+2017-12-10,27,False,Athenex
+2017-12-17,23,False,Athenex
+2017-12-24,17,False,Athenex
+2017-12-31,18,False,Athenex
+2018-01-07,15,False,Athenex
+2018-01-14,30,False,Athenex
+2018-01-21,36,False,Athenex
+2018-01-28,24,False,Athenex
+2018-02-04,26,False,Athenex
+2018-02-11,26,False,Athenex
+2018-02-18,34,False,Athenex
+2018-02-25,23,False,Athenex
+2018-03-04,32,False,Athenex
+2018-03-11,11,False,Athenex
+2017-03-19,0,False,TCG BDC
+2017-03-26,0,False,TCG BDC
+2017-04-02,0,False,TCG BDC
+2017-04-09,0,False,TCG BDC
+2017-04-16,0,False,TCG BDC
+2017-04-23,0,False,TCG BDC
+2017-04-30,0,False,TCG BDC
+2017-05-07,0,False,TCG BDC
+2017-05-14,0,False,TCG BDC
+2017-05-21,0,False,TCG BDC
+2017-05-28,0,False,TCG BDC
+2017-06-04,24,False,TCG BDC
+2017-06-11,100,False,TCG BDC
+2017-06-18,48,False,TCG BDC
+2017-06-25,0,False,TCG BDC
+2017-07-02,25,False,TCG BDC
+2017-07-09,50,False,TCG BDC
+2017-07-16,0,False,TCG BDC
+2017-07-23,24,False,TCG BDC
+2017-07-30,0,False,TCG BDC
+2017-08-06,24,False,TCG BDC
+2017-08-13,0,False,TCG BDC
+2017-08-20,0,False,TCG BDC
+2017-08-27,0,False,TCG BDC
+2017-09-03,24,False,TCG BDC
+2017-09-10,24,False,TCG BDC
+2017-09-17,0,False,TCG BDC
+2017-09-24,0,False,TCG BDC
+2017-10-01,46,False,TCG BDC
+2017-10-08,47,False,TCG BDC
+2017-10-15,24,False,TCG BDC
+2017-10-22,23,False,TCG BDC
+2017-10-29,23,False,TCG BDC
+2017-11-05,23,False,TCG BDC
+2017-11-12,0,False,TCG BDC
+2017-11-19,0,False,TCG BDC
+2017-11-26,22,False,TCG BDC
+2017-12-03,23,False,TCG BDC
+2017-12-10,0,False,TCG BDC
+2017-12-17,48,False,TCG BDC
+2017-12-24,0,False,TCG BDC
+2017-12-31,0,False,TCG BDC
+2018-01-07,45,False,TCG BDC
+2018-01-14,22,False,TCG BDC
+2018-01-21,0,False,TCG BDC
+2018-01-28,0,False,TCG BDC
+2018-02-04,44,False,TCG BDC
+2018-02-11,0,False,TCG BDC
+2018-02-18,22,False,TCG BDC
+2018-02-25,43,False,TCG BDC
+2018-03-04,0,False,TCG BDC
+2018-03-11,0,False,TCG BDC
+2017-03-26,0,False,Constellation Alpha Capital
+2017-04-02,0,False,Constellation Alpha Capital
+2017-04-09,11,False,Constellation Alpha Capital
+2017-04-16,0,False,Constellation Alpha Capital
+2017-04-23,11,False,Constellation Alpha Capital
+2017-04-30,0,False,Constellation Alpha Capital
+2017-05-07,0,False,Constellation Alpha Capital
+2017-05-14,12,False,Constellation Alpha Capital
+2017-05-21,12,False,Constellation Alpha Capital
+2017-05-28,0,False,Constellation Alpha Capital
+2017-06-04,0,False,Constellation Alpha Capital
+2017-06-11,0,False,Constellation Alpha Capital
+2017-06-18,100,False,Constellation Alpha Capital
+2017-06-25,12,False,Constellation Alpha Capital
+2017-07-02,0,False,Constellation Alpha Capital
+2017-07-09,23,False,Constellation Alpha Capital
+2017-07-16,12,False,Constellation Alpha Capital
+2017-07-23,0,False,Constellation Alpha Capital
+2017-07-30,0,False,Constellation Alpha Capital
+2017-08-06,0,False,Constellation Alpha Capital
+2017-08-13,11,False,Constellation Alpha Capital
+2017-08-20,11,False,Constellation Alpha Capital
+2017-08-27,0,False,Constellation Alpha Capital
+2017-09-03,11,False,Constellation Alpha Capital
+2017-09-10,11,False,Constellation Alpha Capital
+2017-09-17,0,False,Constellation Alpha Capital
+2017-09-24,0,False,Constellation Alpha Capital
+2017-10-01,0,False,Constellation Alpha Capital
+2017-10-08,0,False,Constellation Alpha Capital
+2017-10-15,0,False,Constellation Alpha Capital
+2017-10-22,0,False,Constellation Alpha Capital
+2017-10-29,0,False,Constellation Alpha Capital
+2017-11-05,0,False,Constellation Alpha Capital
+2017-11-12,0,False,Constellation Alpha Capital
+2017-11-19,0,False,Constellation Alpha Capital
+2017-11-26,0,False,Constellation Alpha Capital
+2017-12-03,0,False,Constellation Alpha Capital
+2017-12-10,11,False,Constellation Alpha Capital
+2017-12-17,0,False,Constellation Alpha Capital
+2017-12-24,0,False,Constellation Alpha Capital
+2017-12-31,0,False,Constellation Alpha Capital
+2018-01-07,10,False,Constellation Alpha Capital
+2018-01-14,10,False,Constellation Alpha Capital
+2018-01-21,0,False,Constellation Alpha Capital
+2018-01-28,0,False,Constellation Alpha Capital
+2018-02-04,10,False,Constellation Alpha Capital
+2018-02-11,0,False,Constellation Alpha Capital
+2018-02-18,0,False,Constellation Alpha Capital
+2018-02-25,0,False,Constellation Alpha Capital
+2018-03-04,0,False,Constellation Alpha Capital
+2018-03-11,0,False,Constellation Alpha Capital
+2018-03-18,0,False,Constellation Alpha Capital
+2017-03-26,11,False,Altice USA
+2017-04-02,17,False,Altice USA
+2017-04-09,31,False,Altice USA
+2017-04-16,18,False,Altice USA
+2017-04-23,15,False,Altice USA
+2017-04-30,15,False,Altice USA
+2017-05-07,19,False,Altice USA
+2017-05-14,18,False,Altice USA
+2017-05-21,20,False,Altice USA
+2017-05-28,15,False,Altice USA
+2017-06-04,20,False,Altice USA
+2017-06-11,41,False,Altice USA
+2017-06-18,100,False,Altice USA
+2017-06-25,32,False,Altice USA
+2017-07-02,13,False,Altice USA
+2017-07-09,25,False,Altice USA
+2017-07-16,28,False,Altice USA
+2017-07-23,33,False,Altice USA
+2017-07-30,19,False,Altice USA
+2017-08-06,35,False,Altice USA
+2017-08-13,20,False,Altice USA
+2017-08-20,14,False,Altice USA
+2017-08-27,18,False,Altice USA
+2017-09-03,29,False,Altice USA
+2017-09-10,32,False,Altice USA
+2017-09-17,27,False,Altice USA
+2017-09-24,25,False,Altice USA
+2017-10-01,28,False,Altice USA
+2017-10-08,24,False,Altice USA
+2017-10-15,17,False,Altice USA
+2017-10-22,25,False,Altice USA
+2017-10-29,31,False,Altice USA
+2017-11-05,54,False,Altice USA
+2017-11-12,64,False,Altice USA
+2017-11-19,40,False,Altice USA
+2017-11-26,44,False,Altice USA
+2017-12-03,34,False,Altice USA
+2017-12-10,43,False,Altice USA
+2017-12-17,32,False,Altice USA
+2017-12-24,19,False,Altice USA
+2017-12-31,43,False,Altice USA
+2018-01-07,70,False,Altice USA
+2018-01-14,28,False,Altice USA
+2018-01-21,28,False,Altice USA
+2018-01-28,38,False,Altice USA
+2018-02-04,33,False,Altice USA
+2018-02-11,31,False,Altice USA
+2018-02-18,22,False,Altice USA
+2018-02-25,32,False,Altice USA
+2018-03-04,26,False,Altice USA
+2018-03-11,23,False,Altice USA
+2018-03-18,20,False,Altice USA

@@ -1,0 +1,105 @@
+date,SVI,isPartial,Issuer
+2005-01-09,25,False,FreightCar America
+2005-01-16,25,False,FreightCar America
+2005-01-23,24,False,FreightCar America
+2005-01-30,24,False,FreightCar America
+2005-02-06,0,False,FreightCar America
+2005-02-13,0,False,FreightCar America
+2005-02-20,25,False,FreightCar America
+2005-02-27,24,False,FreightCar America
+2005-03-06,45,False,FreightCar America
+2005-03-13,0,False,FreightCar America
+2005-03-20,0,False,FreightCar America
+2005-03-27,0,False,FreightCar America
+2005-04-03,100,False,FreightCar America
+2005-04-10,0,False,FreightCar America
+2005-04-17,0,False,FreightCar America
+2005-04-24,0,False,FreightCar America
+2005-05-01,0,False,FreightCar America
+2005-05-08,22,False,FreightCar America
+2005-05-15,0,False,FreightCar America
+2005-05-22,0,False,FreightCar America
+2005-05-29,0,False,FreightCar America
+2005-06-05,0,False,FreightCar America
+2005-06-12,0,False,FreightCar America
+2005-06-19,0,False,FreightCar America
+2005-06-26,0,False,FreightCar America
+2005-07-03,23,False,FreightCar America
+2005-07-10,0,False,FreightCar America
+2005-07-17,0,False,FreightCar America
+2005-07-24,0,False,FreightCar America
+2005-07-31,22,False,FreightCar America
+2005-08-07,0,False,FreightCar America
+2005-08-14,22,False,FreightCar America
+2005-08-21,0,False,FreightCar America
+2005-08-28,0,False,FreightCar America
+2005-09-04,0,False,FreightCar America
+2005-09-11,0,False,FreightCar America
+2005-09-18,0,False,FreightCar America
+2005-09-25,0,False,FreightCar America
+2005-10-02,0,False,FreightCar America
+2005-10-09,0,False,FreightCar America
+2005-10-16,0,False,FreightCar America
+2005-10-23,18,False,FreightCar America
+2005-10-30,0,False,FreightCar America
+2005-11-06,21,False,FreightCar America
+2005-11-13,0,False,FreightCar America
+2005-11-20,0,False,FreightCar America
+2005-11-27,0,False,FreightCar America
+2005-12-04,17,False,FreightCar America
+2005-12-11,17,False,FreightCar America
+2005-12-18,0,False,FreightCar America
+2005-12-25,0,False,FreightCar America
+2006-01-01,18,False,FreightCar America
+2005-01-16,0,False,DexCom
+2005-01-23,0,False,DexCom
+2005-01-30,54,False,DexCom
+2005-02-06,14,False,DexCom
+2005-02-13,13,False,DexCom
+2005-02-20,0,False,DexCom
+2005-02-27,13,False,DexCom
+2005-03-06,38,False,DexCom
+2005-03-13,50,False,DexCom
+2005-03-20,14,False,DexCom
+2005-03-27,25,False,DexCom
+2005-04-03,56,False,DexCom
+2005-04-10,100,False,DexCom
+2005-04-17,63,False,DexCom
+2005-04-24,49,False,DexCom
+2005-05-01,26,False,DexCom
+2005-05-08,36,False,DexCom
+2005-05-15,48,False,DexCom
+2005-05-22,12,False,DexCom
+2005-05-29,13,False,DexCom
+2005-06-05,24,False,DexCom
+2005-06-12,49,False,DexCom
+2005-06-19,38,False,DexCom
+2005-06-26,12,False,DexCom
+2005-07-03,0,False,DexCom
+2005-07-10,12,False,DexCom
+2005-07-17,0,False,DexCom
+2005-07-24,12,False,DexCom
+2005-07-31,37,False,DexCom
+2005-08-07,24,False,DexCom
+2005-08-14,24,False,DexCom
+2005-08-21,14,False,DexCom
+2005-08-28,11,False,DexCom
+2005-09-04,22,False,DexCom
+2005-09-11,11,False,DexCom
+2005-09-18,11,False,DexCom
+2005-09-25,52,False,DexCom
+2005-10-02,21,False,DexCom
+2005-10-09,21,False,DexCom
+2005-10-16,0,False,DexCom
+2005-10-23,10,False,DexCom
+2005-10-30,0,False,DexCom
+2005-11-06,46,False,DexCom
+2005-11-13,10,False,DexCom
+2005-11-20,10,False,DexCom
+2005-11-27,19,False,DexCom
+2005-12-04,0,False,DexCom
+2005-12-11,29,False,DexCom
+2005-12-18,0,False,DexCom
+2005-12-25,0,False,DexCom
+2006-01-01,20,False,DexCom
+2006-01-08,9,False,DexCom

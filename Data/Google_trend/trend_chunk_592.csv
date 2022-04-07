@@ -1,0 +1,261 @@
+date,SVI,isPartial,Issuer
+2004-03-07,0,False,Inhibitex
+2004-03-14,34,False,Inhibitex
+2004-03-21,0,False,Inhibitex
+2004-03-28,0,False,Inhibitex
+2004-04-04,36,False,Inhibitex
+2004-04-11,60,False,Inhibitex
+2004-04-18,64,False,Inhibitex
+2004-04-25,0,False,Inhibitex
+2004-05-02,0,False,Inhibitex
+2004-05-09,32,False,Inhibitex
+2004-05-16,32,False,Inhibitex
+2004-05-23,64,False,Inhibitex
+2004-05-30,0,False,Inhibitex
+2004-06-06,0,False,Inhibitex
+2004-06-13,0,False,Inhibitex
+2004-06-20,0,False,Inhibitex
+2004-06-27,100,False,Inhibitex
+2004-07-04,67,False,Inhibitex
+2004-07-11,0,False,Inhibitex
+2004-07-18,33,False,Inhibitex
+2004-07-25,0,False,Inhibitex
+2004-08-01,0,False,Inhibitex
+2004-08-08,33,False,Inhibitex
+2004-08-15,65,False,Inhibitex
+2004-08-22,0,False,Inhibitex
+2004-08-29,90,False,Inhibitex
+2004-09-05,0,False,Inhibitex
+2004-09-12,0,False,Inhibitex
+2004-09-19,0,False,Inhibitex
+2004-09-26,56,False,Inhibitex
+2004-10-03,28,False,Inhibitex
+2004-10-10,0,False,Inhibitex
+2004-10-17,54,False,Inhibitex
+2004-10-24,32,False,Inhibitex
+2004-10-31,27,False,Inhibitex
+2004-11-07,0,False,Inhibitex
+2004-11-14,0,False,Inhibitex
+2004-11-21,27,False,Inhibitex
+2004-11-28,26,False,Inhibitex
+2004-12-05,0,False,Inhibitex
+2004-12-12,0,False,Inhibitex
+2004-12-19,0,False,Inhibitex
+2004-12-26,0,False,Inhibitex
+2005-01-02,26,False,Inhibitex
+2005-01-09,24,False,Inhibitex
+2005-01-16,24,False,Inhibitex
+2005-01-23,23,False,Inhibitex
+2005-01-30,0,False,Inhibitex
+2005-02-06,0,False,Inhibitex
+2005-02-13,46,False,Inhibitex
+2005-02-20,0,False,Inhibitex
+2005-02-27,23,False,Inhibitex
+2004-03-14,0,False,Digirad
+2004-03-21,0,False,Digirad
+2004-03-28,0,False,Digirad
+2004-04-04,0,False,Digirad
+2004-04-11,51,False,Digirad
+2004-04-18,83,False,Digirad
+2004-04-25,0,False,Digirad
+2004-05-02,0,False,Digirad
+2004-05-09,0,False,Digirad
+2004-05-16,55,False,Digirad
+2004-05-23,54,False,Digirad
+2004-05-30,0,False,Digirad
+2004-06-06,82,False,Digirad
+2004-06-13,27,False,Digirad
+2004-06-20,28,False,Digirad
+2004-06-27,57,False,Digirad
+2004-07-04,0,False,Digirad
+2004-07-11,100,False,Digirad
+2004-07-18,0,False,Digirad
+2004-07-25,28,False,Digirad
+2004-08-01,0,False,Digirad
+2004-08-08,56,False,Digirad
+2004-08-15,28,False,Digirad
+2004-08-22,0,False,Digirad
+2004-08-29,0,False,Digirad
+2004-09-05,0,False,Digirad
+2004-09-12,49,False,Digirad
+2004-09-19,24,False,Digirad
+2004-09-26,24,False,Digirad
+2004-10-03,0,False,Digirad
+2004-10-10,0,False,Digirad
+2004-10-17,23,False,Digirad
+2004-10-24,0,False,Digirad
+2004-10-31,23,False,Digirad
+2004-11-07,0,False,Digirad
+2004-11-14,52,False,Digirad
+2004-11-21,23,False,Digirad
+2004-11-28,22,False,Digirad
+2004-12-05,0,False,Digirad
+2004-12-12,44,False,Digirad
+2004-12-19,0,False,Digirad
+2004-12-26,0,False,Digirad
+2005-01-02,0,False,Digirad
+2005-01-09,0,False,Digirad
+2005-01-16,20,False,Digirad
+2005-01-23,20,False,Digirad
+2005-01-30,0,False,Digirad
+2005-02-06,40,False,Digirad
+2005-02-13,58,False,Digirad
+2005-02-20,21,False,Digirad
+2005-02-27,20,False,Digirad
+2005-03-06,18,False,Digirad
+2004-03-14,17,False,PowerDsine
+2004-03-21,0,False,PowerDsine
+2004-03-28,0,False,PowerDsine
+2004-04-04,18,False,PowerDsine
+2004-04-11,0,False,PowerDsine
+2004-04-18,0,False,PowerDsine
+2004-04-25,33,False,PowerDsine
+2004-05-02,33,False,PowerDsine
+2004-05-09,16,False,PowerDsine
+2004-05-16,32,False,PowerDsine
+2004-05-23,48,False,PowerDsine
+2004-05-30,0,False,PowerDsine
+2004-06-06,16,False,PowerDsine
+2004-06-13,16,False,PowerDsine
+2004-06-20,16,False,PowerDsine
+2004-06-27,100,False,PowerDsine
+2004-07-04,50,False,PowerDsine
+2004-07-11,0,False,PowerDsine
+2004-07-18,33,False,PowerDsine
+2004-07-25,17,False,PowerDsine
+2004-08-01,50,False,PowerDsine
+2004-08-08,82,False,PowerDsine
+2004-08-15,49,False,PowerDsine
+2004-08-22,46,False,PowerDsine
+2004-08-29,60,False,PowerDsine
+2004-09-05,30,False,PowerDsine
+2004-09-12,14,False,PowerDsine
+2004-09-19,14,False,PowerDsine
+2004-09-26,0,False,PowerDsine
+2004-10-03,28,False,PowerDsine
+2004-10-10,17,False,PowerDsine
+2004-10-17,40,False,PowerDsine
+2004-10-24,47,False,PowerDsine
+2004-10-31,41,False,PowerDsine
+2004-11-07,20,False,PowerDsine
+2004-11-14,46,False,PowerDsine
+2004-11-21,14,False,PowerDsine
+2004-11-28,64,False,PowerDsine
+2004-12-05,13,False,PowerDsine
+2004-12-12,26,False,PowerDsine
+2004-12-19,0,False,PowerDsine
+2004-12-26,54,False,PowerDsine
+2005-01-02,39,False,PowerDsine
+2005-01-09,0,False,PowerDsine
+2005-01-16,59,False,PowerDsine
+2005-01-23,58,False,PowerDsine
+2005-01-30,23,False,PowerDsine
+2005-02-06,24,False,PowerDsine
+2005-02-13,57,False,PowerDsine
+2005-02-20,12,False,PowerDsine
+2005-02-27,69,False,PowerDsine
+2005-03-06,32,False,PowerDsine
+2004-03-14,48,False,CB Richard Ellis Group
+2004-03-21,0,False,CB Richard Ellis Group
+2004-03-28,0,False,CB Richard Ellis Group
+2004-04-04,0,False,CB Richard Ellis Group
+2004-04-11,0,False,CB Richard Ellis Group
+2004-04-18,45,False,CB Richard Ellis Group
+2004-04-25,0,False,CB Richard Ellis Group
+2004-05-02,46,False,CB Richard Ellis Group
+2004-05-09,0,False,CB Richard Ellis Group
+2004-05-16,0,False,CB Richard Ellis Group
+2004-05-23,0,False,CB Richard Ellis Group
+2004-05-30,0,False,CB Richard Ellis Group
+2004-06-06,45,False,CB Richard Ellis Group
+2004-06-13,44,False,CB Richard Ellis Group
+2004-06-20,0,False,CB Richard Ellis Group
+2004-06-27,0,False,CB Richard Ellis Group
+2004-07-04,46,False,CB Richard Ellis Group
+2004-07-11,54,False,CB Richard Ellis Group
+2004-07-18,46,False,CB Richard Ellis Group
+2004-07-25,93,False,CB Richard Ellis Group
+2004-08-01,0,False,CB Richard Ellis Group
+2004-08-08,0,False,CB Richard Ellis Group
+2004-08-15,45,False,CB Richard Ellis Group
+2004-08-22,0,False,CB Richard Ellis Group
+2004-08-29,42,False,CB Richard Ellis Group
+2004-09-05,0,False,CB Richard Ellis Group
+2004-09-12,79,False,CB Richard Ellis Group
+2004-09-19,0,False,CB Richard Ellis Group
+2004-09-26,0,False,CB Richard Ellis Group
+2004-10-03,39,False,CB Richard Ellis Group
+2004-10-10,0,False,CB Richard Ellis Group
+2004-10-17,0,False,CB Richard Ellis Group
+2004-10-24,0,False,CB Richard Ellis Group
+2004-10-31,38,False,CB Richard Ellis Group
+2004-11-07,0,False,CB Richard Ellis Group
+2004-11-14,0,False,CB Richard Ellis Group
+2004-11-21,0,False,CB Richard Ellis Group
+2004-11-28,35,False,CB Richard Ellis Group
+2004-12-05,35,False,CB Richard Ellis Group
+2004-12-12,36,False,CB Richard Ellis Group
+2004-12-19,0,False,CB Richard Ellis Group
+2004-12-26,100,False,CB Richard Ellis Group
+2005-01-02,0,False,CB Richard Ellis Group
+2005-01-09,33,False,CB Richard Ellis Group
+2005-01-16,33,False,CB Richard Ellis Group
+2005-01-23,32,False,CB Richard Ellis Group
+2005-01-30,0,False,CB Richard Ellis Group
+2005-02-06,33,False,CB Richard Ellis Group
+2005-02-13,32,False,CB Richard Ellis Group
+2005-02-20,0,False,CB Richard Ellis Group
+2005-02-27,0,False,CB Richard Ellis Group
+2005-03-06,30,False,CB Richard Ellis Group
+2004-03-21,0,False,Leadis Technology
+2004-03-28,0,False,Leadis Technology
+2004-04-04,0,False,Leadis Technology
+2004-04-11,100,False,Leadis Technology
+2004-04-18,0,False,Leadis Technology
+2004-04-25,0,False,Leadis Technology
+2004-05-02,0,False,Leadis Technology
+2004-05-09,0,False,Leadis Technology
+2004-05-16,0,False,Leadis Technology
+2004-05-23,0,False,Leadis Technology
+2004-05-30,0,False,Leadis Technology
+2004-06-06,0,False,Leadis Technology
+2004-06-13,54,False,Leadis Technology
+2004-06-20,0,False,Leadis Technology
+2004-06-27,0,False,Leadis Technology
+2004-07-04,0,False,Leadis Technology
+2004-07-11,0,False,Leadis Technology
+2004-07-18,56,False,Leadis Technology
+2004-07-25,0,False,Leadis Technology
+2004-08-01,0,False,Leadis Technology
+2004-08-08,0,False,Leadis Technology
+2004-08-15,0,False,Leadis Technology
+2004-08-22,0,False,Leadis Technology
+2004-08-29,0,False,Leadis Technology
+2004-09-05,50,False,Leadis Technology
+2004-09-12,48,False,Leadis Technology
+2004-09-19,0,False,Leadis Technology
+2004-09-26,0,False,Leadis Technology
+2004-10-03,0,False,Leadis Technology
+2004-10-10,0,False,Leadis Technology
+2004-10-17,0,False,Leadis Technology
+2004-10-24,53,False,Leadis Technology
+2004-10-31,46,False,Leadis Technology
+2004-11-07,0,False,Leadis Technology
+2004-11-14,0,False,Leadis Technology
+2004-11-21,0,False,Leadis Technology
+2004-11-28,0,False,Leadis Technology
+2004-12-05,0,False,Leadis Technology
+2004-12-12,0,False,Leadis Technology
+2004-12-19,0,False,Leadis Technology
+2004-12-26,0,False,Leadis Technology
+2005-01-02,0,False,Leadis Technology
+2005-01-09,80,False,Leadis Technology
+2005-01-16,39,False,Leadis Technology
+2005-01-23,0,False,Leadis Technology
+2005-01-30,0,False,Leadis Technology
+2005-02-06,0,False,Leadis Technology
+2005-02-13,0,False,Leadis Technology
+2005-02-20,0,False,Leadis Technology
+2005-02-27,0,False,Leadis Technology
+2005-03-06,0,False,Leadis Technology
+2005-03-13,0,False,Leadis Technology

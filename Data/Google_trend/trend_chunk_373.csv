@@ -1,0 +1,263 @@
+date,SVI,isPartial,Issuer
+2011-04-24,49,False,Skullcandy
+2011-05-01,48,False,Skullcandy
+2011-05-08,48,False,Skullcandy
+2011-05-15,48,False,Skullcandy
+2011-05-22,50,False,Skullcandy
+2011-05-29,49,False,Skullcandy
+2011-06-05,46,False,Skullcandy
+2011-06-12,47,False,Skullcandy
+2011-06-19,49,False,Skullcandy
+2011-06-26,43,False,Skullcandy
+2011-07-03,47,False,Skullcandy
+2011-07-10,48,False,Skullcandy
+2011-07-17,53,False,Skullcandy
+2011-07-24,55,False,Skullcandy
+2011-07-31,52,False,Skullcandy
+2011-08-07,47,False,Skullcandy
+2011-08-14,50,False,Skullcandy
+2011-08-21,48,False,Skullcandy
+2011-08-28,48,False,Skullcandy
+2011-09-04,45,False,Skullcandy
+2011-09-11,49,False,Skullcandy
+2011-09-18,53,False,Skullcandy
+2011-09-25,54,False,Skullcandy
+2011-10-02,52,False,Skullcandy
+2011-10-09,53,False,Skullcandy
+2011-10-16,55,False,Skullcandy
+2011-10-23,54,False,Skullcandy
+2011-10-30,58,False,Skullcandy
+2011-11-06,58,False,Skullcandy
+2011-11-13,64,False,Skullcandy
+2011-11-20,79,False,Skullcandy
+2011-11-27,77,False,Skullcandy
+2011-12-04,93,False,Skullcandy
+2011-12-11,100,False,Skullcandy
+2011-12-18,93,False,Skullcandy
+2011-12-25,90,False,Skullcandy
+2012-01-01,62,False,Skullcandy
+2012-01-08,59,False,Skullcandy
+2012-01-15,60,False,Skullcandy
+2012-01-22,56,False,Skullcandy
+2012-01-29,58,False,Skullcandy
+2012-02-05,56,False,Skullcandy
+2012-02-12,53,False,Skullcandy
+2012-02-19,54,False,Skullcandy
+2012-02-26,59,False,Skullcandy
+2012-03-04,48,False,Skullcandy
+2012-03-11,50,False,Skullcandy
+2012-03-18,47,False,Skullcandy
+2012-03-25,44,False,Skullcandy
+2012-04-01,45,False,Skullcandy
+2012-04-08,43,False,Skullcandy
+2012-04-15,44,False,Skullcandy
+2011-04-24,63,False,Zillow
+2011-05-01,58,False,Zillow
+2011-05-08,70,False,Zillow
+2011-05-15,63,False,Zillow
+2011-05-22,62,False,Zillow
+2011-05-29,65,False,Zillow
+2011-06-05,69,False,Zillow
+2011-06-12,66,False,Zillow
+2011-06-19,67,False,Zillow
+2011-06-26,67,False,Zillow
+2011-07-03,73,False,Zillow
+2011-07-10,75,False,Zillow
+2011-07-17,98,False,Zillow
+2011-07-24,88,False,Zillow
+2011-07-31,84,False,Zillow
+2011-08-07,82,False,Zillow
+2011-08-14,87,False,Zillow
+2011-08-21,80,False,Zillow
+2011-08-28,73,False,Zillow
+2011-09-04,70,False,Zillow
+2011-09-11,74,False,Zillow
+2011-09-18,72,False,Zillow
+2011-09-25,76,False,Zillow
+2011-10-02,68,False,Zillow
+2011-10-09,72,False,Zillow
+2011-10-16,73,False,Zillow
+2011-10-23,77,False,Zillow
+2011-10-30,74,False,Zillow
+2011-11-06,76,False,Zillow
+2011-11-13,74,False,Zillow
+2011-11-20,57,False,Zillow
+2011-11-27,72,False,Zillow
+2011-12-04,67,False,Zillow
+2011-12-11,73,False,Zillow
+2011-12-18,72,False,Zillow
+2011-12-25,89,False,Zillow
+2012-01-01,90,False,Zillow
+2012-01-08,95,False,Zillow
+2012-01-15,91,False,Zillow
+2012-01-22,92,False,Zillow
+2012-01-29,95,False,Zillow
+2012-02-05,92,False,Zillow
+2012-02-12,91,False,Zillow
+2012-02-19,97,False,Zillow
+2012-02-26,100,False,Zillow
+2012-03-04,99,False,Zillow
+2012-03-11,97,False,Zillow
+2012-03-18,98,False,Zillow
+2012-03-25,95,False,Zillow
+2012-04-01,93,False,Zillow
+2012-04-08,88,False,Zillow
+2012-04-15,91,False,Zillow
+2011-04-24,7,False,SunCoke Energy
+2011-05-01,25,False,SunCoke Energy
+2011-05-08,19,False,SunCoke Energy
+2011-05-15,19,False,SunCoke Energy
+2011-05-22,13,False,SunCoke Energy
+2011-05-29,13,False,SunCoke Energy
+2011-06-05,6,False,SunCoke Energy
+2011-06-12,32,False,SunCoke Energy
+2011-06-19,25,False,SunCoke Energy
+2011-06-26,51,False,SunCoke Energy
+2011-07-03,64,False,SunCoke Energy
+2011-07-10,39,False,SunCoke Energy
+2011-07-17,100,False,SunCoke Energy
+2011-07-24,45,False,SunCoke Energy
+2011-07-31,39,False,SunCoke Energy
+2011-08-07,31,False,SunCoke Energy
+2011-08-14,50,False,SunCoke Energy
+2011-08-21,24,False,SunCoke Energy
+2011-08-28,24,False,SunCoke Energy
+2011-09-04,12,False,SunCoke Energy
+2011-09-11,17,False,SunCoke Energy
+2011-09-18,11,False,SunCoke Energy
+2011-09-25,17,False,SunCoke Energy
+2011-10-02,23,False,SunCoke Energy
+2011-10-09,16,False,SunCoke Energy
+2011-10-16,6,False,SunCoke Energy
+2011-10-23,6,False,SunCoke Energy
+2011-10-30,6,False,SunCoke Energy
+2011-11-06,39,False,SunCoke Energy
+2011-11-13,11,False,SunCoke Energy
+2011-11-20,5,False,SunCoke Energy
+2011-11-27,16,False,SunCoke Energy
+2011-12-04,11,False,SunCoke Energy
+2011-12-11,16,False,SunCoke Energy
+2011-12-18,0,False,SunCoke Energy
+2011-12-25,12,False,SunCoke Energy
+2012-01-01,16,False,SunCoke Energy
+2012-01-08,0,False,SunCoke Energy
+2012-01-15,30,False,SunCoke Energy
+2012-01-22,20,False,SunCoke Energy
+2012-01-29,30,False,SunCoke Energy
+2012-02-05,15,False,SunCoke Energy
+2012-02-12,10,False,SunCoke Energy
+2012-02-19,0,False,SunCoke Energy
+2012-02-26,51,False,SunCoke Energy
+2012-03-04,5,False,SunCoke Energy
+2012-03-11,20,False,SunCoke Energy
+2012-03-18,10,False,SunCoke Energy
+2012-03-25,0,False,SunCoke Energy
+2012-04-01,5,False,SunCoke Energy
+2012-04-08,21,False,SunCoke Energy
+2012-04-15,34,False,SunCoke Energy
+2011-04-24,0,False,Apollo Residential Mortgage
+2011-05-01,0,False,Apollo Residential Mortgage
+2011-05-08,0,False,Apollo Residential Mortgage
+2011-05-15,0,False,Apollo Residential Mortgage
+2011-05-22,0,False,Apollo Residential Mortgage
+2011-05-29,0,False,Apollo Residential Mortgage
+2011-06-05,0,False,Apollo Residential Mortgage
+2011-06-12,49,False,Apollo Residential Mortgage
+2011-06-19,0,False,Apollo Residential Mortgage
+2011-06-26,0,False,Apollo Residential Mortgage
+2011-07-03,0,False,Apollo Residential Mortgage
+2011-07-10,100,False,Apollo Residential Mortgage
+2011-07-17,97,False,Apollo Residential Mortgage
+2011-07-24,49,False,Apollo Residential Mortgage
+2011-07-31,0,False,Apollo Residential Mortgage
+2011-08-07,48,False,Apollo Residential Mortgage
+2011-08-14,0,False,Apollo Residential Mortgage
+2011-08-21,0,False,Apollo Residential Mortgage
+2011-08-28,0,False,Apollo Residential Mortgage
+2011-09-04,0,False,Apollo Residential Mortgage
+2011-09-11,0,False,Apollo Residential Mortgage
+2011-09-18,44,False,Apollo Residential Mortgage
+2011-09-25,0,False,Apollo Residential Mortgage
+2011-10-02,44,False,Apollo Residential Mortgage
+2011-10-09,0,False,Apollo Residential Mortgage
+2011-10-16,0,False,Apollo Residential Mortgage
+2011-10-23,0,False,Apollo Residential Mortgage
+2011-10-30,43,False,Apollo Residential Mortgage
+2011-11-06,43,False,Apollo Residential Mortgage
+2011-11-13,0,False,Apollo Residential Mortgage
+2011-11-20,0,False,Apollo Residential Mortgage
+2011-11-27,0,False,Apollo Residential Mortgage
+2011-12-04,0,False,Apollo Residential Mortgage
+2011-12-11,0,False,Apollo Residential Mortgage
+2011-12-18,0,False,Apollo Residential Mortgage
+2011-12-25,0,False,Apollo Residential Mortgage
+2012-01-01,0,False,Apollo Residential Mortgage
+2012-01-08,0,False,Apollo Residential Mortgage
+2012-01-15,39,False,Apollo Residential Mortgage
+2012-01-22,39,False,Apollo Residential Mortgage
+2012-01-29,0,False,Apollo Residential Mortgage
+2012-02-05,38,False,Apollo Residential Mortgage
+2012-02-12,39,False,Apollo Residential Mortgage
+2012-02-19,0,False,Apollo Residential Mortgage
+2012-02-26,0,False,Apollo Residential Mortgage
+2012-03-04,77,False,Apollo Residential Mortgage
+2012-03-11,0,False,Apollo Residential Mortgage
+2012-03-18,0,False,Apollo Residential Mortgage
+2012-03-25,39,False,Apollo Residential Mortgage
+2012-04-01,0,False,Apollo Residential Mortgage
+2012-04-08,0,False,Apollo Residential Mortgage
+2012-04-15,76,False,Apollo Residential Mortgage
+2012-04-22,0,False,Apollo Residential Mortgage
+2011-04-24,0,False,Francescas Holdings
+2011-05-01,0,False,Francescas Holdings
+2011-05-08,0,False,Francescas Holdings
+2011-05-15,0,False,Francescas Holdings
+2011-05-22,0,False,Francescas Holdings
+2011-05-29,0,False,Francescas Holdings
+2011-06-05,0,False,Francescas Holdings
+2011-06-12,0,False,Francescas Holdings
+2011-06-19,0,False,Francescas Holdings
+2011-06-26,0,False,Francescas Holdings
+2011-07-03,0,False,Francescas Holdings
+2011-07-10,0,False,Francescas Holdings
+2011-07-17,98,False,Francescas Holdings
+2011-07-24,100,False,Francescas Holdings
+2011-07-31,0,False,Francescas Holdings
+2011-08-07,0,False,Francescas Holdings
+2011-08-14,99,False,Francescas Holdings
+2011-08-21,0,False,Francescas Holdings
+2011-08-28,0,False,Francescas Holdings
+2011-09-04,91,False,Francescas Holdings
+2011-09-11,0,False,Francescas Holdings
+2011-09-18,0,False,Francescas Holdings
+2011-09-25,90,False,Francescas Holdings
+2011-10-02,0,False,Francescas Holdings
+2011-10-09,0,False,Francescas Holdings
+2011-10-16,0,False,Francescas Holdings
+2011-10-23,0,False,Francescas Holdings
+2011-10-30,0,False,Francescas Holdings
+2011-11-06,0,False,Francescas Holdings
+2011-11-13,0,False,Francescas Holdings
+2011-11-20,0,False,Francescas Holdings
+2011-11-27,0,False,Francescas Holdings
+2011-12-04,84,False,Francescas Holdings
+2011-12-11,0,False,Francescas Holdings
+2011-12-18,0,False,Francescas Holdings
+2011-12-25,0,False,Francescas Holdings
+2012-01-01,0,False,Francescas Holdings
+2012-01-08,0,False,Francescas Holdings
+2012-01-15,80,False,Francescas Holdings
+2012-01-22,0,False,Francescas Holdings
+2012-01-29,0,False,Francescas Holdings
+2012-02-05,0,False,Francescas Holdings
+2012-02-12,0,False,Francescas Holdings
+2012-02-19,0,False,Francescas Holdings
+2012-02-26,0,False,Francescas Holdings
+2012-03-04,0,False,Francescas Holdings
+2012-03-11,0,False,Francescas Holdings
+2012-03-18,0,False,Francescas Holdings
+2012-03-25,0,False,Francescas Holdings
+2012-04-01,0,False,Francescas Holdings
+2012-04-08,0,False,Francescas Holdings
+2012-04-15,0,False,Francescas Holdings
+2012-04-22,0,False,Francescas Holdings

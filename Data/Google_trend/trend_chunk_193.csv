@@ -1,0 +1,210 @@
+date,SVI,isPartial,Issuer
+2014-12-14,7,False,Summit Materials
+2014-12-21,8,False,Summit Materials
+2014-12-28,3,False,Summit Materials
+2015-01-04,18,False,Summit Materials
+2015-01-11,14,False,Summit Materials
+2015-01-18,16,False,Summit Materials
+2015-01-25,14,False,Summit Materials
+2015-02-01,7,False,Summit Materials
+2015-02-08,14,False,Summit Materials
+2015-02-15,16,False,Summit Materials
+2015-02-22,18,False,Summit Materials
+2015-03-01,42,False,Summit Materials
+2015-03-08,100,False,Summit Materials
+2015-03-15,32,False,Summit Materials
+2015-03-22,10,False,Summit Materials
+2015-03-29,19,False,Summit Materials
+2015-04-05,16,False,Summit Materials
+2015-04-12,29,False,Summit Materials
+2015-04-19,27,False,Summit Materials
+2015-04-26,20,False,Summit Materials
+2015-05-03,29,False,Summit Materials
+2015-05-10,22,False,Summit Materials
+2015-05-17,16,False,Summit Materials
+2015-05-24,18,False,Summit Materials
+2015-05-31,20,False,Summit Materials
+2015-06-07,11,False,Summit Materials
+2015-06-14,29,False,Summit Materials
+2015-06-21,22,False,Summit Materials
+2015-06-28,7,False,Summit Materials
+2015-07-05,7,False,Summit Materials
+2015-07-12,23,False,Summit Materials
+2015-07-19,21,False,Summit Materials
+2015-07-26,21,False,Summit Materials
+2015-08-02,34,False,Summit Materials
+2015-08-09,9,False,Summit Materials
+2015-08-16,24,False,Summit Materials
+2015-08-23,20,False,Summit Materials
+2015-08-30,19,False,Summit Materials
+2015-09-06,9,False,Summit Materials
+2015-09-13,10,False,Summit Materials
+2015-09-20,26,False,Summit Materials
+2015-09-27,4,False,Summit Materials
+2015-10-04,14,False,Summit Materials
+2015-10-11,12,False,Summit Materials
+2015-10-18,21,False,Summit Materials
+2015-10-25,19,False,Summit Materials
+2015-11-01,29,False,Summit Materials
+2015-11-08,19,False,Summit Materials
+2015-11-15,10,False,Summit Materials
+2015-11-22,12,False,Summit Materials
+2015-11-29,18,False,Summit Materials
+2015-12-06,16,False,Summit Materials
+2014-12-21,0,False,Goldman Sachs BDC
+2014-12-28,0,False,Goldman Sachs BDC
+2015-01-04,5,False,Goldman Sachs BDC
+2015-01-11,0,False,Goldman Sachs BDC
+2015-01-18,5,False,Goldman Sachs BDC
+2015-01-25,0,False,Goldman Sachs BDC
+2015-02-01,0,False,Goldman Sachs BDC
+2015-02-08,0,False,Goldman Sachs BDC
+2015-02-15,0,False,Goldman Sachs BDC
+2015-02-22,0,False,Goldman Sachs BDC
+2015-03-01,5,False,Goldman Sachs BDC
+2015-03-08,49,False,Goldman Sachs BDC
+2015-03-15,100,False,Goldman Sachs BDC
+2015-03-22,11,False,Goldman Sachs BDC
+2015-03-29,10,False,Goldman Sachs BDC
+2015-04-05,15,False,Goldman Sachs BDC
+2015-04-12,10,False,Goldman Sachs BDC
+2015-04-19,0,False,Goldman Sachs BDC
+2015-04-26,5,False,Goldman Sachs BDC
+2015-05-03,5,False,Goldman Sachs BDC
+2015-05-10,5,False,Goldman Sachs BDC
+2015-05-17,5,False,Goldman Sachs BDC
+2015-05-24,5,False,Goldman Sachs BDC
+2015-05-31,5,False,Goldman Sachs BDC
+2015-06-07,15,False,Goldman Sachs BDC
+2015-06-14,0,False,Goldman Sachs BDC
+2015-06-21,5,False,Goldman Sachs BDC
+2015-06-28,0,False,Goldman Sachs BDC
+2015-07-05,0,False,Goldman Sachs BDC
+2015-07-12,5,False,Goldman Sachs BDC
+2015-07-19,5,False,Goldman Sachs BDC
+2015-07-26,0,False,Goldman Sachs BDC
+2015-08-02,15,False,Goldman Sachs BDC
+2015-08-09,5,False,Goldman Sachs BDC
+2015-08-16,5,False,Goldman Sachs BDC
+2015-08-23,0,False,Goldman Sachs BDC
+2015-08-30,5,False,Goldman Sachs BDC
+2015-09-06,5,False,Goldman Sachs BDC
+2015-09-13,9,False,Goldman Sachs BDC
+2015-09-20,5,False,Goldman Sachs BDC
+2015-09-27,14,False,Goldman Sachs BDC
+2015-10-04,0,False,Goldman Sachs BDC
+2015-10-11,5,False,Goldman Sachs BDC
+2015-10-18,5,False,Goldman Sachs BDC
+2015-10-25,5,False,Goldman Sachs BDC
+2015-11-01,5,False,Goldman Sachs BDC
+2015-11-08,5,False,Goldman Sachs BDC
+2015-11-15,0,False,Goldman Sachs BDC
+2015-11-22,0,False,Goldman Sachs BDC
+2015-11-29,5,False,Goldman Sachs BDC
+2015-12-06,5,False,Goldman Sachs BDC
+2015-12-13,0,False,Goldman Sachs BDC
+2014-12-21,56,False,National Commerce
+2014-12-28,54,False,National Commerce
+2015-01-04,65,False,National Commerce
+2015-01-11,81,False,National Commerce
+2015-01-18,78,False,National Commerce
+2015-01-25,85,False,National Commerce
+2015-02-01,79,False,National Commerce
+2015-02-08,99,False,National Commerce
+2015-02-15,94,False,National Commerce
+2015-02-22,80,False,National Commerce
+2015-03-01,73,False,National Commerce
+2015-03-08,80,False,National Commerce
+2015-03-15,85,False,National Commerce
+2015-03-22,73,False,National Commerce
+2015-03-29,74,False,National Commerce
+2015-04-05,65,False,National Commerce
+2015-04-12,73,False,National Commerce
+2015-04-19,68,False,National Commerce
+2015-04-26,62,False,National Commerce
+2015-05-03,75,False,National Commerce
+2015-05-10,73,False,National Commerce
+2015-05-17,81,False,National Commerce
+2015-05-24,71,False,National Commerce
+2015-05-31,82,False,National Commerce
+2015-06-07,91,False,National Commerce
+2015-06-14,92,False,National Commerce
+2015-06-21,71,False,National Commerce
+2015-06-28,64,False,National Commerce
+2015-07-05,76,False,National Commerce
+2015-07-12,78,False,National Commerce
+2015-07-19,85,False,National Commerce
+2015-07-26,82,False,National Commerce
+2015-08-02,71,False,National Commerce
+2015-08-09,80,False,National Commerce
+2015-08-16,62,False,National Commerce
+2015-08-23,79,False,National Commerce
+2015-08-30,72,False,National Commerce
+2015-09-06,71,False,National Commerce
+2015-09-13,84,False,National Commerce
+2015-09-20,78,False,National Commerce
+2015-09-27,100,False,National Commerce
+2015-10-04,81,False,National Commerce
+2015-10-11,76,False,National Commerce
+2015-10-18,78,False,National Commerce
+2015-10-25,77,False,National Commerce
+2015-11-01,78,False,National Commerce
+2015-11-08,70,False,National Commerce
+2015-11-15,71,False,National Commerce
+2015-11-22,61,False,National Commerce
+2015-11-29,77,False,National Commerce
+2015-12-06,68,False,National Commerce
+2015-12-13,72,False,National Commerce
+2014-12-21,0,False,SteadyMed
+2014-12-28,0,False,SteadyMed
+2015-01-04,17,False,SteadyMed
+2015-01-11,0,False,SteadyMed
+2015-01-18,8,False,SteadyMed
+2015-01-25,8,False,SteadyMed
+2015-02-01,25,False,SteadyMed
+2015-02-08,33,False,SteadyMed
+2015-02-15,9,False,SteadyMed
+2015-02-22,16,False,SteadyMed
+2015-03-01,16,False,SteadyMed
+2015-03-08,65,False,SteadyMed
+2015-03-15,100,False,SteadyMed
+2015-03-22,27,False,SteadyMed
+2015-03-29,26,False,SteadyMed
+2015-04-05,17,False,SteadyMed
+2015-04-12,25,False,SteadyMed
+2015-04-19,33,False,SteadyMed
+2015-04-26,8,False,SteadyMed
+2015-05-03,0,False,SteadyMed
+2015-05-10,8,False,SteadyMed
+2015-05-17,33,False,SteadyMed
+2015-05-24,8,False,SteadyMed
+2015-05-31,17,False,SteadyMed
+2015-06-07,16,False,SteadyMed
+2015-06-14,25,False,SteadyMed
+2015-06-21,8,False,SteadyMed
+2015-06-28,17,False,SteadyMed
+2015-07-05,8,False,SteadyMed
+2015-07-12,17,False,SteadyMed
+2015-07-19,0,False,SteadyMed
+2015-07-26,17,False,SteadyMed
+2015-08-02,8,False,SteadyMed
+2015-08-09,16,False,SteadyMed
+2015-08-16,41,False,SteadyMed
+2015-08-23,16,False,SteadyMed
+2015-08-30,8,False,SteadyMed
+2015-09-06,8,False,SteadyMed
+2015-09-13,23,False,SteadyMed
+2015-09-20,16,False,SteadyMed
+2015-09-27,8,False,SteadyMed
+2015-10-04,23,False,SteadyMed
+2015-10-11,8,False,SteadyMed
+2015-10-18,8,False,SteadyMed
+2015-10-25,0,False,SteadyMed
+2015-11-01,8,False,SteadyMed
+2015-11-08,0,False,SteadyMed
+2015-11-15,15,False,SteadyMed
+2015-11-22,8,False,SteadyMed
+2015-11-29,0,False,SteadyMed
+2015-12-06,0,False,SteadyMed
+2015-12-13,8,False,SteadyMed
+2015-12-20,17,False,SteadyMed

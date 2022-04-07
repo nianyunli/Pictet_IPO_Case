@@ -1,0 +1,209 @@
+date,SVI,isPartial,Issuer
+2010-11-14,20,False,Kinder Morgan
+2010-11-21,15,False,Kinder Morgan
+2010-11-28,16,False,Kinder Morgan
+2010-12-05,21,False,Kinder Morgan
+2010-12-12,20,False,Kinder Morgan
+2010-12-19,15,False,Kinder Morgan
+2010-12-26,11,False,Kinder Morgan
+2011-01-02,16,False,Kinder Morgan
+2011-01-09,19,False,Kinder Morgan
+2011-01-16,19,False,Kinder Morgan
+2011-01-23,17,False,Kinder Morgan
+2011-01-30,33,False,Kinder Morgan
+2011-02-06,53,False,Kinder Morgan
+2011-02-13,36,False,Kinder Morgan
+2011-02-20,27,False,Kinder Morgan
+2011-02-27,24,False,Kinder Morgan
+2011-03-06,24,False,Kinder Morgan
+2011-03-13,25,False,Kinder Morgan
+2011-03-20,22,False,Kinder Morgan
+2011-03-27,22,False,Kinder Morgan
+2011-04-03,22,False,Kinder Morgan
+2011-04-10,25,False,Kinder Morgan
+2011-04-17,22,False,Kinder Morgan
+2011-04-24,20,False,Kinder Morgan
+2011-05-01,25,False,Kinder Morgan
+2011-05-08,18,False,Kinder Morgan
+2011-05-15,16,False,Kinder Morgan
+2011-05-22,17,False,Kinder Morgan
+2011-05-29,14,False,Kinder Morgan
+2011-06-05,15,False,Kinder Morgan
+2011-06-12,21,False,Kinder Morgan
+2011-06-19,20,False,Kinder Morgan
+2011-06-26,20,False,Kinder Morgan
+2011-07-03,15,False,Kinder Morgan
+2011-07-10,14,False,Kinder Morgan
+2011-07-17,18,False,Kinder Morgan
+2011-07-24,20,False,Kinder Morgan
+2011-07-31,20,False,Kinder Morgan
+2011-08-07,19,False,Kinder Morgan
+2011-08-14,25,False,Kinder Morgan
+2011-08-21,17,False,Kinder Morgan
+2011-08-28,16,False,Kinder Morgan
+2011-09-04,15,False,Kinder Morgan
+2011-09-11,17,False,Kinder Morgan
+2011-09-18,17,False,Kinder Morgan
+2011-09-25,15,False,Kinder Morgan
+2011-10-02,17,False,Kinder Morgan
+2011-10-09,16,False,Kinder Morgan
+2011-10-16,100,False,Kinder Morgan
+2011-10-23,34,False,Kinder Morgan
+2011-10-30,20,False,Kinder Morgan
+2011-11-06,22,False,Kinder Morgan
+2010-11-14,0,False,Kips Bay Medical
+2010-11-21,0,False,Kips Bay Medical
+2010-11-28,35,False,Kips Bay Medical
+2010-12-05,36,False,Kips Bay Medical
+2010-12-12,18,False,Kips Bay Medical
+2010-12-19,20,False,Kips Bay Medical
+2010-12-26,0,False,Kips Bay Medical
+2011-01-02,18,False,Kips Bay Medical
+2011-01-09,34,False,Kips Bay Medical
+2011-01-16,0,False,Kips Bay Medical
+2011-01-23,0,False,Kips Bay Medical
+2011-01-30,32,False,Kips Bay Medical
+2011-02-06,100,False,Kips Bay Medical
+2011-02-13,33,False,Kips Bay Medical
+2011-02-20,0,False,Kips Bay Medical
+2011-02-27,33,False,Kips Bay Medical
+2011-03-06,49,False,Kips Bay Medical
+2011-03-13,0,False,Kips Bay Medical
+2011-03-20,33,False,Kips Bay Medical
+2011-03-27,0,False,Kips Bay Medical
+2011-04-03,0,False,Kips Bay Medical
+2011-04-10,33,False,Kips Bay Medical
+2011-04-17,0,False,Kips Bay Medical
+2011-04-24,34,False,Kips Bay Medical
+2011-05-01,49,False,Kips Bay Medical
+2011-05-08,16,False,Kips Bay Medical
+2011-05-15,16,False,Kips Bay Medical
+2011-05-22,16,False,Kips Bay Medical
+2011-05-29,16,False,Kips Bay Medical
+2011-06-05,65,False,Kips Bay Medical
+2011-06-12,0,False,Kips Bay Medical
+2011-06-19,0,False,Kips Bay Medical
+2011-06-26,0,False,Kips Bay Medical
+2011-07-03,0,False,Kips Bay Medical
+2011-07-10,33,False,Kips Bay Medical
+2011-07-17,0,False,Kips Bay Medical
+2011-07-24,0,False,Kips Bay Medical
+2011-07-31,33,False,Kips Bay Medical
+2011-08-07,0,False,Kips Bay Medical
+2011-08-14,0,False,Kips Bay Medical
+2011-08-21,0,False,Kips Bay Medical
+2011-08-28,0,False,Kips Bay Medical
+2011-09-04,0,False,Kips Bay Medical
+2011-09-11,15,False,Kips Bay Medical
+2011-09-18,15,False,Kips Bay Medical
+2011-09-25,0,False,Kips Bay Medical
+2011-10-02,29,False,Kips Bay Medical
+2011-10-09,0,False,Kips Bay Medical
+2011-10-16,14,False,Kips Bay Medical
+2011-10-23,14,False,Kips Bay Medical
+2011-10-30,0,False,Kips Bay Medical
+2011-11-06,0,False,Kips Bay Medical
+2010-11-21,0,False,Zuoan Fashion Limited
+2010-11-28,0,False,Zuoan Fashion Limited
+2010-12-05,0,False,Zuoan Fashion Limited
+2010-12-12,0,False,Zuoan Fashion Limited
+2010-12-19,0,False,Zuoan Fashion Limited
+2010-12-26,0,False,Zuoan Fashion Limited
+2011-01-02,0,False,Zuoan Fashion Limited
+2011-01-09,100,False,Zuoan Fashion Limited
+2011-01-16,0,False,Zuoan Fashion Limited
+2011-01-23,0,False,Zuoan Fashion Limited
+2011-01-30,95,False,Zuoan Fashion Limited
+2011-02-06,0,False,Zuoan Fashion Limited
+2011-02-13,0,False,Zuoan Fashion Limited
+2011-02-20,0,False,Zuoan Fashion Limited
+2011-02-27,0,False,Zuoan Fashion Limited
+2011-03-06,0,False,Zuoan Fashion Limited
+2011-03-13,0,False,Zuoan Fashion Limited
+2011-03-20,0,False,Zuoan Fashion Limited
+2011-03-27,48,False,Zuoan Fashion Limited
+2011-04-03,0,False,Zuoan Fashion Limited
+2011-04-10,0,False,Zuoan Fashion Limited
+2011-04-17,0,False,Zuoan Fashion Limited
+2011-04-24,0,False,Zuoan Fashion Limited
+2011-05-01,0,False,Zuoan Fashion Limited
+2011-05-08,0,False,Zuoan Fashion Limited
+2011-05-15,0,False,Zuoan Fashion Limited
+2011-05-22,0,False,Zuoan Fashion Limited
+2011-05-29,0,False,Zuoan Fashion Limited
+2011-06-05,0,False,Zuoan Fashion Limited
+2011-06-12,0,False,Zuoan Fashion Limited
+2011-06-19,0,False,Zuoan Fashion Limited
+2011-06-26,0,False,Zuoan Fashion Limited
+2011-07-03,0,False,Zuoan Fashion Limited
+2011-07-10,0,False,Zuoan Fashion Limited
+2011-07-17,0,False,Zuoan Fashion Limited
+2011-07-24,0,False,Zuoan Fashion Limited
+2011-07-31,0,False,Zuoan Fashion Limited
+2011-08-07,0,False,Zuoan Fashion Limited
+2011-08-14,0,False,Zuoan Fashion Limited
+2011-08-21,0,False,Zuoan Fashion Limited
+2011-08-28,0,False,Zuoan Fashion Limited
+2011-09-04,0,False,Zuoan Fashion Limited
+2011-09-11,0,False,Zuoan Fashion Limited
+2011-09-18,0,False,Zuoan Fashion Limited
+2011-09-25,0,False,Zuoan Fashion Limited
+2011-10-02,0,False,Zuoan Fashion Limited
+2011-10-09,0,False,Zuoan Fashion Limited
+2011-10-16,0,False,Zuoan Fashion Limited
+2011-10-23,0,False,Zuoan Fashion Limited
+2011-10-30,0,False,Zuoan Fashion Limited
+2011-11-06,0,False,Zuoan Fashion Limited
+2011-11-13,0,False,Zuoan Fashion Limited
+2010-11-21,0,False,RLJ Acquisition
+2010-11-28,53,False,RLJ Acquisition
+2010-12-05,54,False,RLJ Acquisition
+2010-12-12,0,False,RLJ Acquisition
+2010-12-19,0,False,RLJ Acquisition
+2010-12-26,0,False,RLJ Acquisition
+2011-01-02,0,False,RLJ Acquisition
+2011-01-09,0,False,RLJ Acquisition
+2011-01-16,0,False,RLJ Acquisition
+2011-01-23,0,False,RLJ Acquisition
+2011-01-30,0,False,RLJ Acquisition
+2011-02-06,0,False,RLJ Acquisition
+2011-02-13,99,False,RLJ Acquisition
+2011-02-20,0,False,RLJ Acquisition
+2011-02-27,0,False,RLJ Acquisition
+2011-03-06,0,False,RLJ Acquisition
+2011-03-13,100,False,RLJ Acquisition
+2011-03-20,0,False,RLJ Acquisition
+2011-03-27,0,False,RLJ Acquisition
+2011-04-03,0,False,RLJ Acquisition
+2011-04-10,0,False,RLJ Acquisition
+2011-04-17,0,False,RLJ Acquisition
+2011-04-24,0,False,RLJ Acquisition
+2011-05-01,0,False,RLJ Acquisition
+2011-05-08,0,False,RLJ Acquisition
+2011-05-15,0,False,RLJ Acquisition
+2011-05-22,0,False,RLJ Acquisition
+2011-05-29,0,False,RLJ Acquisition
+2011-06-05,0,False,RLJ Acquisition
+2011-06-12,0,False,RLJ Acquisition
+2011-06-19,0,False,RLJ Acquisition
+2011-06-26,0,False,RLJ Acquisition
+2011-07-03,0,False,RLJ Acquisition
+2011-07-10,0,False,RLJ Acquisition
+2011-07-17,0,False,RLJ Acquisition
+2011-07-24,0,False,RLJ Acquisition
+2011-07-31,0,False,RLJ Acquisition
+2011-08-07,0,False,RLJ Acquisition
+2011-08-14,0,False,RLJ Acquisition
+2011-08-21,0,False,RLJ Acquisition
+2011-08-28,0,False,RLJ Acquisition
+2011-09-04,0,False,RLJ Acquisition
+2011-09-11,0,False,RLJ Acquisition
+2011-09-18,0,False,RLJ Acquisition
+2011-09-25,0,False,RLJ Acquisition
+2011-10-02,0,False,RLJ Acquisition
+2011-10-09,0,False,RLJ Acquisition
+2011-10-16,0,False,RLJ Acquisition
+2011-10-23,0,False,RLJ Acquisition
+2011-10-30,0,False,RLJ Acquisition
+2011-11-06,0,False,RLJ Acquisition
+2011-11-13,0,False,RLJ Acquisition

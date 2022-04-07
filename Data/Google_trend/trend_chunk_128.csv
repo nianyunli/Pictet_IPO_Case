@@ -1,0 +1,209 @@
+date,SVI,isPartial,Issuer
+2018-09-09,92,False,Moderna
+2018-09-16,95,False,Moderna
+2018-09-23,100,False,Moderna
+2018-09-30,88,False,Moderna
+2018-10-07,80,False,Moderna
+2018-10-14,82,False,Moderna
+2018-10-21,88,False,Moderna
+2018-10-28,73,False,Moderna
+2018-11-04,89,False,Moderna
+2018-11-11,80,False,Moderna
+2018-11-18,81,False,Moderna
+2018-11-25,78,False,Moderna
+2018-12-02,73,False,Moderna
+2018-12-09,66,False,Moderna
+2018-12-16,57,False,Moderna
+2018-12-23,50,False,Moderna
+2018-12-30,56,False,Moderna
+2019-01-06,66,False,Moderna
+2019-01-13,68,False,Moderna
+2019-01-20,68,False,Moderna
+2019-01-27,71,False,Moderna
+2019-02-03,75,False,Moderna
+2019-02-10,92,False,Moderna
+2019-02-17,88,False,Moderna
+2019-02-24,80,False,Moderna
+2019-03-03,70,False,Moderna
+2019-03-10,88,False,Moderna
+2019-03-17,88,False,Moderna
+2019-03-24,88,False,Moderna
+2019-03-31,89,False,Moderna
+2019-04-07,88,False,Moderna
+2019-04-14,65,False,Moderna
+2019-04-21,75,False,Moderna
+2019-04-28,73,False,Moderna
+2019-05-05,81,False,Moderna
+2019-05-12,85,False,Moderna
+2019-05-19,88,False,Moderna
+2019-05-26,90,False,Moderna
+2019-06-02,86,False,Moderna
+2019-06-09,77,False,Moderna
+2019-06-16,67,False,Moderna
+2019-06-23,66,False,Moderna
+2019-06-30,62,False,Moderna
+2019-07-07,64,False,Moderna
+2019-07-14,60,False,Moderna
+2019-07-21,62,False,Moderna
+2019-07-28,66,False,Moderna
+2019-08-04,68,False,Moderna
+2019-08-11,75,False,Moderna
+2019-08-18,82,False,Moderna
+2019-08-25,85,False,Moderna
+2019-09-01,95,False,Moderna
+2018-09-09,41,False,Synthorx
+2018-09-16,33,False,Synthorx
+2018-09-23,24,False,Synthorx
+2018-09-30,25,False,Synthorx
+2018-10-07,8,False,Synthorx
+2018-10-14,25,False,Synthorx
+2018-10-21,25,False,Synthorx
+2018-10-28,8,False,Synthorx
+2018-11-04,0,False,Synthorx
+2018-11-11,100,False,Synthorx
+2018-11-18,17,False,Synthorx
+2018-11-25,82,False,Synthorx
+2018-12-02,92,False,Synthorx
+2018-12-09,84,False,Synthorx
+2018-12-16,68,False,Synthorx
+2018-12-23,9,False,Synthorx
+2018-12-30,71,False,Synthorx
+2019-01-06,33,False,Synthorx
+2019-01-13,73,False,Synthorx
+2019-01-20,48,False,Synthorx
+2019-01-27,64,False,Synthorx
+2019-02-03,48,False,Synthorx
+2019-02-10,16,False,Synthorx
+2019-02-17,64,False,Synthorx
+2019-02-24,95,False,Synthorx
+2019-03-03,81,False,Synthorx
+2019-03-10,40,False,Synthorx
+2019-03-17,16,False,Synthorx
+2019-03-24,49,False,Synthorx
+2019-03-31,41,False,Synthorx
+2019-04-07,16,False,Synthorx
+2019-04-14,34,False,Synthorx
+2019-04-21,25,False,Synthorx
+2019-04-28,24,False,Synthorx
+2019-05-05,8,False,Synthorx
+2019-05-12,41,False,Synthorx
+2019-05-19,33,False,Synthorx
+2019-05-26,33,False,Synthorx
+2019-06-02,40,False,Synthorx
+2019-06-09,16,False,Synthorx
+2019-06-16,32,False,Synthorx
+2019-06-23,33,False,Synthorx
+2019-06-30,0,False,Synthorx
+2019-07-07,41,False,Synthorx
+2019-07-14,33,False,Synthorx
+2019-07-21,75,False,Synthorx
+2019-07-28,42,False,Synthorx
+2019-08-04,25,False,Synthorx
+2019-08-11,74,False,Synthorx
+2019-08-18,24,False,Synthorx
+2019-08-25,16,False,Synthorx
+2019-09-01,16,False,Synthorx
+2018-09-16,0,False,Schultze Special Purpose Acquisition
+2018-09-23,0,False,Schultze Special Purpose Acquisition
+2018-09-30,0,False,Schultze Special Purpose Acquisition
+2018-10-07,0,False,Schultze Special Purpose Acquisition
+2018-10-14,0,False,Schultze Special Purpose Acquisition
+2018-10-21,0,False,Schultze Special Purpose Acquisition
+2018-10-28,0,False,Schultze Special Purpose Acquisition
+2018-11-04,0,False,Schultze Special Purpose Acquisition
+2018-11-11,0,False,Schultze Special Purpose Acquisition
+2018-11-18,0,False,Schultze Special Purpose Acquisition
+2018-11-25,0,False,Schultze Special Purpose Acquisition
+2018-12-02,99,False,Schultze Special Purpose Acquisition
+2018-12-09,100,False,Schultze Special Purpose Acquisition
+2018-12-16,0,False,Schultze Special Purpose Acquisition
+2018-12-23,0,False,Schultze Special Purpose Acquisition
+2018-12-30,0,False,Schultze Special Purpose Acquisition
+2019-01-06,0,False,Schultze Special Purpose Acquisition
+2019-01-13,0,False,Schultze Special Purpose Acquisition
+2019-01-20,0,False,Schultze Special Purpose Acquisition
+2019-01-27,0,False,Schultze Special Purpose Acquisition
+2019-02-03,0,False,Schultze Special Purpose Acquisition
+2019-02-10,0,False,Schultze Special Purpose Acquisition
+2019-02-17,0,False,Schultze Special Purpose Acquisition
+2019-02-24,95,False,Schultze Special Purpose Acquisition
+2019-03-03,0,False,Schultze Special Purpose Acquisition
+2019-03-10,0,False,Schultze Special Purpose Acquisition
+2019-03-17,0,False,Schultze Special Purpose Acquisition
+2019-03-24,0,False,Schultze Special Purpose Acquisition
+2019-03-31,0,False,Schultze Special Purpose Acquisition
+2019-04-07,0,False,Schultze Special Purpose Acquisition
+2019-04-14,0,False,Schultze Special Purpose Acquisition
+2019-04-21,0,False,Schultze Special Purpose Acquisition
+2019-04-28,0,False,Schultze Special Purpose Acquisition
+2019-05-05,0,False,Schultze Special Purpose Acquisition
+2019-05-12,0,False,Schultze Special Purpose Acquisition
+2019-05-19,97,False,Schultze Special Purpose Acquisition
+2019-05-26,0,False,Schultze Special Purpose Acquisition
+2019-06-02,95,False,Schultze Special Purpose Acquisition
+2019-06-09,0,False,Schultze Special Purpose Acquisition
+2019-06-16,0,False,Schultze Special Purpose Acquisition
+2019-06-23,0,False,Schultze Special Purpose Acquisition
+2019-06-30,97,False,Schultze Special Purpose Acquisition
+2019-07-07,0,False,Schultze Special Purpose Acquisition
+2019-07-14,0,False,Schultze Special Purpose Acquisition
+2019-07-21,0,False,Schultze Special Purpose Acquisition
+2019-07-28,0,False,Schultze Special Purpose Acquisition
+2019-08-04,0,False,Schultze Special Purpose Acquisition
+2019-08-11,0,False,Schultze Special Purpose Acquisition
+2019-08-18,0,False,Schultze Special Purpose Acquisition
+2019-08-25,0,False,Schultze Special Purpose Acquisition
+2019-09-01,0,False,Schultze Special Purpose Acquisition
+2019-09-08,0,False,Schultze Special Purpose Acquisition
+2018-09-16,0,False,CF Finance Acquisition
+2018-09-23,0,False,CF Finance Acquisition
+2018-09-30,0,False,CF Finance Acquisition
+2018-10-07,0,False,CF Finance Acquisition
+2018-10-14,0,False,CF Finance Acquisition
+2018-10-21,0,False,CF Finance Acquisition
+2018-10-28,0,False,CF Finance Acquisition
+2018-11-04,0,False,CF Finance Acquisition
+2018-11-11,0,False,CF Finance Acquisition
+2018-11-18,0,False,CF Finance Acquisition
+2018-11-25,0,False,CF Finance Acquisition
+2018-12-02,51,False,CF Finance Acquisition
+2018-12-09,52,False,CF Finance Acquisition
+2018-12-16,0,False,CF Finance Acquisition
+2018-12-23,0,False,CF Finance Acquisition
+2018-12-30,0,False,CF Finance Acquisition
+2019-01-06,0,False,CF Finance Acquisition
+2019-01-13,0,False,CF Finance Acquisition
+2019-01-20,0,False,CF Finance Acquisition
+2019-01-27,0,False,CF Finance Acquisition
+2019-02-03,49,False,CF Finance Acquisition
+2019-02-10,0,False,CF Finance Acquisition
+2019-02-17,0,False,CF Finance Acquisition
+2019-02-24,49,False,CF Finance Acquisition
+2019-03-03,0,False,CF Finance Acquisition
+2019-03-10,49,False,CF Finance Acquisition
+2019-03-17,50,False,CF Finance Acquisition
+2019-03-24,100,False,CF Finance Acquisition
+2019-03-31,0,False,CF Finance Acquisition
+2019-04-07,0,False,CF Finance Acquisition
+2019-04-14,0,False,CF Finance Acquisition
+2019-04-21,51,False,CF Finance Acquisition
+2019-04-28,0,False,CF Finance Acquisition
+2019-05-05,0,False,CF Finance Acquisition
+2019-05-12,50,False,CF Finance Acquisition
+2019-05-19,0,False,CF Finance Acquisition
+2019-05-26,0,False,CF Finance Acquisition
+2019-06-02,0,False,CF Finance Acquisition
+2019-06-09,0,False,CF Finance Acquisition
+2019-06-16,50,False,CF Finance Acquisition
+2019-06-23,0,False,CF Finance Acquisition
+2019-06-30,0,False,CF Finance Acquisition
+2019-07-07,0,False,CF Finance Acquisition
+2019-07-14,0,False,CF Finance Acquisition
+2019-07-21,51,False,CF Finance Acquisition
+2019-07-28,0,False,CF Finance Acquisition
+2019-08-04,0,False,CF Finance Acquisition
+2019-08-11,0,False,CF Finance Acquisition
+2019-08-18,0,False,CF Finance Acquisition
+2019-08-25,0,False,CF Finance Acquisition
+2019-09-01,0,False,CF Finance Acquisition
+2019-09-08,0,False,CF Finance Acquisition

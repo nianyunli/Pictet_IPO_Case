@@ -1,0 +1,209 @@
+date,SVI,isPartial,Issuer
+2014-03-30,61,False,Imprivata
+2014-04-06,59,False,Imprivata
+2014-04-13,53,False,Imprivata
+2014-04-20,60,False,Imprivata
+2014-04-27,40,False,Imprivata
+2014-05-04,39,False,Imprivata
+2014-05-11,51,False,Imprivata
+2014-05-18,44,False,Imprivata
+2014-05-25,55,False,Imprivata
+2014-06-01,65,False,Imprivata
+2014-06-08,58,False,Imprivata
+2014-06-15,44,False,Imprivata
+2014-06-22,100,False,Imprivata
+2014-06-29,34,False,Imprivata
+2014-07-06,66,False,Imprivata
+2014-07-13,58,False,Imprivata
+2014-07-20,51,False,Imprivata
+2014-07-27,61,False,Imprivata
+2014-08-03,78,False,Imprivata
+2014-08-10,47,False,Imprivata
+2014-08-17,51,False,Imprivata
+2014-08-24,58,False,Imprivata
+2014-08-31,58,False,Imprivata
+2014-09-07,26,False,Imprivata
+2014-09-14,39,False,Imprivata
+2014-09-21,51,False,Imprivata
+2014-09-28,65,False,Imprivata
+2014-10-05,56,False,Imprivata
+2014-10-12,41,False,Imprivata
+2014-10-19,28,False,Imprivata
+2014-10-26,38,False,Imprivata
+2014-11-02,64,False,Imprivata
+2014-11-09,67,False,Imprivata
+2014-11-16,42,False,Imprivata
+2014-11-23,37,False,Imprivata
+2014-11-30,61,False,Imprivata
+2014-12-07,52,False,Imprivata
+2014-12-14,43,False,Imprivata
+2014-12-21,36,False,Imprivata
+2014-12-28,33,False,Imprivata
+2015-01-04,48,False,Imprivata
+2015-01-11,40,False,Imprivata
+2015-01-18,53,False,Imprivata
+2015-01-25,35,False,Imprivata
+2015-02-01,31,False,Imprivata
+2015-02-08,68,False,Imprivata
+2015-02-15,53,False,Imprivata
+2015-02-22,62,False,Imprivata
+2015-03-01,49,False,Imprivata
+2015-03-08,44,False,Imprivata
+2015-03-15,35,False,Imprivata
+2015-03-22,69,False,Imprivata
+2014-03-30,59,False,Materialise NV
+2014-04-06,20,False,Materialise NV
+2014-04-13,20,False,Materialise NV
+2014-04-20,20,False,Materialise NV
+2014-04-27,20,False,Materialise NV
+2014-05-04,39,False,Materialise NV
+2014-05-11,20,False,Materialise NV
+2014-05-18,62,False,Materialise NV
+2014-05-25,22,False,Materialise NV
+2014-06-01,22,False,Materialise NV
+2014-06-08,22,False,Materialise NV
+2014-06-15,0,False,Materialise NV
+2014-06-22,45,False,Materialise NV
+2014-06-29,90,False,Materialise NV
+2014-07-06,22,False,Materialise NV
+2014-07-13,22,False,Materialise NV
+2014-07-20,23,False,Materialise NV
+2014-07-27,22,False,Materialise NV
+2014-08-03,69,False,Materialise NV
+2014-08-10,22,False,Materialise NV
+2014-08-17,0,False,Materialise NV
+2014-08-24,0,False,Materialise NV
+2014-08-31,0,False,Materialise NV
+2014-09-07,0,False,Materialise NV
+2014-09-14,0,False,Materialise NV
+2014-09-21,0,False,Materialise NV
+2014-09-28,0,False,Materialise NV
+2014-10-05,0,False,Materialise NV
+2014-10-12,0,False,Materialise NV
+2014-10-19,0,False,Materialise NV
+2014-10-26,41,False,Materialise NV
+2014-11-02,40,False,Materialise NV
+2014-11-09,20,False,Materialise NV
+2014-11-16,100,False,Materialise NV
+2014-11-23,40,False,Materialise NV
+2014-11-30,39,False,Materialise NV
+2014-12-07,80,False,Materialise NV
+2014-12-14,0,False,Materialise NV
+2014-12-21,0,False,Materialise NV
+2014-12-28,22,False,Materialise NV
+2015-01-04,19,False,Materialise NV
+2015-01-11,19,False,Materialise NV
+2015-01-18,19,False,Materialise NV
+2015-01-25,0,False,Materialise NV
+2015-02-01,57,False,Materialise NV
+2015-02-08,19,False,Materialise NV
+2015-02-15,19,False,Materialise NV
+2015-02-22,0,False,Materialise NV
+2015-03-01,37,False,Materialise NV
+2015-03-08,0,False,Materialise NV
+2015-03-15,38,False,Materialise NV
+2015-03-22,20,False,Materialise NV
+2014-03-30,11,False,Amphastar Pharmaceuticals
+2014-04-06,22,False,Amphastar Pharmaceuticals
+2014-04-13,23,False,Amphastar Pharmaceuticals
+2014-04-20,23,False,Amphastar Pharmaceuticals
+2014-04-27,23,False,Amphastar Pharmaceuticals
+2014-05-04,11,False,Amphastar Pharmaceuticals
+2014-05-11,22,False,Amphastar Pharmaceuticals
+2014-05-18,0,False,Amphastar Pharmaceuticals
+2014-05-25,12,False,Amphastar Pharmaceuticals
+2014-06-01,25,False,Amphastar Pharmaceuticals
+2014-06-08,0,False,Amphastar Pharmaceuticals
+2014-06-15,37,False,Amphastar Pharmaceuticals
+2014-06-22,100,False,Amphastar Pharmaceuticals
+2014-06-29,50,False,Amphastar Pharmaceuticals
+2014-07-06,12,False,Amphastar Pharmaceuticals
+2014-07-13,25,False,Amphastar Pharmaceuticals
+2014-07-20,0,False,Amphastar Pharmaceuticals
+2014-07-27,13,False,Amphastar Pharmaceuticals
+2014-08-03,52,False,Amphastar Pharmaceuticals
+2014-08-10,0,False,Amphastar Pharmaceuticals
+2014-08-17,0,False,Amphastar Pharmaceuticals
+2014-08-24,36,False,Amphastar Pharmaceuticals
+2014-08-31,12,False,Amphastar Pharmaceuticals
+2014-09-07,23,False,Amphastar Pharmaceuticals
+2014-09-14,35,False,Amphastar Pharmaceuticals
+2014-09-21,58,False,Amphastar Pharmaceuticals
+2014-09-28,12,False,Amphastar Pharmaceuticals
+2014-10-05,12,False,Amphastar Pharmaceuticals
+2014-10-12,34,False,Amphastar Pharmaceuticals
+2014-10-19,34,False,Amphastar Pharmaceuticals
+2014-10-26,46,False,Amphastar Pharmaceuticals
+2014-11-02,33,False,Amphastar Pharmaceuticals
+2014-11-09,11,False,Amphastar Pharmaceuticals
+2014-11-16,11,False,Amphastar Pharmaceuticals
+2014-11-23,0,False,Amphastar Pharmaceuticals
+2014-11-30,66,False,Amphastar Pharmaceuticals
+2014-12-07,0,False,Amphastar Pharmaceuticals
+2014-12-14,46,False,Amphastar Pharmaceuticals
+2014-12-21,25,False,Amphastar Pharmaceuticals
+2014-12-28,24,False,Amphastar Pharmaceuticals
+2015-01-04,0,False,Amphastar Pharmaceuticals
+2015-01-11,0,False,Amphastar Pharmaceuticals
+2015-01-18,31,False,Amphastar Pharmaceuticals
+2015-01-25,11,False,Amphastar Pharmaceuticals
+2015-02-01,11,False,Amphastar Pharmaceuticals
+2015-02-08,42,False,Amphastar Pharmaceuticals
+2015-02-15,11,False,Amphastar Pharmaceuticals
+2015-02-22,10,False,Amphastar Pharmaceuticals
+2015-03-01,63,False,Amphastar Pharmaceuticals
+2015-03-08,21,False,Amphastar Pharmaceuticals
+2015-03-15,32,False,Amphastar Pharmaceuticals
+2015-03-22,0,False,Amphastar Pharmaceuticals
+2014-03-30,35,False,GoPro
+2014-04-06,35,False,GoPro
+2014-04-13,37,False,GoPro
+2014-04-20,36,False,GoPro
+2014-04-27,37,False,GoPro
+2014-05-04,36,False,GoPro
+2014-05-11,37,False,GoPro
+2014-05-18,40,False,GoPro
+2014-05-25,40,False,GoPro
+2014-06-01,43,False,GoPro
+2014-06-08,45,False,GoPro
+2014-06-15,44,False,GoPro
+2014-06-22,56,False,GoPro
+2014-06-29,51,False,GoPro
+2014-07-06,51,False,GoPro
+2014-07-13,49,False,GoPro
+2014-07-20,52,False,GoPro
+2014-07-27,56,False,GoPro
+2014-08-03,54,False,GoPro
+2014-08-10,56,False,GoPro
+2014-08-17,52,False,GoPro
+2014-08-24,51,False,GoPro
+2014-08-31,48,False,GoPro
+2014-09-07,46,False,GoPro
+2014-09-14,45,False,GoPro
+2014-09-21,45,False,GoPro
+2014-09-28,79,False,GoPro
+2014-10-05,66,False,GoPro
+2014-10-12,55,False,GoPro
+2014-10-19,50,False,GoPro
+2014-10-26,51,False,GoPro
+2014-11-02,50,False,GoPro
+2014-11-09,52,False,GoPro
+2014-11-16,56,False,GoPro
+2014-11-23,76,False,GoPro
+2014-11-30,69,False,GoPro
+2014-12-07,67,False,GoPro
+2014-12-14,70,False,GoPro
+2014-12-21,100,False,GoPro
+2014-12-28,85,False,GoPro
+2015-01-04,69,False,GoPro
+2015-01-11,61,False,GoPro
+2015-01-18,57,False,GoPro
+2015-01-25,57,False,GoPro
+2015-02-01,56,False,GoPro
+2015-02-08,54,False,GoPro
+2015-02-15,52,False,GoPro
+2015-02-22,48,False,GoPro
+2015-03-01,49,False,GoPro
+2015-03-08,46,False,GoPro
+2015-03-15,47,False,GoPro
+2015-03-22,45,False,GoPro

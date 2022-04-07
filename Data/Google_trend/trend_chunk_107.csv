@@ -1,0 +1,261 @@
+date,SVI,isPartial,Issuer
+2018-04-01,64,False,Translate Bio
+2018-04-08,73,False,Translate Bio
+2018-04-15,56,False,Translate Bio
+2018-04-22,70,False,Translate Bio
+2018-04-29,77,False,Translate Bio
+2018-05-06,64,False,Translate Bio
+2018-05-13,74,False,Translate Bio
+2018-05-20,71,False,Translate Bio
+2018-05-27,85,False,Translate Bio
+2018-06-03,85,False,Translate Bio
+2018-06-10,76,False,Translate Bio
+2018-06-17,80,False,Translate Bio
+2018-06-24,74,False,Translate Bio
+2018-07-01,75,False,Translate Bio
+2018-07-08,64,False,Translate Bio
+2018-07-15,65,False,Translate Bio
+2018-07-22,69,False,Translate Bio
+2018-07-29,65,False,Translate Bio
+2018-08-05,66,False,Translate Bio
+2018-08-12,66,False,Translate Bio
+2018-08-19,84,False,Translate Bio
+2018-08-26,52,False,Translate Bio
+2018-09-02,69,False,Translate Bio
+2018-09-09,75,False,Translate Bio
+2018-09-16,68,False,Translate Bio
+2018-09-23,69,False,Translate Bio
+2018-09-30,76,False,Translate Bio
+2018-10-07,62,False,Translate Bio
+2018-10-14,68,False,Translate Bio
+2018-10-21,84,False,Translate Bio
+2018-10-28,68,False,Translate Bio
+2018-11-04,61,False,Translate Bio
+2018-11-11,85,False,Translate Bio
+2018-11-18,78,False,Translate Bio
+2018-11-25,75,False,Translate Bio
+2018-12-02,70,False,Translate Bio
+2018-12-09,61,False,Translate Bio
+2018-12-16,69,False,Translate Bio
+2018-12-23,72,False,Translate Bio
+2018-12-30,83,False,Translate Bio
+2019-01-06,81,False,Translate Bio
+2019-01-13,79,False,Translate Bio
+2019-01-20,86,False,Translate Bio
+2019-01-27,73,False,Translate Bio
+2019-02-03,94,False,Translate Bio
+2019-02-10,78,False,Translate Bio
+2019-02-17,75,False,Translate Bio
+2019-02-24,98,False,Translate Bio
+2019-03-03,74,False,Translate Bio
+2019-03-10,80,False,Translate Bio
+2019-03-17,84,False,Translate Bio
+2019-03-24,100,False,Translate Bio
+2018-04-01,3,False,Tricida
+2018-04-08,13,False,Tricida
+2018-04-15,7,False,Tricida
+2018-04-22,10,False,Tricida
+2018-04-29,0,False,Tricida
+2018-05-06,7,False,Tricida
+2018-05-13,3,False,Tricida
+2018-05-20,7,False,Tricida
+2018-05-27,14,False,Tricida
+2018-06-03,40,False,Tricida
+2018-06-10,30,False,Tricida
+2018-06-17,37,False,Tricida
+2018-06-24,100,False,Tricida
+2018-07-01,27,False,Tricida
+2018-07-08,23,False,Tricida
+2018-07-15,24,False,Tricida
+2018-07-22,31,False,Tricida
+2018-07-29,30,False,Tricida
+2018-08-05,20,False,Tricida
+2018-08-12,3,False,Tricida
+2018-08-19,3,False,Tricida
+2018-08-26,23,False,Tricida
+2018-09-02,16,False,Tricida
+2018-09-09,10,False,Tricida
+2018-09-16,10,False,Tricida
+2018-09-23,10,False,Tricida
+2018-09-30,23,False,Tricida
+2018-10-07,7,False,Tricida
+2018-10-14,7,False,Tricida
+2018-10-21,0,False,Tricida
+2018-10-28,17,False,Tricida
+2018-11-04,19,False,Tricida
+2018-11-11,10,False,Tricida
+2018-11-18,10,False,Tricida
+2018-11-25,3,False,Tricida
+2018-12-02,13,False,Tricida
+2018-12-09,10,False,Tricida
+2018-12-16,7,False,Tricida
+2018-12-23,4,False,Tricida
+2018-12-30,4,False,Tricida
+2019-01-06,7,False,Tricida
+2019-01-13,33,False,Tricida
+2019-01-20,32,False,Tricida
+2019-01-27,10,False,Tricida
+2019-02-03,22,False,Tricida
+2019-02-10,9,False,Tricida
+2019-02-17,13,False,Tricida
+2019-02-24,6,False,Tricida
+2019-03-03,23,False,Tricida
+2019-03-10,22,False,Tricida
+2019-03-17,20,False,Tricida
+2019-03-24,45,False,Tricida
+2018-04-01,64,False,Domo
+2018-04-08,66,False,Domo
+2018-04-15,65,False,Domo
+2018-04-22,71,False,Domo
+2018-04-29,66,False,Domo
+2018-05-06,70,False,Domo
+2018-05-13,66,False,Domo
+2018-05-20,70,False,Domo
+2018-05-27,76,False,Domo
+2018-06-03,74,False,Domo
+2018-06-10,71,False,Domo
+2018-06-17,66,False,Domo
+2018-06-24,74,False,Domo
+2018-07-01,67,False,Domo
+2018-07-08,64,False,Domo
+2018-07-15,66,False,Domo
+2018-07-22,74,False,Domo
+2018-07-29,94,False,Domo
+2018-08-05,72,False,Domo
+2018-08-12,67,False,Domo
+2018-08-19,60,False,Domo
+2018-08-26,64,False,Domo
+2018-09-02,61,False,Domo
+2018-09-09,62,False,Domo
+2018-09-16,62,False,Domo
+2018-09-23,61,False,Domo
+2018-09-30,62,False,Domo
+2018-10-07,61,False,Domo
+2018-10-14,69,False,Domo
+2018-10-21,78,False,Domo
+2018-10-28,64,False,Domo
+2018-11-04,64,False,Domo
+2018-11-11,78,False,Domo
+2018-11-18,79,False,Domo
+2018-11-25,74,False,Domo
+2018-12-02,70,False,Domo
+2018-12-09,92,False,Domo
+2018-12-16,84,False,Domo
+2018-12-23,73,False,Domo
+2018-12-30,68,False,Domo
+2019-01-06,67,False,Domo
+2019-01-13,67,False,Domo
+2019-01-20,68,False,Domo
+2019-01-27,73,False,Domo
+2019-02-03,69,False,Domo
+2019-02-10,72,False,Domo
+2019-02-17,78,False,Domo
+2019-02-24,82,False,Domo
+2019-03-03,100,False,Domo
+2019-03-10,88,False,Domo
+2019-03-17,90,False,Domo
+2019-03-24,86,False,Domo
+2018-04-08,0,False,Allegro Merger
+2018-04-15,0,False,Allegro Merger
+2018-04-22,0,False,Allegro Merger
+2018-04-29,0,False,Allegro Merger
+2018-05-06,50,False,Allegro Merger
+2018-05-13,0,False,Allegro Merger
+2018-05-20,0,False,Allegro Merger
+2018-05-27,51,False,Allegro Merger
+2018-06-03,0,False,Allegro Merger
+2018-06-10,0,False,Allegro Merger
+2018-06-17,0,False,Allegro Merger
+2018-06-24,50,False,Allegro Merger
+2018-07-01,50,False,Allegro Merger
+2018-07-08,100,False,Allegro Merger
+2018-07-15,52,False,Allegro Merger
+2018-07-22,0,False,Allegro Merger
+2018-07-29,0,False,Allegro Merger
+2018-08-05,99,False,Allegro Merger
+2018-08-12,0,False,Allegro Merger
+2018-08-19,0,False,Allegro Merger
+2018-08-26,0,False,Allegro Merger
+2018-09-02,0,False,Allegro Merger
+2018-09-09,0,False,Allegro Merger
+2018-09-16,0,False,Allegro Merger
+2018-09-23,0,False,Allegro Merger
+2018-09-30,49,False,Allegro Merger
+2018-10-07,0,False,Allegro Merger
+2018-10-14,0,False,Allegro Merger
+2018-10-21,0,False,Allegro Merger
+2018-10-28,0,False,Allegro Merger
+2018-11-04,0,False,Allegro Merger
+2018-11-11,0,False,Allegro Merger
+2018-11-18,0,False,Allegro Merger
+2018-11-25,0,False,Allegro Merger
+2018-12-02,50,False,Allegro Merger
+2018-12-09,0,False,Allegro Merger
+2018-12-16,0,False,Allegro Merger
+2018-12-23,0,False,Allegro Merger
+2018-12-30,0,False,Allegro Merger
+2019-01-06,0,False,Allegro Merger
+2019-01-13,0,False,Allegro Merger
+2019-01-20,48,False,Allegro Merger
+2019-01-27,0,False,Allegro Merger
+2019-02-03,0,False,Allegro Merger
+2019-02-10,0,False,Allegro Merger
+2019-02-17,48,False,Allegro Merger
+2019-02-24,0,False,Allegro Merger
+2019-03-03,0,False,Allegro Merger
+2019-03-10,0,False,Allegro Merger
+2019-03-17,0,False,Allegro Merger
+2019-03-24,0,False,Allegro Merger
+2019-03-31,0,False,Allegro Merger
+2018-04-22,69,False,Coastal Financial
+2018-04-29,65,False,Coastal Financial
+2018-05-06,43,False,Coastal Financial
+2018-05-13,57,False,Coastal Financial
+2018-05-20,40,False,Coastal Financial
+2018-05-27,79,False,Coastal Financial
+2018-06-03,83,False,Coastal Financial
+2018-06-10,47,False,Coastal Financial
+2018-06-17,43,False,Coastal Financial
+2018-06-24,52,False,Coastal Financial
+2018-07-01,82,False,Coastal Financial
+2018-07-08,43,False,Coastal Financial
+2018-07-15,89,False,Coastal Financial
+2018-07-22,49,False,Coastal Financial
+2018-07-29,100,False,Coastal Financial
+2018-08-05,43,False,Coastal Financial
+2018-08-12,95,False,Coastal Financial
+2018-08-19,75,False,Coastal Financial
+2018-08-26,60,False,Coastal Financial
+2018-09-02,60,False,Coastal Financial
+2018-09-09,51,False,Coastal Financial
+2018-09-16,76,False,Coastal Financial
+2018-09-23,80,False,Coastal Financial
+2018-09-30,38,False,Coastal Financial
+2018-10-07,26,False,Coastal Financial
+2018-10-14,53,False,Coastal Financial
+2018-10-21,56,False,Coastal Financial
+2018-10-28,43,False,Coastal Financial
+2018-11-04,50,False,Coastal Financial
+2018-11-11,56,False,Coastal Financial
+2018-11-18,43,False,Coastal Financial
+2018-11-25,42,False,Coastal Financial
+2018-12-02,69,False,Coastal Financial
+2018-12-09,61,False,Coastal Financial
+2018-12-16,48,False,Coastal Financial
+2018-12-23,34,False,Coastal Financial
+2018-12-30,74,False,Coastal Financial
+2019-01-06,51,False,Coastal Financial
+2019-01-13,76,False,Coastal Financial
+2019-01-20,49,False,Coastal Financial
+2019-01-27,50,False,Coastal Financial
+2019-02-03,54,False,Coastal Financial
+2019-02-10,58,False,Coastal Financial
+2019-02-17,42,False,Coastal Financial
+2019-02-24,90,False,Coastal Financial
+2019-03-03,67,False,Coastal Financial
+2019-03-10,54,False,Coastal Financial
+2019-03-17,76,False,Coastal Financial
+2019-03-24,63,False,Coastal Financial
+2019-03-31,64,False,Coastal Financial
+2019-04-07,63,False,Coastal Financial
+2019-04-14,35,False,Coastal Financial

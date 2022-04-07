@@ -1,0 +1,261 @@
+date,SVI,isPartial,Issuer
+2007-12-23,75,False,Visa
+2007-12-30,85,False,Visa
+2008-01-06,96,False,Visa
+2008-01-13,90,False,Visa
+2008-01-20,85,False,Visa
+2008-01-27,87,False,Visa
+2008-02-03,85,False,Visa
+2008-02-10,88,False,Visa
+2008-02-17,82,False,Visa
+2008-02-24,93,False,Visa
+2008-03-02,90,False,Visa
+2008-03-09,94,False,Visa
+2008-03-16,100,False,Visa
+2008-03-23,90,False,Visa
+2008-03-30,94,False,Visa
+2008-04-06,91,False,Visa
+2008-04-13,88,False,Visa
+2008-04-20,88,False,Visa
+2008-04-27,90,False,Visa
+2008-05-04,93,False,Visa
+2008-05-11,91,False,Visa
+2008-05-18,90,False,Visa
+2008-05-25,88,False,Visa
+2008-06-01,95,False,Visa
+2008-06-08,90,False,Visa
+2008-06-15,91,False,Visa
+2008-06-22,93,False,Visa
+2008-06-29,95,False,Visa
+2008-07-06,97,False,Visa
+2008-07-13,96,False,Visa
+2008-07-20,94,False,Visa
+2008-07-27,96,False,Visa
+2008-08-03,97,False,Visa
+2008-08-10,96,False,Visa
+2008-08-17,92,False,Visa
+2008-08-24,92,False,Visa
+2008-08-31,90,False,Visa
+2008-09-07,93,False,Visa
+2008-09-14,86,False,Visa
+2008-09-21,86,False,Visa
+2008-09-28,90,False,Visa
+2008-10-05,87,False,Visa
+2008-10-12,87,False,Visa
+2008-10-19,82,False,Visa
+2008-10-26,81,False,Visa
+2008-11-02,84,False,Visa
+2008-11-09,82,False,Visa
+2008-11-16,81,False,Visa
+2008-11-23,84,False,Visa
+2008-11-30,86,False,Visa
+2008-12-07,82,False,Visa
+2008-12-14,78,False,Visa
+2007-12-23,33,False,Healthy Fast Food
+2007-12-30,76,False,Healthy Fast Food
+2008-01-06,72,False,Healthy Fast Food
+2008-01-13,80,False,Healthy Fast Food
+2008-01-20,69,False,Healthy Fast Food
+2008-01-27,64,False,Healthy Fast Food
+2008-02-03,60,False,Healthy Fast Food
+2008-02-10,61,False,Healthy Fast Food
+2008-02-17,77,False,Healthy Fast Food
+2008-02-24,64,False,Healthy Fast Food
+2008-03-02,76,False,Healthy Fast Food
+2008-03-09,69,False,Healthy Fast Food
+2008-03-16,78,False,Healthy Fast Food
+2008-03-23,96,False,Healthy Fast Food
+2008-03-30,92,False,Healthy Fast Food
+2008-04-06,60,False,Healthy Fast Food
+2008-04-13,57,False,Healthy Fast Food
+2008-04-20,82,False,Healthy Fast Food
+2008-04-27,82,False,Healthy Fast Food
+2008-05-04,67,False,Healthy Fast Food
+2008-05-11,74,False,Healthy Fast Food
+2008-05-18,79,False,Healthy Fast Food
+2008-05-25,79,False,Healthy Fast Food
+2008-06-01,62,False,Healthy Fast Food
+2008-06-08,52,False,Healthy Fast Food
+2008-06-15,55,False,Healthy Fast Food
+2008-06-22,53,False,Healthy Fast Food
+2008-06-29,71,False,Healthy Fast Food
+2008-07-06,46,False,Healthy Fast Food
+2008-07-13,43,False,Healthy Fast Food
+2008-07-20,69,False,Healthy Fast Food
+2008-07-27,58,False,Healthy Fast Food
+2008-08-03,69,False,Healthy Fast Food
+2008-08-10,59,False,Healthy Fast Food
+2008-08-17,40,False,Healthy Fast Food
+2008-08-24,44,False,Healthy Fast Food
+2008-08-31,35,False,Healthy Fast Food
+2008-09-07,41,False,Healthy Fast Food
+2008-09-14,71,False,Healthy Fast Food
+2008-09-21,74,False,Healthy Fast Food
+2008-09-28,66,False,Healthy Fast Food
+2008-10-05,64,False,Healthy Fast Food
+2008-10-12,63,False,Healthy Fast Food
+2008-10-19,54,False,Healthy Fast Food
+2008-10-26,61,False,Healthy Fast Food
+2008-11-02,60,False,Healthy Fast Food
+2008-11-09,77,False,Healthy Fast Food
+2008-11-16,100,False,Healthy Fast Food
+2008-11-23,47,False,Healthy Fast Food
+2008-11-30,60,False,Healthy Fast Food
+2008-12-07,65,False,Healthy Fast Food
+2008-12-14,42,False,Healthy Fast Food
+2008-01-27,0,False,Intrepid Potash
+2008-02-03,1,False,Intrepid Potash
+2008-02-10,1,False,Intrepid Potash
+2008-02-17,0,False,Intrepid Potash
+2008-02-24,2,False,Intrepid Potash
+2008-03-02,1,False,Intrepid Potash
+2008-03-09,0,False,Intrepid Potash
+2008-03-16,0,False,Intrepid Potash
+2008-03-23,1,False,Intrepid Potash
+2008-03-30,3,False,Intrepid Potash
+2008-04-06,3,False,Intrepid Potash
+2008-04-13,22,False,Intrepid Potash
+2008-04-20,100,False,Intrepid Potash
+2008-04-27,18,False,Intrepid Potash
+2008-05-04,6,False,Intrepid Potash
+2008-05-11,6,False,Intrepid Potash
+2008-05-18,2,False,Intrepid Potash
+2008-05-25,6,False,Intrepid Potash
+2008-06-01,6,False,Intrepid Potash
+2008-06-08,7,False,Intrepid Potash
+2008-06-15,7,False,Intrepid Potash
+2008-06-22,7,False,Intrepid Potash
+2008-06-29,2,False,Intrepid Potash
+2008-07-06,4,False,Intrepid Potash
+2008-07-13,4,False,Intrepid Potash
+2008-07-20,4,False,Intrepid Potash
+2008-07-27,4,False,Intrepid Potash
+2008-08-03,1,False,Intrepid Potash
+2008-08-10,8,False,Intrepid Potash
+2008-08-17,4,False,Intrepid Potash
+2008-08-24,3,False,Intrepid Potash
+2008-08-31,3,False,Intrepid Potash
+2008-09-07,3,False,Intrepid Potash
+2008-09-14,1,False,Intrepid Potash
+2008-09-21,2,False,Intrepid Potash
+2008-09-28,3,False,Intrepid Potash
+2008-10-05,2,False,Intrepid Potash
+2008-10-12,1,False,Intrepid Potash
+2008-10-19,1,False,Intrepid Potash
+2008-10-26,2,False,Intrepid Potash
+2008-11-02,2,False,Intrepid Potash
+2008-11-09,4,False,Intrepid Potash
+2008-11-16,1,False,Intrepid Potash
+2008-11-23,0,False,Intrepid Potash
+2008-11-30,0,False,Intrepid Potash
+2008-12-07,3,False,Intrepid Potash
+2008-12-14,2,False,Intrepid Potash
+2008-12-21,0,False,Intrepid Potash
+2008-12-28,0,False,Intrepid Potash
+2009-01-04,3,False,Intrepid Potash
+2009-01-11,1,False,Intrepid Potash
+2009-01-18,1,False,Intrepid Potash
+2008-01-27,23,False,American Water Works
+2008-02-03,15,False,American Water Works
+2008-02-10,13,False,American Water Works
+2008-02-17,12,False,American Water Works
+2008-02-24,6,False,American Water Works
+2008-03-02,12,False,American Water Works
+2008-03-09,14,False,American Water Works
+2008-03-16,32,False,American Water Works
+2008-03-23,6,False,American Water Works
+2008-03-30,24,False,American Water Works
+2008-04-06,38,False,American Water Works
+2008-04-13,40,False,American Water Works
+2008-04-20,100,False,American Water Works
+2008-04-27,25,False,American Water Works
+2008-05-04,29,False,American Water Works
+2008-05-11,10,False,American Water Works
+2008-05-18,18,False,American Water Works
+2008-05-25,20,False,American Water Works
+2008-06-01,18,False,American Water Works
+2008-06-08,18,False,American Water Works
+2008-06-15,20,False,American Water Works
+2008-06-22,12,False,American Water Works
+2008-06-29,23,False,American Water Works
+2008-07-06,25,False,American Water Works
+2008-07-13,18,False,American Water Works
+2008-07-20,14,False,American Water Works
+2008-07-27,32,False,American Water Works
+2008-08-03,12,False,American Water Works
+2008-08-10,27,False,American Water Works
+2008-08-17,14,False,American Water Works
+2008-08-24,21,False,American Water Works
+2008-08-31,23,False,American Water Works
+2008-09-07,9,False,American Water Works
+2008-09-14,5,False,American Water Works
+2008-09-21,14,False,American Water Works
+2008-09-28,13,False,American Water Works
+2008-10-05,12,False,American Water Works
+2008-10-12,12,False,American Water Works
+2008-10-19,14,False,American Water Works
+2008-10-26,20,False,American Water Works
+2008-11-02,23,False,American Water Works
+2008-11-09,13,False,American Water Works
+2008-11-16,20,False,American Water Works
+2008-11-23,10,False,American Water Works
+2008-11-30,10,False,American Water Works
+2008-12-07,5,False,American Water Works
+2008-12-14,5,False,American Water Works
+2008-12-21,6,False,American Water Works
+2008-12-28,12,False,American Water Works
+2009-01-04,8,False,American Water Works
+2009-01-11,13,False,American Water Works
+2009-01-18,17,False,American Water Works
+2008-01-27,42,False,Hatteras Financial
+2008-02-03,0,False,Hatteras Financial
+2008-02-10,0,False,Hatteras Financial
+2008-02-17,0,False,Hatteras Financial
+2008-02-24,0,False,Hatteras Financial
+2008-03-02,41,False,Hatteras Financial
+2008-03-09,0,False,Hatteras Financial
+2008-03-16,0,False,Hatteras Financial
+2008-03-23,21,False,Hatteras Financial
+2008-03-30,20,False,Hatteras Financial
+2008-04-06,20,False,Hatteras Financial
+2008-04-13,20,False,Hatteras Financial
+2008-04-20,61,False,Hatteras Financial
+2008-04-27,62,False,Hatteras Financial
+2008-05-04,20,False,Hatteras Financial
+2008-05-11,20,False,Hatteras Financial
+2008-05-18,39,False,Hatteras Financial
+2008-05-25,98,False,Hatteras Financial
+2008-06-01,20,False,Hatteras Financial
+2008-06-08,0,False,Hatteras Financial
+2008-06-15,20,False,Hatteras Financial
+2008-06-22,40,False,Hatteras Financial
+2008-06-29,0,False,Hatteras Financial
+2008-07-06,20,False,Hatteras Financial
+2008-07-13,41,False,Hatteras Financial
+2008-07-20,0,False,Hatteras Financial
+2008-07-27,20,False,Hatteras Financial
+2008-08-03,20,False,Hatteras Financial
+2008-08-10,21,False,Hatteras Financial
+2008-08-17,0,False,Hatteras Financial
+2008-08-24,0,False,Hatteras Financial
+2008-08-31,19,False,Hatteras Financial
+2008-09-07,0,False,Hatteras Financial
+2008-09-14,18,False,Hatteras Financial
+2008-09-21,36,False,Hatteras Financial
+2008-09-28,0,False,Hatteras Financial
+2008-10-05,0,False,Hatteras Financial
+2008-10-12,17,False,Hatteras Financial
+2008-10-19,17,False,Hatteras Financial
+2008-10-26,30,False,Hatteras Financial
+2008-11-02,18,False,Hatteras Financial
+2008-11-09,17,False,Hatteras Financial
+2008-11-16,100,False,Hatteras Financial
+2008-11-23,34,False,Hatteras Financial
+2008-11-30,17,False,Hatteras Financial
+2008-12-07,51,False,Hatteras Financial
+2008-12-14,17,False,Hatteras Financial
+2008-12-21,21,False,Hatteras Financial
+2008-12-28,0,False,Hatteras Financial
+2009-01-04,16,False,Hatteras Financial
+2009-01-11,16,False,Hatteras Financial
+2009-01-18,31,False,Hatteras Financial

@@ -1,0 +1,683 @@
+,uw_price,uw_rank,socre
+0,,,0
+1, CIBC,CIBC Wood Gundy Securities,100
+2,"Cohen & Company Capital Markets, LLC   I-Bankers Securities",AB Capital Markets,91
+3, PNC Capital Markets,AB Capital Markets,91
+4,SunTrust Robinson Humphrey,SunTrust Robinson Humphrey,100
+5,Morgan Stanlry,Morgan Stanley,93
+6,Sandler ONeill & Partners,Sandler O'Neill Partners,94
+7,Deutsche Bank,Deutsche Bank Capital (NY),100
+8,Thomas Weisel,Thomas Weisel Partners LLC,100
+9, Evercore Group,Evercore,100
+10, Moelis & Company,Moelis,100
+11,Mizuho Securities,Mizuho Securities,100
+12,Banc of America,Banc of America Securities LLC,100
+13, Cowen and Company,Cowen,100
+14,Rodman & Renshaw.WestPark Capital,Rodman & Renshaw Inc,88
+15,BofA Merrill Lych,Merrill Lynch & Co Inc,76
+16, Oak Ridge Financial,BC Financial,86
+17, JMP Securities,BA Securities,87
+18,"Goldman, Sachs & Co.",Goldman Sachs & Co,100
+19, J .P. Morgan,JP Morgan (JPM),87
+20, J.P. Morgan Securities,Wedbush Morgan Securities,89
+21, Merrrill Lynch,Merrill Lynch & Co Inc,76
+22,Credit Suisse.BofA Merrill Lynch,Credit Suisse,100
+23,Ladenberg Thalmann,Ladenburg Thalmann & Co,87
+24,Cantor Fitzgerald ,"Cantor, Fitzgerald & Co., Inc.",100
+25,Newbridge,Newbridge Securities,100
+26, RenCap,Reich,55
+27," Stifel, Nicolaus ",Stifel,100
+28,"Morgan Stanley, Goldman, Sachs",Morgan Stanley,100
+29,Feltl & Company,Feltl & Co,77
+30, KKR,KKR Capital,100
+31,Stifel,Stifel,100
+32,CICc,China International Capital Corp (CICC),100
+33, Compass Point,Tasin & Company,62
+34,Feltl,Feltl & Co,100
+35,Merriman Curhan Ford,Merriman Curhan Ford & Co.,100
+36,Gilford Securities,Gilford Securities,100
+37, Barrett & Company,Barrett,100
+38,Rodman & Renshaw (a Unit of H.C. Wainwright & Co.),Rodman & Renshaw Inc,88
+39,US Bancorp Piper Jaffray,US Bancorp Piper Jaffray,100
+40,BofA Merrill Lynch,Merrill Lynch White Weld Cptl,84
+41,Lehamn Brothers,Lehman Brothers,93
+42, Morgan Stanley ,Morgan Stanley,100
+43,Benchmark,The Benchmark Company,100
+44,Goldman Sacha (Asia),Goldman Sachs Asia,94
+45,ViewTrade Securities,BA Securities,87
+46, Credit Suisse Securities,Credit Suisse,100
+47, DNB Markets,Citigroup Global Markets Inc,78
+48,ThinkEquity (a division of Fordham Financial Management ),BC Financial,86
+49, Lake Street,State Street Capital Markets,71
+50,Taglich Brothers,"Taglich Brothers, Inc.",100
+51,Cantor Fitzgerald & Co.,"Cantor, Fitzgerald & Co., Inc.",100
+52,Banc of America Securities,Banc of America Securities LLC,100
+53, Sterne Agee,Sterne Agee & Leach Inc,100
+54,Jefferies Broadview,Jefferies & Co Inc,72
+55, AMTD Global Markets,AMTD Global Markets,100
+56,Credit Suisse First Boston,Credit Suisse First Boston,100
+57, J.P.Morgan,JP Morgan (JPM),87
+58,  RBC Capital Markets,RBC Capital Markets,100
+59,Paulson Investment Company,Paulson Investment Co,92
+60,Credit Suiss,Credit Suisse,96
+61,Feltl and Company,Reinheimer and Company,79
+62,"Ferris, Baker, Watts","Ferris, Baker Watts",100
+63,Dutsche Bank,Deutsche Bank AG,86
+64, EarlyBirdCapita,Earlybirdcapital Inc,86
+65, KeyBanc Capital Markets,KeyBanc Capital Markets ,100
+66, Height Capital Markets,Knight Capital Markets,91
+67,Prudential Vector Healthcare,Prudential Vector Healthcare,100
+68,DeutscheBanc Alex. Brown,Deutsche Banc Alex Brown,81
+69, China Int'l,China International Capital Corp (CICC),62
+70, AMTD Tiger,Tiger Brokers,67
+71,Sandler O’Neill + Partners,Sandler O'Neill Partners,100
+72, FBR,B-Riley-FBR,100
+73,Axiom,Axiom-Cap,100
+74,Brenner Securities,Brenner Securities,100
+75,Wells Fargo,Wells Fargo,100
+76,EarlyBirdCapita,Earlybirdcapital Inc,86
+77,Sandler O'Neill & Partners,Sandler O'Neill Partners,100
+78, Mizuho Securities,Mizuho Securities,100
+79, BMO Capital Markets,BMO Capital Markets,100
+80, Macquarie Capital,KKR Capital,78
+81," Stifel, Nicolaus Weisel",Stifel,100
+82,Dougherty & Company,Gunn & Company,74
+83,Robert W. Baird,Robert W Baird & Co Inc,100
+84,SANDLER O'NEILL + PARTNERS,Sandler O'Neill Partners,100
+85,Credit Siusse,Credit Suisse,92
+86,Jefferirs,Jefferies & Co Inc,64
+87, China Renaissance Securities,Renaissance Securities,100
+88,Sunrise Securities,Sunrise Securities,100
+89,RBC Capital,RBC Capital Markets,100
+90,Morgan Stanley,Morgan Stanley,100
+91,Nomura,Nomura Securities New York Inc,100
+92, JPMorgan,JP Morgan (JPM),76
+93,Pacific Growth Equities,Pacific Growth Equities Inc,100
+94,W.R. Hambracht,W.R. Hambrecht & Company,71
+95, CICC,China International Capital Corp (CICC),100
+96, Needham,Needham & Co Inc,100
+97,UBS Securities,UBS,100
+98, Goldman Sachs (Asia),Goldman Sachs Asia,100
+99,"Rodman & Renshaw, LLC",Rodman & Renshaw Inc,89
+100,BofA,J. B. Oxford,43
+101,MDB Capital Group LLC,MDB-Capital,100
+102, Janney Montgomery Scott,Janney Montgomery Scott Inc,100
+103,HSBC,HSBC,100
+104, Raymond James ,Raymond James & Associates Inc,100
+105,CIBC Worldwide,CIBC World Markets,62
+106,WR Hambrecht+Co.,W.R. Hambrecht & Company,78
+107, Fosun Hani,"Bond, Richman",55
+108,Legend Merchant Group,Legend Merchant Group,100
+109,Wachovia Securities,Wachovia Securities Inc,100
+110,ThinkEquity Partners,Thinkequity Partners LLC,100
+111,Sandler ONeill + Partners,Sandler O'Neill Partners,94
+112,Rodman & Renshaw,Rodman & Renshaw Inc,100
+113, BofA Merrill Lynch Credit Suisse,Credit Suisse,100
+114, Deutsche Bank Secutities,Deutsche Bank AG,90
+115,SoundView Technology,Soundview Technology Group,100
+116," Goldman, Sachs & Co.",Goldman Sachs & Co,100
+117,Piper Jaffrey,Piper Jaffray Inc,80
+118,Thomas Weisel Partners,Thomas Weisel Partners LLC,100
+119,D.A. Davidson,Kashner Davidson Securities,80
+120, Jefferies & Company,Ferris & Company,84
+121,Anderson & Strudrick,Anderson & Strudwick,94
+122,  Morgan Stanley,Morgan Stanley,100
+123, Santander,Santander Investment Bank,100
+124, Stifel Nicolaus Weisel,Stifel,100
+125,Cowen,Cowen,100
+126, Stephens,"Robertson, Colman & Stephens",100
+127,"Keefe, Bruyette & Woods",Keefe Bruyette & Woods Inc,100
+128, Newbridge Securities Corporation,Newbridge Securities,100
+129,Roth Capital Management,Cardinal Capital Management,88
+130,Aegis Capital,Aegis Capital,100
+131,GunnAllen,GunnAllen Financial Inc,100
+132, Deutsche Bank Securitie,Deutsche Bank AG,90
+133,Friedman Billings Ramsey,Friedman Billings Ramsey Group,100
+134,ING,ING,100
+135,Stifel Nicolaus,Stifel,100
+136,Wedbush Morgan Securities,Wedbush Morgan Securities,100
+137, Leerink Swann,Leerink Swann & Co.,100
+138,WR Hambrecht+Co,W.R. Hambrecht & Company,78
+139,"Roth Capital Partners, LLC",Roth Capital Partners Inc,92
+140,China Inter'l,"Richter, Cohen",62
+141," Goldman, Sachs & Co. ",Goldman Sachs & Co,100
+142,Robertson Stephens,"Robertson, Colman & Stephens",100
+143,Network 1 Financial Securities,Network 1 Financial Securities,100
+144, Barclays,Barclays Capital,100
+145,Maxim Group LLC,Maxim Group LLC,100
+146, Wells Fargo,Wells Fargo,100
+147,Sandler O'Niell & Partners,Sandler O'Neill Partners,96
+148, Berenberg,"Shoenberg, Hieber",72
+149,CRT Capital,KKR Capital,82
+150, Leerink Partners ,Leerink-SVB,78
+151,Oppenheimer & Co.,Oppenheimer & Co Inc,100
+152, National Bank of Canada Financial,National Bank Financial Inc,92
+153, J .P. Morgan Securities,Wedbush Morgan Securities,89
+154, Joseph Gunnar,"Joseph Gunnar & Co., LLC",100
+155,Dain Rauscher Wessels,Dain Rauscher Wessels,100
+156,Deutsche Banc Alex. Brown,Deutsche Banc Alex Brown,100
+157,AG Edwards & Sons,AG Edwards & Sons Inc,100
+158,GS,UBS AG,50
+159, HSBC,HSBC,100
+160,WestPark Capital,KKR Capital,78
+161, Mitsubishi UFJ Securities,BA Securities,87
+162,DBAB,Mediobanca,43
+163, AMTD,AMTD Global Markets,100
+164,JMP Securities,BA Securities,87
+165, J.P. Morgan RBC Capital Markets,RBC Capital Markets,100
+166," Keefe, Bruyette & Woods",Keefe Bruyette & Woods Inc,100
+167, Goldman Sachs Japan,Goldman Sachs & Co,90
+168," Sandler O’Neill + Partners, L.P",Sandler O'Neill Partners,100
+169, Itau BBA,Banco Itau-BBA,100
+170,DLJ,DLJdirect,50
+171,Morgan Keegan,Morgan Keegan Inc,100
+172, Pacific Crest Securities (a division of KeyBanc Capital Markets),KeyBanc Capital Markets ,100
+173, Nomura,Nomura Securities New York Inc,100
+174, CIBC Capital Markets,AIB Capital Markets,92
+175,Golldman Sachs,Goldman Sachs & Co,87
+176,WR Hambracht+Co.,W.R. Hambrecht & Company,72
+177,JonesTrading,Sterling Foster,59
+178,HCFP,HCFP Brenner Securities LLC,100
+179,DPO (Direct Public Offering),E*Offering Corp,70
+180,Paulson,Paulson Investment Co,100
+181, Piper Sandle,Piper-Sandler,96
+182, Stifel Nicolaus,Stifel,100
+183, SunTrust Robinson Humphrey,SunTrust Robinson Humphrey,100
+184,BoA Merrill Lynch,Bank of America-Merrill Lynch (BOA-Merrill),100
+185, Goldman Sachs (Asia) L.L.C.,Goldman Sachs Asia,100
+186, Oppenheimer & Co.,Oppenheimer & Co Inc,100
+187," Goldman, Sachs",Goldman Sachs Asia,100
+188,Aegis Capital ,Aegis Capital,100
+189,SG Cowen Securities,Cowen,100
+190, EarlyBirdCapital,Earlybirdcapital Inc,100
+191,A.G. Edwards & Sons,AG Edwards & Sons Inc,86
+192, R. F. Lafferty,R. F. Lafferty,100
+193,Jesup & Lamont Securities,Jesup & Lamont Securities,100
+194,Deutsche Banc Alex Brown,Deutsche Banc Alex Brown,100
+195,CE Unterberg Towbin,CE Unterberg Towbin,100
+196, National Securities,National Securities (Taiwan),100
+197, Wunderlich Securities,"Wunderlich Securities, Inc.",100
+198,"Sandler O’Neill + Partners, L.P.",Sandler O'Neill Partners,100
+199,Bear Stearns,Bear Stearns International,100
+200,JPMorgan,JP Morgan (JPM),76
+201,Sanders Morris Harris,Sanders Morris Harris Inc,100
+202, KeyBanc Capital Market,KeyBanc Capital Markets ,98
+203,UBS,UBS AG,100
+204, O’Neill + Partners,Sandler O'Neill Partners,100
+205, Jefferies ,Jefferies & Co Inc,100
+206, Jefferies​ ​,Jefferies & Co Inc,100
+207, Morgan Stanley Barclays,Morgan Stanley,100
+208,Broadband Capital Markets,AB Capital Markets,91
+209,Northland Capital,Northland Capital Markets,100
+210,CLSA CIBC World Markets,CIBC World Markets,100
+211,"Friedman, Billingd Ramsey",Friedman Billings Ramsey & Co,90
+212,Barclays Capital,Barclays Capital,100
+213,SSB,HSBC,57
+214, Deutsche Bank,Deutsche Bank Capital (NY),100
+215, Credit Suisse​,Credit Suisse First Boston,100
+216,Maxium CapitalEarlybird Capital,KKR Capital,78
+217, Simmons & Company International (Energy Specialists of Piper Jaffray),Simmons & Co International,93
+218,RothCapitalPartners,SPP Capital Partners Inc,70
+219,Sun Trust Robinson Humphrey,SunTrust Robinson Humphrey,98
+220, WestPark Capital,KKR Capital,78
+221,W.R. Hambrecht+Co.,W.R. Hambrecht & Company,90
+222,BofA Merrill Lync,Merrill Lynch & Co Inc,76
+223,Piper Sandler,Piper-Sandler,100
+224, Cowen,Cowen,100
+225, Chardan Capital Markets,"Chardan Capital Markets, LLC",100
+226, Ping An of China Securities (Hong Kong),Ping An,100
+227,J.P. Morghan,J.T. Moran,80
+228,AG Edwards,AG Edwards & Sons Inc,100
+229,Goldman Sachs,Goldman Sachs Asia,100
+230,JP Turner,JP Turner & Co,100
+231,Credit Suisse. Citigroup,Citigroup,100
+232,Oppenheimer ,Oppenheimer & Co Inc,100
+233,Keefe Bruyette,Keefe Bruyette & Woods Inc,100
+234, Barclays Capital,Barclays Capital,100
+235,Wachovia,Wachovia Bank,100
+236, Bair,D. H. Blair,62
+237,Sterne Agee & Leach,Sterne Agee & Leach Inc,100
+238,Chardan Capital Markets,"Chardan Capital Markets, LLC",100
+239,"Goldman, Sachs",Goldman Sachs Asia,100
+240, Credit Agricole CIB,Credit Agricole Securities (CNCANY),88
+241,Schneider Securities,"Schneider Securities, Inc.",100
+242,Ladenburg Thalmann,Ladenburg Thalmann & Co,100
+243,Joseph Gunnar,"Joseph Gunnar & Co., LLC",100
+244,Boustead Securities,BA Securities,87
+245, Needham & Company,Needham & Co Inc,76
+246," Keefe, Bruyette & Woods, Inc. (A Stifel Company)",Keefe Bruyette & Woods Inc,100
+247, Goldman Sachs (Asia) L.L.C,Goldman Sachs Asia,100
+248, Northland Capital Markets,Northland Capital Markets,100
+249,GoldmanSachs,Goldman Sachs & Co,86
+250,BMN Nesbitt Burns,BMO Nesbitt Burns Inc,89
+251,Morgan Stanley Dean Witter,Morgan Stanley,100
+252,First Albany,First Albany,100
+253, BNP PARIBAS,BNP Paribas SA (BNP-CA),100
+254, J. P. Morgan Securities,Wedbush Morgan Securities,89
+255,Aegis Capital Corp,Aegis Capital,100
+256,McDonald Investments,McDonald Investments,100
+257, Wells Fargo Securities,Wells Fargo,100
+258, Credit Suisse,Credit Suisse First Boston,100
+259,Stifel Nicolaus Weisel,Stifel,100
+260, Maxim Group,Maxim Group LLC,100
+261, Feltl and Company,Reinheimer and Company,79
+262,Cowen ,Cowen,100
+263,HCFB,HSBC,50
+264,SANDLER O’NEILL + PARTNERS,Sandler O'Neill Partners,100
+265,Canter Fitzgerald,"Cantor, Fitzgerald & Co., Inc.",78
+266,"C.E. Unterberg, Towbin",CE Unterberg Towbin,97
+267, Barclay Capital,Barclays Capital,97
+268,CRT Capital Group,Wit Capital Group Inc,87
+269,Keefe Bruyette Woods,Keefe Bruyette & Woods Inc,100
+270,Roth Capital Partners,Roth Capital Partners Inc,100
+271,CICC,China International Capital Corp (CICC),100
+272,Ryan Beck,Ryan Beck & Co,100
+273, Wedbush PacGrow Life Sciences,Wedbush Securities,60
+274,Broadband Capital Management LLC,Broadband Capital Management,100
+275, Tiger Brokers,Tiger Brokers,100
+276,DB Alex Brown,Deutsche Banc Alex Brown,87
+277, China Renaissance,China Renaissance (CRS),100
+278,"Donaldson, Lufkin & Jenrette",Donaldson Lufkin & Jenrette,100
+279," BofAMerrill Lynch, Pierce","Merrill Lynch, Pierce, Fenner",82
+280, Oppenheimer,Oppenheimer & Co Inc,100
+281, Itaú BBA,Banco Itau-BBA,67
+282, SVB Leerink,Leerink-SVB,100
+283,"Keefe, Bruyette",Keefe Bruyette & Woods Inc,100
+284, BofA Securities,BA Securities,93
+285,Newbridge Securities,Newbridge Securities,100
+286,"Ladenburg, Thalmann",Ladenburg Thalmann & Co,100
+287, UBS Investment Bank,UBS,100
+288,Goldman Sachs In't,Goldman Sachs & Co,90
+289,Morgan Joseph,Morgan-Joseph,100
+290, BMO Capital Market,BMO Capital Markets,97
+291, Clarkson Capital Markets,AB Capital Markets,91
+292, RBC Capital Markets,RBC Capital Markets,100
+293,Legg Mason,Legg Mason Wood Walker,100
+294,"Goldman, Sachs & Co. ",Goldman Sachs & Co,100
+295, Scotia Howard Weil,Howard Weil Labouisse Freid,76
+296, Citigroup,Citigroup Global Markets Inc,100
+297, Wells Fargo Securities ,Wells Fargo,100
+298, Taglich Brothers,"Taglich Brothers, Inc.",100
+299,Broadband Capital Management,Broadband Capital Management,100
+300,D.A. Davidson & Co.,DA Davidson & Co Inc,85
+301, Evercore ISI ,Evercore,100
+302, William Blair,William Blair & Co,100
+303,Aegis Capital Corp.,Aegis Capital,100
+304,Prudential Securities,Prudential-Bache Securities,100
+305,Pali Capital,"Pali Capital, Inc.",100
+306, Ladenburg Thalmann,Ladenburg Thalmann & Co,100
+307, Stifel,Stifel,100
+308,Bear Streans,Bear Stearns & Co Inc,71
+309, ViewTrade Securities,BA Securities,87
+310,Dahlman Rose,Dahlman-Rose,100
+311,Evercore ISI,Evercore,100
+312,Cohen ,"Adams, Cohen",100
+313,MSDW,Mesirow,55
+314,"Friedman, Billings",Friedman Billings Ramsey Group,100
+315, Leerink Partners,Leerink-SVB,78
+316,Stanford Group,Stanford Group,100
+317, SOCIETE ,Societe Generale Securities,100
+318,Legg Mason Wood Walker,Legg Mason Wood Walker,100
+319,Wedbush Morgan,Wedbush Morgan Securities,100
+320,Citigroup Capital Markets,Citigroup,100
+321,Maxin Group,Maxim Group LLC,77
+322,WR Hambrecht + Co.,W.R. Hambrecht & Company,78
+323,Maxim Group ,Maxim Group LLC,100
+324,W.R. Hambrecht + Co.,W.R. Hambrecht & Company,90
+325,LG Investment & Securities,LG Investment & Securities,100
+326,​J.P. Morgan,JP Morgan (JPM),87
+327,Citigroup,Citigroup Global Markets Inc,100
+328,UBS Investment Bank,UBS,100
+329,Deuteche Bank,Deutsche Bank AG,83
+330, J. P. Morgan,JP Morgan (JPM),87
+331,Merrill Lymch,Merrill Lynch & Co Inc,73
+332,KKR,KKR Capital,100
+333, Haitong International,Haitong International,100
+334,Lynch,Merrill Lynch White Weld Cptl,100
+335,Punk Ziegel,Punk Ziegel & Knoell,100
+336,I-Baners,ING Barings,63
+337,Canaccord Genuity,Canaccord Genuity,100
+338,Creidt Suisse,Credit Suisse,92
+339,National Securities,National Securities (Taiwan),100
+340,I-Bankers Securities ,I-Bankers Securities Inc,100
+341,Wunderlich Securities,"Wunderlich Securities, Inc.",100
+342, I-Bankers,I-Bankers Securities Inc,100
+343, GoldmanSachs,Goldman Sachs & Co,86
+344, BofAMerrill Lynch,Merrill Lynch & Co Inc,76
+345,First Van Kasper,First Security Van Kasper & Co,100
+346,Brenner - Morgan Joseph,Morgan-Joseph,100
+347,Jefferies,Jefferies & Co Inc,100
+348,JP Morgan,JP Morgan (JPM),100
+349,EarlyBird Capital,KKR Capital,78
+350,CIBC Capital Markets,AIB Capital Markets,92
+351, Evercore,Evercore,100
+352,J.P.  Morgan,JP Morgan (JPM),87
+353," Keefe, Bruyette & Woods (A Stifel Company​)",Stifel,100
+354,Cit,Cial,57
+355,Stifel Niclous Weisel,Stifel,100
+356,AG Edwrads,AG Edwards & Sons Inc,62
+357, Huatai Securities (USA),BA Securities,87
+358,BBVA,Evans,44
+359, Prime Number Capital,Prime Number Capital,100
+360, China Merchants Securities (HK),China Merchants Securities,100
+361,The Benchmark Company,The Benchmark Company,100
+362, Goldma Sachs,Goldman Sachs & Co,86
+363, The Benchmark Company,The Benchmark Company,100
+364,Sandler O'Neill,Sandler O'Neill Partners,100
+365,EarlyBirdCapital ,Earlybirdcapital Inc,100
+366,Lehman Brothers,Shearson Lehman Brothers,100
+367," Keefe, Bruyette & Woods ",Keefe Bruyette & Woods Inc,100
+368, Cuttone,Roney & Co,53
+369, Scotiabank,Commerzbank AG,50
+370,​Credit Suisse,Credit Suisse First Boston,100
+371,"Network 1 Financial Securities,",Network 1 Financial Securities,100
+372,Merrill Lnych,Merrill Lynch & Co Inc,73
+373, William Blair ,William Blair & Co,100
+374, Cantor Fitzgerald,"Cantor, Fitzgerald & Co., Inc.",100
+375,J.P. Morgan Securities Merrill Lynch,BA Securities,87
+376,Chardan,"Chardan Capital Markets, LLC",100
+377,Roth Capital,Roth Capital Partners Inc,100
+378, MUFG,Emanuel,36
+379," Goldman, Sachs ",Goldman Sachs Asia,100
+380,Citi,Citigroup,62
+381,ML,Mikal,57
+382, BofA Merrill Lynch​,Merrill Lynch White Weld Cptl,84
+383, FBR Capital Markets,AB Capital Markets,92
+384,Noble International Investments,Noble International Investment,98
+385,Morgan Stanley Dean Witter & China Intl.,Morgan Stanley,100
+386, Barclay,"Barclay Investments, Inc.",100
+387,Pacific Growth Equities ,Pacific Growth Equities Inc,100
+388,PrinceRidge,C&CO/PrinceRidge,100
+389,BofA Merril Lynch,Merrill Lynch & Co Inc,76
+390,Keeye Bruyette & Woods,Keefe Bruyette & Woods Inc,86
+391, Roth Capital Partners​,Roth Capital Partners Inc,100
+392,"Keefe, Bruyette & Woods (A Stifel Company) Sandler O'Neill + Partners",Stifel,100
+393,Utendhal Capital Partners,Utendahl Capital Partners,96
+394,Pactual Capital,Pactual Capital Corporation,100
+395,Sandler O'Neill + Partners,Sandler O'Neill Partners,100
+396,Oppenheimer,Oppenheimer & Co Inc,100
+397,Scott & Stringfellow,Scott & Stringfellow Financial,100
+398, UBS Investment Ban,UBS,100
+399,Piper Jafray,Piper Jaffray Inc,83
+400, CICC ,China International Capital Corp (CICC),100
+401, Sandler O’Neill + Partners,Sandler O'Neill Partners,100
+402,CS First Boston ,CS First Boston,100
+403, Wachovia Securities,Wachovia Securities Inc,100
+404,Santander,Santander Investment Bank,100
+405,"Keefe, Bruyette & Woods (A Stifel Company)",Stifel,100
+406, Roth Capital Partners ,Roth Capital Partners Inc,100
+407,SunTrust Robinson,SunTrust Robinson Humphrey,100
+408, Markets Lake Street,State Street Capital Markets,85
+409,Simmons & Company,Simmons & Co,82
+410, Credit Suisse ,Credit Suisse First Boston,100
+411,SG Cowen,Cowen,100
+412,Wunderlich,"Wunderlich Securities, Inc.",100
+413,Wells Fargo Securities,Wells Fargo,100
+414,Needham & Company,Needham & Co Inc,76
+415,Rodman Renshaw,Rodman & Renshaw Inc,100
+416,Jefferies & Company,Ferris & Company,84
+417,A.G. Edwards,Spencer Edwards,78
+418, BMO Capital Markets​,BMO Capital Markets,100
+419,Janney Montgomery Scott,Janney Montgomery Scott Inc,100
+420,​ Citigroup,Citigroup Global Markets Inc,100
+421,J.P.Morgan,JP Morgan (JPM),87
+422, Craig-Hallum Capital Group,"Craig-Hallum, Inc.",86
+423,Northland Capital Markets,Northland Capital Markets,100
+424,Ladenberg Thalman,Ladenburg Thalmann & Co,84
+425,AMTD Global Markets,AMTD Global Markets,100
+426,W.R. Hambrecht,W.R. Hambrecht & Company,100
+427, Simmons & Company,Simmons & Co,82
+428,Imperial Capital,Imperial-Cap,86
+429,"MDB Capital Group, LLC",MDB-Capital,100
+430,RBC Capital Markets,RBC Capital Markets,100
+431,CIBC World Markets,CIBC World Markets,100
+432,I-Bankers,I-Bankers Securities Inc,100
+433,W.R. Hambrecht+Co,W.R. Hambrecht & Company,90
+434,GunnAllen Financial,GunnAllen Financial Inc,100
+435,"Ferris, Baker Watts","Ferris, Baker Watts",100
+436,Stifel Nicolas,Stifel,100
+437,Univest Securities,Univest Securities,100
+438,Cantor,"Cantor, Fitzgerald & Co., Inc.",100
+439,Maxim Group,Maxim Group LLC,100
+440, J.P. Morgan,JP Morgan (JPM),87
+441, Canaccord Genuity,Canaccord Genuity,100
+442," Sandler O’Neill + Partners, L.P.",Sandler O'Neill Partners,100
+443,William Blair,William Blair & Co,100
+444, BB&T Capital Markets,BB&T Capital Markets,100
+445,Raymond James,Raymond James & Associates Inc,100
+446, SMBC Nikko,Nikko Securities (Europe),67
+447,ING Barings,ING,100
+448,Burnham Securities,Burnham Securities Inc,100
+449, Roth Capital Partners,Roth Capital Partners Inc,100
+450,CSFirst Boston,CS First Boston,97
+451,"Keefe, Bruyette & Woods (A Stifel Company )",Stifel,100
+452,Somerset Financial,Somerset Financial Group Inc,100
+453, Summer Street Research Partners,Summer Street,100
+454, UBS Securitie,UBS,100
+455,CIBC Worldmarkets,CIBC World Markets,69
+456,UBS Investment Trust,UBS,100
+457,Laidlaw & Company (UK) Ltd.,Gunn & Company,74
+458,CF First Boston,CS First Boston,93
+459,Barclay Capital,Barclays Capital,97
+460, Robert W. Baird,Robert W Baird & Co Inc,100
+461, Cowen ,Cowen,100
+462, Dahlman Rose,Dahlman-Rose,100
+463,Ferris Baker Watts,"Ferris, Baker Watts",100
+464,"Goldman Sachs,",Goldman Sachs Asia,100
+465,The Shemano Group,Shemano Group,100
+466,EarlyBirdCapital,Earlybirdcapital Inc,100
+467,"Baird, BMO Capital Markets, Janney Montgomery Scott",BMO Capital Markets,100
+468,Roberston Stephens,Robertson Stephens & Co,87
+469, Deutsche Bank Securities,Deutsche Bank Securities Corp,100
+470, B. Riley & Co.,B-Riley,100
+471, Sandler ONeill & Partners,Sandler O'Neill Partners,94
+472,"Global Hunter Securities, LLC",Global-Hunter,100
+473, Merrill Lynch,Merrill Lynch White Weld Cptl,100
+474, Guggenheim Securities ,Guggenheim Securities,100
+475,Joseph Gunnar & Co.,"Joseph Gunnar & Co., LLC",100
+476," Sandler O'Neill + Partners, L.P.",Sandler O'Neill Partners,100
+477,Allen & Co.,"Elliot Allen & Co., Inc.",100
+478,Alexander Capital,KKR Capital,78
+479, UBS Securities,UBS,100
+480, Deutsche Bank  Securities,Deutsche Bank Securities Corp,100
+481, Stife,Stifel,91
+482, Evercore ISI,Evercore,100
+483, VTB Capital,MDB-Capital,82
+484," Keefe, Bruyette & Woods (A Stifel Company)",Stifel,100
+485, UBS Investment Bank (In alphabetical order),UBS,100
+486, BTIG,BTIG,100
+487,Pali,"Pali Capital, Inc.",100
+488,Sun Trust,Artoc Bank and Trust,71
+489, Guggenheim Securities,Guggenheim Securities,100
+490, Dowling & Partners Securities,BA Securities,87
+491,William Blair & Company,William Blair & Co,90
+492, D.A. Davidson,Kashner Davidson Securities,80
+493,FBR Capital Markets,AB Capital Markets,92
+494,Piper Jafftay,Piper Jaffray Inc,80
+495,Merril Lynch,Merrill Lynch & Co Inc,75
+496,Johnson Rice,Johnson Rice & Co,100
+497,FBR,B-Riley-FBR,100
+498,Craig-Hallum Capital,"Craig-Hallum, Inc.",86
+499, Morgan Stanley​,Morgan Stanley,100
+500, Dominick & Dominick,Dominick,100
+501,JMP Securitites,Kemper Securities,81
+502," RBC Capital Markets, LLC",RBC Capital Markets,100
+503, CLSA,McLarty,55
+504, Duetsche Bank,Deutsche Bank AG,83
+505,EarlyBirdCaptial,Earlybirdcapital Inc,83
+506, Jefferies,Jefferies & Co Inc,100
+507, Loop Capital Markets,AB Capital Markets,91
+508, J.P. Morgan ,JP Morgan (JPM),87
+509,"Sandler O’Neill & Partners, L.P",Sandler O'Neill Partners,100
+510,Key Banc Capital Markets,AB Capital Markets,91
+511,J.P. Morgan Securities,Wedbush Morgan Securities,89
+512,Deutsche Bank Securities,Deutsche Bank Securities Corp,100
+513,J.P Morgan,JP Morgan (JPM),87
+514, Barclays ,Barclays Capital,100
+515,BofA Securities,BA Securities,93
+516,Needham,Needham & Co Inc,100
+517,Piper Jaffray,US Bancorp Piper Jaffray,100
+518,Johnson Rice & Company,Johnson Rice & Co,89
+519,Lazard,Lazard Freres & Co LLC,100
+520,FTN Midwest Securities,"First Midwest Securities, Inc",90
+521, Deutsche Bank SecuritieS,Deutsche Bank Securities Corp,100
+522,Dawson James Securities,"Dawson James Securities, Inc.",88
+523,A.G. Edwrads & Sons,AG Edwards & Sons Inc,80
+524,Paulson Investment,Paulson Investment Co,100
+525, Piper Sandler,Piper-Sandler,100
+526,BTIG,BTIG,100
+527,RBC Dominion,RBC Dominion Securities,100
+528, Morgan Stanley,Morgan Stanley,100
+529,Friedman Billings,Friedman Billings Ramsey Group,100
+530,ThinkEquity (a division of Fordham Financial Management) ,BC Financial,86
+531,SVB Leerink,Leerink-SVB,100
+532, CMBI,Cial,50
+533, UBS,UBS AG,100
+534, BofA Merrill Lynch ,Merrill Lynch White Weld Cptl,84
+535,Merrill Lynch ,Merrill Lynch White Weld Cptl,100
+536,Advest,Advest Inc,100
+537, Barclays Capital ,Barclays Capital,100
+538,Jaffray Stifel,Stifel,100
+539,Axiom Capital Management,Cardinal Capital Management,86
+540," Keefe, Bruyette & Woods (A Stifel Company )",Stifel,100
+541,CSFB,HSBC,50
+542, Network 1 Securities,Network 1 Financial Securities,100
+543,Morgan Stanly,Morgan Stanley,96
+544,W.R. Hambrecht + Co,W.R. Hambrecht & Company,90
+545, A.G.P.,A. G. Becker Paribas Inc.,75
+546, Network 1 Financial Securities,Network 1 Financial Securities,100
+547,B. Riley FBR,B-Riley-FBR,100
+548," Tudor, Pickering, Holt",Tudor-Pickering,100
+549, Cowen​,Cowen,100
+550,Merrill Lynch,Merrill Lynch White Weld Cptl,100
+551, Boustead Securities,BA Securities,87
+552,ThinkEquity,Thinkequity Partners LLC,100
+553,Credit Suisse,Credit Suisse First Boston,100
+554,Morgan Stanley.Deutsche Bank,Morgan Stanley,100
+555, Bradesco BBI,Baring Brothers & Co Ltd,53
+556,Salomon Smith Barney,Salomon Smith Barney Interntl,100
+557, Brookline Capital Markets,AB Capital Markets,91
+558,WallachBeth Capital,KKR Capital,78
+559,UBS Warburg,UBS,100
+560,"Goldman Sachs, Salomon Smith Barney",Salomon Smith Barney,100
+561,Equity Securities,Equity Securities Trading,100
+562,AMTD,AMTD Global Markets,100
+563,Morgan Stanlet Dean Witter,Dean Witter,100
+564, Knight Capital Markets,Knight Capital Markets,100
+565, Ladenburg Thalmann & Co. Inc.,Ladenburg Thalmann & Co,100
+566,"Bear, Stearns",Bear Stearns International,100
+567, C.L. King & Associates,CL King & Associates Inc,88
+568,Baird,Robert W Baird & Co Inc,100
+569,Capital Growth Financial,Capital Growth Financial,100
+570,Thomas Weisels Partners,Thomas Weisel Partners LLC,90
+571," Axiom Capital Management,",Cardinal Capital Management,86
+572,Haitong International,Haitong International,100
+573,Gunn Allen,Allen C. Ewing,67
+574,WR Hambrecht,Hambrecht & Quist,86
+575, Tudor Pickering Holt,Tudor-Pickering,100
+576,CS First Boston,CS First Boston,100
+577,Wm Blair,D. H. Blair,77
+578, Raymond James,Raymond James & Associates Inc,100
+579,​Jefferies,Jefferies & Co Inc,100
+580, Valuable Capital Limited,Valuable Capital,100
+581,Adams Harkness,Adams Harkness & Hill Inc,100
+582, TD Securities,TD Securities Inc,100
+583, Shenwan Hogyuan ,Shemano Group,57
+584, William Blair & Company,William Blair & Co,90
+585,Macquarie Capital,KKR Capital,78
+586, Aegis Capital Corp,Aegis Capital,100
+587,Brean Murray,Brean Murray & Co Inc,100
+588,Chase H&Q,Chase H&Q,100
+589, Citi,Citigroup,62
+590,Craig-Hallum Capital Group,"Craig-Hallum, Inc.",86
+591, XP Investments,Profile Investments,88
+592,​Barclays,Barclays Capital,100
+593, Lazard Capital Markets,Lazard,100
+594, RBC Capital Market,RBC Capital Markets,97
+595,Roth Capital Partners ,Roth Capital Partners Inc,100
+596, Regions Securities,BA Securities,87
+597,Barclays,Barclays Capital,100
+598,Benchmark Company,The Benchmark Company,100
+599, Haitong Internationa,Haitong International,98
+600,Cowen and Company,Cowen,100
+601, UBS Investment Bank​,UBS,100
+602,Freidman Billing Ramsey,Friedman Billings Ramsey & Co,88
+603,BB&T Capital Markets,BB&T Capital Markets,100
+604, RAYMOND JAMES,Raymond James & Associates Inc,100
+605," Bryan, Garnier","Gaines, Berland",67
+606, Baird,Robert W Baird & Co Inc,100
+607,Allen,Allen C. Ewing,100
+608, Chardan,"Chardan Capital Markets, LLC",100
+609, J.P. MorganSandle,Morgan Stanley,73
+610,National Securities Corporation,RAS Securities Corporation,92
+611,China International,China International Capital Corp (CICC),100
+612, The Huntington Investment Company,Orians Investment,74
+613,Morgan Stanle,Morgan Stanley,96
+614,UBS Warburg ,UBS,100
+615,Stephens,"Robertson, Colman & Stephens",100
+616,FIG Partners,Utendahl Capital Partners,80
+617, Banc of America Securities,Banc of America Securities LLC,100
+618,I-Bankers Securities,I-Bankers Securities Inc,100
+619, Ameriprise Financial Services,BC Financial,86
+620,Sandler O’Neill & Partners,Sandler O'Neill Partners,100
+621, Pacific Crest Securities,Pacific Crest Securities Inc,100
+622, Cantor,"Cantor, Fitzgerald & Co., Inc.",100
+623,Cantor Fitzgerald,"Cantor, Fitzgerald & Co., Inc.",100
+624,Citibank,KKR Capital,53
+625,Merrill Lhnch,Merrill Lynch & Co Inc,73
+626,Sandler O’Neill,Sandler O'Neill Partners,100
+627,Merrill,Merrill Lynch White Weld Cptl,100
+628, Piper Jaffray,US Bancorp Piper Jaffray,100
+629,Piper,US Bancorp Piper Jaffray,100
+630, Allen & Company,Baer & Company,80
+631, I-Bankers Securities,I-Bankers Securities Inc,100
+632,Legand Merchant Group,Legend Merchant Group,95
+633,Credit Siusse First Boston,Credit Suisse First Boston,96
+634,Leerink Partners,Leerink-SVB,78
+635,J..P. Morgan Securities,Wedbush Morgan Securities,89
+636,Goldman Sachs (Asia) L.L.C.,Goldman Sachs Asia,100
+637,Donald,Donald & Co. Securities,100
+638,Credit Suisse ,Credit Suisse First Boston,100
+639,West Park Capital,West Park Capital,100
+640, BofA Merrill Lych,Merrill Lynch & Co Inc,76
+641,Lazard Capital Markets,Lazard,100
+642, Itau BBA ,Banco Itau-BBA,100
+643,BMO Capital Markets,BMO Capital Markets,100
+644,Leerink Swann,Leerink Swann & Co.,100
+645,ThinkEquity (a division of Fordham Financial Management),BC Financial,86
+646,Donaldson Lufkin & Jenrette,Donaldson Lufkin & Jenrette,100
+647,Alpha Finance,Alpha Finance US Corporation,100
+648,Roth,Cruttenden Roth Inc,100
+649,RBC,RBC Dominion Securities,100
+650, Goldman Sach,Goldman Sachs & Co,86
+651," Keefe, Woods & Bruyette (A Stifel Company)",Stifel,100
+652,WRHambrecht+Co,W.R. Hambrecht & Company,69
+653,Casimir Capital,KKR Capital,78
+654, Rodman & Renshaw,Rodman & Renshaw Inc,100
+655,EarlyBridCapital,Earlybirdcapital Inc,83
+656,BB&T Capital,BB&T Capital Markets,100
+657,Deutsche Bank Securities ,Deutsche Bank Securities Corp,100
+658, Zelman Partners LLC,Zelman,100
+659, Morgan Stanle,Morgan Stanley,96
+660, J.P. Morga,J.T. Moran,78
+661, Shenwan Hongyuan Securities,BA Securities,87
+662, BofA Merrill Lynch,Merrill Lynch White Weld Cptl,84
+663, VALUABLE CAPITAL LIMITED,Valuable Capital,100
+664,Creidt Suisse First Boston,Credit Suisse First Boston,96
+665,C&Co,C&CO/PrinceRidge,100
+666,"Goldman, Sach",Goldman Sachs & Co,86
+667,ThinkPanmure,Hinkle & LaMear,56
+668, Hovde Group,Shemano Group,67
+669,J.P. Morgan,JP Morgan (JPM),87
+670, Zelman Partners,Zelman,100
+671, BoA Merrill Lynch,Bank of America-Merrill Lynch (BOA-Merrill),100
+672, Neidiger Tucker Bruner,"Neidiger, Tucker, Bruner Inc.",100
+673,Keefe Bruyette & Woods,Keefe Bruyette & Woods Inc,100
+674,Oppenhemier,CIBC Oppenheimer,74
+675, Goldman Sachs,Goldman Sachs Asia,100
+676,Keefe Bruyette & Woods (A Stifel Company ),Stifel,100
+677,"EarlyBirdCapital, Inc.",Earlybirdcapital Inc,100
+678,William Baird,William Blair & Co,83
+679,Barclays Capial,Barclays Capital,97
+680,KeyBanc Capital Markets,KeyBanc Capital Markets ,100
+681,Goldman Sachs (Asia),Goldman Sachs Asia,100

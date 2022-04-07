@@ -1,0 +1,157 @@
+date,SVI,isPartial,Issuer
+2010-08-29,29,False,SYSWIN
+2010-09-05,29,False,SYSWIN
+2010-09-12,29,False,SYSWIN
+2010-09-19,7,False,SYSWIN
+2010-09-26,27,False,SYSWIN
+2010-10-03,35,False,SYSWIN
+2010-10-10,42,False,SYSWIN
+2010-10-17,27,False,SYSWIN
+2010-10-24,34,False,SYSWIN
+2010-10-31,41,False,SYSWIN
+2010-11-07,40,False,SYSWIN
+2010-11-14,67,False,SYSWIN
+2010-11-21,100,False,SYSWIN
+2010-11-28,13,False,SYSWIN
+2010-12-05,19,False,SYSWIN
+2010-12-12,13,False,SYSWIN
+2010-12-19,15,False,SYSWIN
+2010-12-26,15,False,SYSWIN
+2011-01-02,33,False,SYSWIN
+2011-01-09,31,False,SYSWIN
+2011-01-16,49,False,SYSWIN
+2011-01-23,18,False,SYSWIN
+2011-01-30,35,False,SYSWIN
+2011-02-06,37,False,SYSWIN
+2011-02-13,18,False,SYSWIN
+2011-02-20,36,False,SYSWIN
+2011-02-27,12,False,SYSWIN
+2011-03-06,30,False,SYSWIN
+2011-03-13,42,False,SYSWIN
+2011-03-20,12,False,SYSWIN
+2011-03-27,18,False,SYSWIN
+2011-04-03,24,False,SYSWIN
+2011-04-10,24,False,SYSWIN
+2011-04-17,13,False,SYSWIN
+2011-04-24,6,False,SYSWIN
+2011-05-01,30,False,SYSWIN
+2011-05-08,18,False,SYSWIN
+2011-05-15,35,False,SYSWIN
+2011-05-22,24,False,SYSWIN
+2011-05-29,18,False,SYSWIN
+2011-06-05,36,False,SYSWIN
+2011-06-12,12,False,SYSWIN
+2011-06-19,12,False,SYSWIN
+2011-06-26,24,False,SYSWIN
+2011-07-03,6,False,SYSWIN
+2011-07-10,12,False,SYSWIN
+2011-07-17,23,False,SYSWIN
+2011-07-24,18,False,SYSWIN
+2011-07-31,12,False,SYSWIN
+2011-08-07,29,False,SYSWIN
+2011-08-14,24,False,SYSWIN
+2011-08-21,23,False,SYSWIN
+2010-09-05,76,False,FXCM
+2010-09-12,88,False,FXCM
+2010-09-19,87,False,FXCM
+2010-09-26,86,False,FXCM
+2010-10-03,82,False,FXCM
+2010-10-10,89,False,FXCM
+2010-10-17,100,False,FXCM
+2010-10-24,81,False,FXCM
+2010-10-31,85,False,FXCM
+2010-11-07,86,False,FXCM
+2010-11-14,70,False,FXCM
+2010-11-21,78,False,FXCM
+2010-11-28,97,False,FXCM
+2010-12-05,90,False,FXCM
+2010-12-12,75,False,FXCM
+2010-12-19,78,False,FXCM
+2010-12-26,68,False,FXCM
+2011-01-02,82,False,FXCM
+2011-01-09,83,False,FXCM
+2011-01-16,79,False,FXCM
+2011-01-23,75,False,FXCM
+2011-01-30,87,False,FXCM
+2011-02-06,89,False,FXCM
+2011-02-13,89,False,FXCM
+2011-02-20,72,False,FXCM
+2011-02-27,73,False,FXCM
+2011-03-06,83,False,FXCM
+2011-03-13,80,False,FXCM
+2011-03-20,77,False,FXCM
+2011-03-27,80,False,FXCM
+2011-04-03,66,False,FXCM
+2011-04-10,69,False,FXCM
+2011-04-17,68,False,FXCM
+2011-04-24,84,False,FXCM
+2011-05-01,74,False,FXCM
+2011-05-08,68,False,FXCM
+2011-05-15,70,False,FXCM
+2011-05-22,76,False,FXCM
+2011-05-29,77,False,FXCM
+2011-06-05,75,False,FXCM
+2011-06-12,71,False,FXCM
+2011-06-19,71,False,FXCM
+2011-06-26,80,False,FXCM
+2011-07-03,76,False,FXCM
+2011-07-10,87,False,FXCM
+2011-07-17,66,False,FXCM
+2011-07-24,75,False,FXCM
+2011-07-31,73,False,FXCM
+2011-08-07,91,False,FXCM
+2011-08-14,83,False,FXCM
+2011-08-21,82,False,FXCM
+2011-08-28,75,False,FXCM
+2010-09-12,0,False,CTPartners Executive Search
+2010-09-19,0,False,CTPartners Executive Search
+2010-09-26,0,False,CTPartners Executive Search
+2010-10-03,0,False,CTPartners Executive Search
+2010-10-10,0,False,CTPartners Executive Search
+2010-10-17,0,False,CTPartners Executive Search
+2010-10-24,0,False,CTPartners Executive Search
+2010-10-31,0,False,CTPartners Executive Search
+2010-11-07,56,False,CTPartners Executive Search
+2010-11-14,0,False,CTPartners Executive Search
+2010-11-21,0,False,CTPartners Executive Search
+2010-11-28,0,False,CTPartners Executive Search
+2010-12-05,55,False,CTPartners Executive Search
+2010-12-12,0,False,CTPartners Executive Search
+2010-12-19,0,False,CTPartners Executive Search
+2010-12-26,0,False,CTPartners Executive Search
+2011-01-02,55,False,CTPartners Executive Search
+2011-01-09,0,False,CTPartners Executive Search
+2011-01-16,52,False,CTPartners Executive Search
+2011-01-23,0,False,CTPartners Executive Search
+2011-01-30,0,False,CTPartners Executive Search
+2011-02-06,51,False,CTPartners Executive Search
+2011-02-13,0,False,CTPartners Executive Search
+2011-02-20,0,False,CTPartners Executive Search
+2011-02-27,0,False,CTPartners Executive Search
+2011-03-06,50,False,CTPartners Executive Search
+2011-03-13,0,False,CTPartners Executive Search
+2011-03-20,50,False,CTPartners Executive Search
+2011-03-27,0,False,CTPartners Executive Search
+2011-04-03,0,False,CTPartners Executive Search
+2011-04-10,0,False,CTPartners Executive Search
+2011-04-17,53,False,CTPartners Executive Search
+2011-04-24,0,False,CTPartners Executive Search
+2011-05-01,0,False,CTPartners Executive Search
+2011-05-08,100,False,CTPartners Executive Search
+2011-05-15,0,False,CTPartners Executive Search
+2011-05-22,0,False,CTPartners Executive Search
+2011-05-29,0,False,CTPartners Executive Search
+2011-06-05,0,False,CTPartners Executive Search
+2011-06-12,0,False,CTPartners Executive Search
+2011-06-19,100,False,CTPartners Executive Search
+2011-06-26,0,False,CTPartners Executive Search
+2011-07-03,0,False,CTPartners Executive Search
+2011-07-10,51,False,CTPartners Executive Search
+2011-07-17,0,False,CTPartners Executive Search
+2011-07-24,0,False,CTPartners Executive Search
+2011-07-31,0,False,CTPartners Executive Search
+2011-08-07,0,False,CTPartners Executive Search
+2011-08-14,0,False,CTPartners Executive Search
+2011-08-21,0,False,CTPartners Executive Search
+2011-08-28,47,False,CTPartners Executive Search
+2011-09-04,0,False,CTPartners Executive Search

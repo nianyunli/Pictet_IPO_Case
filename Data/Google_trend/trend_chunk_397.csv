@@ -1,0 +1,261 @@
+date,SVI,isPartial,Issuer
+2010-04-25,10,False,Ameresco
+2010-05-02,27,False,Ameresco
+2010-05-09,32,False,Ameresco
+2010-05-16,22,False,Ameresco
+2010-05-23,33,False,Ameresco
+2010-05-30,15,False,Ameresco
+2010-06-06,20,False,Ameresco
+2010-06-13,20,False,Ameresco
+2010-06-20,20,False,Ameresco
+2010-06-27,12,False,Ameresco
+2010-07-04,24,False,Ameresco
+2010-07-11,33,False,Ameresco
+2010-07-18,100,False,Ameresco
+2010-07-25,28,False,Ameresco
+2010-08-01,24,False,Ameresco
+2010-08-08,28,False,Ameresco
+2010-08-15,25,False,Ameresco
+2010-08-22,38,False,Ameresco
+2010-08-29,24,False,Ameresco
+2010-09-05,31,False,Ameresco
+2010-09-12,28,False,Ameresco
+2010-09-19,27,False,Ameresco
+2010-09-26,29,False,Ameresco
+2010-10-03,21,False,Ameresco
+2010-10-10,23,False,Ameresco
+2010-10-17,24,False,Ameresco
+2010-10-24,33,False,Ameresco
+2010-10-31,18,False,Ameresco
+2010-11-07,32,False,Ameresco
+2010-11-14,16,False,Ameresco
+2010-11-21,20,False,Ameresco
+2010-11-28,8,False,Ameresco
+2010-12-05,22,False,Ameresco
+2010-12-12,28,False,Ameresco
+2010-12-19,27,False,Ameresco
+2010-12-26,7,False,Ameresco
+2011-01-02,22,False,Ameresco
+2011-01-09,26,False,Ameresco
+2011-01-16,13,False,Ameresco
+2011-01-23,17,False,Ameresco
+2011-01-30,14,False,Ameresco
+2011-02-06,29,False,Ameresco
+2011-02-13,38,False,Ameresco
+2011-02-20,16,False,Ameresco
+2011-02-27,11,False,Ameresco
+2011-03-06,23,False,Ameresco
+2011-03-13,11,False,Ameresco
+2011-03-20,16,False,Ameresco
+2011-03-27,29,False,Ameresco
+2011-04-03,18,False,Ameresco
+2011-04-10,31,False,Ameresco
+2011-04-17,17,False,Ameresco
+2010-04-25,62,False,Green Dot
+2010-05-02,57,False,Green Dot
+2010-05-09,57,False,Green Dot
+2010-05-16,60,False,Green Dot
+2010-05-23,55,False,Green Dot
+2010-05-30,51,False,Green Dot
+2010-06-06,62,False,Green Dot
+2010-06-13,52,False,Green Dot
+2010-06-20,60,False,Green Dot
+2010-06-27,67,False,Green Dot
+2010-07-04,68,False,Green Dot
+2010-07-11,72,False,Green Dot
+2010-07-18,100,False,Green Dot
+2010-07-25,79,False,Green Dot
+2010-08-01,75,False,Green Dot
+2010-08-08,71,False,Green Dot
+2010-08-15,69,False,Green Dot
+2010-08-22,61,False,Green Dot
+2010-08-29,70,False,Green Dot
+2010-09-05,73,False,Green Dot
+2010-09-12,64,False,Green Dot
+2010-09-19,66,False,Green Dot
+2010-09-26,66,False,Green Dot
+2010-10-03,59,False,Green Dot
+2010-10-10,68,False,Green Dot
+2010-10-17,58,False,Green Dot
+2010-10-24,63,False,Green Dot
+2010-10-31,71,False,Green Dot
+2010-11-07,60,False,Green Dot
+2010-11-14,71,False,Green Dot
+2010-11-21,61,False,Green Dot
+2010-11-28,62,False,Green Dot
+2010-12-05,55,False,Green Dot
+2010-12-12,64,False,Green Dot
+2010-12-19,70,False,Green Dot
+2010-12-26,72,False,Green Dot
+2011-01-02,78,False,Green Dot
+2011-01-09,73,False,Green Dot
+2011-01-16,67,False,Green Dot
+2011-01-23,76,False,Green Dot
+2011-01-30,71,False,Green Dot
+2011-02-06,89,False,Green Dot
+2011-02-13,79,False,Green Dot
+2011-02-20,75,False,Green Dot
+2011-02-27,82,False,Green Dot
+2011-03-06,70,False,Green Dot
+2011-03-13,83,False,Green Dot
+2011-03-20,83,False,Green Dot
+2011-03-27,80,False,Green Dot
+2011-04-03,80,False,Green Dot
+2011-04-10,66,False,Green Dot
+2011-04-17,75,False,Green Dot
+2010-05-02,30,False,Chesapeake Midstream Partners
+2010-05-09,15,False,Chesapeake Midstream Partners
+2010-05-16,0,False,Chesapeake Midstream Partners
+2010-05-23,0,False,Chesapeake Midstream Partners
+2010-05-30,15,False,Chesapeake Midstream Partners
+2010-06-06,30,False,Chesapeake Midstream Partners
+2010-06-13,0,False,Chesapeake Midstream Partners
+2010-06-20,15,False,Chesapeake Midstream Partners
+2010-06-27,0,False,Chesapeake Midstream Partners
+2010-07-04,15,False,Chesapeake Midstream Partners
+2010-07-11,14,False,Chesapeake Midstream Partners
+2010-07-18,57,False,Chesapeake Midstream Partners
+2010-07-25,100,False,Chesapeake Midstream Partners
+2010-08-01,44,False,Chesapeake Midstream Partners
+2010-08-08,29,False,Chesapeake Midstream Partners
+2010-08-15,42,False,Chesapeake Midstream Partners
+2010-08-22,14,False,Chesapeake Midstream Partners
+2010-08-29,27,False,Chesapeake Midstream Partners
+2010-09-05,14,False,Chesapeake Midstream Partners
+2010-09-12,0,False,Chesapeake Midstream Partners
+2010-09-19,0,False,Chesapeake Midstream Partners
+2010-09-26,13,False,Chesapeake Midstream Partners
+2010-10-03,0,False,Chesapeake Midstream Partners
+2010-10-10,0,False,Chesapeake Midstream Partners
+2010-10-17,38,False,Chesapeake Midstream Partners
+2010-10-24,25,False,Chesapeake Midstream Partners
+2010-10-31,25,False,Chesapeake Midstream Partners
+2010-11-07,12,False,Chesapeake Midstream Partners
+2010-11-14,12,False,Chesapeake Midstream Partners
+2010-11-21,12,False,Chesapeake Midstream Partners
+2010-11-28,0,False,Chesapeake Midstream Partners
+2010-12-05,36,False,Chesapeake Midstream Partners
+2010-12-12,0,False,Chesapeake Midstream Partners
+2010-12-19,14,False,Chesapeake Midstream Partners
+2010-12-26,14,False,Chesapeake Midstream Partners
+2011-01-02,12,False,Chesapeake Midstream Partners
+2011-01-09,12,False,Chesapeake Midstream Partners
+2011-01-16,11,False,Chesapeake Midstream Partners
+2011-01-23,11,False,Chesapeake Midstream Partners
+2011-01-30,11,False,Chesapeake Midstream Partners
+2011-02-06,11,False,Chesapeake Midstream Partners
+2011-02-13,0,False,Chesapeake Midstream Partners
+2011-02-20,0,False,Chesapeake Midstream Partners
+2011-02-27,11,False,Chesapeake Midstream Partners
+2011-03-06,33,False,Chesapeake Midstream Partners
+2011-03-13,0,False,Chesapeake Midstream Partners
+2011-03-20,33,False,Chesapeake Midstream Partners
+2011-03-27,0,False,Chesapeake Midstream Partners
+2011-04-03,11,False,Chesapeake Midstream Partners
+2011-04-10,11,False,Chesapeake Midstream Partners
+2011-04-17,0,False,Chesapeake Midstream Partners
+2011-04-24,11,False,Chesapeake Midstream Partners
+2010-05-02,3,False,Envestnet
+2010-05-09,9,False,Envestnet
+2010-05-16,18,False,Envestnet
+2010-05-23,9,False,Envestnet
+2010-05-30,12,False,Envestnet
+2010-06-06,18,False,Envestnet
+2010-06-13,25,False,Envestnet
+2010-06-20,15,False,Envestnet
+2010-06-27,15,False,Envestnet
+2010-07-04,12,False,Envestnet
+2010-07-11,17,False,Envestnet
+2010-07-18,17,False,Envestnet
+2010-07-25,100,False,Envestnet
+2010-08-01,26,False,Envestnet
+2010-08-08,14,False,Envestnet
+2010-08-15,23,False,Envestnet
+2010-08-22,8,False,Envestnet
+2010-08-29,11,False,Envestnet
+2010-09-05,8,False,Envestnet
+2010-09-12,11,False,Envestnet
+2010-09-19,18,False,Envestnet
+2010-09-26,13,False,Envestnet
+2010-10-03,28,False,Envestnet
+2010-10-10,8,False,Envestnet
+2010-10-17,10,False,Envestnet
+2010-10-24,20,False,Envestnet
+2010-10-31,13,False,Envestnet
+2010-11-07,20,False,Envestnet
+2010-11-14,12,False,Envestnet
+2010-11-21,7,False,Envestnet
+2010-11-28,10,False,Envestnet
+2010-12-05,19,False,Envestnet
+2010-12-12,10,False,Envestnet
+2010-12-19,5,False,Envestnet
+2010-12-26,3,False,Envestnet
+2011-01-02,14,False,Envestnet
+2011-01-09,12,False,Envestnet
+2011-01-16,16,False,Envestnet
+2011-01-23,36,False,Envestnet
+2011-01-30,31,False,Envestnet
+2011-02-06,14,False,Envestnet
+2011-02-13,9,False,Envestnet
+2011-02-20,20,False,Envestnet
+2011-02-27,20,False,Envestnet
+2011-03-06,13,False,Envestnet
+2011-03-13,4,False,Envestnet
+2011-03-20,11,False,Envestnet
+2011-03-27,13,False,Envestnet
+2011-04-03,20,False,Envestnet
+2011-04-10,18,False,Envestnet
+2011-04-17,5,False,Envestnet
+2011-04-24,21,False,Envestnet
+2010-05-02,6,False,Molycorp
+2010-05-09,2,False,Molycorp
+2010-05-16,4,False,Molycorp
+2010-05-23,4,False,Molycorp
+2010-05-30,5,False,Molycorp
+2010-06-06,7,False,Molycorp
+2010-06-13,14,False,Molycorp
+2010-06-20,4,False,Molycorp
+2010-06-27,6,False,Molycorp
+2010-07-04,3,False,Molycorp
+2010-07-11,10,False,Molycorp
+2010-07-18,11,False,Molycorp
+2010-07-25,23,False,Molycorp
+2010-08-01,18,False,Molycorp
+2010-08-08,9,False,Molycorp
+2010-08-15,9,False,Molycorp
+2010-08-22,4,False,Molycorp
+2010-08-29,6,False,Molycorp
+2010-09-05,12,False,Molycorp
+2010-09-12,13,False,Molycorp
+2010-09-19,20,False,Molycorp
+2010-09-26,29,False,Molycorp
+2010-10-03,23,False,Molycorp
+2010-10-10,13,False,Molycorp
+2010-10-17,47,False,Molycorp
+2010-10-24,60,False,Molycorp
+2010-10-31,27,False,Molycorp
+2010-11-07,22,False,Molycorp
+2010-11-14,20,False,Molycorp
+2010-11-21,19,False,Molycorp
+2010-11-28,11,False,Molycorp
+2010-12-05,18,False,Molycorp
+2010-12-12,49,False,Molycorp
+2010-12-19,33,False,Molycorp
+2010-12-26,100,False,Molycorp
+2011-01-02,82,False,Molycorp
+2011-01-09,39,False,Molycorp
+2011-01-16,32,False,Molycorp
+2011-01-23,34,False,Molycorp
+2011-01-30,40,False,Molycorp
+2011-02-06,25,False,Molycorp
+2011-02-13,26,False,Molycorp
+2011-02-20,27,False,Molycorp
+2011-02-27,24,False,Molycorp
+2011-03-06,37,False,Molycorp
+2011-03-13,19,False,Molycorp
+2011-03-20,26,False,Molycorp
+2011-03-27,24,False,Molycorp
+2011-04-03,76,False,Molycorp
+2011-04-10,40,False,Molycorp
+2011-04-17,31,False,Molycorp
+2011-04-24,26,False,Molycorp

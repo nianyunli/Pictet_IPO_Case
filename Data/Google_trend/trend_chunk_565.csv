@@ -1,0 +1,261 @@
+date,SVI,isPartial,Issuer
+2005-07-03,13,False,Genomic Health
+2005-07-10,38,False,Genomic Health
+2005-07-17,100,False,Genomic Health
+2005-07-24,13,False,Genomic Health
+2005-07-31,38,False,Genomic Health
+2005-08-07,0,False,Genomic Health
+2005-08-14,25,False,Genomic Health
+2005-08-21,0,False,Genomic Health
+2005-08-28,0,False,Genomic Health
+2005-09-04,23,False,Genomic Health
+2005-09-11,22,False,Genomic Health
+2005-09-18,11,False,Genomic Health
+2005-09-25,95,False,Genomic Health
+2005-10-02,64,False,Genomic Health
+2005-10-09,10,False,Genomic Health
+2005-10-16,51,False,Genomic Health
+2005-10-23,10,False,Genomic Health
+2005-10-30,53,False,Genomic Health
+2005-11-06,35,False,Genomic Health
+2005-11-13,20,False,Genomic Health
+2005-11-20,0,False,Genomic Health
+2005-11-27,0,False,Genomic Health
+2005-12-04,10,False,Genomic Health
+2005-12-11,10,False,Genomic Health
+2005-12-18,21,False,Genomic Health
+2005-12-25,24,False,Genomic Health
+2006-01-01,10,False,Genomic Health
+2006-01-08,64,False,Genomic Health
+2006-01-15,35,False,Genomic Health
+2006-01-22,9,False,Genomic Health
+2006-01-29,53,False,Genomic Health
+2006-02-05,26,False,Genomic Health
+2006-02-12,26,False,Genomic Health
+2006-02-19,51,False,Genomic Health
+2006-02-26,17,False,Genomic Health
+2006-03-05,57,False,Genomic Health
+2006-03-12,33,False,Genomic Health
+2006-03-19,33,False,Genomic Health
+2006-03-26,24,False,Genomic Health
+2006-04-02,8,False,Genomic Health
+2006-04-09,43,False,Genomic Health
+2006-04-16,50,False,Genomic Health
+2006-04-23,16,False,Genomic Health
+2006-04-30,34,False,Genomic Health
+2006-05-07,0,False,Genomic Health
+2006-05-14,39,False,Genomic Health
+2006-05-21,24,False,Genomic Health
+2006-05-28,16,False,Genomic Health
+2006-06-04,24,False,Genomic Health
+2006-06-11,33,False,Genomic Health
+2006-06-18,40,False,Genomic Health
+2006-06-25,33,False,Genomic Health
+2005-07-03,37,False,Taleo
+2005-07-10,46,False,Taleo
+2005-07-17,36,False,Taleo
+2005-07-24,64,False,Taleo
+2005-07-31,28,False,Taleo
+2005-08-07,45,False,Taleo
+2005-08-14,45,False,Taleo
+2005-08-21,51,False,Taleo
+2005-08-28,50,False,Taleo
+2005-09-04,33,False,Taleo
+2005-09-11,79,False,Taleo
+2005-09-18,48,False,Taleo
+2005-09-25,38,False,Taleo
+2005-10-02,62,False,Taleo
+2005-10-09,61,False,Taleo
+2005-10-16,52,False,Taleo
+2005-10-23,45,False,Taleo
+2005-10-30,46,False,Taleo
+2005-11-06,52,False,Taleo
+2005-11-13,7,False,Taleo
+2005-11-20,37,False,Taleo
+2005-11-27,34,False,Taleo
+2005-12-04,63,False,Taleo
+2005-12-11,50,False,Taleo
+2005-12-18,86,False,Taleo
+2005-12-25,18,False,Taleo
+2006-01-01,37,False,Taleo
+2006-01-08,60,False,Taleo
+2006-01-15,45,False,Taleo
+2006-01-22,57,False,Taleo
+2006-01-29,45,False,Taleo
+2006-02-05,100,False,Taleo
+2006-02-12,62,False,Taleo
+2006-02-19,62,False,Taleo
+2006-02-26,73,False,Taleo
+2006-03-05,72,False,Taleo
+2006-03-12,78,False,Taleo
+2006-03-19,48,False,Taleo
+2006-03-26,53,False,Taleo
+2006-04-02,30,False,Taleo
+2006-04-09,44,False,Taleo
+2006-04-16,67,False,Taleo
+2006-04-23,35,False,Taleo
+2006-04-30,74,False,Taleo
+2006-05-07,46,False,Taleo
+2006-05-14,40,False,Taleo
+2006-05-21,81,False,Taleo
+2006-05-28,53,False,Taleo
+2006-06-04,65,False,Taleo
+2006-06-11,54,False,Taleo
+2006-06-18,71,False,Taleo
+2006-06-25,60,False,Taleo
+2005-07-03,0,False,Avalon Pharmaceuticals
+2005-07-10,12,False,Avalon Pharmaceuticals
+2005-07-17,0,False,Avalon Pharmaceuticals
+2005-07-24,0,False,Avalon Pharmaceuticals
+2005-07-31,12,False,Avalon Pharmaceuticals
+2005-08-07,11,False,Avalon Pharmaceuticals
+2005-08-14,23,False,Avalon Pharmaceuticals
+2005-08-21,0,False,Avalon Pharmaceuticals
+2005-08-28,0,False,Avalon Pharmaceuticals
+2005-09-04,10,False,Avalon Pharmaceuticals
+2005-09-11,100,False,Avalon Pharmaceuticals
+2005-09-18,60,False,Avalon Pharmaceuticals
+2005-09-25,48,False,Avalon Pharmaceuticals
+2005-10-02,49,False,Avalon Pharmaceuticals
+2005-10-09,10,False,Avalon Pharmaceuticals
+2005-10-16,19,False,Avalon Pharmaceuticals
+2005-10-23,9,False,Avalon Pharmaceuticals
+2005-10-30,10,False,Avalon Pharmaceuticals
+2005-11-06,11,False,Avalon Pharmaceuticals
+2005-11-13,0,False,Avalon Pharmaceuticals
+2005-11-20,9,False,Avalon Pharmaceuticals
+2005-11-27,0,False,Avalon Pharmaceuticals
+2005-12-04,0,False,Avalon Pharmaceuticals
+2005-12-11,0,False,Avalon Pharmaceuticals
+2005-12-18,0,False,Avalon Pharmaceuticals
+2005-12-25,0,False,Avalon Pharmaceuticals
+2006-01-01,19,False,Avalon Pharmaceuticals
+2006-01-08,0,False,Avalon Pharmaceuticals
+2006-01-15,8,False,Avalon Pharmaceuticals
+2006-01-22,8,False,Avalon Pharmaceuticals
+2006-01-29,0,False,Avalon Pharmaceuticals
+2006-02-05,8,False,Avalon Pharmaceuticals
+2006-02-12,8,False,Avalon Pharmaceuticals
+2006-02-19,0,False,Avalon Pharmaceuticals
+2006-02-26,0,False,Avalon Pharmaceuticals
+2006-03-05,8,False,Avalon Pharmaceuticals
+2006-03-12,8,False,Avalon Pharmaceuticals
+2006-03-19,8,False,Avalon Pharmaceuticals
+2006-03-26,0,False,Avalon Pharmaceuticals
+2006-04-02,0,False,Avalon Pharmaceuticals
+2006-04-09,0,False,Avalon Pharmaceuticals
+2006-04-16,8,False,Avalon Pharmaceuticals
+2006-04-23,15,False,Avalon Pharmaceuticals
+2006-04-30,0,False,Avalon Pharmaceuticals
+2006-05-07,7,False,Avalon Pharmaceuticals
+2006-05-14,0,False,Avalon Pharmaceuticals
+2006-05-21,0,False,Avalon Pharmaceuticals
+2006-05-28,7,False,Avalon Pharmaceuticals
+2006-06-04,0,False,Avalon Pharmaceuticals
+2006-06-11,8,False,Avalon Pharmaceuticals
+2006-06-18,0,False,Avalon Pharmaceuticals
+2006-06-25,15,False,Avalon Pharmaceuticals
+2005-07-03,37,False,Caribou Coffee
+2005-07-10,86,False,Caribou Coffee
+2005-07-17,75,False,Caribou Coffee
+2005-07-24,68,False,Caribou Coffee
+2005-07-31,74,False,Caribou Coffee
+2005-08-07,53,False,Caribou Coffee
+2005-08-14,53,False,Caribou Coffee
+2005-08-21,68,False,Caribou Coffee
+2005-08-28,47,False,Caribou Coffee
+2005-09-04,77,False,Caribou Coffee
+2005-09-11,59,False,Caribou Coffee
+2005-09-18,53,False,Caribou Coffee
+2005-09-25,80,False,Caribou Coffee
+2005-10-02,66,False,Caribou Coffee
+2005-10-09,63,False,Caribou Coffee
+2005-10-16,68,False,Caribou Coffee
+2005-10-23,46,False,Caribou Coffee
+2005-10-30,79,False,Caribou Coffee
+2005-11-06,66,False,Caribou Coffee
+2005-11-13,69,False,Caribou Coffee
+2005-11-20,63,False,Caribou Coffee
+2005-11-27,69,False,Caribou Coffee
+2005-12-04,56,False,Caribou Coffee
+2005-12-11,79,False,Caribou Coffee
+2005-12-18,81,False,Caribou Coffee
+2005-12-25,87,False,Caribou Coffee
+2006-01-01,74,False,Caribou Coffee
+2006-01-08,87,False,Caribou Coffee
+2006-01-15,69,False,Caribou Coffee
+2006-01-22,61,False,Caribou Coffee
+2006-01-29,72,False,Caribou Coffee
+2006-02-05,63,False,Caribou Coffee
+2006-02-12,68,False,Caribou Coffee
+2006-02-19,69,False,Caribou Coffee
+2006-02-26,90,False,Caribou Coffee
+2006-03-05,84,False,Caribou Coffee
+2006-03-12,87,False,Caribou Coffee
+2006-03-19,79,False,Caribou Coffee
+2006-03-26,67,False,Caribou Coffee
+2006-04-02,48,False,Caribou Coffee
+2006-04-09,59,False,Caribou Coffee
+2006-04-16,59,False,Caribou Coffee
+2006-04-23,51,False,Caribou Coffee
+2006-04-30,59,False,Caribou Coffee
+2006-05-07,46,False,Caribou Coffee
+2006-05-14,64,False,Caribou Coffee
+2006-05-21,48,False,Caribou Coffee
+2006-05-28,44,False,Caribou Coffee
+2006-06-04,56,False,Caribou Coffee
+2006-06-11,71,False,Caribou Coffee
+2006-06-18,100,False,Caribou Coffee
+2006-06-25,55,False,Caribou Coffee
+2005-07-03,61,False,Global Partners
+2005-07-10,76,False,Global Partners
+2005-07-17,63,False,Global Partners
+2005-07-24,59,False,Global Partners
+2005-07-31,84,False,Global Partners
+2005-08-07,39,False,Global Partners
+2005-08-14,82,False,Global Partners
+2005-08-21,66,False,Global Partners
+2005-08-28,69,False,Global Partners
+2005-09-04,43,False,Global Partners
+2005-09-11,31,False,Global Partners
+2005-09-18,72,False,Global Partners
+2005-09-25,60,False,Global Partners
+2005-10-02,100,False,Global Partners
+2005-10-09,59,False,Global Partners
+2005-10-16,48,False,Global Partners
+2005-10-23,78,False,Global Partners
+2005-10-30,69,False,Global Partners
+2005-11-06,52,False,Global Partners
+2005-11-13,43,False,Global Partners
+2005-11-20,58,False,Global Partners
+2005-11-27,71,False,Global Partners
+2005-12-04,54,False,Global Partners
+2005-12-11,52,False,Global Partners
+2005-12-18,57,False,Global Partners
+2005-12-25,50,False,Global Partners
+2006-01-01,67,False,Global Partners
+2006-01-08,69,False,Global Partners
+2006-01-15,56,False,Global Partners
+2006-01-22,58,False,Global Partners
+2006-01-29,58,False,Global Partners
+2006-02-05,73,False,Global Partners
+2006-02-12,59,False,Global Partners
+2006-02-19,48,False,Global Partners
+2006-02-26,78,False,Global Partners
+2006-03-05,72,False,Global Partners
+2006-03-12,49,False,Global Partners
+2006-03-19,67,False,Global Partners
+2006-03-26,64,False,Global Partners
+2006-04-02,67,False,Global Partners
+2006-04-09,63,False,Global Partners
+2006-04-16,63,False,Global Partners
+2006-04-23,50,False,Global Partners
+2006-04-30,61,False,Global Partners
+2006-05-07,62,False,Global Partners
+2006-05-14,44,False,Global Partners
+2006-05-21,63,False,Global Partners
+2006-05-28,61,False,Global Partners
+2006-06-04,69,False,Global Partners
+2006-06-11,60,False,Global Partners
+2006-06-18,68,False,Global Partners
+2006-06-25,54,False,Global Partners

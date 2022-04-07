@@ -1,0 +1,261 @@
+date,SVI,isPartial,Issuer
+2019-06-23,0,False,Envista Holdings
+2019-06-30,0,False,Envista Holdings
+2019-07-07,8,False,Envista Holdings
+2019-07-14,8,False,Envista Holdings
+2019-07-21,0,False,Envista Holdings
+2019-07-28,0,False,Envista Holdings
+2019-08-04,8,False,Envista Holdings
+2019-08-11,32,False,Envista Holdings
+2019-08-18,8,False,Envista Holdings
+2019-08-25,8,False,Envista Holdings
+2019-09-01,55,False,Envista Holdings
+2019-09-08,46,False,Envista Holdings
+2019-09-15,100,False,Envista Holdings
+2019-09-22,23,False,Envista Holdings
+2019-09-29,45,False,Envista Holdings
+2019-10-06,30,False,Envista Holdings
+2019-10-13,15,False,Envista Holdings
+2019-10-20,22,False,Envista Holdings
+2019-10-27,22,False,Envista Holdings
+2019-11-03,37,False,Envista Holdings
+2019-11-10,7,False,Envista Holdings
+2019-11-17,8,False,Envista Holdings
+2019-11-24,66,False,Envista Holdings
+2019-12-01,67,False,Envista Holdings
+2019-12-08,60,False,Envista Holdings
+2019-12-15,23,False,Envista Holdings
+2019-12-22,16,False,Envista Holdings
+2019-12-29,32,False,Envista Holdings
+2020-01-05,37,False,Envista Holdings
+2020-01-12,21,False,Envista Holdings
+2020-01-19,29,False,Envista Holdings
+2020-01-26,36,False,Envista Holdings
+2020-02-02,7,False,Envista Holdings
+2020-02-09,28,False,Envista Holdings
+2020-02-16,14,False,Envista Holdings
+2020-02-23,35,False,Envista Holdings
+2020-03-01,20,False,Envista Holdings
+2020-03-08,7,False,Envista Holdings
+2020-03-15,20,False,Envista Holdings
+2020-03-22,6,False,Envista Holdings
+2020-03-29,6,False,Envista Holdings
+2020-04-05,13,False,Envista Holdings
+2020-04-12,32,False,Envista Holdings
+2020-04-19,26,False,Envista Holdings
+2020-04-26,45,False,Envista Holdings
+2020-05-03,26,False,Envista Holdings
+2020-05-10,13,False,Envista Holdings
+2020-05-17,39,False,Envista Holdings
+2020-05-24,13,False,Envista Holdings
+2020-05-31,19,False,Envista Holdings
+2020-06-07,20,False,Envista Holdings
+2020-06-14,20,False,Envista Holdings
+2019-06-23,5,False,IGM Biosciences
+2019-06-30,6,False,IGM Biosciences
+2019-07-07,44,False,IGM Biosciences
+2019-07-14,11,False,IGM Biosciences
+2019-07-21,11,False,IGM Biosciences
+2019-07-28,0,False,IGM Biosciences
+2019-08-04,0,False,IGM Biosciences
+2019-08-11,17,False,IGM Biosciences
+2019-08-18,44,False,IGM Biosciences
+2019-08-25,21,False,IGM Biosciences
+2019-09-01,37,False,IGM Biosciences
+2019-09-08,26,False,IGM Biosciences
+2019-09-15,100,False,IGM Biosciences
+2019-09-22,57,False,IGM Biosciences
+2019-09-29,26,False,IGM Biosciences
+2019-10-06,10,False,IGM Biosciences
+2019-10-13,0,False,IGM Biosciences
+2019-10-20,10,False,IGM Biosciences
+2019-10-27,0,False,IGM Biosciences
+2019-11-03,35,False,IGM Biosciences
+2019-11-10,15,False,IGM Biosciences
+2019-11-17,5,False,IGM Biosciences
+2019-11-24,5,False,IGM Biosciences
+2019-12-01,31,False,IGM Biosciences
+2019-12-08,21,False,IGM Biosciences
+2019-12-15,21,False,IGM Biosciences
+2019-12-22,45,False,IGM Biosciences
+2019-12-29,16,False,IGM Biosciences
+2020-01-05,35,False,IGM Biosciences
+2020-01-12,43,False,IGM Biosciences
+2020-01-19,10,False,IGM Biosciences
+2020-01-26,10,False,IGM Biosciences
+2020-02-02,29,False,IGM Biosciences
+2020-02-09,34,False,IGM Biosciences
+2020-02-16,34,False,IGM Biosciences
+2020-02-23,47,False,IGM Biosciences
+2020-03-01,65,False,IGM Biosciences
+2020-03-08,41,False,IGM Biosciences
+2020-03-15,18,False,IGM Biosciences
+2020-03-22,35,False,IGM Biosciences
+2020-03-29,22,False,IGM Biosciences
+2020-04-05,36,False,IGM Biosciences
+2020-04-12,18,False,IGM Biosciences
+2020-04-19,31,False,IGM Biosciences
+2020-04-26,35,False,IGM Biosciences
+2020-05-03,22,False,IGM Biosciences
+2020-05-10,18,False,IGM Biosciences
+2020-05-17,31,False,IGM Biosciences
+2020-05-24,27,False,IGM Biosciences
+2020-05-31,22,False,IGM Biosciences
+2020-06-07,27,False,IGM Biosciences
+2020-06-14,9,False,IGM Biosciences
+2019-06-23,41,False,Datadog
+2019-06-30,35,False,Datadog
+2019-07-07,36,False,Datadog
+2019-07-14,44,False,Datadog
+2019-07-21,48,False,Datadog
+2019-07-28,38,False,Datadog
+2019-08-04,41,False,Datadog
+2019-08-11,37,False,Datadog
+2019-08-18,47,False,Datadog
+2019-08-25,42,False,Datadog
+2019-09-01,43,False,Datadog
+2019-09-08,50,False,Datadog
+2019-09-15,100,False,Datadog
+2019-09-22,55,False,Datadog
+2019-09-29,52,False,Datadog
+2019-10-06,49,False,Datadog
+2019-10-13,45,False,Datadog
+2019-10-20,48,False,Datadog
+2019-10-27,39,False,Datadog
+2019-11-03,43,False,Datadog
+2019-11-10,54,False,Datadog
+2019-11-17,46,False,Datadog
+2019-11-24,35,False,Datadog
+2019-12-01,43,False,Datadog
+2019-12-08,47,False,Datadog
+2019-12-15,45,False,Datadog
+2019-12-22,21,False,Datadog
+2019-12-29,23,False,Datadog
+2020-01-05,42,False,Datadog
+2020-01-12,47,False,Datadog
+2020-01-19,42,False,Datadog
+2020-01-26,46,False,Datadog
+2020-02-02,51,False,Datadog
+2020-02-09,55,False,Datadog
+2020-02-16,50,False,Datadog
+2020-02-23,45,False,Datadog
+2020-03-01,45,False,Datadog
+2020-03-08,45,False,Datadog
+2020-03-15,44,False,Datadog
+2020-03-22,44,False,Datadog
+2020-03-29,44,False,Datadog
+2020-04-05,42,False,Datadog
+2020-04-12,47,False,Datadog
+2020-04-19,50,False,Datadog
+2020-04-26,42,False,Datadog
+2020-05-03,51,False,Datadog
+2020-05-10,77,False,Datadog
+2020-05-17,61,False,Datadog
+2020-05-24,55,False,Datadog
+2020-05-31,59,False,Datadog
+2020-06-07,58,False,Datadog
+2020-06-14,58,False,Datadog
+2019-06-23,30,False,Exagen
+2019-06-30,4,False,Exagen
+2019-07-07,13,False,Exagen
+2019-07-14,4,False,Exagen
+2019-07-21,9,False,Exagen
+2019-07-28,18,False,Exagen
+2019-08-04,27,False,Exagen
+2019-08-11,13,False,Exagen
+2019-08-18,17,False,Exagen
+2019-08-25,17,False,Exagen
+2019-09-01,8,False,Exagen
+2019-09-08,100,False,Exagen
+2019-09-15,67,False,Exagen
+2019-09-22,33,False,Exagen
+2019-09-29,29,False,Exagen
+2019-10-06,12,False,Exagen
+2019-10-13,25,False,Exagen
+2019-10-20,28,False,Exagen
+2019-10-27,20,False,Exagen
+2019-11-03,16,False,Exagen
+2019-11-10,28,False,Exagen
+2019-11-17,41,False,Exagen
+2019-11-24,40,False,Exagen
+2019-12-01,24,False,Exagen
+2019-12-08,20,False,Exagen
+2019-12-15,33,False,Exagen
+2019-12-22,13,False,Exagen
+2019-12-29,26,False,Exagen
+2020-01-05,20,False,Exagen
+2020-01-12,42,False,Exagen
+2020-01-19,27,False,Exagen
+2020-01-26,19,False,Exagen
+2020-02-02,19,False,Exagen
+2020-02-09,23,False,Exagen
+2020-02-16,42,False,Exagen
+2020-02-23,19,False,Exagen
+2020-03-01,26,False,Exagen
+2020-03-08,29,False,Exagen
+2020-03-15,22,False,Exagen
+2020-03-22,28,False,Exagen
+2020-03-29,10,False,Exagen
+2020-04-05,7,False,Exagen
+2020-04-12,24,False,Exagen
+2020-04-19,21,False,Exagen
+2020-04-26,24,False,Exagen
+2020-05-03,14,False,Exagen
+2020-05-10,7,False,Exagen
+2020-05-17,7,False,Exagen
+2020-05-24,18,False,Exagen
+2020-05-31,7,False,Exagen
+2020-06-07,18,False,Exagen
+2020-06-14,7,False,Exagen
+2019-06-23,0,False,Ping Identity Holding
+2019-06-30,0,False,Ping Identity Holding
+2019-07-07,0,False,Ping Identity Holding
+2019-07-14,0,False,Ping Identity Holding
+2019-07-21,0,False,Ping Identity Holding
+2019-07-28,0,False,Ping Identity Holding
+2019-08-04,0,False,Ping Identity Holding
+2019-08-11,0,False,Ping Identity Holding
+2019-08-18,0,False,Ping Identity Holding
+2019-08-25,0,False,Ping Identity Holding
+2019-09-01,0,False,Ping Identity Holding
+2019-09-08,57,False,Ping Identity Holding
+2019-09-15,100,False,Ping Identity Holding
+2019-09-22,14,False,Ping Identity Holding
+2019-09-29,14,False,Ping Identity Holding
+2019-10-06,28,False,Ping Identity Holding
+2019-10-13,28,False,Ping Identity Holding
+2019-10-20,27,False,Ping Identity Holding
+2019-10-27,0,False,Ping Identity Holding
+2019-11-03,41,False,Ping Identity Holding
+2019-11-10,14,False,Ping Identity Holding
+2019-11-17,0,False,Ping Identity Holding
+2019-11-24,0,False,Ping Identity Holding
+2019-12-01,0,False,Ping Identity Holding
+2019-12-08,0,False,Ping Identity Holding
+2019-12-15,43,False,Ping Identity Holding
+2019-12-22,0,False,Ping Identity Holding
+2019-12-29,0,False,Ping Identity Holding
+2020-01-05,14,False,Ping Identity Holding
+2020-01-12,26,False,Ping Identity Holding
+2020-01-19,0,False,Ping Identity Holding
+2020-01-26,13,False,Ping Identity Holding
+2020-02-02,27,False,Ping Identity Holding
+2020-02-09,0,False,Ping Identity Holding
+2020-02-16,26,False,Ping Identity Holding
+2020-02-23,26,False,Ping Identity Holding
+2020-03-01,13,False,Ping Identity Holding
+2020-03-08,12,False,Ping Identity Holding
+2020-03-15,0,False,Ping Identity Holding
+2020-03-22,24,False,Ping Identity Holding
+2020-03-29,12,False,Ping Identity Holding
+2020-04-05,25,False,Ping Identity Holding
+2020-04-12,0,False,Ping Identity Holding
+2020-04-19,0,False,Ping Identity Holding
+2020-04-26,0,False,Ping Identity Holding
+2020-05-03,24,False,Ping Identity Holding
+2020-05-10,36,False,Ping Identity Holding
+2020-05-17,24,False,Ping Identity Holding
+2020-05-24,25,False,Ping Identity Holding
+2020-05-31,0,False,Ping Identity Holding
+2020-06-07,48,False,Ping Identity Holding
+2020-06-14,12,False,Ping Identity Holding

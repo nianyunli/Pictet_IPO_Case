@@ -1,0 +1,209 @@
+date,SVI,isPartial,Issuer
+2007-02-04,8,False,Cavium Networks
+2007-02-11,24,False,Cavium Networks
+2007-02-18,16,False,Cavium Networks
+2007-02-25,47,False,Cavium Networks
+2007-03-04,16,False,Cavium Networks
+2007-03-11,24,False,Cavium Networks
+2007-03-18,23,False,Cavium Networks
+2007-03-25,38,False,Cavium Networks
+2007-04-01,8,False,Cavium Networks
+2007-04-08,32,False,Cavium Networks
+2007-04-15,31,False,Cavium Networks
+2007-04-22,61,False,Cavium Networks
+2007-04-29,100,False,Cavium Networks
+2007-05-06,14,False,Cavium Networks
+2007-05-13,0,False,Cavium Networks
+2007-05-20,14,False,Cavium Networks
+2007-05-27,21,False,Cavium Networks
+2007-06-03,14,False,Cavium Networks
+2007-06-10,7,False,Cavium Networks
+2007-06-17,7,False,Cavium Networks
+2007-06-24,7,False,Cavium Networks
+2007-07-01,21,False,Cavium Networks
+2007-07-08,14,False,Cavium Networks
+2007-07-15,0,False,Cavium Networks
+2007-07-22,14,False,Cavium Networks
+2007-07-29,28,False,Cavium Networks
+2007-08-05,21,False,Cavium Networks
+2007-08-12,22,False,Cavium Networks
+2007-08-19,41,False,Cavium Networks
+2007-08-26,0,False,Cavium Networks
+2007-09-02,6,False,Cavium Networks
+2007-09-09,13,False,Cavium Networks
+2007-09-16,13,False,Cavium Networks
+2007-09-23,6,False,Cavium Networks
+2007-09-30,31,False,Cavium Networks
+2007-10-07,31,False,Cavium Networks
+2007-10-14,24,False,Cavium Networks
+2007-10-21,29,False,Cavium Networks
+2007-10-28,0,False,Cavium Networks
+2007-11-04,12,False,Cavium Networks
+2007-11-11,5,False,Cavium Networks
+2007-11-18,0,False,Cavium Networks
+2007-11-25,6,False,Cavium Networks
+2007-12-02,22,False,Cavium Networks
+2007-12-09,17,False,Cavium Networks
+2007-12-16,0,False,Cavium Networks
+2007-12-23,15,False,Cavium Networks
+2007-12-30,20,False,Cavium Networks
+2008-01-06,11,False,Cavium Networks
+2008-01-13,5,False,Cavium Networks
+2008-01-20,27,False,Cavium Networks
+2008-01-27,11,False,Cavium Networks
+2007-02-04,0,False,NeurogesX
+2007-02-11,0,False,NeurogesX
+2007-02-18,0,False,NeurogesX
+2007-02-25,55,False,NeurogesX
+2007-03-04,28,False,NeurogesX
+2007-03-11,56,False,NeurogesX
+2007-03-18,27,False,NeurogesX
+2007-03-25,54,False,NeurogesX
+2007-04-01,0,False,NeurogesX
+2007-04-08,0,False,NeurogesX
+2007-04-15,80,False,NeurogesX
+2007-04-22,80,False,NeurogesX
+2007-04-29,54,False,NeurogesX
+2007-05-06,0,False,NeurogesX
+2007-05-13,0,False,NeurogesX
+2007-05-20,74,False,NeurogesX
+2007-05-27,49,False,NeurogesX
+2007-06-03,49,False,NeurogesX
+2007-06-10,0,False,NeurogesX
+2007-06-17,25,False,NeurogesX
+2007-06-24,0,False,NeurogesX
+2007-07-01,0,False,NeurogesX
+2007-07-08,25,False,NeurogesX
+2007-07-15,25,False,NeurogesX
+2007-07-22,25,False,NeurogesX
+2007-07-29,25,False,NeurogesX
+2007-08-05,100,False,NeurogesX
+2007-08-12,0,False,NeurogesX
+2007-08-19,0,False,NeurogesX
+2007-08-26,23,False,NeurogesX
+2007-09-02,23,False,NeurogesX
+2007-09-09,66,False,NeurogesX
+2007-09-16,0,False,NeurogesX
+2007-09-23,22,False,NeurogesX
+2007-09-30,0,False,NeurogesX
+2007-10-07,43,False,NeurogesX
+2007-10-14,42,False,NeurogesX
+2007-10-21,41,False,NeurogesX
+2007-10-28,21,False,NeurogesX
+2007-11-04,40,False,NeurogesX
+2007-11-11,0,False,NeurogesX
+2007-11-18,20,False,NeurogesX
+2007-11-25,0,False,NeurogesX
+2007-12-02,39,False,NeurogesX
+2007-12-09,20,False,NeurogesX
+2007-12-16,21,False,NeurogesX
+2007-12-23,0,False,NeurogesX
+2007-12-30,23,False,NeurogesX
+2008-01-06,19,False,NeurogesX
+2008-01-13,19,False,NeurogesX
+2008-01-20,19,False,NeurogesX
+2008-01-27,19,False,NeurogesX
+2007-02-04,29,False,Acorn International
+2007-02-11,38,False,Acorn International
+2007-02-18,68,False,Acorn International
+2007-02-25,28,False,Acorn International
+2007-03-04,19,False,Acorn International
+2007-03-11,56,False,Acorn International
+2007-03-18,9,False,Acorn International
+2007-03-25,27,False,Acorn International
+2007-04-01,20,False,Acorn International
+2007-04-08,9,False,Acorn International
+2007-04-15,54,False,Acorn International
+2007-04-22,54,False,Acorn International
+2007-04-29,100,False,Acorn International
+2007-05-06,17,False,Acorn International
+2007-05-13,34,False,Acorn International
+2007-05-20,33,False,Acorn International
+2007-05-27,67,False,Acorn International
+2007-06-03,41,False,Acorn International
+2007-06-10,25,False,Acorn International
+2007-06-17,25,False,Acorn International
+2007-06-24,16,False,Acorn International
+2007-07-01,0,False,Acorn International
+2007-07-08,8,False,Acorn International
+2007-07-15,8,False,Acorn International
+2007-07-22,25,False,Acorn International
+2007-07-29,17,False,Acorn International
+2007-08-05,42,False,Acorn International
+2007-08-12,17,False,Acorn International
+2007-08-19,16,False,Acorn International
+2007-08-26,39,False,Acorn International
+2007-09-02,0,False,Acorn International
+2007-09-09,37,False,Acorn International
+2007-09-16,37,False,Acorn International
+2007-09-23,44,False,Acorn International
+2007-09-30,29,False,Acorn International
+2007-10-07,29,False,Acorn International
+2007-10-14,14,False,Acorn International
+2007-10-21,21,False,Acorn International
+2007-10-28,14,False,Acorn International
+2007-11-04,20,False,Acorn International
+2007-11-11,18,False,Acorn International
+2007-11-18,7,False,Acorn International
+2007-11-25,26,False,Acorn International
+2007-12-02,20,False,Acorn International
+2007-12-09,40,False,Acorn International
+2007-12-16,29,False,Acorn International
+2007-12-23,9,False,Acorn International
+2007-12-30,31,False,Acorn International
+2008-01-06,20,False,Acorn International
+2008-01-13,13,False,Acorn International
+2008-01-20,6,False,Acorn International
+2008-01-27,19,False,Acorn International
+2007-02-11,56,False,TomoTherapy
+2007-02-18,14,False,TomoTherapy
+2007-02-25,37,False,TomoTherapy
+2007-03-04,31,False,TomoTherapy
+2007-03-11,17,False,TomoTherapy
+2007-03-18,20,False,TomoTherapy
+2007-03-25,27,False,TomoTherapy
+2007-04-01,25,False,TomoTherapy
+2007-04-08,27,False,TomoTherapy
+2007-04-15,23,False,TomoTherapy
+2007-04-22,29,False,TomoTherapy
+2007-04-29,43,False,TomoTherapy
+2007-05-06,100,False,TomoTherapy
+2007-05-13,40,False,TomoTherapy
+2007-05-20,42,False,TomoTherapy
+2007-05-27,30,False,TomoTherapy
+2007-06-03,39,False,TomoTherapy
+2007-06-10,57,False,TomoTherapy
+2007-06-17,40,False,TomoTherapy
+2007-06-24,18,False,TomoTherapy
+2007-07-01,40,False,TomoTherapy
+2007-07-08,22,False,TomoTherapy
+2007-07-15,34,False,TomoTherapy
+2007-07-22,50,False,TomoTherapy
+2007-07-29,45,False,TomoTherapy
+2007-08-05,46,False,TomoTherapy
+2007-08-12,19,False,TomoTherapy
+2007-08-19,21,False,TomoTherapy
+2007-08-26,29,False,TomoTherapy
+2007-09-02,48,False,TomoTherapy
+2007-09-09,22,False,TomoTherapy
+2007-09-16,27,False,TomoTherapy
+2007-09-23,27,False,TomoTherapy
+2007-09-30,45,False,TomoTherapy
+2007-10-07,37,False,TomoTherapy
+2007-10-14,39,False,TomoTherapy
+2007-10-21,35,False,TomoTherapy
+2007-10-28,36,False,TomoTherapy
+2007-11-04,50,False,TomoTherapy
+2007-11-11,29,False,TomoTherapy
+2007-11-18,15,False,TomoTherapy
+2007-11-25,24,False,TomoTherapy
+2007-12-02,36,False,TomoTherapy
+2007-12-09,54,False,TomoTherapy
+2007-12-16,26,False,TomoTherapy
+2007-12-23,16,False,TomoTherapy
+2007-12-30,23,False,TomoTherapy
+2008-01-06,26,False,TomoTherapy
+2008-01-13,26,False,TomoTherapy
+2008-01-20,21,False,TomoTherapy
+2008-01-27,37,False,TomoTherapy
+2008-02-03,33,False,TomoTherapy

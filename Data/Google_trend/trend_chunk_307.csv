@@ -1,0 +1,261 @@
+date,SVI,isPartial,Issuer
+2013-06-23,12,False,BIND Therapeutics
+2013-06-30,18,False,BIND Therapeutics
+2013-07-07,24,False,BIND Therapeutics
+2013-07-14,18,False,BIND Therapeutics
+2013-07-21,0,False,BIND Therapeutics
+2013-07-28,24,False,BIND Therapeutics
+2013-08-04,36,False,BIND Therapeutics
+2013-08-11,73,False,BIND Therapeutics
+2013-08-18,30,False,BIND Therapeutics
+2013-08-25,17,False,BIND Therapeutics
+2013-09-01,28,False,BIND Therapeutics
+2013-09-08,50,False,BIND Therapeutics
+2013-09-15,100,False,BIND Therapeutics
+2013-09-22,67,False,BIND Therapeutics
+2013-09-29,33,False,BIND Therapeutics
+2013-10-06,28,False,BIND Therapeutics
+2013-10-13,22,False,BIND Therapeutics
+2013-10-20,27,False,BIND Therapeutics
+2013-10-27,44,False,BIND Therapeutics
+2013-11-03,38,False,BIND Therapeutics
+2013-11-10,43,False,BIND Therapeutics
+2013-11-17,16,False,BIND Therapeutics
+2013-11-24,16,False,BIND Therapeutics
+2013-12-01,26,False,BIND Therapeutics
+2013-12-08,11,False,BIND Therapeutics
+2013-12-15,39,False,BIND Therapeutics
+2013-12-22,12,False,BIND Therapeutics
+2013-12-29,6,False,BIND Therapeutics
+2014-01-05,37,False,BIND Therapeutics
+2014-01-12,36,False,BIND Therapeutics
+2014-01-19,41,False,BIND Therapeutics
+2014-01-26,20,False,BIND Therapeutics
+2014-02-02,16,False,BIND Therapeutics
+2014-02-09,35,False,BIND Therapeutics
+2014-02-16,10,False,BIND Therapeutics
+2014-02-23,20,False,BIND Therapeutics
+2014-03-02,20,False,BIND Therapeutics
+2014-03-09,16,False,BIND Therapeutics
+2014-03-16,25,False,BIND Therapeutics
+2014-03-23,5,False,BIND Therapeutics
+2014-03-30,30,False,BIND Therapeutics
+2014-04-06,31,False,BIND Therapeutics
+2014-04-13,16,False,BIND Therapeutics
+2014-04-20,10,False,BIND Therapeutics
+2014-04-27,10,False,BIND Therapeutics
+2014-05-04,26,False,BIND Therapeutics
+2014-05-11,15,False,BIND Therapeutics
+2014-05-18,22,False,BIND Therapeutics
+2014-05-25,12,False,BIND Therapeutics
+2014-06-01,6,False,BIND Therapeutics
+2014-06-08,58,False,BIND Therapeutics
+2014-06-15,23,False,BIND Therapeutics
+2013-06-23,0,False,ClubCorp Holdings
+2013-06-30,0,False,ClubCorp Holdings
+2013-07-07,0,False,ClubCorp Holdings
+2013-07-14,0,False,ClubCorp Holdings
+2013-07-21,0,False,ClubCorp Holdings
+2013-07-28,0,False,ClubCorp Holdings
+2013-08-04,0,False,ClubCorp Holdings
+2013-08-11,0,False,ClubCorp Holdings
+2013-08-18,0,False,ClubCorp Holdings
+2013-08-25,0,False,ClubCorp Holdings
+2013-09-01,0,False,ClubCorp Holdings
+2013-09-08,99,False,ClubCorp Holdings
+2013-09-15,100,False,ClubCorp Holdings
+2013-09-22,0,False,ClubCorp Holdings
+2013-09-29,0,False,ClubCorp Holdings
+2013-10-06,0,False,ClubCorp Holdings
+2013-10-13,17,False,ClubCorp Holdings
+2013-10-20,0,False,ClubCorp Holdings
+2013-10-27,0,False,ClubCorp Holdings
+2013-11-03,0,False,ClubCorp Holdings
+2013-11-10,0,False,ClubCorp Holdings
+2013-11-17,0,False,ClubCorp Holdings
+2013-11-24,16,False,ClubCorp Holdings
+2013-12-01,0,False,ClubCorp Holdings
+2013-12-08,16,False,ClubCorp Holdings
+2013-12-15,0,False,ClubCorp Holdings
+2013-12-22,0,False,ClubCorp Holdings
+2013-12-29,0,False,ClubCorp Holdings
+2014-01-05,0,False,ClubCorp Holdings
+2014-01-12,0,False,ClubCorp Holdings
+2014-01-19,0,False,ClubCorp Holdings
+2014-01-26,15,False,ClubCorp Holdings
+2014-02-02,0,False,ClubCorp Holdings
+2014-02-09,0,False,ClubCorp Holdings
+2014-02-16,15,False,ClubCorp Holdings
+2014-02-23,0,False,ClubCorp Holdings
+2014-03-02,0,False,ClubCorp Holdings
+2014-03-09,0,False,ClubCorp Holdings
+2014-03-16,0,False,ClubCorp Holdings
+2014-03-23,15,False,ClubCorp Holdings
+2014-03-30,0,False,ClubCorp Holdings
+2014-04-06,0,False,ClubCorp Holdings
+2014-04-13,0,False,ClubCorp Holdings
+2014-04-20,16,False,ClubCorp Holdings
+2014-04-27,0,False,ClubCorp Holdings
+2014-05-04,0,False,ClubCorp Holdings
+2014-05-11,15,False,ClubCorp Holdings
+2014-05-18,0,False,ClubCorp Holdings
+2014-05-25,0,False,ClubCorp Holdings
+2014-06-01,0,False,ClubCorp Holdings
+2014-06-08,52,False,ClubCorp Holdings
+2014-06-15,0,False,ClubCorp Holdings
+2013-06-23,25,False,FireEye
+2013-06-30,22,False,FireEye
+2013-07-07,28,False,FireEye
+2013-07-14,28,False,FireEye
+2013-07-21,31,False,FireEye
+2013-07-28,32,False,FireEye
+2013-08-04,39,False,FireEye
+2013-08-11,32,False,FireEye
+2013-08-18,28,False,FireEye
+2013-08-25,35,False,FireEye
+2013-09-01,25,False,FireEye
+2013-09-08,40,False,FireEye
+2013-09-15,100,False,FireEye
+2013-09-22,89,False,FireEye
+2013-09-29,53,False,FireEye
+2013-10-06,34,False,FireEye
+2013-10-13,37,False,FireEye
+2013-10-20,30,False,FireEye
+2013-10-27,26,False,FireEye
+2013-11-03,38,False,FireEye
+2013-11-10,37,False,FireEye
+2013-11-17,36,False,FireEye
+2013-11-24,31,False,FireEye
+2013-12-01,26,False,FireEye
+2013-12-08,42,False,FireEye
+2013-12-15,28,False,FireEye
+2013-12-22,17,False,FireEye
+2013-12-29,80,False,FireEye
+2014-01-05,69,False,FireEye
+2014-01-12,50,False,FireEye
+2014-01-19,45,False,FireEye
+2014-01-26,39,False,FireEye
+2014-02-02,41,False,FireEye
+2014-02-09,55,False,FireEye
+2014-02-16,51,False,FireEye
+2014-02-23,47,False,FireEye
+2014-03-02,62,False,FireEye
+2014-03-09,70,False,FireEye
+2014-03-16,58,False,FireEye
+2014-03-23,58,False,FireEye
+2014-03-30,63,False,FireEye
+2014-04-06,59,False,FireEye
+2014-04-13,42,False,FireEye
+2014-04-20,51,False,FireEye
+2014-04-27,97,False,FireEye
+2014-05-04,100,False,FireEye
+2014-05-11,67,False,FireEye
+2014-05-18,64,False,FireEye
+2014-05-25,48,False,FireEye
+2014-06-01,50,False,FireEye
+2014-06-08,51,False,FireEye
+2014-06-15,46,False,FireEye
+2013-06-23,34,False,Rocket Fuel
+2013-06-30,40,False,Rocket Fuel
+2013-07-07,35,False,Rocket Fuel
+2013-07-14,45,False,Rocket Fuel
+2013-07-21,42,False,Rocket Fuel
+2013-07-28,44,False,Rocket Fuel
+2013-08-04,32,False,Rocket Fuel
+2013-08-11,44,False,Rocket Fuel
+2013-08-18,47,False,Rocket Fuel
+2013-08-25,42,False,Rocket Fuel
+2013-09-01,46,False,Rocket Fuel
+2013-09-08,52,False,Rocket Fuel
+2013-09-15,100,False,Rocket Fuel
+2013-09-22,79,False,Rocket Fuel
+2013-09-29,55,False,Rocket Fuel
+2013-10-06,47,False,Rocket Fuel
+2013-10-13,53,False,Rocket Fuel
+2013-10-20,52,False,Rocket Fuel
+2013-10-27,54,False,Rocket Fuel
+2013-11-03,67,False,Rocket Fuel
+2013-11-10,61,False,Rocket Fuel
+2013-11-17,49,False,Rocket Fuel
+2013-11-24,45,False,Rocket Fuel
+2013-12-01,53,False,Rocket Fuel
+2013-12-08,44,False,Rocket Fuel
+2013-12-15,51,False,Rocket Fuel
+2013-12-22,30,False,Rocket Fuel
+2013-12-29,38,False,Rocket Fuel
+2014-01-05,49,False,Rocket Fuel
+2014-01-12,49,False,Rocket Fuel
+2014-01-19,51,False,Rocket Fuel
+2014-01-26,54,False,Rocket Fuel
+2014-02-02,54,False,Rocket Fuel
+2014-02-09,50,False,Rocket Fuel
+2014-02-16,47,False,Rocket Fuel
+2014-02-23,50,False,Rocket Fuel
+2014-03-02,57,False,Rocket Fuel
+2014-03-09,60,False,Rocket Fuel
+2014-03-16,51,False,Rocket Fuel
+2014-03-23,39,False,Rocket Fuel
+2014-03-30,51,False,Rocket Fuel
+2014-04-06,48,False,Rocket Fuel
+2014-04-13,42,False,Rocket Fuel
+2014-04-20,44,False,Rocket Fuel
+2014-04-27,44,False,Rocket Fuel
+2014-05-04,65,False,Rocket Fuel
+2014-05-11,51,False,Rocket Fuel
+2014-05-18,40,False,Rocket Fuel
+2014-05-25,49,False,Rocket Fuel
+2014-06-01,48,False,Rocket Fuel
+2014-06-08,44,False,Rocket Fuel
+2014-06-15,38,False,Rocket Fuel
+2013-06-30,0,False,Capitala Finance
+2013-07-07,22,False,Capitala Finance
+2013-07-14,0,False,Capitala Finance
+2013-07-21,0,False,Capitala Finance
+2013-07-28,0,False,Capitala Finance
+2013-08-04,0,False,Capitala Finance
+2013-08-11,0,False,Capitala Finance
+2013-08-18,0,False,Capitala Finance
+2013-08-25,0,False,Capitala Finance
+2013-09-01,0,False,Capitala Finance
+2013-09-08,20,False,Capitala Finance
+2013-09-15,60,False,Capitala Finance
+2013-09-22,100,False,Capitala Finance
+2013-09-29,40,False,Capitala Finance
+2013-10-06,60,False,Capitala Finance
+2013-10-13,40,False,Capitala Finance
+2013-10-20,39,False,Capitala Finance
+2013-10-27,20,False,Capitala Finance
+2013-11-03,0,False,Capitala Finance
+2013-11-10,39,False,Capitala Finance
+2013-11-17,0,False,Capitala Finance
+2013-11-24,19,False,Capitala Finance
+2013-12-01,19,False,Capitala Finance
+2013-12-08,0,False,Capitala Finance
+2013-12-15,0,False,Capitala Finance
+2013-12-22,0,False,Capitala Finance
+2013-12-29,0,False,Capitala Finance
+2014-01-05,0,False,Capitala Finance
+2014-01-12,18,False,Capitala Finance
+2014-01-19,0,False,Capitala Finance
+2014-01-26,36,False,Capitala Finance
+2014-02-02,19,False,Capitala Finance
+2014-02-09,18,False,Capitala Finance
+2014-02-16,36,False,Capitala Finance
+2014-02-23,0,False,Capitala Finance
+2014-03-02,18,False,Capitala Finance
+2014-03-09,37,False,Capitala Finance
+2014-03-16,36,False,Capitala Finance
+2014-03-23,0,False,Capitala Finance
+2014-03-30,0,False,Capitala Finance
+2014-04-06,0,False,Capitala Finance
+2014-04-13,38,False,Capitala Finance
+2014-04-20,0,False,Capitala Finance
+2014-04-27,19,False,Capitala Finance
+2014-05-04,0,False,Capitala Finance
+2014-05-11,0,False,Capitala Finance
+2014-05-18,19,False,Capitala Finance
+2014-05-25,0,False,Capitala Finance
+2014-06-01,20,False,Capitala Finance
+2014-06-08,21,False,Capitala Finance
+2014-06-15,0,False,Capitala Finance
+2014-06-22,0,False,Capitala Finance

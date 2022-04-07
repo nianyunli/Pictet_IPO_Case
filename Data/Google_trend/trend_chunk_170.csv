@@ -1,0 +1,211 @@
+date,SVI,isPartial,Issuer
+2016-02-21,0,False,PhaseRx
+2016-02-28,26,False,PhaseRx
+2016-03-06,0,False,PhaseRx
+2016-03-13,18,False,PhaseRx
+2016-03-20,0,False,PhaseRx
+2016-03-27,9,False,PhaseRx
+2016-04-03,18,False,PhaseRx
+2016-04-10,0,False,PhaseRx
+2016-04-17,18,False,PhaseRx
+2016-04-24,9,False,PhaseRx
+2016-05-01,37,False,PhaseRx
+2016-05-08,45,False,PhaseRx
+2016-05-15,100,False,PhaseRx
+2016-05-22,18,False,PhaseRx
+2016-05-29,28,False,PhaseRx
+2016-06-05,28,False,PhaseRx
+2016-06-12,54,False,PhaseRx
+2016-06-19,18,False,PhaseRx
+2016-06-26,0,False,PhaseRx
+2016-07-03,20,False,PhaseRx
+2016-07-10,19,False,PhaseRx
+2016-07-17,0,False,PhaseRx
+2016-07-24,0,False,PhaseRx
+2016-07-31,10,False,PhaseRx
+2016-08-07,10,False,PhaseRx
+2016-08-14,10,False,PhaseRx
+2016-08-21,0,False,PhaseRx
+2016-08-28,10,False,PhaseRx
+2016-09-04,10,False,PhaseRx
+2016-09-11,9,False,PhaseRx
+2016-09-18,0,False,PhaseRx
+2016-09-25,0,False,PhaseRx
+2016-10-02,18,False,PhaseRx
+2016-10-09,9,False,PhaseRx
+2016-10-16,0,False,PhaseRx
+2016-10-23,9,False,PhaseRx
+2016-10-30,9,False,PhaseRx
+2016-11-06,0,False,PhaseRx
+2016-11-13,0,False,PhaseRx
+2016-11-20,18,False,PhaseRx
+2016-11-27,69,False,PhaseRx
+2016-12-04,0,False,PhaseRx
+2016-12-11,9,False,PhaseRx
+2016-12-18,9,False,PhaseRx
+2016-12-25,9,False,PhaseRx
+2017-01-01,9,False,PhaseRx
+2017-01-08,0,False,PhaseRx
+2017-01-15,0,False,PhaseRx
+2017-01-22,8,False,PhaseRx
+2017-01-29,8,False,PhaseRx
+2017-02-05,0,False,PhaseRx
+2017-02-12,8,False,PhaseRx
+2016-02-21,0,False,Merus B.V.
+2016-02-28,0,False,Merus B.V.
+2016-03-06,0,False,Merus B.V.
+2016-03-13,0,False,Merus B.V.
+2016-03-20,0,False,Merus B.V.
+2016-03-27,0,False,Merus B.V.
+2016-04-03,0,False,Merus B.V.
+2016-04-10,0,False,Merus B.V.
+2016-04-17,0,False,Merus B.V.
+2016-04-24,0,False,Merus B.V.
+2016-05-01,0,False,Merus B.V.
+2016-05-08,96,False,Merus B.V.
+2016-05-15,0,False,Merus B.V.
+2016-05-22,98,False,Merus B.V.
+2016-05-29,0,False,Merus B.V.
+2016-06-05,0,False,Merus B.V.
+2016-06-12,0,False,Merus B.V.
+2016-06-19,0,False,Merus B.V.
+2016-06-26,0,False,Merus B.V.
+2016-07-03,0,False,Merus B.V.
+2016-07-10,0,False,Merus B.V.
+2016-07-17,0,False,Merus B.V.
+2016-07-24,0,False,Merus B.V.
+2016-07-31,0,False,Merus B.V.
+2016-08-07,0,False,Merus B.V.
+2016-08-14,0,False,Merus B.V.
+2016-08-21,0,False,Merus B.V.
+2016-08-28,0,False,Merus B.V.
+2016-09-04,0,False,Merus B.V.
+2016-09-11,0,False,Merus B.V.
+2016-09-18,0,False,Merus B.V.
+2016-09-25,0,False,Merus B.V.
+2016-10-02,0,False,Merus B.V.
+2016-10-09,99,False,Merus B.V.
+2016-10-16,0,False,Merus B.V.
+2016-10-23,100,False,Merus B.V.
+2016-10-30,0,False,Merus B.V.
+2016-11-06,0,False,Merus B.V.
+2016-11-13,0,False,Merus B.V.
+2016-11-20,0,False,Merus B.V.
+2016-11-27,0,False,Merus B.V.
+2016-12-04,0,False,Merus B.V.
+2016-12-11,0,False,Merus B.V.
+2016-12-18,0,False,Merus B.V.
+2016-12-25,0,False,Merus B.V.
+2017-01-01,0,False,Merus B.V.
+2017-01-08,92,False,Merus B.V.
+2017-01-15,0,False,Merus B.V.
+2017-01-22,89,False,Merus B.V.
+2017-01-29,0,False,Merus B.V.
+2017-02-05,91,False,Merus B.V.
+2017-02-12,0,False,Merus B.V.
+2017-02-19,0,False,Merus B.V.
+2016-02-21,37,False,CF Corporation
+2016-02-28,18,False,CF Corporation
+2016-03-06,18,False,CF Corporation
+2016-03-13,18,False,CF Corporation
+2016-03-20,56,False,CF Corporation
+2016-03-27,37,False,CF Corporation
+2016-04-03,19,False,CF Corporation
+2016-04-10,56,False,CF Corporation
+2016-04-17,0,False,CF Corporation
+2016-04-24,19,False,CF Corporation
+2016-05-01,38,False,CF Corporation
+2016-05-08,37,False,CF Corporation
+2016-05-15,94,False,CF Corporation
+2016-05-22,94,False,CF Corporation
+2016-05-29,38,False,CF Corporation
+2016-06-05,95,False,CF Corporation
+2016-06-12,0,False,CF Corporation
+2016-06-19,76,False,CF Corporation
+2016-06-26,77,False,CF Corporation
+2016-07-03,40,False,CF Corporation
+2016-07-10,39,False,CF Corporation
+2016-07-17,100,False,CF Corporation
+2016-07-24,81,False,CF Corporation
+2016-07-31,0,False,CF Corporation
+2016-08-07,21,False,CF Corporation
+2016-08-14,0,False,CF Corporation
+2016-08-21,81,False,CF Corporation
+2016-08-28,59,False,CF Corporation
+2016-09-04,39,False,CF Corporation
+2016-09-11,19,False,CF Corporation
+2016-09-18,57,False,CF Corporation
+2016-09-25,57,False,CF Corporation
+2016-10-02,38,False,CF Corporation
+2016-10-09,38,False,CF Corporation
+2016-10-16,57,False,CF Corporation
+2016-10-23,0,False,CF Corporation
+2016-10-30,0,False,CF Corporation
+2016-11-06,0,False,CF Corporation
+2016-11-13,37,False,CF Corporation
+2016-11-20,19,False,CF Corporation
+2016-11-27,54,False,CF Corporation
+2016-12-04,18,False,CF Corporation
+2016-12-11,36,False,CF Corporation
+2016-12-18,38,False,CF Corporation
+2016-12-25,0,False,CF Corporation
+2017-01-01,18,False,CF Corporation
+2017-01-08,71,False,CF Corporation
+2017-01-15,52,False,CF Corporation
+2017-01-22,0,False,CF Corporation
+2017-01-29,17,False,CF Corporation
+2017-02-05,35,False,CF Corporation
+2017-02-12,85,False,CF Corporation
+2017-02-19,34,False,CF Corporation
+2016-02-28,48,False,Midland States Bancorp
+2016-03-06,0,False,Midland States Bancorp
+2016-03-13,0,False,Midland States Bancorp
+2016-03-20,0,False,Midland States Bancorp
+2016-03-27,0,False,Midland States Bancorp
+2016-04-03,0,False,Midland States Bancorp
+2016-04-10,49,False,Midland States Bancorp
+2016-04-17,0,False,Midland States Bancorp
+2016-04-24,0,False,Midland States Bancorp
+2016-05-01,100,False,Midland States Bancorp
+2016-05-08,49,False,Midland States Bancorp
+2016-05-15,0,False,Midland States Bancorp
+2016-05-22,0,False,Midland States Bancorp
+2016-05-29,50,False,Midland States Bancorp
+2016-06-05,0,False,Midland States Bancorp
+2016-06-12,0,False,Midland States Bancorp
+2016-06-19,50,False,Midland States Bancorp
+2016-06-26,0,False,Midland States Bancorp
+2016-07-03,0,False,Midland States Bancorp
+2016-07-10,0,False,Midland States Bancorp
+2016-07-17,0,False,Midland States Bancorp
+2016-07-24,0,False,Midland States Bancorp
+2016-07-31,0,False,Midland States Bancorp
+2016-08-07,0,False,Midland States Bancorp
+2016-08-14,0,False,Midland States Bancorp
+2016-08-21,53,False,Midland States Bancorp
+2016-08-28,0,False,Midland States Bancorp
+2016-09-04,0,False,Midland States Bancorp
+2016-09-11,0,False,Midland States Bancorp
+2016-09-18,0,False,Midland States Bancorp
+2016-09-25,0,False,Midland States Bancorp
+2016-10-02,0,False,Midland States Bancorp
+2016-10-09,0,False,Midland States Bancorp
+2016-10-16,0,False,Midland States Bancorp
+2016-10-23,0,False,Midland States Bancorp
+2016-10-30,50,False,Midland States Bancorp
+2016-11-06,0,False,Midland States Bancorp
+2016-11-13,0,False,Midland States Bancorp
+2016-11-20,0,False,Midland States Bancorp
+2016-11-27,47,False,Midland States Bancorp
+2016-12-04,0,False,Midland States Bancorp
+2016-12-11,0,False,Midland States Bancorp
+2016-12-18,0,False,Midland States Bancorp
+2016-12-25,0,False,Midland States Bancorp
+2017-01-01,48,False,Midland States Bancorp
+2017-01-08,0,False,Midland States Bancorp
+2017-01-15,0,False,Midland States Bancorp
+2017-01-22,0,False,Midland States Bancorp
+2017-01-29,0,False,Midland States Bancorp
+2017-02-05,46,False,Midland States Bancorp
+2017-02-12,0,False,Midland States Bancorp
+2017-02-19,0,False,Midland States Bancorp

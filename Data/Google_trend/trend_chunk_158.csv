@@ -1,0 +1,261 @@
+date,SVI,isPartial,Issuer
+2017-08-06,14,False,Loma Negra
+2017-08-13,21,False,Loma Negra
+2017-08-20,21,False,Loma Negra
+2017-08-27,29,False,Loma Negra
+2017-09-03,22,False,Loma Negra
+2017-09-10,17,False,Loma Negra
+2017-09-17,22,False,Loma Negra
+2017-09-24,24,False,Loma Negra
+2017-10-01,21,False,Loma Negra
+2017-10-08,26,False,Loma Negra
+2017-10-15,31,False,Loma Negra
+2017-10-22,70,False,Loma Negra
+2017-10-29,100,False,Loma Negra
+2017-11-05,37,False,Loma Negra
+2017-11-12,28,False,Loma Negra
+2017-11-19,24,False,Loma Negra
+2017-11-26,25,False,Loma Negra
+2017-12-03,38,False,Loma Negra
+2017-12-10,36,False,Loma Negra
+2017-12-17,22,False,Loma Negra
+2017-12-24,28,False,Loma Negra
+2017-12-31,34,False,Loma Negra
+2018-01-07,42,False,Loma Negra
+2018-01-14,26,False,Loma Negra
+2018-01-21,31,False,Loma Negra
+2018-01-28,26,False,Loma Negra
+2018-02-04,32,False,Loma Negra
+2018-02-11,26,False,Loma Negra
+2018-02-18,29,False,Loma Negra
+2018-02-25,30,False,Loma Negra
+2018-03-04,30,False,Loma Negra
+2018-03-11,27,False,Loma Negra
+2018-03-18,26,False,Loma Negra
+2018-03-25,16,False,Loma Negra
+2018-04-01,32,False,Loma Negra
+2018-04-08,25,False,Loma Negra
+2018-04-15,26,False,Loma Negra
+2018-04-22,24,False,Loma Negra
+2018-04-29,29,False,Loma Negra
+2018-05-06,28,False,Loma Negra
+2018-05-13,36,False,Loma Negra
+2018-05-20,34,False,Loma Negra
+2018-05-27,30,False,Loma Negra
+2018-06-03,32,False,Loma Negra
+2018-06-10,29,False,Loma Negra
+2018-06-17,29,False,Loma Negra
+2018-06-24,31,False,Loma Negra
+2018-07-01,33,False,Loma Negra
+2018-07-08,36,False,Loma Negra
+2018-07-15,25,False,Loma Negra
+2018-07-22,31,False,Loma Negra
+2018-07-29,25,False,Loma Negra
+2017-08-06,12,False,Allena Pharmaceuticals
+2017-08-13,0,False,Allena Pharmaceuticals
+2017-08-20,0,False,Allena Pharmaceuticals
+2017-08-27,0,False,Allena Pharmaceuticals
+2017-09-03,0,False,Allena Pharmaceuticals
+2017-09-10,23,False,Allena Pharmaceuticals
+2017-09-17,0,False,Allena Pharmaceuticals
+2017-09-24,0,False,Allena Pharmaceuticals
+2017-10-01,56,False,Allena Pharmaceuticals
+2017-10-08,11,False,Allena Pharmaceuticals
+2017-10-15,11,False,Allena Pharmaceuticals
+2017-10-22,77,False,Allena Pharmaceuticals
+2017-10-29,100,False,Allena Pharmaceuticals
+2017-11-05,33,False,Allena Pharmaceuticals
+2017-11-12,32,False,Allena Pharmaceuticals
+2017-11-19,22,False,Allena Pharmaceuticals
+2017-11-26,22,False,Allena Pharmaceuticals
+2017-12-03,11,False,Allena Pharmaceuticals
+2017-12-10,33,False,Allena Pharmaceuticals
+2017-12-17,23,False,Allena Pharmaceuticals
+2017-12-24,0,False,Allena Pharmaceuticals
+2017-12-31,11,False,Allena Pharmaceuticals
+2018-01-07,21,False,Allena Pharmaceuticals
+2018-01-14,11,False,Allena Pharmaceuticals
+2018-01-21,31,False,Allena Pharmaceuticals
+2018-01-28,0,False,Allena Pharmaceuticals
+2018-02-04,42,False,Allena Pharmaceuticals
+2018-02-11,21,False,Allena Pharmaceuticals
+2018-02-18,10,False,Allena Pharmaceuticals
+2018-02-25,0,False,Allena Pharmaceuticals
+2018-03-04,0,False,Allena Pharmaceuticals
+2018-03-11,10,False,Allena Pharmaceuticals
+2018-03-18,21,False,Allena Pharmaceuticals
+2018-03-25,11,False,Allena Pharmaceuticals
+2018-04-01,65,False,Allena Pharmaceuticals
+2018-04-08,31,False,Allena Pharmaceuticals
+2018-04-15,21,False,Allena Pharmaceuticals
+2018-04-22,10,False,Allena Pharmaceuticals
+2018-04-29,11,False,Allena Pharmaceuticals
+2018-05-06,11,False,Allena Pharmaceuticals
+2018-05-13,11,False,Allena Pharmaceuticals
+2018-05-20,32,False,Allena Pharmaceuticals
+2018-05-27,21,False,Allena Pharmaceuticals
+2018-06-03,21,False,Allena Pharmaceuticals
+2018-06-10,21,False,Allena Pharmaceuticals
+2018-06-17,32,False,Allena Pharmaceuticals
+2018-06-24,21,False,Allena Pharmaceuticals
+2018-07-01,0,False,Allena Pharmaceuticals
+2018-07-08,21,False,Allena Pharmaceuticals
+2018-07-15,11,False,Allena Pharmaceuticals
+2018-07-22,11,False,Allena Pharmaceuticals
+2018-07-29,21,False,Allena Pharmaceuticals
+2017-08-06,62,False,Evoqua Water Technologies
+2017-08-13,33,False,Evoqua Water Technologies
+2017-08-20,16,False,Evoqua Water Technologies
+2017-08-27,23,False,Evoqua Water Technologies
+2017-09-03,23,False,Evoqua Water Technologies
+2017-09-10,54,False,Evoqua Water Technologies
+2017-09-17,41,False,Evoqua Water Technologies
+2017-09-24,45,False,Evoqua Water Technologies
+2017-10-01,41,False,Evoqua Water Technologies
+2017-10-08,60,False,Evoqua Water Technologies
+2017-10-15,51,False,Evoqua Water Technologies
+2017-10-22,50,False,Evoqua Water Technologies
+2017-10-29,100,False,Evoqua Water Technologies
+2017-11-05,49,False,Evoqua Water Technologies
+2017-11-12,39,False,Evoqua Water Technologies
+2017-11-19,28,False,Evoqua Water Technologies
+2017-11-26,36,False,Evoqua Water Technologies
+2017-12-03,31,False,Evoqua Water Technologies
+2017-12-10,40,False,Evoqua Water Technologies
+2017-12-17,16,False,Evoqua Water Technologies
+2017-12-24,14,False,Evoqua Water Technologies
+2017-12-31,25,False,Evoqua Water Technologies
+2018-01-07,45,False,Evoqua Water Technologies
+2018-01-14,30,False,Evoqua Water Technologies
+2018-01-21,35,False,Evoqua Water Technologies
+2018-01-28,39,False,Evoqua Water Technologies
+2018-02-04,21,False,Evoqua Water Technologies
+2018-02-11,24,False,Evoqua Water Technologies
+2018-02-18,15,False,Evoqua Water Technologies
+2018-02-25,35,False,Evoqua Water Technologies
+2018-03-04,15,False,Evoqua Water Technologies
+2018-03-11,56,False,Evoqua Water Technologies
+2018-03-18,44,False,Evoqua Water Technologies
+2018-03-25,37,False,Evoqua Water Technologies
+2018-04-01,39,False,Evoqua Water Technologies
+2018-04-08,24,False,Evoqua Water Technologies
+2018-04-15,24,False,Evoqua Water Technologies
+2018-04-22,38,False,Evoqua Water Technologies
+2018-04-29,42,False,Evoqua Water Technologies
+2018-05-06,33,False,Evoqua Water Technologies
+2018-05-13,27,False,Evoqua Water Technologies
+2018-05-20,42,False,Evoqua Water Technologies
+2018-05-27,18,False,Evoqua Water Technologies
+2018-06-03,33,False,Evoqua Water Technologies
+2018-06-10,15,False,Evoqua Water Technologies
+2018-06-17,65,False,Evoqua Water Technologies
+2018-06-24,41,False,Evoqua Water Technologies
+2018-07-01,38,False,Evoqua Water Technologies
+2018-07-08,27,False,Evoqua Water Technologies
+2018-07-15,30,False,Evoqua Water Technologies
+2018-07-22,21,False,Evoqua Water Technologies
+2018-07-29,24,False,Evoqua Water Technologies
+2017-08-06,41,False,Funko
+2017-08-13,43,False,Funko
+2017-08-20,43,False,Funko
+2017-08-27,47,False,Funko
+2017-09-03,42,False,Funko
+2017-09-10,43,False,Funko
+2017-09-17,41,False,Funko
+2017-09-24,41,False,Funko
+2017-10-01,53,False,Funko
+2017-10-08,45,False,Funko
+2017-10-15,42,False,Funko
+2017-10-22,41,False,Funko
+2017-10-29,45,False,Funko
+2017-11-05,47,False,Funko
+2017-11-12,48,False,Funko
+2017-11-19,61,False,Funko
+2017-11-26,65,False,Funko
+2017-12-03,72,False,Funko
+2017-12-10,76,False,Funko
+2017-12-17,79,False,Funko
+2017-12-24,78,False,Funko
+2017-12-31,67,False,Funko
+2018-01-07,59,False,Funko
+2018-01-14,52,False,Funko
+2018-01-21,56,False,Funko
+2018-01-28,48,False,Funko
+2018-02-04,46,False,Funko
+2018-02-11,57,False,Funko
+2018-02-18,55,False,Funko
+2018-02-25,66,False,Funko
+2018-03-04,56,False,Funko
+2018-03-11,52,False,Funko
+2018-03-18,47,False,Funko
+2018-03-25,51,False,Funko
+2018-04-01,50,False,Funko
+2018-04-08,48,False,Funko
+2018-04-15,52,False,Funko
+2018-04-22,48,False,Funko
+2018-04-29,58,False,Funko
+2018-05-06,51,False,Funko
+2018-05-13,51,False,Funko
+2018-05-20,53,False,Funko
+2018-05-27,57,False,Funko
+2018-06-03,58,False,Funko
+2018-06-10,59,False,Funko
+2018-06-17,52,False,Funko
+2018-06-24,59,False,Funko
+2018-07-01,62,False,Funko
+2018-07-08,74,False,Funko
+2018-07-15,100,False,Funko
+2018-07-22,95,False,Funko
+2018-07-29,96,False,Funko
+2017-08-06,12,False,Spero Therapeutics
+2017-08-13,18,False,Spero Therapeutics
+2017-08-20,17,False,Spero Therapeutics
+2017-08-27,11,False,Spero Therapeutics
+2017-09-03,17,False,Spero Therapeutics
+2017-09-10,6,False,Spero Therapeutics
+2017-09-17,6,False,Spero Therapeutics
+2017-09-24,17,False,Spero Therapeutics
+2017-10-01,17,False,Spero Therapeutics
+2017-10-08,17,False,Spero Therapeutics
+2017-10-15,23,False,Spero Therapeutics
+2017-10-22,44,False,Spero Therapeutics
+2017-10-29,100,False,Spero Therapeutics
+2017-11-05,43,False,Spero Therapeutics
+2017-11-12,16,False,Spero Therapeutics
+2017-11-19,16,False,Spero Therapeutics
+2017-11-26,5,False,Spero Therapeutics
+2017-12-03,27,False,Spero Therapeutics
+2017-12-10,11,False,Spero Therapeutics
+2017-12-17,11,False,Spero Therapeutics
+2017-12-24,6,False,Spero Therapeutics
+2017-12-31,0,False,Spero Therapeutics
+2018-01-07,11,False,Spero Therapeutics
+2018-01-14,5,False,Spero Therapeutics
+2018-01-21,5,False,Spero Therapeutics
+2018-01-28,21,False,Spero Therapeutics
+2018-02-04,16,False,Spero Therapeutics
+2018-02-11,11,False,Spero Therapeutics
+2018-02-18,5,False,Spero Therapeutics
+2018-02-25,5,False,Spero Therapeutics
+2018-03-04,10,False,Spero Therapeutics
+2018-03-11,10,False,Spero Therapeutics
+2018-03-18,10,False,Spero Therapeutics
+2018-03-25,49,False,Spero Therapeutics
+2018-04-01,16,False,Spero Therapeutics
+2018-04-08,10,False,Spero Therapeutics
+2018-04-15,11,False,Spero Therapeutics
+2018-04-22,10,False,Spero Therapeutics
+2018-04-29,16,False,Spero Therapeutics
+2018-05-06,0,False,Spero Therapeutics
+2018-05-13,11,False,Spero Therapeutics
+2018-05-20,5,False,Spero Therapeutics
+2018-05-27,11,False,Spero Therapeutics
+2018-06-03,37,False,Spero Therapeutics
+2018-06-10,5,False,Spero Therapeutics
+2018-06-17,16,False,Spero Therapeutics
+2018-06-24,5,False,Spero Therapeutics
+2018-07-01,10,False,Spero Therapeutics
+2018-07-08,47,False,Spero Therapeutics
+2018-07-15,16,False,Spero Therapeutics
+2018-07-22,11,False,Spero Therapeutics
+2018-07-29,21,False,Spero Therapeutics

@@ -1,0 +1,266 @@
+date,SVI,isPartial,Issuer
+2019-02-10,18,False,Milestone Pharmaceuticals
+2019-02-17,0,False,Milestone Pharmaceuticals
+2019-02-24,9,False,Milestone Pharmaceuticals
+2019-03-03,9,False,Milestone Pharmaceuticals
+2019-03-10,0,False,Milestone Pharmaceuticals
+2019-03-17,0,False,Milestone Pharmaceuticals
+2019-03-24,18,False,Milestone Pharmaceuticals
+2019-03-31,28,False,Milestone Pharmaceuticals
+2019-04-07,18,False,Milestone Pharmaceuticals
+2019-04-14,38,False,Milestone Pharmaceuticals
+2019-04-21,0,False,Milestone Pharmaceuticals
+2019-04-28,37,False,Milestone Pharmaceuticals
+2019-05-05,100,False,Milestone Pharmaceuticals
+2019-05-12,55,False,Milestone Pharmaceuticals
+2019-05-19,27,False,Milestone Pharmaceuticals
+2019-05-26,37,False,Milestone Pharmaceuticals
+2019-06-02,27,False,Milestone Pharmaceuticals
+2019-06-09,9,False,Milestone Pharmaceuticals
+2019-06-16,9,False,Milestone Pharmaceuticals
+2019-06-23,9,False,Milestone Pharmaceuticals
+2019-06-30,37,False,Milestone Pharmaceuticals
+2019-07-07,36,False,Milestone Pharmaceuticals
+2019-07-14,37,False,Milestone Pharmaceuticals
+2019-07-21,0,False,Milestone Pharmaceuticals
+2019-07-28,0,False,Milestone Pharmaceuticals
+2019-08-04,19,False,Milestone Pharmaceuticals
+2019-08-11,37,False,Milestone Pharmaceuticals
+2019-08-18,0,False,Milestone Pharmaceuticals
+2019-08-25,18,False,Milestone Pharmaceuticals
+2019-09-01,0,False,Milestone Pharmaceuticals
+2019-09-08,9,False,Milestone Pharmaceuticals
+2019-09-15,9,False,Milestone Pharmaceuticals
+2019-09-22,0,False,Milestone Pharmaceuticals
+2019-09-29,9,False,Milestone Pharmaceuticals
+2019-10-06,9,False,Milestone Pharmaceuticals
+2019-10-13,0,False,Milestone Pharmaceuticals
+2019-10-20,8,False,Milestone Pharmaceuticals
+2019-10-27,8,False,Milestone Pharmaceuticals
+2019-11-03,8,False,Milestone Pharmaceuticals
+2019-11-10,25,False,Milestone Pharmaceuticals
+2019-11-17,9,False,Milestone Pharmaceuticals
+2019-11-24,8,False,Milestone Pharmaceuticals
+2019-12-01,17,False,Milestone Pharmaceuticals
+2019-12-08,34,False,Milestone Pharmaceuticals
+2019-12-15,17,False,Milestone Pharmaceuticals
+2019-12-22,0,False,Milestone Pharmaceuticals
+2019-12-29,0,False,Milestone Pharmaceuticals
+2020-01-05,8,False,Milestone Pharmaceuticals
+2020-01-12,8,False,Milestone Pharmaceuticals
+2020-01-19,32,False,Milestone Pharmaceuticals
+2020-01-26,8,False,Milestone Pharmaceuticals
+2020-02-02,24,False,Milestone Pharmaceuticals
+2020-02-09,24,False,Milestone Pharmaceuticals
+2019-02-10,1,False,NextCure
+2019-02-17,2,False,NextCure
+2019-02-24,1,False,NextCure
+2019-03-03,3,False,NextCure
+2019-03-10,1,False,NextCure
+2019-03-17,1,False,NextCure
+2019-03-24,2,False,NextCure
+2019-03-31,4,False,NextCure
+2019-04-07,3,False,NextCure
+2019-04-14,3,False,NextCure
+2019-04-21,0,False,NextCure
+2019-04-28,12,False,NextCure
+2019-05-05,12,False,NextCure
+2019-05-12,6,False,NextCure
+2019-05-19,6,False,NextCure
+2019-05-26,6,False,NextCure
+2019-06-02,4,False,NextCure
+2019-06-09,0,False,NextCure
+2019-06-16,4,False,NextCure
+2019-06-23,2,False,NextCure
+2019-06-30,2,False,NextCure
+2019-07-07,6,False,NextCure
+2019-07-14,6,False,NextCure
+2019-07-21,5,False,NextCure
+2019-07-28,2,False,NextCure
+2019-08-04,2,False,NextCure
+2019-08-11,4,False,NextCure
+2019-08-18,7,False,NextCure
+2019-08-25,5,False,NextCure
+2019-09-01,5,False,NextCure
+2019-09-08,5,False,NextCure
+2019-09-15,6,False,NextCure
+2019-09-22,3,False,NextCure
+2019-09-29,0,False,NextCure
+2019-10-06,3,False,NextCure
+2019-10-13,3,False,NextCure
+2019-10-20,3,False,NextCure
+2019-10-27,2,False,NextCure
+2019-11-03,100,False,NextCure
+2019-11-10,49,False,NextCure
+2019-11-17,8,False,NextCure
+2019-11-24,4,False,NextCure
+2019-12-01,5,False,NextCure
+2019-12-08,6,False,NextCure
+2019-12-15,5,False,NextCure
+2019-12-22,6,False,NextCure
+2019-12-29,1,False,NextCure
+2020-01-05,1,False,NextCure
+2020-01-12,9,False,NextCure
+2020-01-19,4,False,NextCure
+2020-01-26,5,False,NextCure
+2020-02-02,3,False,NextCure
+2020-02-09,7,False,NextCure
+2019-02-10,0,False,South Plains Financial
+2019-02-17,14,False,South Plains Financial
+2019-02-24,28,False,South Plains Financial
+2019-03-03,0,False,South Plains Financial
+2019-03-10,14,False,South Plains Financial
+2019-03-17,0,False,South Plains Financial
+2019-03-24,0,False,South Plains Financial
+2019-03-31,0,False,South Plains Financial
+2019-04-07,14,False,South Plains Financial
+2019-04-14,15,False,South Plains Financial
+2019-04-21,15,False,South Plains Financial
+2019-04-28,43,False,South Plains Financial
+2019-05-05,100,False,South Plains Financial
+2019-05-12,29,False,South Plains Financial
+2019-05-19,14,False,South Plains Financial
+2019-05-26,0,False,South Plains Financial
+2019-06-02,28,False,South Plains Financial
+2019-06-09,14,False,South Plains Financial
+2019-06-16,0,False,South Plains Financial
+2019-06-23,14,False,South Plains Financial
+2019-06-30,14,False,South Plains Financial
+2019-07-07,43,False,South Plains Financial
+2019-07-14,0,False,South Plains Financial
+2019-07-21,29,False,South Plains Financial
+2019-07-28,0,False,South Plains Financial
+2019-08-04,0,False,South Plains Financial
+2019-08-11,29,False,South Plains Financial
+2019-08-18,43,False,South Plains Financial
+2019-08-25,42,False,South Plains Financial
+2019-09-01,14,False,South Plains Financial
+2019-09-08,14,False,South Plains Financial
+2019-09-15,27,False,South Plains Financial
+2019-09-22,13,False,South Plains Financial
+2019-09-29,14,False,South Plains Financial
+2019-10-06,0,False,South Plains Financial
+2019-10-13,0,False,South Plains Financial
+2019-10-20,0,False,South Plains Financial
+2019-10-27,27,False,South Plains Financial
+2019-11-03,0,False,South Plains Financial
+2019-11-10,0,False,South Plains Financial
+2019-11-17,27,False,South Plains Financial
+2019-11-24,13,False,South Plains Financial
+2019-12-01,53,False,South Plains Financial
+2019-12-08,0,False,South Plains Financial
+2019-12-15,14,False,South Plains Financial
+2019-12-22,15,False,South Plains Financial
+2019-12-29,14,False,South Plains Financial
+2020-01-05,13,False,South Plains Financial
+2020-01-12,13,False,South Plains Financial
+2020-01-19,0,False,South Plains Financial
+2020-01-26,26,False,South Plains Financial
+2020-02-02,0,False,South Plains Financial
+2020-02-09,25,False,South Plains Financial
+2019-02-10,0,False,Diamond Eagle Acquisition
+2019-02-17,0,False,Diamond Eagle Acquisition
+2019-02-24,0,False,Diamond Eagle Acquisition
+2019-03-03,0,False,Diamond Eagle Acquisition
+2019-03-10,0,False,Diamond Eagle Acquisition
+2019-03-17,0,False,Diamond Eagle Acquisition
+2019-03-24,0,False,Diamond Eagle Acquisition
+2019-03-31,0,False,Diamond Eagle Acquisition
+2019-04-07,0,False,Diamond Eagle Acquisition
+2019-04-14,0,False,Diamond Eagle Acquisition
+2019-04-21,3,False,Diamond Eagle Acquisition
+2019-04-28,0,False,Diamond Eagle Acquisition
+2019-05-05,10,False,Diamond Eagle Acquisition
+2019-05-12,3,False,Diamond Eagle Acquisition
+2019-05-19,0,False,Diamond Eagle Acquisition
+2019-05-26,0,False,Diamond Eagle Acquisition
+2019-06-02,0,False,Diamond Eagle Acquisition
+2019-06-09,3,False,Diamond Eagle Acquisition
+2019-06-16,3,False,Diamond Eagle Acquisition
+2019-06-23,0,False,Diamond Eagle Acquisition
+2019-06-30,0,False,Diamond Eagle Acquisition
+2019-07-07,0,False,Diamond Eagle Acquisition
+2019-07-14,3,False,Diamond Eagle Acquisition
+2019-07-21,3,False,Diamond Eagle Acquisition
+2019-07-28,0,False,Diamond Eagle Acquisition
+2019-08-04,0,False,Diamond Eagle Acquisition
+2019-08-11,0,False,Diamond Eagle Acquisition
+2019-08-18,0,False,Diamond Eagle Acquisition
+2019-08-25,0,False,Diamond Eagle Acquisition
+2019-09-01,0,False,Diamond Eagle Acquisition
+2019-09-08,0,False,Diamond Eagle Acquisition
+2019-09-15,0,False,Diamond Eagle Acquisition
+2019-09-22,0,False,Diamond Eagle Acquisition
+2019-09-29,0,False,Diamond Eagle Acquisition
+2019-10-06,3,False,Diamond Eagle Acquisition
+2019-10-13,0,False,Diamond Eagle Acquisition
+2019-10-20,0,False,Diamond Eagle Acquisition
+2019-10-27,9,False,Diamond Eagle Acquisition
+2019-11-03,3,False,Diamond Eagle Acquisition
+2019-11-10,0,False,Diamond Eagle Acquisition
+2019-11-17,0,False,Diamond Eagle Acquisition
+2019-11-24,0,False,Diamond Eagle Acquisition
+2019-12-01,0,False,Diamond Eagle Acquisition
+2019-12-08,3,False,Diamond Eagle Acquisition
+2019-12-15,0,False,Diamond Eagle Acquisition
+2019-12-22,100,False,Diamond Eagle Acquisition
+2019-12-29,23,False,Diamond Eagle Acquisition
+2020-01-05,25,False,Diamond Eagle Acquisition
+2020-01-12,47,False,Diamond Eagle Acquisition
+2020-01-19,60,False,Diamond Eagle Acquisition
+2020-01-26,39,False,Diamond Eagle Acquisition
+2020-02-02,27,False,Diamond Eagle Acquisition
+2020-02-09,63,False,Diamond Eagle Acquisition
+2019-02-10,0,False,Health Sciences Acquisitions
+2019-02-17,0,False,Health Sciences Acquisitions
+2019-02-24,0,False,Health Sciences Acquisitions
+2019-03-03,35,False,Health Sciences Acquisitions
+2019-03-10,0,False,Health Sciences Acquisitions
+2019-03-17,0,False,Health Sciences Acquisitions
+2019-03-24,0,False,Health Sciences Acquisitions
+2019-03-31,0,False,Health Sciences Acquisitions
+2019-04-07,0,False,Health Sciences Acquisitions
+2019-04-14,37,False,Health Sciences Acquisitions
+2019-04-21,0,False,Health Sciences Acquisitions
+2019-04-28,35,False,Health Sciences Acquisitions
+2019-05-05,70,False,Health Sciences Acquisitions
+2019-05-12,35,False,Health Sciences Acquisitions
+2019-05-19,0,False,Health Sciences Acquisitions
+2019-05-26,0,False,Health Sciences Acquisitions
+2019-06-02,35,False,Health Sciences Acquisitions
+2019-06-09,0,False,Health Sciences Acquisitions
+2019-06-16,35,False,Health Sciences Acquisitions
+2019-06-23,0,False,Health Sciences Acquisitions
+2019-06-30,0,False,Health Sciences Acquisitions
+2019-07-07,0,False,Health Sciences Acquisitions
+2019-07-14,0,False,Health Sciences Acquisitions
+2019-07-21,0,False,Health Sciences Acquisitions
+2019-07-28,73,False,Health Sciences Acquisitions
+2019-08-04,0,False,Health Sciences Acquisitions
+2019-08-11,0,False,Health Sciences Acquisitions
+2019-08-18,35,False,Health Sciences Acquisitions
+2019-08-25,0,False,Health Sciences Acquisitions
+2019-09-01,0,False,Health Sciences Acquisitions
+2019-09-08,0,False,Health Sciences Acquisitions
+2019-09-15,34,False,Health Sciences Acquisitions
+2019-09-22,0,False,Health Sciences Acquisitions
+2019-09-29,100,False,Health Sciences Acquisitions
+2019-10-06,0,False,Health Sciences Acquisitions
+2019-10-13,33,False,Health Sciences Acquisitions
+2019-10-20,0,False,Health Sciences Acquisitions
+2019-10-27,0,False,Health Sciences Acquisitions
+2019-11-03,0,False,Health Sciences Acquisitions
+2019-11-10,0,False,Health Sciences Acquisitions
+2019-11-17,0,False,Health Sciences Acquisitions
+2019-11-24,32,False,Health Sciences Acquisitions
+2019-12-01,0,False,Health Sciences Acquisitions
+2019-12-08,33,False,Health Sciences Acquisitions
+2019-12-15,0,False,Health Sciences Acquisitions
+2019-12-22,0,False,Health Sciences Acquisitions
+2019-12-29,0,False,Health Sciences Acquisitions
+2020-01-05,32,False,Health Sciences Acquisitions
+2020-01-12,0,False,Health Sciences Acquisitions
+2020-01-19,0,False,Health Sciences Acquisitions
+2020-01-26,0,False,Health Sciences Acquisitions
+2020-02-02,0,False,Health Sciences Acquisitions
+2020-02-09,0,False,Health Sciences Acquisitions

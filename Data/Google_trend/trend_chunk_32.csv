@@ -1,0 +1,209 @@
+date,SVI,isPartial,Issuer
+2020-05-10,0,False,Vistas Media Acquisition
+2020-05-17,0,False,Vistas Media Acquisition
+2020-05-24,0,False,Vistas Media Acquisition
+2020-05-31,0,False,Vistas Media Acquisition
+2020-06-07,0,False,Vistas Media Acquisition
+2020-06-14,0,False,Vistas Media Acquisition
+2020-06-21,9,False,Vistas Media Acquisition
+2020-06-28,0,False,Vistas Media Acquisition
+2020-07-05,0,False,Vistas Media Acquisition
+2020-07-12,18,False,Vistas Media Acquisition
+2020-07-19,0,False,Vistas Media Acquisition
+2020-07-26,0,False,Vistas Media Acquisition
+2020-08-02,80,False,Vistas Media Acquisition
+2020-08-09,26,False,Vistas Media Acquisition
+2020-08-16,18,False,Vistas Media Acquisition
+2020-08-23,9,False,Vistas Media Acquisition
+2020-08-30,0,False,Vistas Media Acquisition
+2020-09-06,9,False,Vistas Media Acquisition
+2020-09-13,26,False,Vistas Media Acquisition
+2020-09-20,0,False,Vistas Media Acquisition
+2020-09-27,0,False,Vistas Media Acquisition
+2020-10-04,0,False,Vistas Media Acquisition
+2020-10-11,0,False,Vistas Media Acquisition
+2020-10-18,0,False,Vistas Media Acquisition
+2020-10-25,0,False,Vistas Media Acquisition
+2020-11-01,9,False,Vistas Media Acquisition
+2020-11-08,0,False,Vistas Media Acquisition
+2020-11-15,0,False,Vistas Media Acquisition
+2020-11-22,0,False,Vistas Media Acquisition
+2020-11-29,0,False,Vistas Media Acquisition
+2020-12-06,0,False,Vistas Media Acquisition
+2020-12-13,0,False,Vistas Media Acquisition
+2020-12-20,0,False,Vistas Media Acquisition
+2020-12-27,0,False,Vistas Media Acquisition
+2021-01-03,9,False,Vistas Media Acquisition
+2021-01-10,0,False,Vistas Media Acquisition
+2021-01-17,0,False,Vistas Media Acquisition
+2021-01-24,9,False,Vistas Media Acquisition
+2021-01-31,0,False,Vistas Media Acquisition
+2021-02-07,0,False,Vistas Media Acquisition
+2021-02-14,9,False,Vistas Media Acquisition
+2021-02-21,9,False,Vistas Media Acquisition
+2021-02-28,100,False,Vistas Media Acquisition
+2021-03-07,45,False,Vistas Media Acquisition
+2021-03-14,8,False,Vistas Media Acquisition
+2021-03-21,9,False,Vistas Media Acquisition
+2021-03-28,9,False,Vistas Media Acquisition
+2021-04-04,0,False,Vistas Media Acquisition
+2021-04-11,0,False,Vistas Media Acquisition
+2021-04-18,0,False,Vistas Media Acquisition
+2021-04-25,9,False,Vistas Media Acquisition
+2021-05-02,0,False,Vistas Media Acquisition
+2020-05-17,3,False,Kubient
+2020-05-24,0,False,Kubient
+2020-05-31,3,False,Kubient
+2020-06-07,3,False,Kubient
+2020-06-14,3,False,Kubient
+2020-06-21,3,False,Kubient
+2020-06-28,6,False,Kubient
+2020-07-05,3,False,Kubient
+2020-07-12,0,False,Kubient
+2020-07-19,0,False,Kubient
+2020-07-26,7,False,Kubient
+2020-08-02,3,False,Kubient
+2020-08-09,92,False,Kubient
+2020-08-16,16,False,Kubient
+2020-08-23,22,False,Kubient
+2020-08-30,37,False,Kubient
+2020-09-06,6,False,Kubient
+2020-09-13,9,False,Kubient
+2020-09-20,25,False,Kubient
+2020-09-27,10,False,Kubient
+2020-10-04,6,False,Kubient
+2020-10-11,10,False,Kubient
+2020-10-18,3,False,Kubient
+2020-10-25,3,False,Kubient
+2020-11-01,6,False,Kubient
+2020-11-08,7,False,Kubient
+2020-11-15,3,False,Kubient
+2020-11-22,13,False,Kubient
+2020-11-29,42,False,Kubient
+2020-12-06,72,False,Kubient
+2020-12-13,50,False,Kubient
+2020-12-20,40,False,Kubient
+2020-12-27,25,False,Kubient
+2021-01-03,33,False,Kubient
+2021-01-10,23,False,Kubient
+2021-01-17,16,False,Kubient
+2021-01-24,16,False,Kubient
+2021-01-31,33,False,Kubient
+2021-02-07,46,False,Kubient
+2021-02-14,100,False,Kubient
+2021-02-21,59,False,Kubient
+2021-02-28,56,False,Kubient
+2021-03-07,59,False,Kubient
+2021-03-14,28,False,Kubient
+2021-03-21,39,False,Kubient
+2021-03-28,27,False,Kubient
+2021-04-04,13,False,Kubient
+2021-04-11,30,False,Kubient
+2021-04-18,23,False,Kubient
+2021-04-25,26,False,Kubient
+2021-05-02,20,False,Kubient
+2021-05-09,30,False,Kubient
+2020-05-17,38,False,FS Development
+2020-05-24,39,False,FS Development
+2020-05-31,22,False,FS Development
+2020-06-07,23,False,FS Development
+2020-06-14,23,False,FS Development
+2020-06-21,16,False,FS Development
+2020-06-28,16,False,FS Development
+2020-07-05,40,False,FS Development
+2020-07-12,16,False,FS Development
+2020-07-19,8,False,FS Development
+2020-07-26,17,False,FS Development
+2020-08-02,8,False,FS Development
+2020-08-09,48,False,FS Development
+2020-08-16,24,False,FS Development
+2020-08-23,32,False,FS Development
+2020-08-30,23,False,FS Development
+2020-09-06,40,False,FS Development
+2020-09-13,8,False,FS Development
+2020-09-20,8,False,FS Development
+2020-09-27,0,False,FS Development
+2020-10-04,16,False,FS Development
+2020-10-11,25,False,FS Development
+2020-10-18,34,False,FS Development
+2020-10-25,17,False,FS Development
+2020-11-01,16,False,FS Development
+2020-11-08,16,False,FS Development
+2020-11-15,25,False,FS Development
+2020-11-22,32,False,FS Development
+2020-11-29,16,False,FS Development
+2020-12-06,16,False,FS Development
+2020-12-13,17,False,FS Development
+2020-12-20,45,False,FS Development
+2020-12-27,18,False,FS Development
+2021-01-03,16,False,FS Development
+2021-01-10,49,False,FS Development
+2021-01-17,41,False,FS Development
+2021-01-24,8,False,FS Development
+2021-01-31,25,False,FS Development
+2021-02-07,33,False,FS Development
+2021-02-14,100,False,FS Development
+2021-02-21,33,False,FS Development
+2021-02-28,8,False,FS Development
+2021-03-07,49,False,FS Development
+2021-03-14,38,False,FS Development
+2021-03-21,33,False,FS Development
+2021-03-28,9,False,FS Development
+2021-04-04,8,False,FS Development
+2021-04-11,33,False,FS Development
+2021-04-18,33,False,FS Development
+2021-04-25,33,False,FS Development
+2021-05-02,8,False,FS Development
+2021-05-09,8,False,FS Development
+2020-05-17,3,False,KE Holdings
+2020-05-24,6,False,KE Holdings
+2020-05-31,0,False,KE Holdings
+2020-06-07,4,False,KE Holdings
+2020-06-14,1,False,KE Holdings
+2020-06-21,0,False,KE Holdings
+2020-06-28,1,False,KE Holdings
+2020-07-05,1,False,KE Holdings
+2020-07-12,2,False,KE Holdings
+2020-07-19,7,False,KE Holdings
+2020-07-26,7,False,KE Holdings
+2020-08-02,10,False,KE Holdings
+2020-08-09,100,False,KE Holdings
+2020-08-16,25,False,KE Holdings
+2020-08-23,27,False,KE Holdings
+2020-08-30,12,False,KE Holdings
+2020-09-06,12,False,KE Holdings
+2020-09-13,8,False,KE Holdings
+2020-09-20,8,False,KE Holdings
+2020-09-27,5,False,KE Holdings
+2020-10-04,6,False,KE Holdings
+2020-10-11,5,False,KE Holdings
+2020-10-18,4,False,KE Holdings
+2020-10-25,7,False,KE Holdings
+2020-11-01,6,False,KE Holdings
+2020-11-08,24,False,KE Holdings
+2020-11-15,30,False,KE Holdings
+2020-11-22,29,False,KE Holdings
+2020-11-29,13,False,KE Holdings
+2020-12-06,26,False,KE Holdings
+2020-12-13,16,False,KE Holdings
+2020-12-20,11,False,KE Holdings
+2020-12-27,30,False,KE Holdings
+2021-01-03,17,False,KE Holdings
+2021-01-10,7,False,KE Holdings
+2021-01-17,10,False,KE Holdings
+2021-01-24,14,False,KE Holdings
+2021-01-31,15,False,KE Holdings
+2021-02-07,11,False,KE Holdings
+2021-02-14,7,False,KE Holdings
+2021-02-21,5,False,KE Holdings
+2021-02-28,12,False,KE Holdings
+2021-03-07,11,False,KE Holdings
+2021-03-14,16,False,KE Holdings
+2021-03-21,7,False,KE Holdings
+2021-03-28,5,False,KE Holdings
+2021-04-04,10,False,KE Holdings
+2021-04-11,11,False,KE Holdings
+2021-04-18,10,False,KE Holdings
+2021-04-25,2,False,KE Holdings
+2021-05-02,6,False,KE Holdings
+2021-05-09,7,False,KE Holdings

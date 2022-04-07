@@ -1,0 +1,209 @@
+date,SVI,isPartial,Issuer
+2019-06-16,26,False,Cloudflare
+2019-06-23,40,False,Cloudflare
+2019-06-30,100,False,Cloudflare
+2019-07-07,30,False,Cloudflare
+2019-07-14,29,False,Cloudflare
+2019-07-21,27,False,Cloudflare
+2019-07-28,27,False,Cloudflare
+2019-08-04,38,False,Cloudflare
+2019-08-11,29,False,Cloudflare
+2019-08-18,28,False,Cloudflare
+2019-08-25,28,False,Cloudflare
+2019-09-01,29,False,Cloudflare
+2019-09-08,40,False,Cloudflare
+2019-09-15,35,False,Cloudflare
+2019-09-22,40,False,Cloudflare
+2019-09-29,35,False,Cloudflare
+2019-10-06,32,False,Cloudflare
+2019-10-13,30,False,Cloudflare
+2019-10-20,31,False,Cloudflare
+2019-10-27,27,False,Cloudflare
+2019-11-03,31,False,Cloudflare
+2019-11-10,29,False,Cloudflare
+2019-11-17,31,False,Cloudflare
+2019-11-24,25,False,Cloudflare
+2019-12-01,28,False,Cloudflare
+2019-12-08,26,False,Cloudflare
+2019-12-15,26,False,Cloudflare
+2019-12-22,21,False,Cloudflare
+2019-12-29,22,False,Cloudflare
+2020-01-05,27,False,Cloudflare
+2020-01-12,30,False,Cloudflare
+2020-01-19,27,False,Cloudflare
+2020-01-26,28,False,Cloudflare
+2020-02-02,29,False,Cloudflare
+2020-02-09,30,False,Cloudflare
+2020-02-16,33,False,Cloudflare
+2020-02-23,33,False,Cloudflare
+2020-03-01,31,False,Cloudflare
+2020-03-08,29,False,Cloudflare
+2020-03-15,30,False,Cloudflare
+2020-03-22,31,False,Cloudflare
+2020-03-29,39,False,Cloudflare
+2020-04-05,39,False,Cloudflare
+2020-04-12,42,False,Cloudflare
+2020-04-19,40,False,Cloudflare
+2020-04-26,38,False,Cloudflare
+2020-05-03,42,False,Cloudflare
+2020-05-10,40,False,Cloudflare
+2020-05-17,37,False,Cloudflare
+2020-05-24,36,False,Cloudflare
+2020-05-31,37,False,Cloudflare
+2020-06-07,36,False,Cloudflare
+2019-06-16,54,False,Experience Investment
+2019-06-23,64,False,Experience Investment
+2019-06-30,58,False,Experience Investment
+2019-07-07,35,False,Experience Investment
+2019-07-14,75,False,Experience Investment
+2019-07-21,63,False,Experience Investment
+2019-07-28,80,False,Experience Investment
+2019-08-04,70,False,Experience Investment
+2019-08-11,58,False,Experience Investment
+2019-08-18,54,False,Experience Investment
+2019-08-25,78,False,Experience Investment
+2019-09-01,100,False,Experience Investment
+2019-09-08,83,False,Experience Investment
+2019-09-15,77,False,Experience Investment
+2019-09-22,72,False,Experience Investment
+2019-09-29,82,False,Experience Investment
+2019-10-06,61,False,Experience Investment
+2019-10-13,69,False,Experience Investment
+2019-10-20,68,False,Experience Investment
+2019-10-27,75,False,Experience Investment
+2019-11-03,71,False,Experience Investment
+2019-11-10,71,False,Experience Investment
+2019-11-17,82,False,Experience Investment
+2019-11-24,68,False,Experience Investment
+2019-12-01,69,False,Experience Investment
+2019-12-08,75,False,Experience Investment
+2019-12-15,70,False,Experience Investment
+2019-12-22,29,False,Experience Investment
+2019-12-29,35,False,Experience Investment
+2020-01-05,76,False,Experience Investment
+2020-01-12,73,False,Experience Investment
+2020-01-19,51,False,Experience Investment
+2020-01-26,78,False,Experience Investment
+2020-02-02,66,False,Experience Investment
+2020-02-09,82,False,Experience Investment
+2020-02-16,85,False,Experience Investment
+2020-02-23,75,False,Experience Investment
+2020-03-01,82,False,Experience Investment
+2020-03-08,83,False,Experience Investment
+2020-03-15,67,False,Experience Investment
+2020-03-22,65,False,Experience Investment
+2020-03-29,90,False,Experience Investment
+2020-04-05,80,False,Experience Investment
+2020-04-12,72,False,Experience Investment
+2020-04-19,85,False,Experience Investment
+2020-04-26,77,False,Experience Investment
+2020-05-03,69,False,Experience Investment
+2020-05-10,67,False,Experience Investment
+2020-05-17,79,False,Experience Investment
+2020-05-24,80,False,Experience Investment
+2020-05-31,85,False,Experience Investment
+2020-06-07,86,False,Experience Investment
+2019-06-16,0,False,Satsuma Pharmaceuticals
+2019-06-23,0,False,Satsuma Pharmaceuticals
+2019-06-30,0,False,Satsuma Pharmaceuticals
+2019-07-07,0,False,Satsuma Pharmaceuticals
+2019-07-14,0,False,Satsuma Pharmaceuticals
+2019-07-21,0,False,Satsuma Pharmaceuticals
+2019-07-28,0,False,Satsuma Pharmaceuticals
+2019-08-04,0,False,Satsuma Pharmaceuticals
+2019-08-11,0,False,Satsuma Pharmaceuticals
+2019-08-18,31,False,Satsuma Pharmaceuticals
+2019-08-25,10,False,Satsuma Pharmaceuticals
+2019-09-01,100,False,Satsuma Pharmaceuticals
+2019-09-08,39,False,Satsuma Pharmaceuticals
+2019-09-15,10,False,Satsuma Pharmaceuticals
+2019-09-22,29,False,Satsuma Pharmaceuticals
+2019-09-29,10,False,Satsuma Pharmaceuticals
+2019-10-06,0,False,Satsuma Pharmaceuticals
+2019-10-13,0,False,Satsuma Pharmaceuticals
+2019-10-20,28,False,Satsuma Pharmaceuticals
+2019-10-27,19,False,Satsuma Pharmaceuticals
+2019-11-03,9,False,Satsuma Pharmaceuticals
+2019-11-10,9,False,Satsuma Pharmaceuticals
+2019-11-17,0,False,Satsuma Pharmaceuticals
+2019-11-24,9,False,Satsuma Pharmaceuticals
+2019-12-01,10,False,Satsuma Pharmaceuticals
+2019-12-08,0,False,Satsuma Pharmaceuticals
+2019-12-15,0,False,Satsuma Pharmaceuticals
+2019-12-22,10,False,Satsuma Pharmaceuticals
+2019-12-29,0,False,Satsuma Pharmaceuticals
+2020-01-05,0,False,Satsuma Pharmaceuticals
+2020-01-12,9,False,Satsuma Pharmaceuticals
+2020-01-19,27,False,Satsuma Pharmaceuticals
+2020-01-26,46,False,Satsuma Pharmaceuticals
+2020-02-02,27,False,Satsuma Pharmaceuticals
+2020-02-09,36,False,Satsuma Pharmaceuticals
+2020-02-16,36,False,Satsuma Pharmaceuticals
+2020-02-23,44,False,Satsuma Pharmaceuticals
+2020-03-01,26,False,Satsuma Pharmaceuticals
+2020-03-08,43,False,Satsuma Pharmaceuticals
+2020-03-15,17,False,Satsuma Pharmaceuticals
+2020-03-22,25,False,Satsuma Pharmaceuticals
+2020-03-29,25,False,Satsuma Pharmaceuticals
+2020-04-05,26,False,Satsuma Pharmaceuticals
+2020-04-12,16,False,Satsuma Pharmaceuticals
+2020-04-19,8,False,Satsuma Pharmaceuticals
+2020-04-26,0,False,Satsuma Pharmaceuticals
+2020-05-03,25,False,Satsuma Pharmaceuticals
+2020-05-10,17,False,Satsuma Pharmaceuticals
+2020-05-17,42,False,Satsuma Pharmaceuticals
+2020-05-24,9,False,Satsuma Pharmaceuticals
+2020-05-31,33,False,Satsuma Pharmaceuticals
+2020-06-07,0,False,Satsuma Pharmaceuticals
+2019-06-23,0,False,Apex Technology Acquisition
+2019-06-30,0,False,Apex Technology Acquisition
+2019-07-07,0,False,Apex Technology Acquisition
+2019-07-14,0,False,Apex Technology Acquisition
+2019-07-21,0,False,Apex Technology Acquisition
+2019-07-28,22,False,Apex Technology Acquisition
+2019-08-04,0,False,Apex Technology Acquisition
+2019-08-11,22,False,Apex Technology Acquisition
+2019-08-18,0,False,Apex Technology Acquisition
+2019-08-25,0,False,Apex Technology Acquisition
+2019-09-01,0,False,Apex Technology Acquisition
+2019-09-08,41,False,Apex Technology Acquisition
+2019-09-15,61,False,Apex Technology Acquisition
+2019-09-22,100,False,Apex Technology Acquisition
+2019-09-29,0,False,Apex Technology Acquisition
+2019-10-06,0,False,Apex Technology Acquisition
+2019-10-13,0,False,Apex Technology Acquisition
+2019-10-20,0,False,Apex Technology Acquisition
+2019-10-27,20,False,Apex Technology Acquisition
+2019-11-03,20,False,Apex Technology Acquisition
+2019-11-10,0,False,Apex Technology Acquisition
+2019-11-17,0,False,Apex Technology Acquisition
+2019-11-24,0,False,Apex Technology Acquisition
+2019-12-01,20,False,Apex Technology Acquisition
+2019-12-08,0,False,Apex Technology Acquisition
+2019-12-15,0,False,Apex Technology Acquisition
+2019-12-22,0,False,Apex Technology Acquisition
+2019-12-29,0,False,Apex Technology Acquisition
+2020-01-05,0,False,Apex Technology Acquisition
+2020-01-12,0,False,Apex Technology Acquisition
+2020-01-19,19,False,Apex Technology Acquisition
+2020-01-26,0,False,Apex Technology Acquisition
+2020-02-02,0,False,Apex Technology Acquisition
+2020-02-09,0,False,Apex Technology Acquisition
+2020-02-16,0,False,Apex Technology Acquisition
+2020-02-23,18,False,Apex Technology Acquisition
+2020-03-01,0,False,Apex Technology Acquisition
+2020-03-08,0,False,Apex Technology Acquisition
+2020-03-15,0,False,Apex Technology Acquisition
+2020-03-22,0,False,Apex Technology Acquisition
+2020-03-29,0,False,Apex Technology Acquisition
+2020-04-05,0,False,Apex Technology Acquisition
+2020-04-12,0,False,Apex Technology Acquisition
+2020-04-19,17,False,Apex Technology Acquisition
+2020-04-26,0,False,Apex Technology Acquisition
+2020-05-03,17,False,Apex Technology Acquisition
+2020-05-10,17,False,Apex Technology Acquisition
+2020-05-17,17,False,Apex Technology Acquisition
+2020-05-24,0,False,Apex Technology Acquisition
+2020-05-31,17,False,Apex Technology Acquisition
+2020-06-07,0,False,Apex Technology Acquisition
+2020-06-14,18,False,Apex Technology Acquisition

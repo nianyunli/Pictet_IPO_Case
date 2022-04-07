@@ -1,0 +1,261 @@
+date,SVI,isPartial,Issuer
+2017-07-09,0,False,Black Ridge Acquisition
+2017-07-16,0,False,Black Ridge Acquisition
+2017-07-23,0,False,Black Ridge Acquisition
+2017-07-30,0,False,Black Ridge Acquisition
+2017-08-06,0,False,Black Ridge Acquisition
+2017-08-13,0,False,Black Ridge Acquisition
+2017-08-20,0,False,Black Ridge Acquisition
+2017-08-27,0,False,Black Ridge Acquisition
+2017-09-03,0,False,Black Ridge Acquisition
+2017-09-10,0,False,Black Ridge Acquisition
+2017-09-17,0,False,Black Ridge Acquisition
+2017-09-24,15,False,Black Ridge Acquisition
+2017-10-01,100,False,Black Ridge Acquisition
+2017-10-08,72,False,Black Ridge Acquisition
+2017-10-15,0,False,Black Ridge Acquisition
+2017-10-22,0,False,Black Ridge Acquisition
+2017-10-29,0,False,Black Ridge Acquisition
+2017-11-05,0,False,Black Ridge Acquisition
+2017-11-12,0,False,Black Ridge Acquisition
+2017-11-19,0,False,Black Ridge Acquisition
+2017-11-26,0,False,Black Ridge Acquisition
+2017-12-03,0,False,Black Ridge Acquisition
+2017-12-10,0,False,Black Ridge Acquisition
+2017-12-17,0,False,Black Ridge Acquisition
+2017-12-24,0,False,Black Ridge Acquisition
+2017-12-31,0,False,Black Ridge Acquisition
+2018-01-07,0,False,Black Ridge Acquisition
+2018-01-14,0,False,Black Ridge Acquisition
+2018-01-21,0,False,Black Ridge Acquisition
+2018-01-28,0,False,Black Ridge Acquisition
+2018-02-04,13,False,Black Ridge Acquisition
+2018-02-11,14,False,Black Ridge Acquisition
+2018-02-18,0,False,Black Ridge Acquisition
+2018-02-25,0,False,Black Ridge Acquisition
+2018-03-04,0,False,Black Ridge Acquisition
+2018-03-11,0,False,Black Ridge Acquisition
+2018-03-18,0,False,Black Ridge Acquisition
+2018-03-25,0,False,Black Ridge Acquisition
+2018-04-01,0,False,Black Ridge Acquisition
+2018-04-08,0,False,Black Ridge Acquisition
+2018-04-15,13,False,Black Ridge Acquisition
+2018-04-22,0,False,Black Ridge Acquisition
+2018-04-29,0,False,Black Ridge Acquisition
+2018-05-06,0,False,Black Ridge Acquisition
+2018-05-13,14,False,Black Ridge Acquisition
+2018-05-20,0,False,Black Ridge Acquisition
+2018-05-27,0,False,Black Ridge Acquisition
+2018-06-03,0,False,Black Ridge Acquisition
+2018-06-10,0,False,Black Ridge Acquisition
+2018-06-17,0,False,Black Ridge Acquisition
+2018-06-24,13,False,Black Ridge Acquisition
+2018-07-01,0,False,Black Ridge Acquisition
+2017-07-09,0,False,Rhythm Pharmaceuticals
+2017-07-16,0,False,Rhythm Pharmaceuticals
+2017-07-23,3,False,Rhythm Pharmaceuticals
+2017-07-30,0,False,Rhythm Pharmaceuticals
+2017-08-06,3,False,Rhythm Pharmaceuticals
+2017-08-13,3,False,Rhythm Pharmaceuticals
+2017-08-20,3,False,Rhythm Pharmaceuticals
+2017-08-27,3,False,Rhythm Pharmaceuticals
+2017-09-03,10,False,Rhythm Pharmaceuticals
+2017-09-10,3,False,Rhythm Pharmaceuticals
+2017-09-17,10,False,Rhythm Pharmaceuticals
+2017-09-24,33,False,Rhythm Pharmaceuticals
+2017-10-01,100,False,Rhythm Pharmaceuticals
+2017-10-08,29,False,Rhythm Pharmaceuticals
+2017-10-15,33,False,Rhythm Pharmaceuticals
+2017-10-22,3,False,Rhythm Pharmaceuticals
+2017-10-29,19,False,Rhythm Pharmaceuticals
+2017-11-05,3,False,Rhythm Pharmaceuticals
+2017-11-12,12,False,Rhythm Pharmaceuticals
+2017-11-19,0,False,Rhythm Pharmaceuticals
+2017-11-26,19,False,Rhythm Pharmaceuticals
+2017-12-03,16,False,Rhythm Pharmaceuticals
+2017-12-10,6,False,Rhythm Pharmaceuticals
+2017-12-17,3,False,Rhythm Pharmaceuticals
+2017-12-24,0,False,Rhythm Pharmaceuticals
+2017-12-31,7,False,Rhythm Pharmaceuticals
+2018-01-07,9,False,Rhythm Pharmaceuticals
+2018-01-14,15,False,Rhythm Pharmaceuticals
+2018-01-21,9,False,Rhythm Pharmaceuticals
+2018-01-28,15,False,Rhythm Pharmaceuticals
+2018-02-04,12,False,Rhythm Pharmaceuticals
+2018-02-11,6,False,Rhythm Pharmaceuticals
+2018-02-18,0,False,Rhythm Pharmaceuticals
+2018-02-25,0,False,Rhythm Pharmaceuticals
+2018-03-04,0,False,Rhythm Pharmaceuticals
+2018-03-11,9,False,Rhythm Pharmaceuticals
+2018-03-18,9,False,Rhythm Pharmaceuticals
+2018-03-25,16,False,Rhythm Pharmaceuticals
+2018-04-01,9,False,Rhythm Pharmaceuticals
+2018-04-08,3,False,Rhythm Pharmaceuticals
+2018-04-15,9,False,Rhythm Pharmaceuticals
+2018-04-22,6,False,Rhythm Pharmaceuticals
+2018-04-29,6,False,Rhythm Pharmaceuticals
+2018-05-06,6,False,Rhythm Pharmaceuticals
+2018-05-13,9,False,Rhythm Pharmaceuticals
+2018-05-20,6,False,Rhythm Pharmaceuticals
+2018-05-27,6,False,Rhythm Pharmaceuticals
+2018-06-03,9,False,Rhythm Pharmaceuticals
+2018-06-10,3,False,Rhythm Pharmaceuticals
+2018-06-17,15,False,Rhythm Pharmaceuticals
+2018-06-24,12,False,Rhythm Pharmaceuticals
+2018-07-01,12,False,Rhythm Pharmaceuticals
+2017-07-09,52,False,Switch
+2017-07-16,53,False,Switch
+2017-07-23,54,False,Switch
+2017-07-30,54,False,Switch
+2017-08-06,51,False,Switch
+2017-08-13,51,False,Switch
+2017-08-20,50,False,Switch
+2017-08-27,49,False,Switch
+2017-09-03,50,False,Switch
+2017-09-10,54,False,Switch
+2017-09-17,54,False,Switch
+2017-09-24,54,False,Switch
+2017-10-01,53,False,Switch
+2017-10-08,54,False,Switch
+2017-10-15,53,False,Switch
+2017-10-22,59,False,Switch
+2017-10-29,66,False,Switch
+2017-11-05,68,False,Switch
+2017-11-12,74,False,Switch
+2017-11-19,87,False,Switch
+2017-11-26,77,False,Switch
+2017-12-03,72,False,Switch
+2017-12-10,73,False,Switch
+2017-12-17,76,False,Switch
+2017-12-24,100,False,Switch
+2017-12-31,71,False,Switch
+2018-01-07,66,False,Switch
+2018-01-14,62,False,Switch
+2018-01-21,59,False,Switch
+2018-01-28,58,False,Switch
+2018-02-04,56,False,Switch
+2018-02-11,59,False,Switch
+2018-02-18,57,False,Switch
+2018-02-25,57,False,Switch
+2018-03-04,62,False,Switch
+2018-03-11,60,False,Switch
+2018-03-18,59,False,Switch
+2018-03-25,57,False,Switch
+2018-04-01,57,False,Switch
+2018-04-08,54,False,Switch
+2018-04-15,52,False,Switch
+2018-04-22,54,False,Switch
+2018-04-29,55,False,Switch
+2018-05-06,54,False,Switch
+2018-05-13,57,False,Switch
+2018-05-20,55,False,Switch
+2018-05-27,63,False,Switch
+2018-06-03,58,False,Switch
+2018-06-10,78,False,Switch
+2018-06-17,66,False,Switch
+2018-06-24,63,False,Switch
+2018-07-01,60,False,Switch
+2017-07-16,56,False,CarGurus
+2017-07-23,60,False,CarGurus
+2017-07-30,66,False,CarGurus
+2017-08-06,65,False,CarGurus
+2017-08-13,63,False,CarGurus
+2017-08-20,63,False,CarGurus
+2017-08-27,61,False,CarGurus
+2017-09-03,60,False,CarGurus
+2017-09-10,60,False,CarGurus
+2017-09-17,70,False,CarGurus
+2017-09-24,73,False,CarGurus
+2017-10-01,69,False,CarGurus
+2017-10-08,72,False,CarGurus
+2017-10-15,70,False,CarGurus
+2017-10-22,68,False,CarGurus
+2017-10-29,62,False,CarGurus
+2017-11-05,65,False,CarGurus
+2017-11-12,65,False,CarGurus
+2017-11-19,56,False,CarGurus
+2017-11-26,56,False,CarGurus
+2017-12-03,56,False,CarGurus
+2017-12-10,55,False,CarGurus
+2017-12-17,58,False,CarGurus
+2017-12-24,66,False,CarGurus
+2017-12-31,69,False,CarGurus
+2018-01-07,74,False,CarGurus
+2018-01-14,81,False,CarGurus
+2018-01-21,83,False,CarGurus
+2018-01-28,92,False,CarGurus
+2018-02-04,87,False,CarGurus
+2018-02-11,89,False,CarGurus
+2018-02-18,99,False,CarGurus
+2018-02-25,94,False,CarGurus
+2018-03-04,92,False,CarGurus
+2018-03-11,90,False,CarGurus
+2018-03-18,93,False,CarGurus
+2018-03-25,100,False,CarGurus
+2018-04-01,93,False,CarGurus
+2018-04-08,87,False,CarGurus
+2018-04-15,91,False,CarGurus
+2018-04-22,94,False,CarGurus
+2018-04-29,91,False,CarGurus
+2018-05-06,89,False,CarGurus
+2018-05-13,90,False,CarGurus
+2018-05-20,89,False,CarGurus
+2018-05-27,88,False,CarGurus
+2018-06-03,87,False,CarGurus
+2018-06-10,90,False,CarGurus
+2018-06-17,90,False,CarGurus
+2018-06-24,89,False,CarGurus
+2018-07-01,83,False,CarGurus
+2018-07-08,87,False,CarGurus
+2017-07-16,16,False,OrthoPediatrics
+2017-07-23,16,False,OrthoPediatrics
+2017-07-30,32,False,OrthoPediatrics
+2017-08-06,20,False,OrthoPediatrics
+2017-08-13,12,False,OrthoPediatrics
+2017-08-20,16,False,OrthoPediatrics
+2017-08-27,16,False,OrthoPediatrics
+2017-09-03,12,False,OrthoPediatrics
+2017-09-10,27,False,OrthoPediatrics
+2017-09-17,31,False,OrthoPediatrics
+2017-09-24,31,False,OrthoPediatrics
+2017-10-01,38,False,OrthoPediatrics
+2017-10-08,100,False,OrthoPediatrics
+2017-10-15,46,False,OrthoPediatrics
+2017-10-22,34,False,OrthoPediatrics
+2017-10-29,15,False,OrthoPediatrics
+2017-11-05,41,False,OrthoPediatrics
+2017-11-12,33,False,OrthoPediatrics
+2017-11-19,11,False,OrthoPediatrics
+2017-11-26,22,False,OrthoPediatrics
+2017-12-03,11,False,OrthoPediatrics
+2017-12-10,15,False,OrthoPediatrics
+2017-12-17,16,False,OrthoPediatrics
+2017-12-24,4,False,OrthoPediatrics
+2017-12-31,19,False,OrthoPediatrics
+2018-01-07,26,False,OrthoPediatrics
+2018-01-14,18,False,OrthoPediatrics
+2018-01-21,7,False,OrthoPediatrics
+2018-01-28,29,False,OrthoPediatrics
+2018-02-04,14,False,OrthoPediatrics
+2018-02-11,29,False,OrthoPediatrics
+2018-02-18,4,False,OrthoPediatrics
+2018-02-25,18,False,OrthoPediatrics
+2018-03-04,11,False,OrthoPediatrics
+2018-03-11,7,False,OrthoPediatrics
+2018-03-18,18,False,OrthoPediatrics
+2018-03-25,22,False,OrthoPediatrics
+2018-04-01,11,False,OrthoPediatrics
+2018-04-08,25,False,OrthoPediatrics
+2018-04-15,29,False,OrthoPediatrics
+2018-04-22,14,False,OrthoPediatrics
+2018-04-29,18,False,OrthoPediatrics
+2018-05-06,18,False,OrthoPediatrics
+2018-05-13,18,False,OrthoPediatrics
+2018-05-20,22,False,OrthoPediatrics
+2018-05-27,7,False,OrthoPediatrics
+2018-06-03,25,False,OrthoPediatrics
+2018-06-10,25,False,OrthoPediatrics
+2018-06-17,32,False,OrthoPediatrics
+2018-06-24,11,False,OrthoPediatrics
+2018-07-01,4,False,OrthoPediatrics
+2018-07-08,7,False,OrthoPediatrics

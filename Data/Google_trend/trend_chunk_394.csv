@@ -1,0 +1,209 @@
+date,SVI,isPartial,Issuer
+2010-03-21,71,False,BroadSoft
+2010-03-28,30,False,BroadSoft
+2010-04-04,49,False,BroadSoft
+2010-04-11,61,False,BroadSoft
+2010-04-18,57,False,BroadSoft
+2010-04-25,52,False,BroadSoft
+2010-05-02,33,False,BroadSoft
+2010-05-09,43,False,BroadSoft
+2010-05-16,62,False,BroadSoft
+2010-05-23,50,False,BroadSoft
+2010-05-30,30,False,BroadSoft
+2010-06-06,88,False,BroadSoft
+2010-06-13,100,False,BroadSoft
+2010-06-20,53,False,BroadSoft
+2010-06-27,53,False,BroadSoft
+2010-07-04,42,False,BroadSoft
+2010-07-11,34,False,BroadSoft
+2010-07-18,56,False,BroadSoft
+2010-07-25,46,False,BroadSoft
+2010-08-01,47,False,BroadSoft
+2010-08-08,37,False,BroadSoft
+2010-08-15,28,False,BroadSoft
+2010-08-22,66,False,BroadSoft
+2010-08-29,38,False,BroadSoft
+2010-09-05,39,False,BroadSoft
+2010-09-12,60,False,BroadSoft
+2010-09-19,65,False,BroadSoft
+2010-09-26,47,False,BroadSoft
+2010-10-03,64,False,BroadSoft
+2010-10-10,53,False,BroadSoft
+2010-10-17,60,False,BroadSoft
+2010-10-24,73,False,BroadSoft
+2010-10-31,38,False,BroadSoft
+2010-11-07,51,False,BroadSoft
+2010-11-14,41,False,BroadSoft
+2010-11-21,35,False,BroadSoft
+2010-11-28,31,False,BroadSoft
+2010-12-05,57,False,BroadSoft
+2010-12-12,40,False,BroadSoft
+2010-12-19,33,False,BroadSoft
+2010-12-26,43,False,BroadSoft
+2011-01-02,26,False,BroadSoft
+2011-01-09,40,False,BroadSoft
+2011-01-16,47,False,BroadSoft
+2011-01-23,46,False,BroadSoft
+2011-01-30,50,False,BroadSoft
+2011-02-06,68,False,BroadSoft
+2011-02-13,36,False,BroadSoft
+2011-02-20,33,False,BroadSoft
+2011-02-27,60,False,BroadSoft
+2011-03-06,82,False,BroadSoft
+2011-03-13,63,False,BroadSoft
+2010-03-21,49,False,Higher One Holdings
+2010-03-28,0,False,Higher One Holdings
+2010-04-04,0,False,Higher One Holdings
+2010-04-11,0,False,Higher One Holdings
+2010-04-18,0,False,Higher One Holdings
+2010-04-25,0,False,Higher One Holdings
+2010-05-02,25,False,Higher One Holdings
+2010-05-09,0,False,Higher One Holdings
+2010-05-16,0,False,Higher One Holdings
+2010-05-23,0,False,Higher One Holdings
+2010-05-30,0,False,Higher One Holdings
+2010-06-06,25,False,Higher One Holdings
+2010-06-13,76,False,Higher One Holdings
+2010-06-20,100,False,Higher One Holdings
+2010-06-27,0,False,Higher One Holdings
+2010-07-04,0,False,Higher One Holdings
+2010-07-11,0,False,Higher One Holdings
+2010-07-18,24,False,Higher One Holdings
+2010-07-25,47,False,Higher One Holdings
+2010-08-01,24,False,Higher One Holdings
+2010-08-08,24,False,Higher One Holdings
+2010-08-15,23,False,Higher One Holdings
+2010-08-22,0,False,Higher One Holdings
+2010-08-29,0,False,Higher One Holdings
+2010-09-05,0,False,Higher One Holdings
+2010-09-12,22,False,Higher One Holdings
+2010-09-19,86,False,Higher One Holdings
+2010-09-26,0,False,Higher One Holdings
+2010-10-03,0,False,Higher One Holdings
+2010-10-10,43,False,Higher One Holdings
+2010-10-17,21,False,Higher One Holdings
+2010-10-24,0,False,Higher One Holdings
+2010-10-31,0,False,Higher One Holdings
+2010-11-07,0,False,Higher One Holdings
+2010-11-14,0,False,Higher One Holdings
+2010-11-21,20,False,Higher One Holdings
+2010-11-28,0,False,Higher One Holdings
+2010-12-05,20,False,Higher One Holdings
+2010-12-12,0,False,Higher One Holdings
+2010-12-19,0,False,Higher One Holdings
+2010-12-26,0,False,Higher One Holdings
+2011-01-02,0,False,Higher One Holdings
+2011-01-09,38,False,Higher One Holdings
+2011-01-16,0,False,Higher One Holdings
+2011-01-23,19,False,Higher One Holdings
+2011-01-30,0,False,Higher One Holdings
+2011-02-06,0,False,Higher One Holdings
+2011-02-13,18,False,Higher One Holdings
+2011-02-20,0,False,Higher One Holdings
+2011-02-27,0,False,Higher One Holdings
+2011-03-06,0,False,Higher One Holdings
+2011-03-13,0,False,Higher One Holdings
+2010-03-21,10,False,Oasis Petroleum
+2010-03-28,11,False,Oasis Petroleum
+2010-04-04,16,False,Oasis Petroleum
+2010-04-11,5,False,Oasis Petroleum
+2010-04-18,5,False,Oasis Petroleum
+2010-04-25,10,False,Oasis Petroleum
+2010-05-02,15,False,Oasis Petroleum
+2010-05-09,5,False,Oasis Petroleum
+2010-05-16,5,False,Oasis Petroleum
+2010-05-23,11,False,Oasis Petroleum
+2010-05-30,37,False,Oasis Petroleum
+2010-06-06,36,False,Oasis Petroleum
+2010-06-13,100,False,Oasis Petroleum
+2010-06-20,21,False,Oasis Petroleum
+2010-06-27,5,False,Oasis Petroleum
+2010-07-04,5,False,Oasis Petroleum
+2010-07-11,24,False,Oasis Petroleum
+2010-07-18,24,False,Oasis Petroleum
+2010-07-25,10,False,Oasis Petroleum
+2010-08-01,20,False,Oasis Petroleum
+2010-08-08,20,False,Oasis Petroleum
+2010-08-15,10,False,Oasis Petroleum
+2010-08-22,14,False,Oasis Petroleum
+2010-08-29,14,False,Oasis Petroleum
+2010-09-05,28,False,Oasis Petroleum
+2010-09-12,18,False,Oasis Petroleum
+2010-09-19,18,False,Oasis Petroleum
+2010-09-26,52,False,Oasis Petroleum
+2010-10-03,9,False,Oasis Petroleum
+2010-10-10,18,False,Oasis Petroleum
+2010-10-17,13,False,Oasis Petroleum
+2010-10-24,13,False,Oasis Petroleum
+2010-10-31,13,False,Oasis Petroleum
+2010-11-07,29,False,Oasis Petroleum
+2010-11-14,4,False,Oasis Petroleum
+2010-11-21,17,False,Oasis Petroleum
+2010-11-28,33,False,Oasis Petroleum
+2010-12-05,16,False,Oasis Petroleum
+2010-12-12,13,False,Oasis Petroleum
+2010-12-19,9,False,Oasis Petroleum
+2010-12-26,5,False,Oasis Petroleum
+2011-01-02,12,False,Oasis Petroleum
+2011-01-09,28,False,Oasis Petroleum
+2011-01-16,27,False,Oasis Petroleum
+2011-01-23,39,False,Oasis Petroleum
+2011-01-30,26,False,Oasis Petroleum
+2011-02-06,35,False,Oasis Petroleum
+2011-02-13,4,False,Oasis Petroleum
+2011-02-20,34,False,Oasis Petroleum
+2011-02-27,45,False,Oasis Petroleum
+2011-03-06,38,False,Oasis Petroleum
+2011-03-13,31,False,Oasis Petroleum
+2010-03-21,28,False,Motricity
+2010-03-28,13,False,Motricity
+2010-04-04,16,False,Motricity
+2010-04-11,10,False,Motricity
+2010-04-18,20,False,Motricity
+2010-04-25,16,False,Motricity
+2010-05-02,16,False,Motricity
+2010-05-09,21,False,Motricity
+2010-05-16,22,False,Motricity
+2010-05-23,19,False,Motricity
+2010-05-30,36,False,Motricity
+2010-06-06,39,False,Motricity
+2010-06-13,100,False,Motricity
+2010-06-20,49,False,Motricity
+2010-06-27,35,False,Motricity
+2010-07-04,26,False,Motricity
+2010-07-11,27,False,Motricity
+2010-07-18,29,False,Motricity
+2010-07-25,23,False,Motricity
+2010-08-01,2,False,Motricity
+2010-08-08,19,False,Motricity
+2010-08-15,11,False,Motricity
+2010-08-22,19,False,Motricity
+2010-08-29,18,False,Motricity
+2010-09-05,9,False,Motricity
+2010-09-12,36,False,Motricity
+2010-09-19,19,False,Motricity
+2010-09-26,21,False,Motricity
+2010-10-03,12,False,Motricity
+2010-10-10,28,False,Motricity
+2010-10-17,32,False,Motricity
+2010-10-24,52,False,Motricity
+2010-10-31,26,False,Motricity
+2010-11-07,48,False,Motricity
+2010-11-14,30,False,Motricity
+2010-11-21,20,False,Motricity
+2010-11-28,40,False,Motricity
+2010-12-05,47,False,Motricity
+2010-12-12,26,False,Motricity
+2010-12-19,20,False,Motricity
+2010-12-26,17,False,Motricity
+2011-01-02,29,False,Motricity
+2011-01-09,47,False,Motricity
+2011-01-16,42,False,Motricity
+2011-01-23,37,False,Motricity
+2011-01-30,47,False,Motricity
+2011-02-06,73,False,Motricity
+2011-02-13,30,False,Motricity
+2011-02-20,27,False,Motricity
+2011-02-27,32,False,Motricity
+2011-03-06,33,False,Motricity
+2011-03-13,29,False,Motricity

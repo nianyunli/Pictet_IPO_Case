@@ -1,0 +1,211 @@
+date,SVI,isPartial,Issuer
+2004-07-04,54,False,CallWave
+2004-07-11,42,False,CallWave
+2004-07-18,42,False,CallWave
+2004-07-25,66,False,CallWave
+2004-08-01,72,False,CallWave
+2004-08-08,100,False,CallWave
+2004-08-15,58,False,CallWave
+2004-08-22,61,False,CallWave
+2004-08-29,97,False,CallWave
+2004-09-05,43,False,CallWave
+2004-09-12,57,False,CallWave
+2004-09-19,75,False,CallWave
+2004-09-26,40,False,CallWave
+2004-10-03,56,False,CallWave
+2004-10-10,55,False,CallWave
+2004-10-17,58,False,CallWave
+2004-10-24,51,False,CallWave
+2004-10-31,64,False,CallWave
+2004-11-07,50,False,CallWave
+2004-11-14,55,False,CallWave
+2004-11-21,53,False,CallWave
+2004-11-28,46,False,CallWave
+2004-12-05,68,False,CallWave
+2004-12-12,61,False,CallWave
+2004-12-19,66,False,CallWave
+2004-12-26,71,False,CallWave
+2005-01-02,42,False,CallWave
+2005-01-09,47,False,CallWave
+2005-01-16,55,False,CallWave
+2005-01-23,80,False,CallWave
+2005-01-30,62,False,CallWave
+2005-02-06,42,False,CallWave
+2005-02-13,53,False,CallWave
+2005-02-20,39,False,CallWave
+2005-02-27,45,False,CallWave
+2005-03-06,19,False,CallWave
+2005-03-13,47,False,CallWave
+2005-03-20,26,False,CallWave
+2005-03-27,26,False,CallWave
+2005-04-03,11,False,CallWave
+2005-04-10,31,False,CallWave
+2005-04-17,47,False,CallWave
+2005-04-24,30,False,CallWave
+2005-05-01,39,False,CallWave
+2005-05-08,44,False,CallWave
+2005-05-15,30,False,CallWave
+2005-05-22,38,False,CallWave
+2005-05-29,39,False,CallWave
+2005-06-05,33,False,CallWave
+2005-06-12,49,False,CallWave
+2005-06-19,27,False,CallWave
+2005-06-26,46,False,CallWave
+2004-07-04,25,False,PeopleSupport
+2004-07-11,0,False,PeopleSupport
+2004-07-18,49,False,PeopleSupport
+2004-07-25,0,False,PeopleSupport
+2004-08-01,50,False,PeopleSupport
+2004-08-08,0,False,PeopleSupport
+2004-08-15,0,False,PeopleSupport
+2004-08-22,23,False,PeopleSupport
+2004-08-29,44,False,PeopleSupport
+2004-09-05,0,False,PeopleSupport
+2004-09-12,0,False,PeopleSupport
+2004-09-19,21,False,PeopleSupport
+2004-09-26,83,False,PeopleSupport
+2004-10-03,21,False,PeopleSupport
+2004-10-10,100,False,PeopleSupport
+2004-10-17,40,False,PeopleSupport
+2004-10-24,47,False,PeopleSupport
+2004-10-31,40,False,PeopleSupport
+2004-11-07,0,False,PeopleSupport
+2004-11-14,45,False,PeopleSupport
+2004-11-21,20,False,PeopleSupport
+2004-11-28,19,False,PeopleSupport
+2004-12-05,19,False,PeopleSupport
+2004-12-12,19,False,PeopleSupport
+2004-12-19,23,False,PeopleSupport
+2004-12-26,0,False,PeopleSupport
+2005-01-02,0,False,PeopleSupport
+2005-01-09,35,False,PeopleSupport
+2005-01-16,0,False,PeopleSupport
+2005-01-23,17,False,PeopleSupport
+2005-01-30,0,False,PeopleSupport
+2005-02-06,35,False,PeopleSupport
+2005-02-13,17,False,PeopleSupport
+2005-02-20,18,False,PeopleSupport
+2005-02-27,17,False,PeopleSupport
+2005-03-06,32,False,PeopleSupport
+2005-03-13,0,False,PeopleSupport
+2005-03-20,18,False,PeopleSupport
+2005-03-27,16,False,PeopleSupport
+2005-04-03,0,False,PeopleSupport
+2005-04-10,0,False,PeopleSupport
+2005-04-17,0,False,PeopleSupport
+2005-04-24,0,False,PeopleSupport
+2005-05-01,16,False,PeopleSupport
+2005-05-08,0,False,PeopleSupport
+2005-05-15,15,False,PeopleSupport
+2005-05-22,0,False,PeopleSupport
+2005-05-29,0,False,PeopleSupport
+2005-06-05,0,False,PeopleSupport
+2005-06-12,15,False,PeopleSupport
+2005-06-19,16,False,PeopleSupport
+2005-06-26,32,False,PeopleSupport
+2004-07-04,53,False,Texas Roadhouse
+2004-07-11,62,False,Texas Roadhouse
+2004-07-18,56,False,Texas Roadhouse
+2004-07-25,79,False,Texas Roadhouse
+2004-08-01,59,False,Texas Roadhouse
+2004-08-08,72,False,Texas Roadhouse
+2004-08-15,76,False,Texas Roadhouse
+2004-08-22,59,False,Texas Roadhouse
+2004-08-29,53,False,Texas Roadhouse
+2004-09-05,45,False,Texas Roadhouse
+2004-09-12,46,False,Texas Roadhouse
+2004-09-19,57,False,Texas Roadhouse
+2004-09-26,66,False,Texas Roadhouse
+2004-10-03,78,False,Texas Roadhouse
+2004-10-10,57,False,Texas Roadhouse
+2004-10-17,41,False,Texas Roadhouse
+2004-10-24,50,False,Texas Roadhouse
+2004-10-31,69,False,Texas Roadhouse
+2004-11-07,77,False,Texas Roadhouse
+2004-11-14,77,False,Texas Roadhouse
+2004-11-21,73,False,Texas Roadhouse
+2004-11-28,58,False,Texas Roadhouse
+2004-12-05,92,False,Texas Roadhouse
+2004-12-12,74,False,Texas Roadhouse
+2004-12-19,72,False,Texas Roadhouse
+2004-12-26,76,False,Texas Roadhouse
+2005-01-02,48,False,Texas Roadhouse
+2005-01-09,84,False,Texas Roadhouse
+2005-01-16,67,False,Texas Roadhouse
+2005-01-23,71,False,Texas Roadhouse
+2005-01-30,78,False,Texas Roadhouse
+2005-02-06,69,False,Texas Roadhouse
+2005-02-13,86,False,Texas Roadhouse
+2005-02-20,59,False,Texas Roadhouse
+2005-02-27,81,False,Texas Roadhouse
+2005-03-06,64,False,Texas Roadhouse
+2005-03-13,97,False,Texas Roadhouse
+2005-03-20,78,False,Texas Roadhouse
+2005-03-27,66,False,Texas Roadhouse
+2005-04-03,88,False,Texas Roadhouse
+2005-04-10,60,False,Texas Roadhouse
+2005-04-17,67,False,Texas Roadhouse
+2005-04-24,89,False,Texas Roadhouse
+2005-05-01,87,False,Texas Roadhouse
+2005-05-08,85,False,Texas Roadhouse
+2005-05-15,80,False,Texas Roadhouse
+2005-05-22,59,False,Texas Roadhouse
+2005-05-29,69,False,Texas Roadhouse
+2005-06-05,74,False,Texas Roadhouse
+2005-06-12,55,False,Texas Roadhouse
+2005-06-19,100,False,Texas Roadhouse
+2005-06-26,61,False,Texas Roadhouse
+2005-07-03,77,False,Texas Roadhouse
+2004-07-04,40,False,Theravance
+2004-07-11,31,False,Theravance
+2004-07-18,40,False,Theravance
+2004-07-25,26,False,Theravance
+2004-08-01,40,False,Theravance
+2004-08-08,26,False,Theravance
+2004-08-15,26,False,Theravance
+2004-08-22,24,False,Theravance
+2004-08-29,24,False,Theravance
+2004-09-05,12,False,Theravance
+2004-09-12,34,False,Theravance
+2004-09-19,22,False,Theravance
+2004-09-26,100,False,Theravance
+2004-10-03,45,False,Theravance
+2004-10-10,13,False,Theravance
+2004-10-17,32,False,Theravance
+2004-10-24,13,False,Theravance
+2004-10-31,22,False,Theravance
+2004-11-07,0,False,Theravance
+2004-11-14,0,False,Theravance
+2004-11-21,0,False,Theravance
+2004-11-28,20,False,Theravance
+2004-12-05,20,False,Theravance
+2004-12-12,10,False,Theravance
+2004-12-19,24,False,Theravance
+2004-12-26,14,False,Theravance
+2005-01-02,20,False,Theravance
+2005-01-09,9,False,Theravance
+2005-01-16,9,False,Theravance
+2005-01-23,28,False,Theravance
+2005-01-30,0,False,Theravance
+2005-02-06,9,False,Theravance
+2005-02-13,36,False,Theravance
+2005-02-20,10,False,Theravance
+2005-02-27,55,False,Theravance
+2005-03-06,17,False,Theravance
+2005-03-13,9,False,Theravance
+2005-03-20,19,False,Theravance
+2005-03-27,25,False,Theravance
+2005-04-03,13,False,Theravance
+2005-04-10,26,False,Theravance
+2005-04-17,26,False,Theravance
+2005-04-24,8,False,Theravance
+2005-05-01,9,False,Theravance
+2005-05-08,0,False,Theravance
+2005-05-15,0,False,Theravance
+2005-05-22,8,False,Theravance
+2005-05-29,9,False,Theravance
+2005-06-05,8,False,Theravance
+2005-06-12,0,False,Theravance
+2005-06-19,9,False,Theravance
+2005-06-26,51,False,Theravance
+2005-07-03,17,False,Theravance

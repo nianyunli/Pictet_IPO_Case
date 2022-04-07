@@ -1,0 +1,157 @@
+date,SVI,isPartial,Issuer
+2010-04-18,44,False,SMART Technologies
+2010-04-25,51,False,SMART Technologies
+2010-05-02,38,False,SMART Technologies
+2010-05-09,39,False,SMART Technologies
+2010-05-16,41,False,SMART Technologies
+2010-05-23,38,False,SMART Technologies
+2010-05-30,36,False,SMART Technologies
+2010-06-06,46,False,SMART Technologies
+2010-06-13,44,False,SMART Technologies
+2010-06-20,44,False,SMART Technologies
+2010-06-27,42,False,SMART Technologies
+2010-07-04,50,False,SMART Technologies
+2010-07-11,100,False,SMART Technologies
+2010-07-18,49,False,SMART Technologies
+2010-07-25,47,False,SMART Technologies
+2010-08-01,45,False,SMART Technologies
+2010-08-08,50,False,SMART Technologies
+2010-08-15,49,False,SMART Technologies
+2010-08-22,52,False,SMART Technologies
+2010-08-29,40,False,SMART Technologies
+2010-09-05,43,False,SMART Technologies
+2010-09-12,46,False,SMART Technologies
+2010-09-19,52,False,SMART Technologies
+2010-09-26,47,False,SMART Technologies
+2010-10-03,43,False,SMART Technologies
+2010-10-10,44,False,SMART Technologies
+2010-10-17,49,False,SMART Technologies
+2010-10-24,44,False,SMART Technologies
+2010-10-31,50,False,SMART Technologies
+2010-11-07,57,False,SMART Technologies
+2010-11-14,48,False,SMART Technologies
+2010-11-21,44,False,SMART Technologies
+2010-11-28,43,False,SMART Technologies
+2010-12-05,50,False,SMART Technologies
+2010-12-12,33,False,SMART Technologies
+2010-12-19,30,False,SMART Technologies
+2010-12-26,21,False,SMART Technologies
+2011-01-02,35,False,SMART Technologies
+2011-01-09,40,False,SMART Technologies
+2011-01-16,32,False,SMART Technologies
+2011-01-23,40,False,SMART Technologies
+2011-01-30,38,False,SMART Technologies
+2011-02-06,38,False,SMART Technologies
+2011-02-13,37,False,SMART Technologies
+2011-02-20,38,False,SMART Technologies
+2011-02-27,38,False,SMART Technologies
+2011-03-06,32,False,SMART Technologies
+2011-03-13,44,False,SMART Technologies
+2011-03-20,31,False,SMART Technologies
+2011-03-27,37,False,SMART Technologies
+2011-04-03,38,False,SMART Technologies
+2011-04-10,40,False,SMART Technologies
+2010-04-18,61,False,RealD
+2010-04-25,54,False,RealD
+2010-05-02,40,False,RealD
+2010-05-09,37,False,RealD
+2010-05-16,39,False,RealD
+2010-05-23,43,False,RealD
+2010-05-30,42,False,RealD
+2010-06-06,40,False,RealD
+2010-06-13,55,False,RealD
+2010-06-20,58,False,RealD
+2010-06-27,67,False,RealD
+2010-07-04,66,False,RealD
+2010-07-11,100,False,RealD
+2010-07-18,75,False,RealD
+2010-07-25,51,False,RealD
+2010-08-01,53,False,RealD
+2010-08-08,51,False,RealD
+2010-08-15,40,False,RealD
+2010-08-22,54,False,RealD
+2010-08-29,32,False,RealD
+2010-09-05,36,False,RealD
+2010-09-12,43,False,RealD
+2010-09-19,42,False,RealD
+2010-09-26,39,False,RealD
+2010-10-03,36,False,RealD
+2010-10-10,40,False,RealD
+2010-10-17,41,False,RealD
+2010-10-24,50,False,RealD
+2010-10-31,47,False,RealD
+2010-11-07,42,False,RealD
+2010-11-14,36,False,RealD
+2010-11-21,34,False,RealD
+2010-11-28,49,False,RealD
+2010-12-05,33,False,RealD
+2010-12-12,43,False,RealD
+2010-12-19,62,False,RealD
+2010-12-26,54,False,RealD
+2011-01-02,52,False,RealD
+2011-01-09,38,False,RealD
+2011-01-16,49,False,RealD
+2011-01-23,38,False,RealD
+2011-01-30,43,False,RealD
+2011-02-06,41,False,RealD
+2011-02-13,31,False,RealD
+2011-02-20,34,False,RealD
+2011-02-27,28,False,RealD
+2011-03-06,25,False,RealD
+2011-03-13,33,False,RealD
+2011-03-20,25,False,RealD
+2011-03-27,30,False,RealD
+2011-04-03,34,False,RealD
+2011-04-10,32,False,RealD
+2010-04-25,0,False,Camelot Information Systems
+2010-05-02,15,False,Camelot Information Systems
+2010-05-09,0,False,Camelot Information Systems
+2010-05-16,15,False,Camelot Information Systems
+2010-05-23,31,False,Camelot Information Systems
+2010-05-30,0,False,Camelot Information Systems
+2010-06-06,0,False,Camelot Information Systems
+2010-06-13,0,False,Camelot Information Systems
+2010-06-20,0,False,Camelot Information Systems
+2010-06-27,0,False,Camelot Information Systems
+2010-07-04,15,False,Camelot Information Systems
+2010-07-11,43,False,Camelot Information Systems
+2010-07-18,100,False,Camelot Information Systems
+2010-07-25,71,False,Camelot Information Systems
+2010-08-01,15,False,Camelot Information Systems
+2010-08-08,0,False,Camelot Information Systems
+2010-08-15,42,False,Camelot Information Systems
+2010-08-22,14,False,Camelot Information Systems
+2010-08-29,0,False,Camelot Information Systems
+2010-09-05,27,False,Camelot Information Systems
+2010-09-12,13,False,Camelot Information Systems
+2010-09-19,13,False,Camelot Information Systems
+2010-09-26,13,False,Camelot Information Systems
+2010-10-03,26,False,Camelot Information Systems
+2010-10-10,0,False,Camelot Information Systems
+2010-10-17,0,False,Camelot Information Systems
+2010-10-24,25,False,Camelot Information Systems
+2010-10-31,25,False,Camelot Information Systems
+2010-11-07,0,False,Camelot Information Systems
+2010-11-14,12,False,Camelot Information Systems
+2010-11-21,0,False,Camelot Information Systems
+2010-11-28,24,False,Camelot Information Systems
+2010-12-05,12,False,Camelot Information Systems
+2010-12-12,12,False,Camelot Information Systems
+2010-12-19,55,False,Camelot Information Systems
+2010-12-26,42,False,Camelot Information Systems
+2011-01-02,0,False,Camelot Information Systems
+2011-01-09,23,False,Camelot Information Systems
+2011-01-16,0,False,Camelot Information Systems
+2011-01-23,0,False,Camelot Information Systems
+2011-01-30,22,False,Camelot Information Systems
+2011-02-06,0,False,Camelot Information Systems
+2011-02-13,22,False,Camelot Information Systems
+2011-02-20,11,False,Camelot Information Systems
+2011-02-27,22,False,Camelot Information Systems
+2011-03-06,33,False,Camelot Information Systems
+2011-03-13,0,False,Camelot Information Systems
+2011-03-20,0,False,Camelot Information Systems
+2011-03-27,0,False,Camelot Information Systems
+2011-04-03,0,False,Camelot Information Systems
+2011-04-10,0,False,Camelot Information Systems
+2011-04-17,12,False,Camelot Information Systems

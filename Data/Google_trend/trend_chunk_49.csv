@@ -1,0 +1,262 @@
+date,SVI,isPartial,Issuer
+2019-01-13,0,False,B. Riley Principal Merger
+2019-01-20,0,False,B. Riley Principal Merger
+2019-01-27,0,False,B. Riley Principal Merger
+2019-02-03,0,False,B. Riley Principal Merger
+2019-02-10,0,False,B. Riley Principal Merger
+2019-02-17,0,False,B. Riley Principal Merger
+2019-02-24,0,False,B. Riley Principal Merger
+2019-03-03,0,False,B. Riley Principal Merger
+2019-03-10,0,False,B. Riley Principal Merger
+2019-03-17,0,False,B. Riley Principal Merger
+2019-03-24,0,False,B. Riley Principal Merger
+2019-03-31,0,False,B. Riley Principal Merger
+2019-04-07,0,False,B. Riley Principal Merger
+2019-04-14,36,False,B. Riley Principal Merger
+2019-04-21,0,False,B. Riley Principal Merger
+2019-04-28,0,False,B. Riley Principal Merger
+2019-05-05,0,False,B. Riley Principal Merger
+2019-05-12,0,False,B. Riley Principal Merger
+2019-05-19,0,False,B. Riley Principal Merger
+2019-05-26,0,False,B. Riley Principal Merger
+2019-06-02,0,False,B. Riley Principal Merger
+2019-06-09,34,False,B. Riley Principal Merger
+2019-06-16,69,False,B. Riley Principal Merger
+2019-06-23,35,False,B. Riley Principal Merger
+2019-06-30,70,False,B. Riley Principal Merger
+2019-07-07,70,False,B. Riley Principal Merger
+2019-07-14,0,False,B. Riley Principal Merger
+2019-07-21,0,False,B. Riley Principal Merger
+2019-07-28,0,False,B. Riley Principal Merger
+2019-08-04,0,False,B. Riley Principal Merger
+2019-08-11,70,False,B. Riley Principal Merger
+2019-08-18,34,False,B. Riley Principal Merger
+2019-08-25,0,False,B. Riley Principal Merger
+2019-09-01,34,False,B. Riley Principal Merger
+2019-09-08,100,False,B. Riley Principal Merger
+2019-09-15,0,False,B. Riley Principal Merger
+2019-09-22,98,False,B. Riley Principal Merger
+2019-09-29,33,False,B. Riley Principal Merger
+2019-10-06,0,False,B. Riley Principal Merger
+2019-10-13,0,False,B. Riley Principal Merger
+2019-10-20,0,False,B. Riley Principal Merger
+2019-10-27,32,False,B. Riley Principal Merger
+2019-11-03,0,False,B. Riley Principal Merger
+2019-11-10,0,False,B. Riley Principal Merger
+2019-11-17,0,False,B. Riley Principal Merger
+2019-11-24,0,False,B. Riley Principal Merger
+2019-12-01,0,False,B. Riley Principal Merger
+2019-12-08,0,False,B. Riley Principal Merger
+2019-12-15,33,False,B. Riley Principal Merger
+2019-12-22,0,False,B. Riley Principal Merger
+2019-12-29,0,False,B. Riley Principal Merger
+2020-01-05,32,False,B. Riley Principal Merger
+2019-01-13,24,False,PagerDuty
+2019-01-20,23,False,PagerDuty
+2019-01-27,25,False,PagerDuty
+2019-02-03,18,False,PagerDuty
+2019-02-10,25,False,PagerDuty
+2019-02-17,23,False,PagerDuty
+2019-02-24,22,False,PagerDuty
+2019-03-03,28,False,PagerDuty
+2019-03-10,28,False,PagerDuty
+2019-03-17,27,False,PagerDuty
+2019-03-24,26,False,PagerDuty
+2019-03-31,37,False,PagerDuty
+2019-04-07,100,False,PagerDuty
+2019-04-14,56,False,PagerDuty
+2019-04-21,35,False,PagerDuty
+2019-04-28,37,False,PagerDuty
+2019-05-05,44,False,PagerDuty
+2019-05-12,43,False,PagerDuty
+2019-05-19,46,False,PagerDuty
+2019-05-26,39,False,PagerDuty
+2019-06-02,69,False,PagerDuty
+2019-06-09,46,False,PagerDuty
+2019-06-16,53,False,PagerDuty
+2019-06-23,44,False,PagerDuty
+2019-06-30,41,False,PagerDuty
+2019-07-07,46,False,PagerDuty
+2019-07-14,48,False,PagerDuty
+2019-07-21,50,False,PagerDuty
+2019-07-28,41,False,PagerDuty
+2019-08-04,44,False,PagerDuty
+2019-08-11,44,False,PagerDuty
+2019-08-18,41,False,PagerDuty
+2019-08-25,35,False,PagerDuty
+2019-09-01,44,False,PagerDuty
+2019-09-08,52,False,PagerDuty
+2019-09-15,42,False,PagerDuty
+2019-09-22,45,False,PagerDuty
+2019-09-29,44,False,PagerDuty
+2019-10-06,48,False,PagerDuty
+2019-10-13,45,False,PagerDuty
+2019-10-20,40,False,PagerDuty
+2019-10-27,31,False,PagerDuty
+2019-11-03,37,False,PagerDuty
+2019-11-10,39,False,PagerDuty
+2019-11-17,40,False,PagerDuty
+2019-11-24,30,False,PagerDuty
+2019-12-01,38,False,PagerDuty
+2019-12-08,37,False,PagerDuty
+2019-12-15,38,False,PagerDuty
+2019-12-22,27,False,PagerDuty
+2019-12-29,26,False,PagerDuty
+2020-01-05,36,False,PagerDuty
+2019-01-13,0,False,Tufin Software Technologies
+2019-01-20,0,False,Tufin Software Technologies
+2019-01-27,0,False,Tufin Software Technologies
+2019-02-03,0,False,Tufin Software Technologies
+2019-02-10,0,False,Tufin Software Technologies
+2019-02-17,0,False,Tufin Software Technologies
+2019-02-24,0,False,Tufin Software Technologies
+2019-03-03,0,False,Tufin Software Technologies
+2019-03-10,0,False,Tufin Software Technologies
+2019-03-17,0,False,Tufin Software Technologies
+2019-03-24,0,False,Tufin Software Technologies
+2019-03-31,100,False,Tufin Software Technologies
+2019-04-07,30,False,Tufin Software Technologies
+2019-04-14,31,False,Tufin Software Technologies
+2019-04-21,0,False,Tufin Software Technologies
+2019-04-28,10,False,Tufin Software Technologies
+2019-05-05,0,False,Tufin Software Technologies
+2019-05-12,0,False,Tufin Software Technologies
+2019-05-19,10,False,Tufin Software Technologies
+2019-05-26,10,False,Tufin Software Technologies
+2019-06-02,0,False,Tufin Software Technologies
+2019-06-09,10,False,Tufin Software Technologies
+2019-06-16,0,False,Tufin Software Technologies
+2019-06-23,0,False,Tufin Software Technologies
+2019-06-30,20,False,Tufin Software Technologies
+2019-07-07,10,False,Tufin Software Technologies
+2019-07-14,0,False,Tufin Software Technologies
+2019-07-21,0,False,Tufin Software Technologies
+2019-07-28,0,False,Tufin Software Technologies
+2019-08-04,10,False,Tufin Software Technologies
+2019-08-11,0,False,Tufin Software Technologies
+2019-08-18,0,False,Tufin Software Technologies
+2019-08-25,0,False,Tufin Software Technologies
+2019-09-01,10,False,Tufin Software Technologies
+2019-09-08,0,False,Tufin Software Technologies
+2019-09-15,10,False,Tufin Software Technologies
+2019-09-22,9,False,Tufin Software Technologies
+2019-09-29,9,False,Tufin Software Technologies
+2019-10-06,0,False,Tufin Software Technologies
+2019-10-13,0,False,Tufin Software Technologies
+2019-10-20,0,False,Tufin Software Technologies
+2019-10-27,9,False,Tufin Software Technologies
+2019-11-03,9,False,Tufin Software Technologies
+2019-11-10,0,False,Tufin Software Technologies
+2019-11-17,0,False,Tufin Software Technologies
+2019-11-24,9,False,Tufin Software Technologies
+2019-12-01,9,False,Tufin Software Technologies
+2019-12-08,0,False,Tufin Software Technologies
+2019-12-15,0,False,Tufin Software Technologies
+2019-12-22,0,False,Tufin Software Technologies
+2019-12-29,10,False,Tufin Software Technologies
+2020-01-05,18,False,Tufin Software Technologies
+2019-01-13,43,False,Jumia
+2019-01-20,41,False,Jumia
+2019-01-27,43,False,Jumia
+2019-02-03,47,False,Jumia
+2019-02-10,45,False,Jumia
+2019-02-17,44,False,Jumia
+2019-02-24,42,False,Jumia
+2019-03-03,43,False,Jumia
+2019-03-10,46,False,Jumia
+2019-03-17,49,False,Jumia
+2019-03-24,51,False,Jumia
+2019-03-31,52,False,Jumia
+2019-04-07,64,False,Jumia
+2019-04-14,61,False,Jumia
+2019-04-21,47,False,Jumia
+2019-04-28,48,False,Jumia
+2019-05-05,47,False,Jumia
+2019-05-12,51,False,Jumia
+2019-05-19,51,False,Jumia
+2019-05-26,50,False,Jumia
+2019-06-02,48,False,Jumia
+2019-06-09,57,False,Jumia
+2019-06-16,64,False,Jumia
+2019-06-23,93,False,Jumia
+2019-06-30,86,False,Jumia
+2019-07-07,66,False,Jumia
+2019-07-14,58,False,Jumia
+2019-07-21,60,False,Jumia
+2019-07-28,62,False,Jumia
+2019-08-04,59,False,Jumia
+2019-08-11,52,False,Jumia
+2019-08-18,58,False,Jumia
+2019-08-25,61,False,Jumia
+2019-09-01,62,False,Jumia
+2019-09-08,59,False,Jumia
+2019-09-15,60,False,Jumia
+2019-09-22,59,False,Jumia
+2019-09-29,58,False,Jumia
+2019-10-06,56,False,Jumia
+2019-10-13,53,False,Jumia
+2019-10-20,59,False,Jumia
+2019-10-27,67,False,Jumia
+2019-11-03,100,False,Jumia
+2019-11-10,91,False,Jumia
+2019-11-17,88,False,Jumia
+2019-11-24,92,False,Jumia
+2019-12-01,66,False,Jumia
+2019-12-08,58,False,Jumia
+2019-12-15,60,False,Jumia
+2019-12-22,52,False,Jumia
+2019-12-29,47,False,Jumia
+2020-01-05,50,False,Jumia
+2020-01-12,49,False,Jumia
+2019-01-20,0,False,Palomar Holdings
+2019-01-27,0,False,Palomar Holdings
+2019-02-03,0,False,Palomar Holdings
+2019-02-10,9,False,Palomar Holdings
+2019-02-17,0,False,Palomar Holdings
+2019-02-24,0,False,Palomar Holdings
+2019-03-03,0,False,Palomar Holdings
+2019-03-10,17,False,Palomar Holdings
+2019-03-17,0,False,Palomar Holdings
+2019-03-24,0,False,Palomar Holdings
+2019-03-31,0,False,Palomar Holdings
+2019-04-07,26,False,Palomar Holdings
+2019-04-14,100,False,Palomar Holdings
+2019-04-21,18,False,Palomar Holdings
+2019-04-28,18,False,Palomar Holdings
+2019-05-05,9,False,Palomar Holdings
+2019-05-12,9,False,Palomar Holdings
+2019-05-19,9,False,Palomar Holdings
+2019-05-26,18,False,Palomar Holdings
+2019-06-02,9,False,Palomar Holdings
+2019-06-09,17,False,Palomar Holdings
+2019-06-16,9,False,Palomar Holdings
+2019-06-23,0,False,Palomar Holdings
+2019-06-30,0,False,Palomar Holdings
+2019-07-07,0,False,Palomar Holdings
+2019-07-14,0,False,Palomar Holdings
+2019-07-21,9,False,Palomar Holdings
+2019-07-28,0,False,Palomar Holdings
+2019-08-04,9,False,Palomar Holdings
+2019-08-11,9,False,Palomar Holdings
+2019-08-18,9,False,Palomar Holdings
+2019-08-25,17,False,Palomar Holdings
+2019-09-01,9,False,Palomar Holdings
+2019-09-08,17,False,Palomar Holdings
+2019-09-15,8,False,Palomar Holdings
+2019-09-22,8,False,Palomar Holdings
+2019-09-29,8,False,Palomar Holdings
+2019-10-06,0,False,Palomar Holdings
+2019-10-13,8,False,Palomar Holdings
+2019-10-20,8,False,Palomar Holdings
+2019-10-27,0,False,Palomar Holdings
+2019-11-03,32,False,Palomar Holdings
+2019-11-10,0,False,Palomar Holdings
+2019-11-17,17,False,Palomar Holdings
+2019-11-24,8,False,Palomar Holdings
+2019-12-01,8,False,Palomar Holdings
+2019-12-08,0,False,Palomar Holdings
+2019-12-15,0,False,Palomar Holdings
+2019-12-22,18,False,Palomar Holdings
+2019-12-29,0,False,Palomar Holdings
+2020-01-05,8,False,Palomar Holdings
+2020-01-12,15,False,Palomar Holdings

@@ -1,0 +1,261 @@
+date,SVI,isPartial,Issuer
+2018-06-24,55,False,Farfetch
+2018-07-01,56,False,Farfetch
+2018-07-08,65,False,Farfetch
+2018-07-15,53,False,Farfetch
+2018-07-22,54,False,Farfetch
+2018-07-29,53,False,Farfetch
+2018-08-05,49,False,Farfetch
+2018-08-12,51,False,Farfetch
+2018-08-19,58,False,Farfetch
+2018-08-26,54,False,Farfetch
+2018-09-02,57,False,Farfetch
+2018-09-09,56,False,Farfetch
+2018-09-16,65,False,Farfetch
+2018-09-23,59,False,Farfetch
+2018-09-30,50,False,Farfetch
+2018-10-07,55,False,Farfetch
+2018-10-14,52,False,Farfetch
+2018-10-21,56,False,Farfetch
+2018-10-28,53,False,Farfetch
+2018-11-04,56,False,Farfetch
+2018-11-11,63,False,Farfetch
+2018-11-18,100,False,Farfetch
+2018-11-25,73,False,Farfetch
+2018-12-02,67,False,Farfetch
+2018-12-09,69,False,Farfetch
+2018-12-16,60,False,Farfetch
+2018-12-23,64,False,Farfetch
+2018-12-30,58,False,Farfetch
+2019-01-06,72,False,Farfetch
+2019-01-13,68,False,Farfetch
+2019-01-20,61,False,Farfetch
+2019-01-27,62,False,Farfetch
+2019-02-03,61,False,Farfetch
+2019-02-10,59,False,Farfetch
+2019-02-17,61,False,Farfetch
+2019-02-24,61,False,Farfetch
+2019-03-03,58,False,Farfetch
+2019-03-10,62,False,Farfetch
+2019-03-17,62,False,Farfetch
+2019-03-24,59,False,Farfetch
+2019-03-31,60,False,Farfetch
+2019-04-07,60,False,Farfetch
+2019-04-14,59,False,Farfetch
+2019-04-21,56,False,Farfetch
+2019-04-28,58,False,Farfetch
+2019-05-05,62,False,Farfetch
+2019-05-12,65,False,Farfetch
+2019-05-19,72,False,Farfetch
+2019-05-26,70,False,Farfetch
+2019-06-02,66,False,Farfetch
+2019-06-09,73,False,Farfetch
+2019-06-16,64,False,Farfetch
+2018-06-24,0,False,Y-mAbs Therapeutics
+2018-07-01,0,False,Y-mAbs Therapeutics
+2018-07-08,0,False,Y-mAbs Therapeutics
+2018-07-15,0,False,Y-mAbs Therapeutics
+2018-07-22,11,False,Y-mAbs Therapeutics
+2018-07-29,0,False,Y-mAbs Therapeutics
+2018-08-05,0,False,Y-mAbs Therapeutics
+2018-08-12,0,False,Y-mAbs Therapeutics
+2018-08-19,21,False,Y-mAbs Therapeutics
+2018-08-26,51,False,Y-mAbs Therapeutics
+2018-09-02,0,False,Y-mAbs Therapeutics
+2018-09-09,20,False,Y-mAbs Therapeutics
+2018-09-16,100,False,Y-mAbs Therapeutics
+2018-09-23,0,False,Y-mAbs Therapeutics
+2018-09-30,10,False,Y-mAbs Therapeutics
+2018-10-07,31,False,Y-mAbs Therapeutics
+2018-10-14,21,False,Y-mAbs Therapeutics
+2018-10-21,10,False,Y-mAbs Therapeutics
+2018-10-28,10,False,Y-mAbs Therapeutics
+2018-11-04,10,False,Y-mAbs Therapeutics
+2018-11-11,10,False,Y-mAbs Therapeutics
+2018-11-18,10,False,Y-mAbs Therapeutics
+2018-11-25,0,False,Y-mAbs Therapeutics
+2018-12-02,0,False,Y-mAbs Therapeutics
+2018-12-09,0,False,Y-mAbs Therapeutics
+2018-12-16,10,False,Y-mAbs Therapeutics
+2018-12-23,0,False,Y-mAbs Therapeutics
+2018-12-30,0,False,Y-mAbs Therapeutics
+2019-01-06,0,False,Y-mAbs Therapeutics
+2019-01-13,0,False,Y-mAbs Therapeutics
+2019-01-20,0,False,Y-mAbs Therapeutics
+2019-01-27,10,False,Y-mAbs Therapeutics
+2019-02-03,10,False,Y-mAbs Therapeutics
+2019-02-10,19,False,Y-mAbs Therapeutics
+2019-02-17,0,False,Y-mAbs Therapeutics
+2019-02-24,10,False,Y-mAbs Therapeutics
+2019-03-03,0,False,Y-mAbs Therapeutics
+2019-03-10,10,False,Y-mAbs Therapeutics
+2019-03-17,10,False,Y-mAbs Therapeutics
+2019-03-24,10,False,Y-mAbs Therapeutics
+2019-03-31,0,False,Y-mAbs Therapeutics
+2019-04-07,10,False,Y-mAbs Therapeutics
+2019-04-14,0,False,Y-mAbs Therapeutics
+2019-04-21,0,False,Y-mAbs Therapeutics
+2019-04-28,0,False,Y-mAbs Therapeutics
+2019-05-05,10,False,Y-mAbs Therapeutics
+2019-05-12,40,False,Y-mAbs Therapeutics
+2019-05-19,10,False,Y-mAbs Therapeutics
+2019-05-26,0,False,Y-mAbs Therapeutics
+2019-06-02,10,False,Y-mAbs Therapeutics
+2019-06-09,10,False,Y-mAbs Therapeutics
+2019-06-16,10,False,Y-mAbs Therapeutics
+2018-07-01,0,False,Viomi Technology
+2018-07-08,0,False,Viomi Technology
+2018-07-15,0,False,Viomi Technology
+2018-07-22,0,False,Viomi Technology
+2018-07-29,0,False,Viomi Technology
+2018-08-05,0,False,Viomi Technology
+2018-08-12,5,False,Viomi Technology
+2018-08-19,0,False,Viomi Technology
+2018-08-26,20,False,Viomi Technology
+2018-09-02,0,False,Viomi Technology
+2018-09-09,35,False,Viomi Technology
+2018-09-16,40,False,Viomi Technology
+2018-09-23,100,False,Viomi Technology
+2018-09-30,15,False,Viomi Technology
+2018-10-07,5,False,Viomi Technology
+2018-10-14,5,False,Viomi Technology
+2018-10-21,5,False,Viomi Technology
+2018-10-28,5,False,Viomi Technology
+2018-11-04,0,False,Viomi Technology
+2018-11-11,5,False,Viomi Technology
+2018-11-18,5,False,Viomi Technology
+2018-11-25,0,False,Viomi Technology
+2018-12-02,0,False,Viomi Technology
+2018-12-09,0,False,Viomi Technology
+2018-12-16,5,False,Viomi Technology
+2018-12-23,0,False,Viomi Technology
+2018-12-30,11,False,Viomi Technology
+2019-01-06,0,False,Viomi Technology
+2019-01-13,0,False,Viomi Technology
+2019-01-20,0,False,Viomi Technology
+2019-01-27,0,False,Viomi Technology
+2019-02-03,0,False,Viomi Technology
+2019-02-10,5,False,Viomi Technology
+2019-02-17,0,False,Viomi Technology
+2019-02-24,5,False,Viomi Technology
+2019-03-03,5,False,Viomi Technology
+2019-03-10,0,False,Viomi Technology
+2019-03-17,15,False,Viomi Technology
+2019-03-24,10,False,Viomi Technology
+2019-03-31,0,False,Viomi Technology
+2019-04-07,5,False,Viomi Technology
+2019-04-14,10,False,Viomi Technology
+2019-04-21,5,False,Viomi Technology
+2019-04-28,5,False,Viomi Technology
+2019-05-05,5,False,Viomi Technology
+2019-05-12,0,False,Viomi Technology
+2019-05-19,0,False,Viomi Technology
+2019-05-26,0,False,Viomi Technology
+2019-06-02,5,False,Viomi Technology
+2019-06-09,0,False,Viomi Technology
+2019-06-16,0,False,Viomi Technology
+2019-06-23,0,False,Viomi Technology
+2018-07-01,11,False,Arco Platform
+2018-07-08,11,False,Arco Platform
+2018-07-15,0,False,Arco Platform
+2018-07-22,0,False,Arco Platform
+2018-07-29,0,False,Arco Platform
+2018-08-05,0,False,Arco Platform
+2018-08-12,0,False,Arco Platform
+2018-08-19,5,False,Arco Platform
+2018-08-26,11,False,Arco Platform
+2018-09-02,0,False,Arco Platform
+2018-09-09,16,False,Arco Platform
+2018-09-16,53,False,Arco Platform
+2018-09-23,100,False,Arco Platform
+2018-09-30,5,False,Arco Platform
+2018-10-07,16,False,Arco Platform
+2018-10-14,27,False,Arco Platform
+2018-10-21,21,False,Arco Platform
+2018-10-28,0,False,Arco Platform
+2018-11-04,5,False,Arco Platform
+2018-11-11,11,False,Arco Platform
+2018-11-18,5,False,Arco Platform
+2018-11-25,0,False,Arco Platform
+2018-12-02,0,False,Arco Platform
+2018-12-09,11,False,Arco Platform
+2018-12-16,0,False,Arco Platform
+2018-12-23,0,False,Arco Platform
+2018-12-30,0,False,Arco Platform
+2019-01-06,0,False,Arco Platform
+2019-01-13,0,False,Arco Platform
+2019-01-20,5,False,Arco Platform
+2019-01-27,5,False,Arco Platform
+2019-02-03,0,False,Arco Platform
+2019-02-10,5,False,Arco Platform
+2019-02-17,0,False,Arco Platform
+2019-02-24,0,False,Arco Platform
+2019-03-03,5,False,Arco Platform
+2019-03-10,5,False,Arco Platform
+2019-03-17,16,False,Arco Platform
+2019-03-24,5,False,Arco Platform
+2019-03-31,0,False,Arco Platform
+2019-04-07,5,False,Arco Platform
+2019-04-14,0,False,Arco Platform
+2019-04-21,5,False,Arco Platform
+2019-04-28,16,False,Arco Platform
+2019-05-05,31,False,Arco Platform
+2019-05-12,5,False,Arco Platform
+2019-05-19,16,False,Arco Platform
+2019-05-26,0,False,Arco Platform
+2019-06-02,0,False,Arco Platform
+2019-06-09,0,False,Arco Platform
+2019-06-16,5,False,Arco Platform
+2019-06-23,0,False,Arco Platform
+2018-07-01,31,False,Capital Bancorp
+2018-07-08,41,False,Capital Bancorp
+2018-07-15,63,False,Capital Bancorp
+2018-07-22,63,False,Capital Bancorp
+2018-07-29,72,False,Capital Bancorp
+2018-08-05,61,False,Capital Bancorp
+2018-08-12,51,False,Capital Bancorp
+2018-08-19,42,False,Capital Bancorp
+2018-08-26,61,False,Capital Bancorp
+2018-09-02,71,False,Capital Bancorp
+2018-09-09,50,False,Capital Bancorp
+2018-09-16,100,False,Capital Bancorp
+2018-09-23,90,False,Capital Bancorp
+2018-09-30,70,False,Capital Bancorp
+2018-10-07,31,False,Capital Bancorp
+2018-10-14,62,False,Capital Bancorp
+2018-10-21,51,False,Capital Bancorp
+2018-10-28,51,False,Capital Bancorp
+2018-11-04,49,False,Capital Bancorp
+2018-11-11,92,False,Capital Bancorp
+2018-11-18,30,False,Capital Bancorp
+2018-11-25,60,False,Capital Bancorp
+2018-12-02,31,False,Capital Bancorp
+2018-12-09,82,False,Capital Bancorp
+2018-12-16,62,False,Capital Bancorp
+2018-12-23,11,False,Capital Bancorp
+2018-12-30,22,False,Capital Bancorp
+2019-01-06,91,False,Capital Bancorp
+2019-01-13,60,False,Capital Bancorp
+2019-01-20,39,False,Capital Bancorp
+2019-01-27,39,False,Capital Bancorp
+2019-02-03,88,False,Capital Bancorp
+2019-02-10,39,False,Capital Bancorp
+2019-02-17,59,False,Capital Bancorp
+2019-02-24,78,False,Capital Bancorp
+2019-03-03,50,False,Capital Bancorp
+2019-03-10,69,False,Capital Bancorp
+2019-03-17,60,False,Capital Bancorp
+2019-03-24,30,False,Capital Bancorp
+2019-03-31,40,False,Capital Bancorp
+2019-04-07,30,False,Capital Bancorp
+2019-04-14,21,False,Capital Bancorp
+2019-04-21,20,False,Capital Bancorp
+2019-04-28,40,False,Capital Bancorp
+2019-05-05,40,False,Capital Bancorp
+2019-05-12,40,False,Capital Bancorp
+2019-05-19,70,False,Capital Bancorp
+2019-05-26,60,False,Capital Bancorp
+2019-06-02,39,False,Capital Bancorp
+2019-06-09,20,False,Capital Bancorp
+2019-06-16,79,False,Capital Bancorp
+2019-06-23,50,False,Capital Bancorp

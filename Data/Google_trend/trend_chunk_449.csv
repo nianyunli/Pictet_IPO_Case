@@ -1,0 +1,264 @@
+date,SVI,isPartial,Issuer
+2007-02-11,0,False,AECOM Technology
+2007-02-18,46,False,AECOM Technology
+2007-02-25,22,False,AECOM Technology
+2007-03-04,22,False,AECOM Technology
+2007-03-11,45,False,AECOM Technology
+2007-03-18,0,False,AECOM Technology
+2007-03-25,0,False,AECOM Technology
+2007-04-01,23,False,AECOM Technology
+2007-04-08,22,False,AECOM Technology
+2007-04-15,22,False,AECOM Technology
+2007-04-22,43,False,AECOM Technology
+2007-04-29,43,False,AECOM Technology
+2007-05-06,79,False,AECOM Technology
+2007-05-13,100,False,AECOM Technology
+2007-05-20,99,False,AECOM Technology
+2007-05-27,60,False,AECOM Technology
+2007-06-03,39,False,AECOM Technology
+2007-06-10,20,False,AECOM Technology
+2007-06-17,20,False,AECOM Technology
+2007-06-24,39,False,AECOM Technology
+2007-07-01,20,False,AECOM Technology
+2007-07-08,60,False,AECOM Technology
+2007-07-15,40,False,AECOM Technology
+2007-07-22,61,False,AECOM Technology
+2007-07-29,59,False,AECOM Technology
+2007-08-05,20,False,AECOM Technology
+2007-08-12,61,False,AECOM Technology
+2007-08-19,58,False,AECOM Technology
+2007-08-26,56,False,AECOM Technology
+2007-09-02,37,False,AECOM Technology
+2007-09-09,0,False,AECOM Technology
+2007-09-16,18,False,AECOM Technology
+2007-09-23,35,False,AECOM Technology
+2007-09-30,86,False,AECOM Technology
+2007-10-07,17,False,AECOM Technology
+2007-10-14,0,False,AECOM Technology
+2007-10-21,33,False,AECOM Technology
+2007-10-28,17,False,AECOM Technology
+2007-11-04,32,False,AECOM Technology
+2007-11-11,0,False,AECOM Technology
+2007-11-18,33,False,AECOM Technology
+2007-11-25,31,False,AECOM Technology
+2007-12-02,32,False,AECOM Technology
+2007-12-09,16,False,AECOM Technology
+2007-12-16,51,False,AECOM Technology
+2007-12-23,41,False,AECOM Technology
+2007-12-30,19,False,AECOM Technology
+2008-01-06,31,False,AECOM Technology
+2008-01-13,61,False,AECOM Technology
+2008-01-20,15,False,AECOM Technology
+2008-01-27,30,False,AECOM Technology
+2008-02-03,61,False,AECOM Technology
+2007-02-11,29,False,Biodel
+2007-02-18,44,False,Biodel
+2007-02-25,14,False,Biodel
+2007-03-04,0,False,Biodel
+2007-03-11,14,False,Biodel
+2007-03-18,0,False,Biodel
+2007-03-25,69,False,Biodel
+2007-04-01,15,False,Biodel
+2007-04-08,0,False,Biodel
+2007-04-15,41,False,Biodel
+2007-04-22,27,False,Biodel
+2007-04-29,69,False,Biodel
+2007-05-06,63,False,Biodel
+2007-05-13,38,False,Biodel
+2007-05-20,25,False,Biodel
+2007-05-27,38,False,Biodel
+2007-06-03,100,False,Biodel
+2007-06-10,25,False,Biodel
+2007-06-17,64,False,Biodel
+2007-06-24,0,False,Biodel
+2007-07-01,25,False,Biodel
+2007-07-08,25,False,Biodel
+2007-07-15,51,False,Biodel
+2007-07-22,13,False,Biodel
+2007-07-29,0,False,Biodel
+2007-08-05,38,False,Biodel
+2007-08-12,13,False,Biodel
+2007-08-19,12,False,Biodel
+2007-08-26,0,False,Biodel
+2007-09-02,35,False,Biodel
+2007-09-09,23,False,Biodel
+2007-09-16,0,False,Biodel
+2007-09-23,0,False,Biodel
+2007-09-30,11,False,Biodel
+2007-10-07,0,False,Biodel
+2007-10-14,11,False,Biodel
+2007-10-21,21,False,Biodel
+2007-10-28,0,False,Biodel
+2007-11-04,21,False,Biodel
+2007-11-11,19,False,Biodel
+2007-11-18,0,False,Biodel
+2007-11-25,20,False,Biodel
+2007-12-02,10,False,Biodel
+2007-12-09,41,False,Biodel
+2007-12-16,0,False,Biodel
+2007-12-23,0,False,Biodel
+2007-12-30,24,False,Biodel
+2008-01-06,10,False,Biodel
+2008-01-13,48,False,Biodel
+2008-01-20,29,False,Biodel
+2008-01-27,10,False,Biodel
+2008-02-03,20,False,Biodel
+2008-02-10,38,False,Biodel
+2007-02-11,79,False,JMP Group
+2007-02-18,53,False,JMP Group
+2007-02-25,0,False,JMP Group
+2007-03-04,0,False,JMP Group
+2007-03-11,26,False,JMP Group
+2007-03-18,0,False,JMP Group
+2007-03-25,0,False,JMP Group
+2007-04-01,0,False,JMP Group
+2007-04-08,0,False,JMP Group
+2007-04-15,0,False,JMP Group
+2007-04-22,0,False,JMP Group
+2007-04-29,100,False,JMP Group
+2007-05-06,91,False,JMP Group
+2007-05-13,0,False,JMP Group
+2007-05-20,46,False,JMP Group
+2007-05-27,0,False,JMP Group
+2007-06-03,0,False,JMP Group
+2007-06-10,45,False,JMP Group
+2007-06-17,0,False,JMP Group
+2007-06-24,0,False,JMP Group
+2007-07-01,69,False,JMP Group
+2007-07-08,23,False,JMP Group
+2007-07-15,23,False,JMP Group
+2007-07-22,0,False,JMP Group
+2007-07-29,0,False,JMP Group
+2007-08-05,23,False,JMP Group
+2007-08-12,70,False,JMP Group
+2007-08-19,0,False,JMP Group
+2007-08-26,22,False,JMP Group
+2007-09-02,42,False,JMP Group
+2007-09-09,0,False,JMP Group
+2007-09-16,41,False,JMP Group
+2007-09-23,20,False,JMP Group
+2007-09-30,0,False,JMP Group
+2007-10-07,20,False,JMP Group
+2007-10-14,39,False,JMP Group
+2007-10-21,19,False,JMP Group
+2007-10-28,0,False,JMP Group
+2007-11-04,19,False,JMP Group
+2007-11-11,34,False,JMP Group
+2007-11-18,0,False,JMP Group
+2007-11-25,0,False,JMP Group
+2007-12-02,18,False,JMP Group
+2007-12-09,37,False,JMP Group
+2007-12-16,20,False,JMP Group
+2007-12-23,0,False,JMP Group
+2007-12-30,0,False,JMP Group
+2008-01-06,36,False,JMP Group
+2008-01-13,35,False,JMP Group
+2008-01-20,0,False,JMP Group
+2008-01-27,17,False,JMP Group
+2008-02-03,18,False,JMP Group
+2008-02-10,35,False,JMP Group
+2007-02-11,29,False,Solera Holdings
+2007-02-18,0,False,Solera Holdings
+2007-02-25,14,False,Solera Holdings
+2007-03-04,14,False,Solera Holdings
+2007-03-11,0,False,Solera Holdings
+2007-03-18,0,False,Solera Holdings
+2007-03-25,0,False,Solera Holdings
+2007-04-01,0,False,Solera Holdings
+2007-04-08,0,False,Solera Holdings
+2007-04-15,0,False,Solera Holdings
+2007-04-22,0,False,Solera Holdings
+2007-04-29,41,False,Solera Holdings
+2007-05-06,100,False,Solera Holdings
+2007-05-13,25,False,Solera Holdings
+2007-05-20,0,False,Solera Holdings
+2007-05-27,50,False,Solera Holdings
+2007-06-03,12,False,Solera Holdings
+2007-06-10,0,False,Solera Holdings
+2007-06-17,13,False,Solera Holdings
+2007-06-24,25,False,Solera Holdings
+2007-07-01,25,False,Solera Holdings
+2007-07-08,0,False,Solera Holdings
+2007-07-15,13,False,Solera Holdings
+2007-07-22,0,False,Solera Holdings
+2007-07-29,0,False,Solera Holdings
+2007-08-05,13,False,Solera Holdings
+2007-08-12,0,False,Solera Holdings
+2007-08-19,12,False,Solera Holdings
+2007-08-26,12,False,Solera Holdings
+2007-09-02,0,False,Solera Holdings
+2007-09-09,0,False,Solera Holdings
+2007-09-16,11,False,Solera Holdings
+2007-09-23,11,False,Solera Holdings
+2007-09-30,0,False,Solera Holdings
+2007-10-07,11,False,Solera Holdings
+2007-10-14,0,False,Solera Holdings
+2007-10-21,10,False,Solera Holdings
+2007-10-28,0,False,Solera Holdings
+2007-11-04,0,False,Solera Holdings
+2007-11-11,9,False,Solera Holdings
+2007-11-18,0,False,Solera Holdings
+2007-11-25,10,False,Solera Holdings
+2007-12-02,0,False,Solera Holdings
+2007-12-09,0,False,Solera Holdings
+2007-12-16,0,False,Solera Holdings
+2007-12-23,0,False,Solera Holdings
+2007-12-30,0,False,Solera Holdings
+2008-01-06,0,False,Solera Holdings
+2008-01-13,0,False,Solera Holdings
+2008-01-20,19,False,Solera Holdings
+2008-01-27,9,False,Solera Holdings
+2008-02-03,0,False,Solera Holdings
+2008-02-10,9,False,Solera Holdings
+2007-02-18,63,False,Continental Resources
+2007-02-25,30,False,Continental Resources
+2007-03-04,41,False,Continental Resources
+2007-03-11,31,False,Continental Resources
+2007-03-18,50,False,Continental Resources
+2007-03-25,49,False,Continental Resources
+2007-04-01,42,False,Continental Resources
+2007-04-08,81,False,Continental Resources
+2007-04-15,10,False,Continental Resources
+2007-04-22,49,False,Continental Resources
+2007-04-29,89,False,Continental Resources
+2007-05-06,81,False,Continental Resources
+2007-05-13,100,False,Continental Resources
+2007-05-20,27,False,Continental Resources
+2007-05-27,36,False,Continental Resources
+2007-06-03,45,False,Continental Resources
+2007-06-10,63,False,Continental Resources
+2007-06-17,64,False,Continental Resources
+2007-06-24,35,False,Continental Resources
+2007-07-01,9,False,Continental Resources
+2007-07-08,64,False,Continental Resources
+2007-07-15,28,False,Continental Resources
+2007-07-22,18,False,Continental Resources
+2007-07-29,36,False,Continental Resources
+2007-08-05,55,False,Continental Resources
+2007-08-12,28,False,Continental Resources
+2007-08-19,44,False,Continental Resources
+2007-08-26,60,False,Continental Resources
+2007-09-02,42,False,Continental Resources
+2007-09-09,40,False,Continental Resources
+2007-09-16,48,False,Continental Resources
+2007-09-23,64,False,Continental Resources
+2007-09-30,55,False,Continental Resources
+2007-10-07,40,False,Continental Resources
+2007-10-14,38,False,Continental Resources
+2007-10-21,75,False,Continental Resources
+2007-10-28,15,False,Continental Resources
+2007-11-04,52,False,Continental Resources
+2007-11-11,46,False,Continental Resources
+2007-11-18,67,False,Continental Resources
+2007-11-25,43,False,Continental Resources
+2007-12-02,57,False,Continental Resources
+2007-12-09,58,False,Continental Resources
+2007-12-16,62,False,Continental Resources
+2007-12-23,0,False,Continental Resources
+2007-12-30,8,False,Continental Resources
+2008-01-06,35,False,Continental Resources
+2008-01-13,41,False,Continental Resources
+2008-01-20,48,False,Continental Resources
+2008-01-27,75,False,Continental Resources
+2008-02-03,14,False,Continental Resources
+2008-02-10,55,False,Continental Resources

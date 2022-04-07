@@ -1,0 +1,157 @@
+date,SVI,isPartial,Issuer
+2004-03-28,56,False,Motive
+2004-04-04,58,False,Motive
+2004-04-11,54,False,Motive
+2004-04-18,72,False,Motive
+2004-04-25,65,False,Motive
+2004-05-02,61,False,Motive
+2004-05-09,60,False,Motive
+2004-05-16,53,False,Motive
+2004-05-23,60,False,Motive
+2004-05-30,76,False,Motive
+2004-06-06,95,False,Motive
+2004-06-13,59,False,Motive
+2004-06-20,62,False,Motive
+2004-06-27,56,False,Motive
+2004-07-04,52,False,Motive
+2004-07-11,55,False,Motive
+2004-07-18,39,False,Motive
+2004-07-25,54,False,Motive
+2004-08-01,47,False,Motive
+2004-08-08,46,False,Motive
+2004-08-15,61,False,Motive
+2004-08-22,57,False,Motive
+2004-08-29,48,False,Motive
+2004-09-05,57,False,Motive
+2004-09-12,54,False,Motive
+2004-09-19,55,False,Motive
+2004-09-26,47,False,Motive
+2004-10-03,47,False,Motive
+2004-10-10,51,False,Motive
+2004-10-17,53,False,Motive
+2004-10-24,66,False,Motive
+2004-10-31,52,False,Motive
+2004-11-07,50,False,Motive
+2004-11-14,63,False,Motive
+2004-11-21,53,False,Motive
+2004-11-28,63,False,Motive
+2004-12-05,100,False,Motive
+2004-12-12,85,False,Motive
+2004-12-19,85,False,Motive
+2004-12-26,66,False,Motive
+2005-01-02,55,False,Motive
+2005-01-09,59,False,Motive
+2005-01-16,55,False,Motive
+2005-01-23,57,False,Motive
+2005-01-30,51,False,Motive
+2005-02-06,58,False,Motive
+2005-02-13,50,False,Motive
+2005-02-20,60,False,Motive
+2005-02-27,62,False,Motive
+2005-03-06,65,False,Motive
+2005-03-13,55,False,Motive
+2005-03-20,55,False,Motive
+2004-03-28,48,False,Cabela's
+2004-04-04,37,False,Cabela's
+2004-04-11,37,False,Cabela's
+2004-04-18,40,False,Cabela's
+2004-04-25,44,False,Cabela's
+2004-05-02,36,False,Cabela's
+2004-05-09,42,False,Cabela's
+2004-05-16,31,False,Cabela's
+2004-05-23,41,False,Cabela's
+2004-05-30,40,False,Cabela's
+2004-06-06,41,False,Cabela's
+2004-06-13,44,False,Cabela's
+2004-06-20,54,False,Cabela's
+2004-06-27,41,False,Cabela's
+2004-07-04,39,False,Cabela's
+2004-07-11,55,False,Cabela's
+2004-07-18,54,False,Cabela's
+2004-07-25,46,False,Cabela's
+2004-08-01,61,False,Cabela's
+2004-08-08,64,False,Cabela's
+2004-08-15,70,False,Cabela's
+2004-08-22,54,False,Cabela's
+2004-08-29,49,False,Cabela's
+2004-09-05,45,False,Cabela's
+2004-09-12,54,False,Cabela's
+2004-09-19,61,False,Cabela's
+2004-09-26,56,False,Cabela's
+2004-10-03,60,False,Cabela's
+2004-10-10,50,False,Cabela's
+2004-10-17,49,False,Cabela's
+2004-10-24,59,False,Cabela's
+2004-10-31,58,False,Cabela's
+2004-11-07,61,False,Cabela's
+2004-11-14,65,False,Cabela's
+2004-11-21,57,False,Cabela's
+2004-11-28,76,False,Cabela's
+2004-12-05,96,False,Cabela's
+2004-12-12,100,False,Cabela's
+2004-12-19,89,False,Cabela's
+2004-12-26,96,False,Cabela's
+2005-01-02,69,False,Cabela's
+2005-01-09,55,False,Cabela's
+2005-01-16,46,False,Cabela's
+2005-01-23,47,False,Cabela's
+2005-01-30,56,False,Cabela's
+2005-02-06,56,False,Cabela's
+2005-02-13,51,False,Cabela's
+2005-02-20,47,False,Cabela's
+2005-02-27,53,False,Cabela's
+2005-03-06,49,False,Cabela's
+2005-03-13,55,False,Cabela's
+2005-03-20,56,False,Cabela's
+2004-04-04,100,False,Life Time Fitness
+2004-04-11,41,False,Life Time Fitness
+2004-04-18,78,False,Life Time Fitness
+2004-04-25,11,False,Life Time Fitness
+2004-05-02,11,False,Life Time Fitness
+2004-05-09,11,False,Life Time Fitness
+2004-05-16,22,False,Life Time Fitness
+2004-05-23,11,False,Life Time Fitness
+2004-05-30,23,False,Life Time Fitness
+2004-06-06,22,False,Life Time Fitness
+2004-06-13,55,False,Life Time Fitness
+2004-06-20,68,False,Life Time Fitness
+2004-06-27,57,False,Life Time Fitness
+2004-07-04,34,False,Life Time Fitness
+2004-07-11,67,False,Life Time Fitness
+2004-07-18,80,False,Life Time Fitness
+2004-07-25,46,False,Life Time Fitness
+2004-08-01,69,False,Life Time Fitness
+2004-08-08,11,False,Life Time Fitness
+2004-08-15,56,False,Life Time Fitness
+2004-08-22,32,False,Life Time Fitness
+2004-08-29,62,False,Life Time Fitness
+2004-09-05,21,False,Life Time Fitness
+2004-09-12,39,False,Life Time Fitness
+2004-09-19,29,False,Life Time Fitness
+2004-09-26,19,False,Life Time Fitness
+2004-10-03,58,False,Life Time Fitness
+2004-10-10,35,False,Life Time Fitness
+2004-10-17,28,False,Life Time Fitness
+2004-10-24,22,False,Life Time Fitness
+2004-10-31,37,False,Life Time Fitness
+2004-11-07,41,False,Life Time Fitness
+2004-11-14,73,False,Life Time Fitness
+2004-11-21,19,False,Life Time Fitness
+2004-11-28,53,False,Life Time Fitness
+2004-12-05,17,False,Life Time Fitness
+2004-12-12,36,False,Life Time Fitness
+2004-12-19,42,False,Life Time Fitness
+2004-12-26,37,False,Life Time Fitness
+2005-01-02,62,False,Life Time Fitness
+2005-01-09,33,False,Life Time Fitness
+2005-01-16,40,False,Life Time Fitness
+2005-01-23,72,False,Life Time Fitness
+2005-01-30,24,False,Life Time Fitness
+2005-02-06,32,False,Life Time Fitness
+2005-02-13,16,False,Life Time Fitness
+2005-02-20,33,False,Life Time Fitness
+2005-02-27,39,False,Life Time Fitness
+2005-03-06,15,False,Life Time Fitness
+2005-03-13,30,False,Life Time Fitness
+2005-03-20,49,False,Life Time Fitness
+2005-03-27,58,False,Life Time Fitness

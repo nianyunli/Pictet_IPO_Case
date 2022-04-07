@@ -1,0 +1,261 @@
+date,SVI,isPartial,Issuer
+2016-03-27,5,False,Selecta Biosciences
+2016-04-03,0,False,Selecta Biosciences
+2016-04-10,10,False,Selecta Biosciences
+2016-04-17,5,False,Selecta Biosciences
+2016-04-24,0,False,Selecta Biosciences
+2016-05-01,10,False,Selecta Biosciences
+2016-05-08,0,False,Selecta Biosciences
+2016-05-15,10,False,Selecta Biosciences
+2016-05-22,20,False,Selecta Biosciences
+2016-05-29,10,False,Selecta Biosciences
+2016-06-05,10,False,Selecta Biosciences
+2016-06-12,20,False,Selecta Biosciences
+2016-06-19,100,False,Selecta Biosciences
+2016-06-26,25,False,Selecta Biosciences
+2016-07-03,16,False,Selecta Biosciences
+2016-07-10,16,False,Selecta Biosciences
+2016-07-17,11,False,Selecta Biosciences
+2016-07-24,21,False,Selecta Biosciences
+2016-07-31,27,False,Selecta Biosciences
+2016-08-07,11,False,Selecta Biosciences
+2016-08-14,17,False,Selecta Biosciences
+2016-08-21,16,False,Selecta Biosciences
+2016-08-28,16,False,Selecta Biosciences
+2016-09-04,0,False,Selecta Biosciences
+2016-09-11,5,False,Selecta Biosciences
+2016-09-18,10,False,Selecta Biosciences
+2016-09-25,10,False,Selecta Biosciences
+2016-10-02,10,False,Selecta Biosciences
+2016-10-09,5,False,Selecta Biosciences
+2016-10-16,0,False,Selecta Biosciences
+2016-10-23,10,False,Selecta Biosciences
+2016-10-30,15,False,Selecta Biosciences
+2016-11-06,29,False,Selecta Biosciences
+2016-11-13,10,False,Selecta Biosciences
+2016-11-20,10,False,Selecta Biosciences
+2016-11-27,14,False,Selecta Biosciences
+2016-12-04,9,False,Selecta Biosciences
+2016-12-11,5,False,Selecta Biosciences
+2016-12-18,15,False,Selecta Biosciences
+2016-12-25,5,False,Selecta Biosciences
+2017-01-01,29,False,Selecta Biosciences
+2017-01-08,5,False,Selecta Biosciences
+2017-01-15,14,False,Selecta Biosciences
+2017-01-22,9,False,Selecta Biosciences
+2017-01-29,9,False,Selecta Biosciences
+2017-02-05,9,False,Selecta Biosciences
+2017-02-12,9,False,Selecta Biosciences
+2017-02-19,0,False,Selecta Biosciences
+2017-02-26,9,False,Selecta Biosciences
+2017-03-05,9,False,Selecta Biosciences
+2017-03-12,4,False,Selecta Biosciences
+2017-03-19,23,False,Selecta Biosciences
+2016-03-27,18,False,Twilio
+2016-04-03,22,False,Twilio
+2016-04-10,20,False,Twilio
+2016-04-17,20,False,Twilio
+2016-04-24,19,False,Twilio
+2016-05-01,18,False,Twilio
+2016-05-08,21,False,Twilio
+2016-05-15,20,False,Twilio
+2016-05-22,35,False,Twilio
+2016-05-29,23,False,Twilio
+2016-06-05,24,False,Twilio
+2016-06-12,26,False,Twilio
+2016-06-19,100,False,Twilio
+2016-06-26,50,False,Twilio
+2016-07-03,27,False,Twilio
+2016-07-10,33,False,Twilio
+2016-07-17,28,False,Twilio
+2016-07-24,25,False,Twilio
+2016-07-31,25,False,Twilio
+2016-08-07,34,False,Twilio
+2016-08-14,34,False,Twilio
+2016-08-21,29,False,Twilio
+2016-08-28,28,False,Twilio
+2016-09-04,27,False,Twilio
+2016-09-11,26,False,Twilio
+2016-09-18,32,False,Twilio
+2016-09-25,30,False,Twilio
+2016-10-02,29,False,Twilio
+2016-10-09,31,False,Twilio
+2016-10-16,33,False,Twilio
+2016-10-23,31,False,Twilio
+2016-10-30,33,False,Twilio
+2016-11-06,29,False,Twilio
+2016-11-13,29,False,Twilio
+2016-11-20,22,False,Twilio
+2016-11-27,29,False,Twilio
+2016-12-04,28,False,Twilio
+2016-12-11,27,False,Twilio
+2016-12-18,28,False,Twilio
+2016-12-25,18,False,Twilio
+2017-01-01,28,False,Twilio
+2017-01-08,28,False,Twilio
+2017-01-15,27,False,Twilio
+2017-01-22,32,False,Twilio
+2017-01-29,32,False,Twilio
+2017-02-05,37,False,Twilio
+2017-02-12,33,False,Twilio
+2017-02-19,31,False,Twilio
+2017-02-26,33,False,Twilio
+2017-03-05,32,False,Twilio
+2017-03-12,31,False,Twilio
+2017-03-19,30,False,Twilio
+2016-04-10,0,False,M III Acquisition
+2016-04-17,0,False,M III Acquisition
+2016-04-24,0,False,M III Acquisition
+2016-05-01,47,False,M III Acquisition
+2016-05-08,0,False,M III Acquisition
+2016-05-15,0,False,M III Acquisition
+2016-05-22,0,False,M III Acquisition
+2016-05-29,47,False,M III Acquisition
+2016-06-05,47,False,M III Acquisition
+2016-06-12,0,False,M III Acquisition
+2016-06-19,0,False,M III Acquisition
+2016-06-26,0,False,M III Acquisition
+2016-07-03,100,False,M III Acquisition
+2016-07-10,0,False,M III Acquisition
+2016-07-17,50,False,M III Acquisition
+2016-07-24,0,False,M III Acquisition
+2016-07-31,0,False,M III Acquisition
+2016-08-07,0,False,M III Acquisition
+2016-08-14,0,False,M III Acquisition
+2016-08-21,0,False,M III Acquisition
+2016-08-28,0,False,M III Acquisition
+2016-09-04,0,False,M III Acquisition
+2016-09-11,0,False,M III Acquisition
+2016-09-18,0,False,M III Acquisition
+2016-09-25,0,False,M III Acquisition
+2016-10-02,0,False,M III Acquisition
+2016-10-09,0,False,M III Acquisition
+2016-10-16,0,False,M III Acquisition
+2016-10-23,0,False,M III Acquisition
+2016-10-30,47,False,M III Acquisition
+2016-11-06,0,False,M III Acquisition
+2016-11-13,0,False,M III Acquisition
+2016-11-20,0,False,M III Acquisition
+2016-11-27,0,False,M III Acquisition
+2016-12-04,0,False,M III Acquisition
+2016-12-11,0,False,M III Acquisition
+2016-12-18,48,False,M III Acquisition
+2016-12-25,0,False,M III Acquisition
+2017-01-01,0,False,M III Acquisition
+2017-01-08,0,False,M III Acquisition
+2017-01-15,43,False,M III Acquisition
+2017-01-22,42,False,M III Acquisition
+2017-01-29,0,False,M III Acquisition
+2017-02-05,0,False,M III Acquisition
+2017-02-12,42,False,M III Acquisition
+2017-02-19,0,False,M III Acquisition
+2017-02-26,0,False,M III Acquisition
+2017-03-05,0,False,M III Acquisition
+2017-03-12,42,False,M III Acquisition
+2017-03-19,0,False,M III Acquisition
+2017-03-26,0,False,M III Acquisition
+2017-04-02,0,False,M III Acquisition
+2016-04-10,49,False,Monster Digital
+2016-04-17,66,False,Monster Digital
+2016-04-24,45,False,Monster Digital
+2016-05-01,56,False,Monster Digital
+2016-05-08,59,False,Monster Digital
+2016-05-15,43,False,Monster Digital
+2016-05-22,52,False,Monster Digital
+2016-05-29,45,False,Monster Digital
+2016-06-05,71,False,Monster Digital
+2016-06-12,61,False,Monster Digital
+2016-06-19,40,False,Monster Digital
+2016-06-26,96,False,Monster Digital
+2016-07-03,72,False,Monster Digital
+2016-07-10,100,False,Monster Digital
+2016-07-17,73,False,Monster Digital
+2016-07-24,75,False,Monster Digital
+2016-07-31,63,False,Monster Digital
+2016-08-07,53,False,Monster Digital
+2016-08-14,50,False,Monster Digital
+2016-08-21,41,False,Monster Digital
+2016-08-28,51,False,Monster Digital
+2016-09-04,63,False,Monster Digital
+2016-09-11,52,False,Monster Digital
+2016-09-18,56,False,Monster Digital
+2016-09-25,48,False,Monster Digital
+2016-10-02,35,False,Monster Digital
+2016-10-09,50,False,Monster Digital
+2016-10-16,24,False,Monster Digital
+2016-10-23,52,False,Monster Digital
+2016-10-30,40,False,Monster Digital
+2016-11-06,33,False,Monster Digital
+2016-11-13,47,False,Monster Digital
+2016-11-20,69,False,Monster Digital
+2016-11-27,57,False,Monster Digital
+2016-12-04,59,False,Monster Digital
+2016-12-11,56,False,Monster Digital
+2016-12-18,42,False,Monster Digital
+2016-12-25,74,False,Monster Digital
+2017-01-01,45,False,Monster Digital
+2017-01-08,66,False,Monster Digital
+2017-01-15,57,False,Monster Digital
+2017-01-22,55,False,Monster Digital
+2017-01-29,45,False,Monster Digital
+2017-02-05,43,False,Monster Digital
+2017-02-12,37,False,Monster Digital
+2017-02-19,55,False,Monster Digital
+2017-02-26,47,False,Monster Digital
+2017-03-05,52,False,Monster Digital
+2017-03-12,48,False,Monster Digital
+2017-03-19,56,False,Monster Digital
+2017-03-26,44,False,Monster Digital
+2017-04-02,60,False,Monster Digital
+2016-04-17,68,False,LINE Corporation
+2016-04-24,57,False,LINE Corporation
+2016-05-01,62,False,LINE Corporation
+2016-05-08,53,False,LINE Corporation
+2016-05-15,47,False,LINE Corporation
+2016-05-22,55,False,LINE Corporation
+2016-05-29,38,False,LINE Corporation
+2016-06-05,68,False,LINE Corporation
+2016-06-12,65,False,LINE Corporation
+2016-06-19,55,False,LINE Corporation
+2016-06-26,52,False,LINE Corporation
+2016-07-03,52,False,LINE Corporation
+2016-07-10,100,False,LINE Corporation
+2016-07-17,70,False,LINE Corporation
+2016-07-24,54,False,LINE Corporation
+2016-07-31,56,False,LINE Corporation
+2016-08-07,61,False,LINE Corporation
+2016-08-14,61,False,LINE Corporation
+2016-08-21,47,False,LINE Corporation
+2016-08-28,77,False,LINE Corporation
+2016-09-04,60,False,LINE Corporation
+2016-09-11,61,False,LINE Corporation
+2016-09-18,71,False,LINE Corporation
+2016-09-25,67,False,LINE Corporation
+2016-10-02,59,False,LINE Corporation
+2016-10-09,62,False,LINE Corporation
+2016-10-16,74,False,LINE Corporation
+2016-10-23,60,False,LINE Corporation
+2016-10-30,60,False,LINE Corporation
+2016-11-06,70,False,LINE Corporation
+2016-11-13,67,False,LINE Corporation
+2016-11-20,55,False,LINE Corporation
+2016-11-27,65,False,LINE Corporation
+2016-12-04,79,False,LINE Corporation
+2016-12-11,70,False,LINE Corporation
+2016-12-18,49,False,LINE Corporation
+2016-12-25,49,False,LINE Corporation
+2017-01-01,64,False,LINE Corporation
+2017-01-08,64,False,LINE Corporation
+2017-01-15,65,False,LINE Corporation
+2017-01-22,58,False,LINE Corporation
+2017-01-29,72,False,LINE Corporation
+2017-02-05,63,False,LINE Corporation
+2017-02-12,71,False,LINE Corporation
+2017-02-19,69,False,LINE Corporation
+2017-02-26,78,False,LINE Corporation
+2017-03-05,78,False,LINE Corporation
+2017-03-12,49,False,LINE Corporation
+2017-03-19,67,False,LINE Corporation
+2017-03-26,72,False,LINE Corporation
+2017-04-02,82,False,LINE Corporation
+2017-04-09,57,False,LINE Corporation

@@ -1,0 +1,209 @@
+date,SVI,isPartial,Issuer
+2013-08-04,14,False,58.com
+2013-08-11,12,False,58.com
+2013-08-18,18,False,58.com
+2013-08-25,13,False,58.com
+2013-09-01,13,False,58.com
+2013-09-08,22,False,58.com
+2013-09-15,7,False,58.com
+2013-09-22,18,False,58.com
+2013-09-29,22,False,58.com
+2013-10-06,29,False,58.com
+2013-10-13,35,False,58.com
+2013-10-20,38,False,58.com
+2013-10-27,100,False,58.com
+2013-11-03,39,False,58.com
+2013-11-10,25,False,58.com
+2013-11-17,26,False,58.com
+2013-11-24,34,False,58.com
+2013-12-01,21,False,58.com
+2013-12-08,9,False,58.com
+2013-12-15,13,False,58.com
+2013-12-22,16,False,58.com
+2013-12-29,23,False,58.com
+2014-01-05,21,False,58.com
+2014-01-12,10,False,58.com
+2014-01-19,29,False,58.com
+2014-01-26,10,False,58.com
+2014-02-02,21,False,58.com
+2014-02-09,23,False,58.com
+2014-02-16,25,False,58.com
+2014-02-23,26,False,58.com
+2014-03-02,20,False,58.com
+2014-03-09,17,False,58.com
+2014-03-16,7,False,58.com
+2014-03-23,16,False,58.com
+2014-03-30,13,False,58.com
+2014-04-06,24,False,58.com
+2014-04-13,25,False,58.com
+2014-04-20,31,False,58.com
+2014-04-27,12,False,58.com
+2014-05-04,20,False,58.com
+2014-05-11,19,False,58.com
+2014-05-18,18,False,58.com
+2014-05-25,17,False,58.com
+2014-06-01,17,False,58.com
+2014-06-08,23,False,58.com
+2014-06-15,11,False,58.com
+2014-06-22,17,False,58.com
+2014-06-29,15,False,58.com
+2014-07-06,10,False,58.com
+2014-07-13,8,False,58.com
+2014-07-20,12,False,58.com
+2014-07-27,15,False,58.com
+2013-08-04,0,False,Essent Group Ltd.
+2013-08-11,0,False,Essent Group Ltd.
+2013-08-18,0,False,Essent Group Ltd.
+2013-08-25,0,False,Essent Group Ltd.
+2013-09-01,0,False,Essent Group Ltd.
+2013-09-08,0,False,Essent Group Ltd.
+2013-09-15,97,False,Essent Group Ltd.
+2013-09-22,0,False,Essent Group Ltd.
+2013-09-29,0,False,Essent Group Ltd.
+2013-10-06,0,False,Essent Group Ltd.
+2013-10-13,0,False,Essent Group Ltd.
+2013-10-20,96,False,Essent Group Ltd.
+2013-10-27,97,False,Essent Group Ltd.
+2013-11-03,0,False,Essent Group Ltd.
+2013-11-10,0,False,Essent Group Ltd.
+2013-11-17,0,False,Essent Group Ltd.
+2013-11-24,0,False,Essent Group Ltd.
+2013-12-01,0,False,Essent Group Ltd.
+2013-12-08,0,False,Essent Group Ltd.
+2013-12-15,0,False,Essent Group Ltd.
+2013-12-22,0,False,Essent Group Ltd.
+2013-12-29,0,False,Essent Group Ltd.
+2014-01-05,0,False,Essent Group Ltd.
+2014-01-12,0,False,Essent Group Ltd.
+2014-01-19,0,False,Essent Group Ltd.
+2014-01-26,0,False,Essent Group Ltd.
+2014-02-02,0,False,Essent Group Ltd.
+2014-02-09,0,False,Essent Group Ltd.
+2014-02-16,0,False,Essent Group Ltd.
+2014-02-23,0,False,Essent Group Ltd.
+2014-03-02,0,False,Essent Group Ltd.
+2014-03-09,0,False,Essent Group Ltd.
+2014-03-16,0,False,Essent Group Ltd.
+2014-03-23,0,False,Essent Group Ltd.
+2014-03-30,89,False,Essent Group Ltd.
+2014-04-06,0,False,Essent Group Ltd.
+2014-04-13,0,False,Essent Group Ltd.
+2014-04-20,0,False,Essent Group Ltd.
+2014-04-27,0,False,Essent Group Ltd.
+2014-05-04,0,False,Essent Group Ltd.
+2014-05-11,0,False,Essent Group Ltd.
+2014-05-18,95,False,Essent Group Ltd.
+2014-05-25,0,False,Essent Group Ltd.
+2014-06-01,100,False,Essent Group Ltd.
+2014-06-08,0,False,Essent Group Ltd.
+2014-06-15,0,False,Essent Group Ltd.
+2014-06-22,0,False,Essent Group Ltd.
+2014-06-29,0,False,Essent Group Ltd.
+2014-07-06,0,False,Essent Group Ltd.
+2014-07-13,0,False,Essent Group Ltd.
+2014-07-20,0,False,Essent Group Ltd.
+2014-07-27,0,False,Essent Group Ltd.
+2013-08-04,64,False,Marcus & Millichap
+2013-08-11,80,False,Marcus & Millichap
+2013-08-18,78,False,Marcus & Millichap
+2013-08-25,62,False,Marcus & Millichap
+2013-09-01,42,False,Marcus & Millichap
+2013-09-08,96,False,Marcus & Millichap
+2013-09-15,78,False,Marcus & Millichap
+2013-09-22,74,False,Marcus & Millichap
+2013-09-29,78,False,Marcus & Millichap
+2013-10-06,83,False,Marcus & Millichap
+2013-10-13,60,False,Marcus & Millichap
+2013-10-20,59,False,Marcus & Millichap
+2013-10-27,100,False,Marcus & Millichap
+2013-11-03,62,False,Marcus & Millichap
+2013-11-10,27,False,Marcus & Millichap
+2013-11-17,74,False,Marcus & Millichap
+2013-11-24,45,False,Marcus & Millichap
+2013-12-01,61,False,Marcus & Millichap
+2013-12-08,77,False,Marcus & Millichap
+2013-12-15,64,False,Marcus & Millichap
+2013-12-22,35,False,Marcus & Millichap
+2013-12-29,29,False,Marcus & Millichap
+2014-01-05,92,False,Marcus & Millichap
+2014-01-12,55,False,Marcus & Millichap
+2014-01-19,76,False,Marcus & Millichap
+2014-01-26,50,False,Marcus & Millichap
+2014-02-02,75,False,Marcus & Millichap
+2014-02-09,63,False,Marcus & Millichap
+2014-02-16,55,False,Marcus & Millichap
+2014-02-23,91,False,Marcus & Millichap
+2014-03-02,72,False,Marcus & Millichap
+2014-03-09,47,False,Marcus & Millichap
+2014-03-16,70,False,Marcus & Millichap
+2014-03-23,82,False,Marcus & Millichap
+2014-03-30,59,False,Marcus & Millichap
+2014-04-06,38,False,Marcus & Millichap
+2014-04-13,74,False,Marcus & Millichap
+2014-04-20,47,False,Marcus & Millichap
+2014-04-27,43,False,Marcus & Millichap
+2014-05-04,51,False,Marcus & Millichap
+2014-05-11,42,False,Marcus & Millichap
+2014-05-18,67,False,Marcus & Millichap
+2014-05-25,47,False,Marcus & Millichap
+2014-06-01,38,False,Marcus & Millichap
+2014-06-08,47,False,Marcus & Millichap
+2014-06-15,57,False,Marcus & Millichap
+2014-06-22,48,False,Marcus & Millichap
+2014-06-29,53,False,Marcus & Millichap
+2014-07-06,67,False,Marcus & Millichap
+2014-07-13,29,False,Marcus & Millichap
+2014-07-20,63,False,Marcus & Millichap
+2014-07-27,38,False,Marcus & Millichap
+2013-08-04,0,False,Container Store Group
+2013-08-11,15,False,Container Store Group
+2013-08-18,43,False,Container Store Group
+2013-08-25,42,False,Container Store Group
+2013-09-01,27,False,Container Store Group
+2013-09-08,13,False,Container Store Group
+2013-09-15,27,False,Container Store Group
+2013-09-22,13,False,Container Store Group
+2013-09-29,27,False,Container Store Group
+2013-10-06,40,False,Container Store Group
+2013-10-13,27,False,Container Store Group
+2013-10-20,26,False,Container Store Group
+2013-10-27,93,False,Container Store Group
+2013-11-03,78,False,Container Store Group
+2013-11-10,39,False,Container Store Group
+2013-11-17,51,False,Container Store Group
+2013-11-24,13,False,Container Store Group
+2013-12-01,38,False,Container Store Group
+2013-12-08,40,False,Container Store Group
+2013-12-15,27,False,Container Store Group
+2013-12-22,59,False,Container Store Group
+2013-12-29,43,False,Container Store Group
+2014-01-05,51,False,Container Store Group
+2014-01-12,49,False,Container Store Group
+2014-01-19,25,False,Container Store Group
+2014-01-26,0,False,Container Store Group
+2014-02-02,39,False,Container Store Group
+2014-02-09,24,False,Container Store Group
+2014-02-16,37,False,Container Store Group
+2014-02-23,60,False,Container Store Group
+2014-03-02,0,False,Container Store Group
+2014-03-09,100,False,Container Store Group
+2014-03-16,0,False,Container Store Group
+2014-03-23,12,False,Container Store Group
+2014-03-30,12,False,Container Store Group
+2014-04-06,25,False,Container Store Group
+2014-04-13,0,False,Container Store Group
+2014-04-20,13,False,Container Store Group
+2014-04-27,13,False,Container Store Group
+2014-05-04,12,False,Container Store Group
+2014-05-11,37,False,Container Store Group
+2014-05-18,26,False,Container Store Group
+2014-05-25,28,False,Container Store Group
+2014-06-01,41,False,Container Store Group
+2014-06-08,14,False,Container Store Group
+2014-06-15,28,False,Container Store Group
+2014-06-22,14,False,Container Store Group
+2014-06-29,28,False,Container Store Group
+2014-07-06,55,False,Container Store Group
+2014-07-13,28,False,Container Store Group
+2014-07-20,14,False,Container Store Group
+2014-07-27,0,False,Container Store Group

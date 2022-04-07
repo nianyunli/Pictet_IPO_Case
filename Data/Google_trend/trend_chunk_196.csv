@@ -1,0 +1,158 @@
+date,SVI,isPartial,Issuer
+2015-01-18,0,False,Party City Holdco
+2015-01-25,25,False,Party City Holdco
+2015-02-01,25,False,Party City Holdco
+2015-02-08,0,False,Party City Holdco
+2015-02-15,0,False,Party City Holdco
+2015-02-22,0,False,Party City Holdco
+2015-03-01,0,False,Party City Holdco
+2015-03-08,0,False,Party City Holdco
+2015-03-15,0,False,Party City Holdco
+2015-03-22,0,False,Party City Holdco
+2015-03-29,0,False,Party City Holdco
+2015-04-05,51,False,Party City Holdco
+2015-04-12,100,False,Party City Holdco
+2015-04-19,25,False,Party City Holdco
+2015-04-26,0,False,Party City Holdco
+2015-05-03,0,False,Party City Holdco
+2015-05-10,0,False,Party City Holdco
+2015-05-17,0,False,Party City Holdco
+2015-05-24,0,False,Party City Holdco
+2015-05-31,50,False,Party City Holdco
+2015-06-07,0,False,Party City Holdco
+2015-06-14,0,False,Party City Holdco
+2015-06-21,0,False,Party City Holdco
+2015-06-28,0,False,Party City Holdco
+2015-07-05,0,False,Party City Holdco
+2015-07-12,51,False,Party City Holdco
+2015-07-19,0,False,Party City Holdco
+2015-07-26,0,False,Party City Holdco
+2015-08-02,0,False,Party City Holdco
+2015-08-09,0,False,Party City Holdco
+2015-08-16,0,False,Party City Holdco
+2015-08-23,0,False,Party City Holdco
+2015-08-30,0,False,Party City Holdco
+2015-09-06,0,False,Party City Holdco
+2015-09-13,0,False,Party City Holdco
+2015-09-20,0,False,Party City Holdco
+2015-09-27,0,False,Party City Holdco
+2015-10-04,0,False,Party City Holdco
+2015-10-11,0,False,Party City Holdco
+2015-10-18,0,False,Party City Holdco
+2015-10-25,46,False,Party City Holdco
+2015-11-01,23,False,Party City Holdco
+2015-11-08,0,False,Party City Holdco
+2015-11-15,0,False,Party City Holdco
+2015-11-22,0,False,Party City Holdco
+2015-11-29,0,False,Party City Holdco
+2015-12-06,23,False,Party City Holdco
+2015-12-13,0,False,Party City Holdco
+2015-12-20,0,False,Party City Holdco
+2015-12-27,0,False,Party City Holdco
+2016-01-03,0,False,Party City Holdco
+2016-01-10,24,False,Party City Holdco
+2015-01-18,5,False,Virtu Financial
+2015-01-25,12,False,Virtu Financial
+2015-02-01,8,False,Virtu Financial
+2015-02-08,8,False,Virtu Financial
+2015-02-15,19,False,Virtu Financial
+2015-02-22,16,False,Virtu Financial
+2015-03-01,25,False,Virtu Financial
+2015-03-08,15,False,Virtu Financial
+2015-03-15,9,False,Virtu Financial
+2015-03-22,6,False,Virtu Financial
+2015-03-29,12,False,Virtu Financial
+2015-04-05,51,False,Virtu Financial
+2015-04-12,100,False,Virtu Financial
+2015-04-19,41,False,Virtu Financial
+2015-04-26,19,False,Virtu Financial
+2015-05-03,23,False,Virtu Financial
+2015-05-10,10,False,Virtu Financial
+2015-05-17,15,False,Virtu Financial
+2015-05-24,13,False,Virtu Financial
+2015-05-31,12,False,Virtu Financial
+2015-06-07,8,False,Virtu Financial
+2015-06-14,11,False,Virtu Financial
+2015-06-21,9,False,Virtu Financial
+2015-06-28,9,False,Virtu Financial
+2015-07-05,15,False,Virtu Financial
+2015-07-12,7,False,Virtu Financial
+2015-07-19,13,False,Virtu Financial
+2015-07-26,12,False,Virtu Financial
+2015-08-02,15,False,Virtu Financial
+2015-08-09,9,False,Virtu Financial
+2015-08-16,9,False,Virtu Financial
+2015-08-23,39,False,Virtu Financial
+2015-08-30,10,False,Virtu Financial
+2015-09-06,5,False,Virtu Financial
+2015-09-13,11,False,Virtu Financial
+2015-09-20,12,False,Virtu Financial
+2015-09-27,10,False,Virtu Financial
+2015-10-04,6,False,Virtu Financial
+2015-10-11,19,False,Virtu Financial
+2015-10-18,7,False,Virtu Financial
+2015-10-25,9,False,Virtu Financial
+2015-11-01,14,False,Virtu Financial
+2015-11-08,13,False,Virtu Financial
+2015-11-15,8,False,Virtu Financial
+2015-11-22,6,False,Virtu Financial
+2015-11-29,4,False,Virtu Financial
+2015-12-06,7,False,Virtu Financial
+2015-12-13,13,False,Virtu Financial
+2015-12-20,7,False,Virtu Financial
+2015-12-27,2,False,Virtu Financial
+2016-01-03,8,False,Virtu Financial
+2016-01-10,9,False,Virtu Financial
+2015-01-25,27,False,Apigee
+2015-02-01,37,False,Apigee
+2015-02-08,40,False,Apigee
+2015-02-15,33,False,Apigee
+2015-02-22,51,False,Apigee
+2015-03-01,44,False,Apigee
+2015-03-08,33,False,Apigee
+2015-03-15,52,False,Apigee
+2015-03-22,57,False,Apigee
+2015-03-29,46,False,Apigee
+2015-04-05,46,False,Apigee
+2015-04-12,72,False,Apigee
+2015-04-19,100,False,Apigee
+2015-04-26,59,False,Apigee
+2015-05-03,42,False,Apigee
+2015-05-10,50,False,Apigee
+2015-05-17,40,False,Apigee
+2015-05-24,31,False,Apigee
+2015-05-31,37,False,Apigee
+2015-06-07,52,False,Apigee
+2015-06-14,44,False,Apigee
+2015-06-21,44,False,Apigee
+2015-06-28,47,False,Apigee
+2015-07-05,44,False,Apigee
+2015-07-12,48,False,Apigee
+2015-07-19,50,False,Apigee
+2015-07-26,55,False,Apigee
+2015-08-02,43,False,Apigee
+2015-08-09,46,False,Apigee
+2015-08-16,51,False,Apigee
+2015-08-23,46,False,Apigee
+2015-08-30,46,False,Apigee
+2015-09-06,42,False,Apigee
+2015-09-13,36,False,Apigee
+2015-09-20,51,False,Apigee
+2015-09-27,55,False,Apigee
+2015-10-04,45,False,Apigee
+2015-10-11,56,False,Apigee
+2015-10-18,46,False,Apigee
+2015-10-25,39,False,Apigee
+2015-11-01,52,False,Apigee
+2015-11-08,40,False,Apigee
+2015-11-15,40,False,Apigee
+2015-11-22,38,False,Apigee
+2015-11-29,53,False,Apigee
+2015-12-06,40,False,Apigee
+2015-12-13,55,False,Apigee
+2015-12-20,28,False,Apigee
+2015-12-27,24,False,Apigee
+2016-01-03,32,False,Apigee
+2016-01-10,43,False,Apigee
+2016-01-17,45,False,Apigee
+2016-01-24,51,False,Apigee

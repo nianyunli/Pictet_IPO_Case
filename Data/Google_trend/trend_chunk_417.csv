@@ -1,0 +1,261 @@
+date,SVI,isPartial,Issuer
+2009-04-05,86,False,LogMeIn
+2009-04-12,88,False,LogMeIn
+2009-04-19,88,False,LogMeIn
+2009-04-26,89,False,LogMeIn
+2009-05-03,88,False,LogMeIn
+2009-05-10,90,False,LogMeIn
+2009-05-17,90,False,LogMeIn
+2009-05-24,91,False,LogMeIn
+2009-05-31,87,False,LogMeIn
+2009-06-07,84,False,LogMeIn
+2009-06-14,88,False,LogMeIn
+2009-06-21,89,False,LogMeIn
+2009-06-28,91,False,LogMeIn
+2009-07-05,89,False,LogMeIn
+2009-07-12,91,False,LogMeIn
+2009-07-19,92,False,LogMeIn
+2009-07-26,93,False,LogMeIn
+2009-08-02,88,False,LogMeIn
+2009-08-09,92,False,LogMeIn
+2009-08-16,91,False,LogMeIn
+2009-08-23,89,False,LogMeIn
+2009-08-30,92,False,LogMeIn
+2009-09-06,100,False,LogMeIn
+2009-09-13,97,False,LogMeIn
+2009-09-20,96,False,LogMeIn
+2009-09-27,92,False,LogMeIn
+2009-10-04,95,False,LogMeIn
+2009-10-11,89,False,LogMeIn
+2009-10-18,91,False,LogMeIn
+2009-10-25,89,False,LogMeIn
+2009-11-01,92,False,LogMeIn
+2009-11-08,89,False,LogMeIn
+2009-11-15,89,False,LogMeIn
+2009-11-22,88,False,LogMeIn
+2009-11-29,90,False,LogMeIn
+2009-12-06,84,False,LogMeIn
+2009-12-13,90,False,LogMeIn
+2009-12-20,87,False,LogMeIn
+2009-12-27,80,False,LogMeIn
+2010-01-03,86,False,LogMeIn
+2010-01-10,85,False,LogMeIn
+2010-01-17,87,False,LogMeIn
+2010-01-24,88,False,LogMeIn
+2010-01-31,88,False,LogMeIn
+2010-02-07,88,False,LogMeIn
+2010-02-14,88,False,LogMeIn
+2010-02-21,84,False,LogMeIn
+2010-02-28,86,False,LogMeIn
+2010-03-07,84,False,LogMeIn
+2010-03-14,84,False,LogMeIn
+2010-03-21,86,False,LogMeIn
+2010-03-28,85,False,LogMeIn
+2009-05-03,0,False,PennyMac Investment Trust
+2009-05-10,0,False,PennyMac Investment Trust
+2009-05-17,0,False,PennyMac Investment Trust
+2009-05-24,49,False,PennyMac Investment Trust
+2009-05-31,48,False,PennyMac Investment Trust
+2009-06-07,0,False,PennyMac Investment Trust
+2009-06-14,0,False,PennyMac Investment Trust
+2009-06-21,0,False,PennyMac Investment Trust
+2009-06-28,0,False,PennyMac Investment Trust
+2009-07-05,0,False,PennyMac Investment Trust
+2009-07-12,0,False,PennyMac Investment Trust
+2009-07-19,50,False,PennyMac Investment Trust
+2009-07-26,99,False,PennyMac Investment Trust
+2009-08-02,50,False,PennyMac Investment Trust
+2009-08-09,100,False,PennyMac Investment Trust
+2009-08-16,0,False,PennyMac Investment Trust
+2009-08-23,0,False,PennyMac Investment Trust
+2009-08-30,45,False,PennyMac Investment Trust
+2009-09-06,0,False,PennyMac Investment Trust
+2009-09-13,45,False,PennyMac Investment Trust
+2009-09-20,0,False,PennyMac Investment Trust
+2009-09-27,0,False,PennyMac Investment Trust
+2009-10-04,0,False,PennyMac Investment Trust
+2009-10-11,43,False,PennyMac Investment Trust
+2009-10-18,0,False,PennyMac Investment Trust
+2009-10-25,0,False,PennyMac Investment Trust
+2009-11-01,0,False,PennyMac Investment Trust
+2009-11-08,0,False,PennyMac Investment Trust
+2009-11-15,0,False,PennyMac Investment Trust
+2009-11-22,0,False,PennyMac Investment Trust
+2009-11-29,0,False,PennyMac Investment Trust
+2009-12-06,0,False,PennyMac Investment Trust
+2009-12-13,0,False,PennyMac Investment Trust
+2009-12-20,0,False,PennyMac Investment Trust
+2009-12-27,0,False,PennyMac Investment Trust
+2010-01-03,40,False,PennyMac Investment Trust
+2010-01-10,0,False,PennyMac Investment Trust
+2010-01-17,0,False,PennyMac Investment Trust
+2010-01-24,0,False,PennyMac Investment Trust
+2010-01-31,0,False,PennyMac Investment Trust
+2010-02-07,0,False,PennyMac Investment Trust
+2010-02-14,0,False,PennyMac Investment Trust
+2010-02-21,0,False,PennyMac Investment Trust
+2010-02-28,0,False,PennyMac Investment Trust
+2010-03-07,0,False,PennyMac Investment Trust
+2010-03-14,0,False,PennyMac Investment Trust
+2010-03-21,0,False,PennyMac Investment Trust
+2010-03-28,0,False,PennyMac Investment Trust
+2010-04-04,0,False,PennyMac Investment Trust
+2010-04-11,0,False,PennyMac Investment Trust
+2010-04-18,0,False,PennyMac Investment Trust
+2010-04-25,0,False,PennyMac Investment Trust
+2009-05-03,20,False,Emdeon
+2009-05-10,21,False,Emdeon
+2009-05-17,22,False,Emdeon
+2009-05-24,17,False,Emdeon
+2009-05-31,28,False,Emdeon
+2009-06-07,25,False,Emdeon
+2009-06-14,25,False,Emdeon
+2009-06-21,24,False,Emdeon
+2009-06-28,15,False,Emdeon
+2009-07-05,34,False,Emdeon
+2009-07-12,24,False,Emdeon
+2009-07-19,21,False,Emdeon
+2009-07-26,32,False,Emdeon
+2009-08-02,26,False,Emdeon
+2009-08-09,100,False,Emdeon
+2009-08-16,25,False,Emdeon
+2009-08-23,26,False,Emdeon
+2009-08-30,23,False,Emdeon
+2009-09-06,20,False,Emdeon
+2009-09-13,26,False,Emdeon
+2009-09-20,25,False,Emdeon
+2009-09-27,24,False,Emdeon
+2009-10-04,21,False,Emdeon
+2009-10-11,21,False,Emdeon
+2009-10-18,23,False,Emdeon
+2009-10-25,17,False,Emdeon
+2009-11-01,20,False,Emdeon
+2009-11-08,20,False,Emdeon
+2009-11-15,18,False,Emdeon
+2009-11-22,20,False,Emdeon
+2009-11-29,29,False,Emdeon
+2009-12-06,15,False,Emdeon
+2009-12-13,25,False,Emdeon
+2009-12-20,14,False,Emdeon
+2009-12-27,12,False,Emdeon
+2010-01-03,17,False,Emdeon
+2010-01-10,20,False,Emdeon
+2010-01-17,18,False,Emdeon
+2010-01-24,25,False,Emdeon
+2010-01-31,28,False,Emdeon
+2010-02-07,17,False,Emdeon
+2010-02-14,27,False,Emdeon
+2010-02-21,24,False,Emdeon
+2010-02-28,25,False,Emdeon
+2010-03-07,21,False,Emdeon
+2010-03-14,20,False,Emdeon
+2010-03-21,20,False,Emdeon
+2010-03-28,21,False,Emdeon
+2010-04-04,27,False,Emdeon
+2010-04-11,30,False,Emdeon
+2010-04-18,19,False,Emdeon
+2010-04-25,17,False,Emdeon
+2009-05-10,39,False,CDC Software
+2009-05-17,57,False,CDC Software
+2009-05-24,29,False,CDC Software
+2009-05-31,90,False,CDC Software
+2009-06-07,50,False,CDC Software
+2009-06-14,51,False,CDC Software
+2009-06-21,40,False,CDC Software
+2009-06-28,53,False,CDC Software
+2009-07-05,40,False,CDC Software
+2009-07-12,47,False,CDC Software
+2009-07-19,53,False,CDC Software
+2009-07-26,41,False,CDC Software
+2009-08-02,100,False,CDC Software
+2009-08-09,77,False,CDC Software
+2009-08-16,64,False,CDC Software
+2009-08-23,44,False,CDC Software
+2009-08-30,59,False,CDC Software
+2009-09-06,49,False,CDC Software
+2009-09-13,68,False,CDC Software
+2009-09-20,69,False,CDC Software
+2009-09-27,83,False,CDC Software
+2009-10-04,31,False,CDC Software
+2009-10-11,56,False,CDC Software
+2009-10-18,61,False,CDC Software
+2009-10-25,55,False,CDC Software
+2009-11-01,45,False,CDC Software
+2009-11-08,97,False,CDC Software
+2009-11-15,39,False,CDC Software
+2009-11-22,55,False,CDC Software
+2009-11-29,59,False,CDC Software
+2009-12-06,59,False,CDC Software
+2009-12-13,35,False,CDC Software
+2009-12-20,29,False,CDC Software
+2009-12-27,40,False,CDC Software
+2010-01-03,66,False,CDC Software
+2010-01-10,32,False,CDC Software
+2010-01-17,69,False,CDC Software
+2010-01-24,31,False,CDC Software
+2010-01-31,63,False,CDC Software
+2010-02-07,45,False,CDC Software
+2010-02-14,79,False,CDC Software
+2010-02-21,70,False,CDC Software
+2010-02-28,63,False,CDC Software
+2010-03-07,49,False,CDC Software
+2010-03-14,22,False,CDC Software
+2010-03-21,68,False,CDC Software
+2010-03-28,61,False,CDC Software
+2010-04-04,69,False,CDC Software
+2010-04-11,72,False,CDC Software
+2010-04-18,53,False,CDC Software
+2010-04-25,73,False,CDC Software
+2010-05-02,78,False,CDC Software
+2009-05-10,59,False,Avago Technologies
+2009-05-17,50,False,Avago Technologies
+2009-05-24,27,False,Avago Technologies
+2009-05-31,30,False,Avago Technologies
+2009-06-07,46,False,Avago Technologies
+2009-06-14,43,False,Avago Technologies
+2009-06-21,64,False,Avago Technologies
+2009-06-28,38,False,Avago Technologies
+2009-07-05,47,False,Avago Technologies
+2009-07-12,52,False,Avago Technologies
+2009-07-19,52,False,Avago Technologies
+2009-07-26,100,False,Avago Technologies
+2009-08-02,76,False,Avago Technologies
+2009-08-09,56,False,Avago Technologies
+2009-08-16,44,False,Avago Technologies
+2009-08-23,29,False,Avago Technologies
+2009-08-30,38,False,Avago Technologies
+2009-09-06,16,False,Avago Technologies
+2009-09-13,53,False,Avago Technologies
+2009-09-20,44,False,Avago Technologies
+2009-09-27,25,False,Avago Technologies
+2009-10-04,49,False,Avago Technologies
+2009-10-11,51,False,Avago Technologies
+2009-10-18,36,False,Avago Technologies
+2009-10-25,27,False,Avago Technologies
+2009-11-01,36,False,Avago Technologies
+2009-11-08,32,False,Avago Technologies
+2009-11-15,29,False,Avago Technologies
+2009-11-22,39,False,Avago Technologies
+2009-11-29,35,False,Avago Technologies
+2009-12-06,20,False,Avago Technologies
+2009-12-13,21,False,Avago Technologies
+2009-12-20,31,False,Avago Technologies
+2009-12-27,17,False,Avago Technologies
+2010-01-03,44,False,Avago Technologies
+2010-01-10,40,False,Avago Technologies
+2010-01-17,51,False,Avago Technologies
+2010-01-24,45,False,Avago Technologies
+2010-01-31,35,False,Avago Technologies
+2010-02-07,56,False,Avago Technologies
+2010-02-14,36,False,Avago Technologies
+2010-02-21,57,False,Avago Technologies
+2010-02-28,39,False,Avago Technologies
+2010-03-07,45,False,Avago Technologies
+2010-03-14,37,False,Avago Technologies
+2010-03-21,67,False,Avago Technologies
+2010-03-28,25,False,Avago Technologies
+2010-04-04,35,False,Avago Technologies
+2010-04-11,45,False,Avago Technologies
+2010-04-18,50,False,Avago Technologies
+2010-04-25,24,False,Avago Technologies
+2010-05-02,51,False,Avago Technologies

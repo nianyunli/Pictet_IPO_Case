@@ -1,0 +1,209 @@
+date,SVI,isPartial,Issuer
+2014-09-14,35,False,Connecture
+2014-09-21,20,False,Connecture
+2014-09-28,48,False,Connecture
+2014-10-05,14,False,Connecture
+2014-10-12,7,False,Connecture
+2014-10-19,100,False,Connecture
+2014-10-26,27,False,Connecture
+2014-11-02,32,False,Connecture
+2014-11-09,39,False,Connecture
+2014-11-16,20,False,Connecture
+2014-11-23,33,False,Connecture
+2014-11-30,90,False,Connecture
+2014-12-07,72,False,Connecture
+2014-12-14,47,False,Connecture
+2014-12-21,22,False,Connecture
+2014-12-28,14,False,Connecture
+2015-01-04,44,False,Connecture
+2015-01-11,37,False,Connecture
+2015-01-18,49,False,Connecture
+2015-01-25,25,False,Connecture
+2015-02-01,37,False,Connecture
+2015-02-08,25,False,Connecture
+2015-02-15,70,False,Connecture
+2015-02-22,30,False,Connecture
+2015-03-01,49,False,Connecture
+2015-03-08,37,False,Connecture
+2015-03-15,6,False,Connecture
+2015-03-22,47,False,Connecture
+2015-03-29,19,False,Connecture
+2015-04-05,13,False,Connecture
+2015-04-12,49,False,Connecture
+2015-04-19,37,False,Connecture
+2015-04-26,37,False,Connecture
+2015-05-03,43,False,Connecture
+2015-05-10,43,False,Connecture
+2015-05-17,31,False,Connecture
+2015-05-24,31,False,Connecture
+2015-05-31,37,False,Connecture
+2015-06-07,43,False,Connecture
+2015-06-14,37,False,Connecture
+2015-06-21,24,False,Connecture
+2015-06-28,6,False,Connecture
+2015-07-05,37,False,Connecture
+2015-07-12,38,False,Connecture
+2015-07-19,19,False,Connecture
+2015-07-26,44,False,Connecture
+2015-08-02,25,False,Connecture
+2015-08-09,43,False,Connecture
+2015-08-16,49,False,Connecture
+2015-08-23,42,False,Connecture
+2015-08-30,18,False,Connecture
+2015-09-06,29,False,Connecture
+2014-09-14,43,False,Hortonworks
+2014-09-21,37,False,Hortonworks
+2014-09-28,42,False,Hortonworks
+2014-10-05,46,False,Hortonworks
+2014-10-12,39,False,Hortonworks
+2014-10-19,38,False,Hortonworks
+2014-10-26,42,False,Hortonworks
+2014-11-02,37,False,Hortonworks
+2014-11-09,63,False,Hortonworks
+2014-11-16,54,False,Hortonworks
+2014-11-23,36,False,Hortonworks
+2014-11-30,61,False,Hortonworks
+2014-12-07,100,False,Hortonworks
+2014-12-14,72,False,Hortonworks
+2014-12-21,30,False,Hortonworks
+2014-12-28,26,False,Hortonworks
+2015-01-04,42,False,Hortonworks
+2015-01-11,54,False,Hortonworks
+2015-01-18,46,False,Hortonworks
+2015-01-25,46,False,Hortonworks
+2015-02-01,46,False,Hortonworks
+2015-02-08,54,False,Hortonworks
+2015-02-15,54,False,Hortonworks
+2015-02-22,68,False,Hortonworks
+2015-03-01,50,False,Hortonworks
+2015-03-08,48,False,Hortonworks
+2015-03-15,44,False,Hortonworks
+2015-03-22,45,False,Hortonworks
+2015-03-29,50,False,Hortonworks
+2015-04-05,46,False,Hortonworks
+2015-04-12,56,False,Hortonworks
+2015-04-19,50,False,Hortonworks
+2015-04-26,52,False,Hortonworks
+2015-05-03,50,False,Hortonworks
+2015-05-10,53,False,Hortonworks
+2015-05-17,49,False,Hortonworks
+2015-05-24,37,False,Hortonworks
+2015-05-31,47,False,Hortonworks
+2015-06-07,46,False,Hortonworks
+2015-06-14,48,False,Hortonworks
+2015-06-21,48,False,Hortonworks
+2015-06-28,47,False,Hortonworks
+2015-07-05,47,False,Hortonworks
+2015-07-12,49,False,Hortonworks
+2015-07-19,52,False,Hortonworks
+2015-07-26,56,False,Hortonworks
+2015-08-02,60,False,Hortonworks
+2015-08-09,42,False,Hortonworks
+2015-08-16,51,False,Hortonworks
+2015-08-23,50,False,Hortonworks
+2015-08-30,45,False,Hortonworks
+2015-09-06,49,False,Hortonworks
+2014-09-14,0,False,James River Group Holdings
+2014-09-21,0,False,James River Group Holdings
+2014-09-28,0,False,James River Group Holdings
+2014-10-05,0,False,James River Group Holdings
+2014-10-12,0,False,James River Group Holdings
+2014-10-19,0,False,James River Group Holdings
+2014-10-26,0,False,James River Group Holdings
+2014-11-02,25,False,James River Group Holdings
+2014-11-09,25,False,James River Group Holdings
+2014-11-16,0,False,James River Group Holdings
+2014-11-23,0,False,James River Group Holdings
+2014-11-30,0,False,James River Group Holdings
+2014-12-07,100,False,James River Group Holdings
+2014-12-14,26,False,James River Group Holdings
+2014-12-21,0,False,James River Group Holdings
+2014-12-28,54,False,James River Group Holdings
+2015-01-04,0,False,James River Group Holdings
+2015-01-11,0,False,James River Group Holdings
+2015-01-18,23,False,James River Group Holdings
+2015-01-25,23,False,James River Group Holdings
+2015-02-01,0,False,James River Group Holdings
+2015-02-08,0,False,James River Group Holdings
+2015-02-15,24,False,James River Group Holdings
+2015-02-22,23,False,James River Group Holdings
+2015-03-01,0,False,James River Group Holdings
+2015-03-08,0,False,James River Group Holdings
+2015-03-15,0,False,James River Group Holdings
+2015-03-22,0,False,James River Group Holdings
+2015-03-29,0,False,James River Group Holdings
+2015-04-05,0,False,James River Group Holdings
+2015-04-12,23,False,James River Group Holdings
+2015-04-19,0,False,James River Group Holdings
+2015-04-26,47,False,James River Group Holdings
+2015-05-03,0,False,James River Group Holdings
+2015-05-10,23,False,James River Group Holdings
+2015-05-17,23,False,James River Group Holdings
+2015-05-24,0,False,James River Group Holdings
+2015-05-31,0,False,James River Group Holdings
+2015-06-07,0,False,James River Group Holdings
+2015-06-14,0,False,James River Group Holdings
+2015-06-21,0,False,James River Group Holdings
+2015-06-28,0,False,James River Group Holdings
+2015-07-05,24,False,James River Group Holdings
+2015-07-12,0,False,James River Group Holdings
+2015-07-19,24,False,James River Group Holdings
+2015-07-26,0,False,James River Group Holdings
+2015-08-02,0,False,James River Group Holdings
+2015-08-09,0,False,James River Group Holdings
+2015-08-16,0,False,James River Group Holdings
+2015-08-23,0,False,James River Group Holdings
+2015-08-30,0,False,James River Group Holdings
+2015-09-06,0,False,James River Group Holdings
+2014-09-14,50,False,New Relic
+2014-09-21,56,False,New Relic
+2014-09-28,52,False,New Relic
+2014-10-05,56,False,New Relic
+2014-10-12,53,False,New Relic
+2014-10-19,57,False,New Relic
+2014-10-26,58,False,New Relic
+2014-11-02,53,False,New Relic
+2014-11-09,69,False,New Relic
+2014-11-16,59,False,New Relic
+2014-11-23,44,False,New Relic
+2014-11-30,70,False,New Relic
+2014-12-07,100,False,New Relic
+2014-12-14,73,False,New Relic
+2014-12-21,39,False,New Relic
+2014-12-28,35,False,New Relic
+2015-01-04,50,False,New Relic
+2015-01-11,57,False,New Relic
+2015-01-18,58,False,New Relic
+2015-01-25,54,False,New Relic
+2015-02-01,51,False,New Relic
+2015-02-08,65,False,New Relic
+2015-02-15,52,False,New Relic
+2015-02-22,51,False,New Relic
+2015-03-01,50,False,New Relic
+2015-03-08,62,False,New Relic
+2015-03-15,62,False,New Relic
+2015-03-22,62,False,New Relic
+2015-03-29,56,False,New Relic
+2015-04-05,53,False,New Relic
+2015-04-12,58,False,New Relic
+2015-04-19,53,False,New Relic
+2015-04-26,64,False,New Relic
+2015-05-03,61,False,New Relic
+2015-05-10,58,False,New Relic
+2015-05-17,56,False,New Relic
+2015-05-24,53,False,New Relic
+2015-05-31,58,False,New Relic
+2015-06-07,59,False,New Relic
+2015-06-14,59,False,New Relic
+2015-06-21,64,False,New Relic
+2015-06-28,53,False,New Relic
+2015-07-05,53,False,New Relic
+2015-07-12,62,False,New Relic
+2015-07-19,50,False,New Relic
+2015-07-26,61,False,New Relic
+2015-08-02,59,False,New Relic
+2015-08-09,51,False,New Relic
+2015-08-16,61,False,New Relic
+2015-08-23,54,False,New Relic
+2015-08-30,55,False,New Relic
+2015-09-06,55,False,New Relic

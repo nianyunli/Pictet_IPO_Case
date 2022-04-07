@@ -1,0 +1,264 @@
+date,SVI,isPartial,Issuer
+2010-12-26,42,False,ServiceSource International
+2011-01-02,0,False,ServiceSource International
+2011-01-09,0,False,ServiceSource International
+2011-01-16,0,False,ServiceSource International
+2011-01-23,0,False,ServiceSource International
+2011-01-30,0,False,ServiceSource International
+2011-02-06,34,False,ServiceSource International
+2011-02-13,0,False,ServiceSource International
+2011-02-20,0,False,ServiceSource International
+2011-02-27,0,False,ServiceSource International
+2011-03-06,33,False,ServiceSource International
+2011-03-13,67,False,ServiceSource International
+2011-03-20,100,False,ServiceSource International
+2011-03-27,33,False,ServiceSource International
+2011-04-03,33,False,ServiceSource International
+2011-04-10,100,False,ServiceSource International
+2011-04-17,35,False,ServiceSource International
+2011-04-24,69,False,ServiceSource International
+2011-05-01,0,False,ServiceSource International
+2011-05-08,0,False,ServiceSource International
+2011-05-15,0,False,ServiceSource International
+2011-05-22,99,False,ServiceSource International
+2011-05-29,0,False,ServiceSource International
+2011-06-05,0,False,ServiceSource International
+2011-06-12,66,False,ServiceSource International
+2011-06-19,33,False,ServiceSource International
+2011-06-26,33,False,ServiceSource International
+2011-07-03,67,False,ServiceSource International
+2011-07-10,34,False,ServiceSource International
+2011-07-17,33,False,ServiceSource International
+2011-07-24,0,False,ServiceSource International
+2011-07-31,0,False,ServiceSource International
+2011-08-07,32,False,ServiceSource International
+2011-08-14,0,False,ServiceSource International
+2011-08-21,0,False,ServiceSource International
+2011-08-28,31,False,ServiceSource International
+2011-09-04,30,False,ServiceSource International
+2011-09-11,0,False,ServiceSource International
+2011-09-18,0,False,ServiceSource International
+2011-09-25,0,False,ServiceSource International
+2011-10-02,59,False,ServiceSource International
+2011-10-09,0,False,ServiceSource International
+2011-10-16,0,False,ServiceSource International
+2011-10-23,29,False,ServiceSource International
+2011-10-30,0,False,ServiceSource International
+2011-11-06,29,False,ServiceSource International
+2011-11-13,28,False,ServiceSource International
+2011-11-20,0,False,ServiceSource International
+2011-11-27,0,False,ServiceSource International
+2011-12-04,28,False,ServiceSource International
+2011-12-11,56,False,ServiceSource International
+2011-12-18,0,False,ServiceSource International
+2011-12-25,0,False,ServiceSource International
+2010-12-26,0,False,Prime Acquisition
+2011-01-02,43,False,Prime Acquisition
+2011-01-09,41,False,Prime Acquisition
+2011-01-16,61,False,Prime Acquisition
+2011-01-23,20,False,Prime Acquisition
+2011-01-30,20,False,Prime Acquisition
+2011-02-06,60,False,Prime Acquisition
+2011-02-13,20,False,Prime Acquisition
+2011-02-20,20,False,Prime Acquisition
+2011-02-27,0,False,Prime Acquisition
+2011-03-06,0,False,Prime Acquisition
+2011-03-13,0,False,Prime Acquisition
+2011-03-20,20,False,Prime Acquisition
+2011-03-27,20,False,Prime Acquisition
+2011-04-03,39,False,Prime Acquisition
+2011-04-10,20,False,Prime Acquisition
+2011-04-17,63,False,Prime Acquisition
+2011-04-24,20,False,Prime Acquisition
+2011-05-01,20,False,Prime Acquisition
+2011-05-08,20,False,Prime Acquisition
+2011-05-15,0,False,Prime Acquisition
+2011-05-22,39,False,Prime Acquisition
+2011-05-29,0,False,Prime Acquisition
+2011-06-05,0,False,Prime Acquisition
+2011-06-12,59,False,Prime Acquisition
+2011-06-19,58,False,Prime Acquisition
+2011-06-26,20,False,Prime Acquisition
+2011-07-03,0,False,Prime Acquisition
+2011-07-10,0,False,Prime Acquisition
+2011-07-17,39,False,Prime Acquisition
+2011-07-24,20,False,Prime Acquisition
+2011-07-31,40,False,Prime Acquisition
+2011-08-07,57,False,Prime Acquisition
+2011-08-14,20,False,Prime Acquisition
+2011-08-21,19,False,Prime Acquisition
+2011-08-28,0,False,Prime Acquisition
+2011-09-04,18,False,Prime Acquisition
+2011-09-11,0,False,Prime Acquisition
+2011-09-18,18,False,Prime Acquisition
+2011-09-25,18,False,Prime Acquisition
+2011-10-02,0,False,Prime Acquisition
+2011-10-09,0,False,Prime Acquisition
+2011-10-16,0,False,Prime Acquisition
+2011-10-23,17,False,Prime Acquisition
+2011-10-30,35,False,Prime Acquisition
+2011-11-06,34,False,Prime Acquisition
+2011-11-13,0,False,Prime Acquisition
+2011-11-20,51,False,Prime Acquisition
+2011-11-27,100,False,Prime Acquisition
+2011-12-04,17,False,Prime Acquisition
+2011-12-11,50,False,Prime Acquisition
+2011-12-18,35,False,Prime Acquisition
+2011-12-25,0,False,Prime Acquisition
+2011-01-02,25,False,Apollo Global Management
+2011-01-09,24,False,Apollo Global Management
+2011-01-16,8,False,Apollo Global Management
+2011-01-23,48,False,Apollo Global Management
+2011-01-30,31,False,Apollo Global Management
+2011-02-06,55,False,Apollo Global Management
+2011-02-13,27,False,Apollo Global Management
+2011-02-20,31,False,Apollo Global Management
+2011-02-27,8,False,Apollo Global Management
+2011-03-06,16,False,Apollo Global Management
+2011-03-13,31,False,Apollo Global Management
+2011-03-20,62,False,Apollo Global Management
+2011-03-27,100,False,Apollo Global Management
+2011-04-03,23,False,Apollo Global Management
+2011-04-10,27,False,Apollo Global Management
+2011-04-17,20,False,Apollo Global Management
+2011-04-24,20,False,Apollo Global Management
+2011-05-01,31,False,Apollo Global Management
+2011-05-08,73,False,Apollo Global Management
+2011-05-15,34,False,Apollo Global Management
+2011-05-22,27,False,Apollo Global Management
+2011-05-29,27,False,Apollo Global Management
+2011-06-05,43,False,Apollo Global Management
+2011-06-12,27,False,Apollo Global Management
+2011-06-19,8,False,Apollo Global Management
+2011-06-26,43,False,Apollo Global Management
+2011-07-03,20,False,Apollo Global Management
+2011-07-10,59,False,Apollo Global Management
+2011-07-17,53,False,Apollo Global Management
+2011-07-24,35,False,Apollo Global Management
+2011-07-31,43,False,Apollo Global Management
+2011-08-07,11,False,Apollo Global Management
+2011-08-14,35,False,Apollo Global Management
+2011-08-21,41,False,Apollo Global Management
+2011-08-28,7,False,Apollo Global Management
+2011-09-04,46,False,Apollo Global Management
+2011-09-11,25,False,Apollo Global Management
+2011-09-18,17,False,Apollo Global Management
+2011-09-25,18,False,Apollo Global Management
+2011-10-02,14,False,Apollo Global Management
+2011-10-09,30,False,Apollo Global Management
+2011-10-16,65,False,Apollo Global Management
+2011-10-23,24,False,Apollo Global Management
+2011-10-30,20,False,Apollo Global Management
+2011-11-06,44,False,Apollo Global Management
+2011-11-13,17,False,Apollo Global Management
+2011-11-20,20,False,Apollo Global Management
+2011-11-27,39,False,Apollo Global Management
+2011-12-04,36,False,Apollo Global Management
+2011-12-11,42,False,Apollo Global Management
+2011-12-18,21,False,Apollo Global Management
+2011-12-25,7,False,Apollo Global Management
+2011-01-02,0,False,Qihoo 360 Technology
+2011-01-09,0,False,Qihoo 360 Technology
+2011-01-16,0,False,Qihoo 360 Technology
+2011-01-23,0,False,Qihoo 360 Technology
+2011-01-30,0,False,Qihoo 360 Technology
+2011-02-06,0,False,Qihoo 360 Technology
+2011-02-13,0,False,Qihoo 360 Technology
+2011-02-20,0,False,Qihoo 360 Technology
+2011-02-27,0,False,Qihoo 360 Technology
+2011-03-06,0,False,Qihoo 360 Technology
+2011-03-13,0,False,Qihoo 360 Technology
+2011-03-20,0,False,Qihoo 360 Technology
+2011-03-27,100,False,Qihoo 360 Technology
+2011-04-03,17,False,Qihoo 360 Technology
+2011-04-10,25,False,Qihoo 360 Technology
+2011-04-17,9,False,Qihoo 360 Technology
+2011-04-24,35,False,Qihoo 360 Technology
+2011-05-01,0,False,Qihoo 360 Technology
+2011-05-08,17,False,Qihoo 360 Technology
+2011-05-15,8,False,Qihoo 360 Technology
+2011-05-22,0,False,Qihoo 360 Technology
+2011-05-29,34,False,Qihoo 360 Technology
+2011-06-05,8,False,Qihoo 360 Technology
+2011-06-12,25,False,Qihoo 360 Technology
+2011-06-19,8,False,Qihoo 360 Technology
+2011-06-26,0,False,Qihoo 360 Technology
+2011-07-03,9,False,Qihoo 360 Technology
+2011-07-10,17,False,Qihoo 360 Technology
+2011-07-17,8,False,Qihoo 360 Technology
+2011-07-24,0,False,Qihoo 360 Technology
+2011-07-31,0,False,Qihoo 360 Technology
+2011-08-07,0,False,Qihoo 360 Technology
+2011-08-14,8,False,Qihoo 360 Technology
+2011-08-21,8,False,Qihoo 360 Technology
+2011-08-28,8,False,Qihoo 360 Technology
+2011-09-04,8,False,Qihoo 360 Technology
+2011-09-11,0,False,Qihoo 360 Technology
+2011-09-18,0,False,Qihoo 360 Technology
+2011-09-25,8,False,Qihoo 360 Technology
+2011-10-02,0,False,Qihoo 360 Technology
+2011-10-09,0,False,Qihoo 360 Technology
+2011-10-16,0,False,Qihoo 360 Technology
+2011-10-23,7,False,Qihoo 360 Technology
+2011-10-30,0,False,Qihoo 360 Technology
+2011-11-06,0,False,Qihoo 360 Technology
+2011-11-13,0,False,Qihoo 360 Technology
+2011-11-20,0,False,Qihoo 360 Technology
+2011-11-27,0,False,Qihoo 360 Technology
+2011-12-04,0,False,Qihoo 360 Technology
+2011-12-11,14,False,Qihoo 360 Technology
+2011-12-18,0,False,Qihoo 360 Technology
+2011-12-25,0,False,Qihoo 360 Technology
+2011-01-02,0,False,GNC Holdings
+2011-01-09,0,False,GNC Holdings
+2011-01-16,15,False,GNC Holdings
+2011-01-23,0,False,GNC Holdings
+2011-01-30,0,False,GNC Holdings
+2011-02-06,0,False,GNC Holdings
+2011-02-13,0,False,GNC Holdings
+2011-02-20,0,False,GNC Holdings
+2011-02-27,0,False,GNC Holdings
+2011-03-06,0,False,GNC Holdings
+2011-03-13,0,False,GNC Holdings
+2011-03-20,43,False,GNC Holdings
+2011-03-27,100,False,GNC Holdings
+2011-04-03,14,False,GNC Holdings
+2011-04-10,14,False,GNC Holdings
+2011-04-17,30,False,GNC Holdings
+2011-04-24,30,False,GNC Holdings
+2011-05-01,14,False,GNC Holdings
+2011-05-08,0,False,GNC Holdings
+2011-05-15,0,False,GNC Holdings
+2011-05-22,29,False,GNC Holdings
+2011-05-29,0,False,GNC Holdings
+2011-06-05,0,False,GNC Holdings
+2011-06-12,0,False,GNC Holdings
+2011-06-19,0,False,GNC Holdings
+2011-06-26,15,False,GNC Holdings
+2011-07-03,0,False,GNC Holdings
+2011-07-10,15,False,GNC Holdings
+2011-07-17,14,False,GNC Holdings
+2011-07-24,14,False,GNC Holdings
+2011-07-31,0,False,GNC Holdings
+2011-08-07,0,False,GNC Holdings
+2011-08-14,0,False,GNC Holdings
+2011-08-21,0,False,GNC Holdings
+2011-08-28,14,False,GNC Holdings
+2011-09-04,0,False,GNC Holdings
+2011-09-11,13,False,GNC Holdings
+2011-09-18,0,False,GNC Holdings
+2011-09-25,13,False,GNC Holdings
+2011-10-02,13,False,GNC Holdings
+2011-10-09,12,False,GNC Holdings
+2011-10-16,0,False,GNC Holdings
+2011-10-23,0,False,GNC Holdings
+2011-10-30,25,False,GNC Holdings
+2011-11-06,12,False,GNC Holdings
+2011-11-13,12,False,GNC Holdings
+2011-11-20,0,False,GNC Holdings
+2011-11-27,37,False,GNC Holdings
+2011-12-04,24,False,GNC Holdings
+2011-12-11,0,False,GNC Holdings
+2011-12-18,0,False,GNC Holdings
+2011-12-25,27,False,GNC Holdings
+2012-01-01,37,False,GNC Holdings

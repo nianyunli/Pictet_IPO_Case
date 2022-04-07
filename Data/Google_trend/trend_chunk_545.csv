@@ -1,0 +1,210 @@
+date,SVI,isPartial,Issuer
+2005-02-06,35,False,Zumiez
+2005-02-13,50,False,Zumiez
+2005-02-20,22,False,Zumiez
+2005-02-27,27,False,Zumiez
+2005-03-06,36,False,Zumiez
+2005-03-13,44,False,Zumiez
+2005-03-20,50,False,Zumiez
+2005-03-27,21,False,Zumiez
+2005-04-03,44,False,Zumiez
+2005-04-10,24,False,Zumiez
+2005-04-17,50,False,Zumiez
+2005-04-24,43,False,Zumiez
+2005-05-01,44,False,Zumiez
+2005-05-08,49,False,Zumiez
+2005-05-15,44,False,Zumiez
+2005-05-22,43,False,Zumiez
+2005-05-29,46,False,Zumiez
+2005-06-05,34,False,Zumiez
+2005-06-12,54,False,Zumiez
+2005-06-19,68,False,Zumiez
+2005-06-26,53,False,Zumiez
+2005-07-03,30,False,Zumiez
+2005-07-10,49,False,Zumiez
+2005-07-17,45,False,Zumiez
+2005-07-24,43,False,Zumiez
+2005-07-31,53,False,Zumiez
+2005-08-07,37,False,Zumiez
+2005-08-14,43,False,Zumiez
+2005-08-21,52,False,Zumiez
+2005-08-28,54,False,Zumiez
+2005-09-04,43,False,Zumiez
+2005-09-11,41,False,Zumiez
+2005-09-18,22,False,Zumiez
+2005-09-25,44,False,Zumiez
+2005-10-02,68,False,Zumiez
+2005-10-09,52,False,Zumiez
+2005-10-16,41,False,Zumiez
+2005-10-23,59,False,Zumiez
+2005-10-30,51,False,Zumiez
+2005-11-06,77,False,Zumiez
+2005-11-13,70,False,Zumiez
+2005-11-20,65,False,Zumiez
+2005-11-27,70,False,Zumiez
+2005-12-04,85,False,Zumiez
+2005-12-11,100,False,Zumiez
+2005-12-18,60,False,Zumiez
+2005-12-25,76,False,Zumiez
+2006-01-01,58,False,Zumiez
+2006-01-08,44,False,Zumiez
+2006-01-15,44,False,Zumiez
+2006-01-22,38,False,Zumiez
+2006-01-29,49,False,Zumiez
+2006-02-05,51,False,Zumiez
+2005-02-13,35,False,New Skies Satellites
+2005-02-20,0,False,New Skies Satellites
+2005-02-27,0,False,New Skies Satellites
+2005-03-06,0,False,New Skies Satellites
+2005-03-13,99,False,New Skies Satellites
+2005-03-20,36,False,New Skies Satellites
+2005-03-27,0,False,New Skies Satellites
+2005-04-03,48,False,New Skies Satellites
+2005-04-10,0,False,New Skies Satellites
+2005-04-17,33,False,New Skies Satellites
+2005-04-24,0,False,New Skies Satellites
+2005-05-01,100,False,New Skies Satellites
+2005-05-08,63,False,New Skies Satellites
+2005-05-15,0,False,New Skies Satellites
+2005-05-22,0,False,New Skies Satellites
+2005-05-29,0,False,New Skies Satellites
+2005-06-05,31,False,New Skies Satellites
+2005-06-12,32,False,New Skies Satellites
+2005-06-19,33,False,New Skies Satellites
+2005-06-26,0,False,New Skies Satellites
+2005-07-03,66,False,New Skies Satellites
+2005-07-10,0,False,New Skies Satellites
+2005-07-17,0,False,New Skies Satellites
+2005-07-24,0,False,New Skies Satellites
+2005-07-31,32,False,New Skies Satellites
+2005-08-07,32,False,New Skies Satellites
+2005-08-14,0,False,New Skies Satellites
+2005-08-21,36,False,New Skies Satellites
+2005-08-28,0,False,New Skies Satellites
+2005-09-04,29,False,New Skies Satellites
+2005-09-11,28,False,New Skies Satellites
+2005-09-18,0,False,New Skies Satellites
+2005-09-25,0,False,New Skies Satellites
+2005-10-02,27,False,New Skies Satellites
+2005-10-09,0,False,New Skies Satellites
+2005-10-16,0,False,New Skies Satellites
+2005-10-23,0,False,New Skies Satellites
+2005-10-30,0,False,New Skies Satellites
+2005-11-06,0,False,New Skies Satellites
+2005-11-13,25,False,New Skies Satellites
+2005-11-20,52,False,New Skies Satellites
+2005-11-27,0,False,New Skies Satellites
+2005-12-04,0,False,New Skies Satellites
+2005-12-11,25,False,New Skies Satellites
+2005-12-18,27,False,New Skies Satellites
+2005-12-25,0,False,New Skies Satellites
+2006-01-01,0,False,New Skies Satellites
+2006-01-08,23,False,New Skies Satellites
+2006-01-15,0,False,New Skies Satellites
+2006-01-22,0,False,New Skies Satellites
+2006-01-29,0,False,New Skies Satellites
+2006-02-05,0,False,New Skies Satellites
+2005-02-20,0,False,Xerium Technologies
+2005-02-27,0,False,Xerium Technologies
+2005-03-06,0,False,Xerium Technologies
+2005-03-13,0,False,Xerium Technologies
+2005-03-20,100,False,Xerium Technologies
+2005-03-27,0,False,Xerium Technologies
+2005-04-03,0,False,Xerium Technologies
+2005-04-10,0,False,Xerium Technologies
+2005-04-17,0,False,Xerium Technologies
+2005-04-24,0,False,Xerium Technologies
+2005-05-01,0,False,Xerium Technologies
+2005-05-08,0,False,Xerium Technologies
+2005-05-15,0,False,Xerium Technologies
+2005-05-22,0,False,Xerium Technologies
+2005-05-29,90,False,Xerium Technologies
+2005-06-05,86,False,Xerium Technologies
+2005-06-12,0,False,Xerium Technologies
+2005-06-19,91,False,Xerium Technologies
+2005-06-26,90,False,Xerium Technologies
+2005-07-03,0,False,Xerium Technologies
+2005-07-10,0,False,Xerium Technologies
+2005-07-17,88,False,Xerium Technologies
+2005-07-24,0,False,Xerium Technologies
+2005-07-31,0,False,Xerium Technologies
+2005-08-07,0,False,Xerium Technologies
+2005-08-14,0,False,Xerium Technologies
+2005-08-21,0,False,Xerium Technologies
+2005-08-28,0,False,Xerium Technologies
+2005-09-04,0,False,Xerium Technologies
+2005-09-11,0,False,Xerium Technologies
+2005-09-18,0,False,Xerium Technologies
+2005-09-25,0,False,Xerium Technologies
+2005-10-02,0,False,Xerium Technologies
+2005-10-09,0,False,Xerium Technologies
+2005-10-16,0,False,Xerium Technologies
+2005-10-23,0,False,Xerium Technologies
+2005-10-30,0,False,Xerium Technologies
+2005-11-06,0,False,Xerium Technologies
+2005-11-13,0,False,Xerium Technologies
+2005-11-20,0,False,Xerium Technologies
+2005-11-27,0,False,Xerium Technologies
+2005-12-04,0,False,Xerium Technologies
+2005-12-11,0,False,Xerium Technologies
+2005-12-18,0,False,Xerium Technologies
+2005-12-25,86,False,Xerium Technologies
+2006-01-01,0,False,Xerium Technologies
+2006-01-08,0,False,Xerium Technologies
+2006-01-15,0,False,Xerium Technologies
+2006-01-22,0,False,Xerium Technologies
+2006-01-29,0,False,Xerium Technologies
+2006-02-05,0,False,Xerium Technologies
+2006-02-12,61,False,Xerium Technologies
+2005-02-20,32,False,Citi Trends
+2005-02-27,46,False,Citi Trends
+2005-03-06,0,False,Citi Trends
+2005-03-13,0,False,Citi Trends
+2005-03-20,16,False,Citi Trends
+2005-03-27,0,False,Citi Trends
+2005-04-03,0,False,Citi Trends
+2005-04-10,0,False,Citi Trends
+2005-04-17,29,False,Citi Trends
+2005-04-24,28,False,Citi Trends
+2005-05-01,29,False,Citi Trends
+2005-05-08,55,False,Citi Trends
+2005-05-15,28,False,Citi Trends
+2005-05-22,0,False,Citi Trends
+2005-05-29,0,False,Citi Trends
+2005-06-05,28,False,Citi Trends
+2005-06-12,14,False,Citi Trends
+2005-06-19,0,False,Citi Trends
+2005-06-26,14,False,Citi Trends
+2005-07-03,14,False,Citi Trends
+2005-07-10,29,False,Citi Trends
+2005-07-17,85,False,Citi Trends
+2005-07-24,28,False,Citi Trends
+2005-07-31,43,False,Citi Trends
+2005-08-07,56,False,Citi Trends
+2005-08-14,56,False,Citi Trends
+2005-08-21,32,False,Citi Trends
+2005-08-28,26,False,Citi Trends
+2005-09-04,13,False,Citi Trends
+2005-09-11,25,False,Citi Trends
+2005-09-18,25,False,Citi Trends
+2005-09-25,12,False,Citi Trends
+2005-10-02,12,False,Citi Trends
+2005-10-09,35,False,Citi Trends
+2005-10-16,12,False,Citi Trends
+2005-10-23,58,False,Citi Trends
+2005-10-30,47,False,Citi Trends
+2005-11-06,80,False,Citi Trends
+2005-11-13,100,False,Citi Trends
+2005-11-20,23,False,Citi Trends
+2005-11-27,43,False,Citi Trends
+2005-12-04,33,False,Citi Trends
+2005-12-11,55,False,Citi Trends
+2005-12-18,97,False,Citi Trends
+2005-12-25,41,False,Citi Trends
+2006-01-01,57,False,Citi Trends
+2006-01-08,72,False,Citi Trends
+2006-01-15,70,False,Citi Trends
+2006-01-22,49,False,Citi Trends
+2006-01-29,30,False,Citi Trends
+2006-02-05,58,False,Citi Trends
+2006-02-12,58,False,Citi Trends

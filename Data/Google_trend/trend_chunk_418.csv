@@ -1,0 +1,262 @@
+date,SVI,isPartial,Issuer
+2009-05-10,5,False,Cumberland Pharmaceuticals
+2009-05-17,5,False,Cumberland Pharmaceuticals
+2009-05-24,5,False,Cumberland Pharmaceuticals
+2009-05-31,10,False,Cumberland Pharmaceuticals
+2009-06-07,30,False,Cumberland Pharmaceuticals
+2009-06-14,40,False,Cumberland Pharmaceuticals
+2009-06-21,10,False,Cumberland Pharmaceuticals
+2009-06-28,10,False,Cumberland Pharmaceuticals
+2009-07-05,10,False,Cumberland Pharmaceuticals
+2009-07-12,5,False,Cumberland Pharmaceuticals
+2009-07-19,10,False,Cumberland Pharmaceuticals
+2009-07-26,21,False,Cumberland Pharmaceuticals
+2009-08-02,26,False,Cumberland Pharmaceuticals
+2009-08-09,100,False,Cumberland Pharmaceuticals
+2009-08-16,21,False,Cumberland Pharmaceuticals
+2009-08-23,10,False,Cumberland Pharmaceuticals
+2009-08-30,5,False,Cumberland Pharmaceuticals
+2009-09-06,0,False,Cumberland Pharmaceuticals
+2009-09-13,19,False,Cumberland Pharmaceuticals
+2009-09-20,14,False,Cumberland Pharmaceuticals
+2009-09-27,5,False,Cumberland Pharmaceuticals
+2009-10-04,14,False,Cumberland Pharmaceuticals
+2009-10-11,9,False,Cumberland Pharmaceuticals
+2009-10-18,9,False,Cumberland Pharmaceuticals
+2009-10-25,4,False,Cumberland Pharmaceuticals
+2009-11-01,5,False,Cumberland Pharmaceuticals
+2009-11-08,9,False,Cumberland Pharmaceuticals
+2009-11-15,9,False,Cumberland Pharmaceuticals
+2009-11-22,4,False,Cumberland Pharmaceuticals
+2009-11-29,9,False,Cumberland Pharmaceuticals
+2009-12-06,31,False,Cumberland Pharmaceuticals
+2009-12-13,9,False,Cumberland Pharmaceuticals
+2009-12-20,5,False,Cumberland Pharmaceuticals
+2009-12-27,0,False,Cumberland Pharmaceuticals
+2010-01-03,13,False,Cumberland Pharmaceuticals
+2010-01-10,12,False,Cumberland Pharmaceuticals
+2010-01-17,4,False,Cumberland Pharmaceuticals
+2010-01-24,8,False,Cumberland Pharmaceuticals
+2010-01-31,4,False,Cumberland Pharmaceuticals
+2010-02-07,4,False,Cumberland Pharmaceuticals
+2010-02-14,17,False,Cumberland Pharmaceuticals
+2010-02-21,4,False,Cumberland Pharmaceuticals
+2010-02-28,0,False,Cumberland Pharmaceuticals
+2010-03-07,16,False,Cumberland Pharmaceuticals
+2010-03-14,4,False,Cumberland Pharmaceuticals
+2010-03-21,4,False,Cumberland Pharmaceuticals
+2010-03-28,4,False,Cumberland Pharmaceuticals
+2010-04-04,8,False,Cumberland Pharmaceuticals
+2010-04-11,8,False,Cumberland Pharmaceuticals
+2010-04-18,12,False,Cumberland Pharmaceuticals
+2010-04-25,12,False,Cumberland Pharmaceuticals
+2010-05-02,0,False,Cumberland Pharmaceuticals
+2010-05-09,0,False,Cumberland Pharmaceuticals
+2009-05-17,0,False,Starwood Property Trust
+2009-05-24,0,False,Starwood Property Trust
+2009-05-31,26,False,Starwood Property Trust
+2009-06-07,17,False,Starwood Property Trust
+2009-06-14,9,False,Starwood Property Trust
+2009-06-21,18,False,Starwood Property Trust
+2009-06-28,0,False,Starwood Property Trust
+2009-07-05,0,False,Starwood Property Trust
+2009-07-12,0,False,Starwood Property Trust
+2009-07-19,0,False,Starwood Property Trust
+2009-07-26,0,False,Starwood Property Trust
+2009-08-02,9,False,Starwood Property Trust
+2009-08-09,100,False,Starwood Property Trust
+2009-08-16,18,False,Starwood Property Trust
+2009-08-23,43,False,Starwood Property Trust
+2009-08-30,25,False,Starwood Property Trust
+2009-09-06,0,False,Starwood Property Trust
+2009-09-13,16,False,Starwood Property Trust
+2009-09-20,0,False,Starwood Property Trust
+2009-09-27,8,False,Starwood Property Trust
+2009-10-04,40,False,Starwood Property Trust
+2009-10-11,24,False,Starwood Property Trust
+2009-10-18,8,False,Starwood Property Trust
+2009-10-25,31,False,Starwood Property Trust
+2009-11-01,0,False,Starwood Property Trust
+2009-11-08,7,False,Starwood Property Trust
+2009-11-15,53,False,Starwood Property Trust
+2009-11-22,23,False,Starwood Property Trust
+2009-11-29,8,False,Starwood Property Trust
+2009-12-06,15,False,Starwood Property Trust
+2009-12-13,0,False,Starwood Property Trust
+2009-12-20,9,False,Starwood Property Trust
+2009-12-27,9,False,Starwood Property Trust
+2010-01-03,22,False,Starwood Property Trust
+2010-01-10,7,False,Starwood Property Trust
+2010-01-17,14,False,Starwood Property Trust
+2010-01-24,14,False,Starwood Property Trust
+2010-01-31,14,False,Starwood Property Trust
+2010-02-07,7,False,Starwood Property Trust
+2010-02-14,7,False,Starwood Property Trust
+2010-02-21,14,False,Starwood Property Trust
+2010-02-28,21,False,Starwood Property Trust
+2010-03-07,21,False,Starwood Property Trust
+2010-03-14,0,False,Starwood Property Trust
+2010-03-21,7,False,Starwood Property Trust
+2010-03-28,0,False,Starwood Property Trust
+2010-04-04,7,False,Starwood Property Trust
+2010-04-11,14,False,Starwood Property Trust
+2010-04-18,0,False,Starwood Property Trust
+2010-04-25,14,False,Starwood Property Trust
+2010-05-02,0,False,Starwood Property Trust
+2010-05-09,14,False,Starwood Property Trust
+2009-06-21,0,False,CreXus Investment
+2009-06-28,16,False,CreXus Investment
+2009-07-05,16,False,CreXus Investment
+2009-07-12,0,False,CreXus Investment
+2009-07-19,0,False,CreXus Investment
+2009-07-26,0,False,CreXus Investment
+2009-08-02,0,False,CreXus Investment
+2009-08-09,0,False,CreXus Investment
+2009-08-16,16,False,CreXus Investment
+2009-08-23,0,False,CreXus Investment
+2009-08-30,15,False,CreXus Investment
+2009-09-06,15,False,CreXus Investment
+2009-09-13,100,False,CreXus Investment
+2009-09-20,0,False,CreXus Investment
+2009-09-27,14,False,CreXus Investment
+2009-10-04,14,False,CreXus Investment
+2009-10-11,0,False,CreXus Investment
+2009-10-18,0,False,CreXus Investment
+2009-10-25,14,False,CreXus Investment
+2009-11-01,0,False,CreXus Investment
+2009-11-08,13,False,CreXus Investment
+2009-11-15,0,False,CreXus Investment
+2009-11-22,0,False,CreXus Investment
+2009-11-29,0,False,CreXus Investment
+2009-12-06,0,False,CreXus Investment
+2009-12-13,0,False,CreXus Investment
+2009-12-20,0,False,CreXus Investment
+2009-12-27,0,False,CreXus Investment
+2010-01-03,13,False,CreXus Investment
+2010-01-10,0,False,CreXus Investment
+2010-01-17,0,False,CreXus Investment
+2010-01-24,0,False,CreXus Investment
+2010-01-31,25,False,CreXus Investment
+2010-02-07,0,False,CreXus Investment
+2010-02-14,0,False,CreXus Investment
+2010-02-21,12,False,CreXus Investment
+2010-02-28,0,False,CreXus Investment
+2010-03-07,0,False,CreXus Investment
+2010-03-14,0,False,CreXus Investment
+2010-03-21,0,False,CreXus Investment
+2010-03-28,0,False,CreXus Investment
+2010-04-04,13,False,CreXus Investment
+2010-04-11,0,False,CreXus Investment
+2010-04-18,0,False,CreXus Investment
+2010-04-25,12,False,CreXus Investment
+2010-05-02,0,False,CreXus Investment
+2010-05-09,0,False,CreXus Investment
+2010-05-16,0,False,CreXus Investment
+2010-05-23,0,False,CreXus Investment
+2010-05-30,0,False,CreXus Investment
+2010-06-06,0,False,CreXus Investment
+2010-06-13,0,False,CreXus Investment
+2009-06-28,59,False,Vitacost.com
+2009-07-05,58,False,Vitacost.com
+2009-07-12,71,False,Vitacost.com
+2009-07-19,85,False,Vitacost.com
+2009-07-26,73,False,Vitacost.com
+2009-08-02,90,False,Vitacost.com
+2009-08-09,67,False,Vitacost.com
+2009-08-16,100,False,Vitacost.com
+2009-08-23,69,False,Vitacost.com
+2009-08-30,69,False,Vitacost.com
+2009-09-06,51,False,Vitacost.com
+2009-09-13,51,False,Vitacost.com
+2009-09-20,77,False,Vitacost.com
+2009-09-27,78,False,Vitacost.com
+2009-10-04,43,False,Vitacost.com
+2009-10-11,76,False,Vitacost.com
+2009-10-18,64,False,Vitacost.com
+2009-10-25,59,False,Vitacost.com
+2009-11-01,83,False,Vitacost.com
+2009-11-08,67,False,Vitacost.com
+2009-11-15,75,False,Vitacost.com
+2009-11-22,37,False,Vitacost.com
+2009-11-29,79,False,Vitacost.com
+2009-12-06,42,False,Vitacost.com
+2009-12-13,72,False,Vitacost.com
+2009-12-20,63,False,Vitacost.com
+2009-12-27,65,False,Vitacost.com
+2010-01-03,70,False,Vitacost.com
+2010-01-10,72,False,Vitacost.com
+2010-01-17,79,False,Vitacost.com
+2010-01-24,60,False,Vitacost.com
+2010-01-31,71,False,Vitacost.com
+2010-02-07,52,False,Vitacost.com
+2010-02-14,71,False,Vitacost.com
+2010-02-21,76,False,Vitacost.com
+2010-02-28,54,False,Vitacost.com
+2010-03-07,56,False,Vitacost.com
+2010-03-14,82,False,Vitacost.com
+2010-03-21,64,False,Vitacost.com
+2010-03-28,41,False,Vitacost.com
+2010-04-04,76,False,Vitacost.com
+2010-04-11,64,False,Vitacost.com
+2010-04-18,71,False,Vitacost.com
+2010-04-25,77,False,Vitacost.com
+2010-05-02,43,False,Vitacost.com
+2010-05-09,50,False,Vitacost.com
+2010-05-16,55,False,Vitacost.com
+2010-05-23,53,False,Vitacost.com
+2010-05-30,55,False,Vitacost.com
+2010-06-06,71,False,Vitacost.com
+2010-06-13,73,False,Vitacost.com
+2010-06-20,54,False,Vitacost.com
+2009-06-28,55,False,Colony Financial
+2009-07-05,27,False,Colony Financial
+2009-07-12,9,False,Colony Financial
+2009-07-19,37,False,Colony Financial
+2009-07-26,28,False,Colony Financial
+2009-08-02,28,False,Colony Financial
+2009-08-09,9,False,Colony Financial
+2009-08-16,0,False,Colony Financial
+2009-08-23,17,False,Colony Financial
+2009-08-30,34,False,Colony Financial
+2009-09-06,59,False,Colony Financial
+2009-09-13,25,False,Colony Financial
+2009-09-20,100,False,Colony Financial
+2009-09-27,33,False,Colony Financial
+2009-10-04,33,False,Colony Financial
+2009-10-11,16,False,Colony Financial
+2009-10-18,16,False,Colony Financial
+2009-10-25,39,False,Colony Financial
+2009-11-01,8,False,Colony Financial
+2009-11-08,15,False,Colony Financial
+2009-11-15,15,False,Colony Financial
+2009-11-22,8,False,Colony Financial
+2009-11-29,38,False,Colony Financial
+2009-12-06,0,False,Colony Financial
+2009-12-13,39,False,Colony Financial
+2009-12-20,9,False,Colony Financial
+2009-12-27,9,False,Colony Financial
+2010-01-03,15,False,Colony Financial
+2010-01-10,29,False,Colony Financial
+2010-01-17,7,False,Colony Financial
+2010-01-24,28,False,Colony Financial
+2010-01-31,14,False,Colony Financial
+2010-02-07,0,False,Colony Financial
+2010-02-14,7,False,Colony Financial
+2010-02-21,21,False,Colony Financial
+2010-02-28,7,False,Colony Financial
+2010-03-07,21,False,Colony Financial
+2010-03-14,14,False,Colony Financial
+2010-03-21,14,False,Colony Financial
+2010-03-28,0,False,Colony Financial
+2010-04-04,22,False,Colony Financial
+2010-04-11,7,False,Colony Financial
+2010-04-18,28,False,Colony Financial
+2010-04-25,14,False,Colony Financial
+2010-05-02,14,False,Colony Financial
+2010-05-09,14,False,Colony Financial
+2010-05-16,7,False,Colony Financial
+2010-05-23,22,False,Colony Financial
+2010-05-30,22,False,Colony Financial
+2010-06-06,21,False,Colony Financial
+2010-06-13,22,False,Colony Financial
+2010-06-20,14,False,Colony Financial

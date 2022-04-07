@@ -1,0 +1,157 @@
+date,SVI,isPartial,Issuer
+2012-07-15,27,False,Workday
+2012-07-22,28,False,Workday
+2012-07-29,27,False,Workday
+2012-08-05,26,False,Workday
+2012-08-12,27,False,Workday
+2012-08-19,23,False,Workday
+2012-08-26,34,False,Workday
+2012-09-02,29,False,Workday
+2012-09-09,30,False,Workday
+2012-09-16,30,False,Workday
+2012-09-23,28,False,Workday
+2012-09-30,42,False,Workday
+2012-10-07,100,False,Workday
+2012-10-14,56,False,Workday
+2012-10-21,34,False,Workday
+2012-10-28,29,False,Workday
+2012-11-04,30,False,Workday
+2012-11-11,27,False,Workday
+2012-11-18,21,False,Workday
+2012-11-25,29,False,Workday
+2012-12-02,28,False,Workday
+2012-12-09,28,False,Workday
+2012-12-16,28,False,Workday
+2012-12-23,15,False,Workday
+2012-12-30,24,False,Workday
+2013-01-06,34,False,Workday
+2013-01-13,32,False,Workday
+2013-01-20,33,False,Workday
+2013-01-27,33,False,Workday
+2013-02-03,31,False,Workday
+2013-02-10,30,False,Workday
+2013-02-17,31,False,Workday
+2013-02-24,30,False,Workday
+2013-03-03,32,False,Workday
+2013-03-10,31,False,Workday
+2013-03-17,33,False,Workday
+2013-03-24,29,False,Workday
+2013-03-31,29,False,Workday
+2013-04-07,39,False,Workday
+2013-04-14,35,False,Workday
+2013-04-21,32,False,Workday
+2013-04-28,32,False,Workday
+2013-05-05,28,False,Workday
+2013-05-12,31,False,Workday
+2013-05-19,32,False,Workday
+2013-05-26,30,False,Workday
+2013-06-02,28,False,Workday
+2013-06-09,35,False,Workday
+2013-06-16,36,False,Workday
+2013-06-23,33,False,Workday
+2013-06-30,28,False,Workday
+2013-07-07,36,False,Workday
+2012-07-22,0,False,Seadrill Partners
+2012-07-29,0,False,Seadrill Partners
+2012-08-05,14,False,Seadrill Partners
+2012-08-12,0,False,Seadrill Partners
+2012-08-19,0,False,Seadrill Partners
+2012-08-26,14,False,Seadrill Partners
+2012-09-02,0,False,Seadrill Partners
+2012-09-09,0,False,Seadrill Partners
+2012-09-16,0,False,Seadrill Partners
+2012-09-23,0,False,Seadrill Partners
+2012-09-30,13,False,Seadrill Partners
+2012-10-07,0,False,Seadrill Partners
+2012-10-14,100,False,Seadrill Partners
+2012-10-21,13,False,Seadrill Partners
+2012-10-28,13,False,Seadrill Partners
+2012-11-04,24,False,Seadrill Partners
+2012-11-11,12,False,Seadrill Partners
+2012-11-18,0,False,Seadrill Partners
+2012-11-25,24,False,Seadrill Partners
+2012-12-02,48,False,Seadrill Partners
+2012-12-09,12,False,Seadrill Partners
+2012-12-16,37,False,Seadrill Partners
+2012-12-23,14,False,Seadrill Partners
+2012-12-30,0,False,Seadrill Partners
+2013-01-06,12,False,Seadrill Partners
+2013-01-13,12,False,Seadrill Partners
+2013-01-20,23,False,Seadrill Partners
+2013-01-27,34,False,Seadrill Partners
+2013-02-03,34,False,Seadrill Partners
+2013-02-10,0,False,Seadrill Partners
+2013-02-17,0,False,Seadrill Partners
+2013-02-24,33,False,Seadrill Partners
+2013-03-03,22,False,Seadrill Partners
+2013-03-10,11,False,Seadrill Partners
+2013-03-17,22,False,Seadrill Partners
+2013-03-24,23,False,Seadrill Partners
+2013-03-31,0,False,Seadrill Partners
+2013-04-07,0,False,Seadrill Partners
+2013-04-14,11,False,Seadrill Partners
+2013-04-21,0,False,Seadrill Partners
+2013-04-28,23,False,Seadrill Partners
+2013-05-05,34,False,Seadrill Partners
+2013-05-12,0,False,Seadrill Partners
+2013-05-19,11,False,Seadrill Partners
+2013-05-26,0,False,Seadrill Partners
+2013-06-02,11,False,Seadrill Partners
+2013-06-09,0,False,Seadrill Partners
+2013-06-16,11,False,Seadrill Partners
+2013-06-23,0,False,Seadrill Partners
+2013-06-30,11,False,Seadrill Partners
+2013-07-07,0,False,Seadrill Partners
+2013-07-14,11,False,Seadrill Partners
+2012-07-29,0,False,Lehigh Gas Partners LP
+2012-08-05,0,False,Lehigh Gas Partners LP
+2012-08-12,0,False,Lehigh Gas Partners LP
+2012-08-19,0,False,Lehigh Gas Partners LP
+2012-08-26,0,False,Lehigh Gas Partners LP
+2012-09-02,0,False,Lehigh Gas Partners LP
+2012-09-09,0,False,Lehigh Gas Partners LP
+2012-09-16,0,False,Lehigh Gas Partners LP
+2012-09-23,0,False,Lehigh Gas Partners LP
+2012-09-30,0,False,Lehigh Gas Partners LP
+2012-10-07,0,False,Lehigh Gas Partners LP
+2012-10-14,0,False,Lehigh Gas Partners LP
+2012-10-21,0,False,Lehigh Gas Partners LP
+2012-10-28,92,False,Lehigh Gas Partners LP
+2012-11-04,89,False,Lehigh Gas Partners LP
+2012-11-11,0,False,Lehigh Gas Partners LP
+2012-11-18,0,False,Lehigh Gas Partners LP
+2012-11-25,0,False,Lehigh Gas Partners LP
+2012-12-02,0,False,Lehigh Gas Partners LP
+2012-12-09,0,False,Lehigh Gas Partners LP
+2012-12-16,0,False,Lehigh Gas Partners LP
+2012-12-23,100,False,Lehigh Gas Partners LP
+2012-12-30,0,False,Lehigh Gas Partners LP
+2013-01-06,86,False,Lehigh Gas Partners LP
+2013-01-13,0,False,Lehigh Gas Partners LP
+2013-01-20,0,False,Lehigh Gas Partners LP
+2013-01-27,0,False,Lehigh Gas Partners LP
+2013-02-03,0,False,Lehigh Gas Partners LP
+2013-02-10,0,False,Lehigh Gas Partners LP
+2013-02-17,83,False,Lehigh Gas Partners LP
+2013-02-24,0,False,Lehigh Gas Partners LP
+2013-03-03,0,False,Lehigh Gas Partners LP
+2013-03-10,0,False,Lehigh Gas Partners LP
+2013-03-17,0,False,Lehigh Gas Partners LP
+2013-03-24,0,False,Lehigh Gas Partners LP
+2013-03-31,0,False,Lehigh Gas Partners LP
+2013-04-07,0,False,Lehigh Gas Partners LP
+2013-04-14,0,False,Lehigh Gas Partners LP
+2013-04-21,0,False,Lehigh Gas Partners LP
+2013-04-28,0,False,Lehigh Gas Partners LP
+2013-05-05,0,False,Lehigh Gas Partners LP
+2013-05-12,0,False,Lehigh Gas Partners LP
+2013-05-19,81,False,Lehigh Gas Partners LP
+2013-05-26,0,False,Lehigh Gas Partners LP
+2013-06-02,0,False,Lehigh Gas Partners LP
+2013-06-09,0,False,Lehigh Gas Partners LP
+2013-06-16,0,False,Lehigh Gas Partners LP
+2013-06-23,0,False,Lehigh Gas Partners LP
+2013-06-30,0,False,Lehigh Gas Partners LP
+2013-07-07,0,False,Lehigh Gas Partners LP
+2013-07-14,83,False,Lehigh Gas Partners LP
+2013-07-21,0,False,Lehigh Gas Partners LP

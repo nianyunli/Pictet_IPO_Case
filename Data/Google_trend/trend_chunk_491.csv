@@ -1,0 +1,210 @@
+date,SVI,isPartial,Issuer
+2005-11-06,55,False,HealthSpring
+2005-11-13,66,False,HealthSpring
+2005-11-20,7,False,HealthSpring
+2005-11-27,19,False,HealthSpring
+2005-12-04,26,False,HealthSpring
+2005-12-11,26,False,HealthSpring
+2005-12-18,36,False,HealthSpring
+2005-12-25,24,False,HealthSpring
+2006-01-01,47,False,HealthSpring
+2006-01-08,30,False,HealthSpring
+2006-01-15,35,False,HealthSpring
+2006-01-22,18,False,HealthSpring
+2006-01-29,100,False,HealthSpring
+2006-02-05,34,False,HealthSpring
+2006-02-12,17,False,HealthSpring
+2006-02-19,17,False,HealthSpring
+2006-02-26,22,False,HealthSpring
+2006-03-05,22,False,HealthSpring
+2006-03-12,27,False,HealthSpring
+2006-03-19,27,False,HealthSpring
+2006-03-26,16,False,HealthSpring
+2006-04-02,33,False,HealthSpring
+2006-04-09,29,False,HealthSpring
+2006-04-16,50,False,HealthSpring
+2006-04-23,27,False,HealthSpring
+2006-04-30,17,False,HealthSpring
+2006-05-07,5,False,HealthSpring
+2006-05-14,31,False,HealthSpring
+2006-05-21,32,False,HealthSpring
+2006-05-28,5,False,HealthSpring
+2006-06-04,27,False,HealthSpring
+2006-06-11,28,False,HealthSpring
+2006-06-18,16,False,HealthSpring
+2006-06-25,16,False,HealthSpring
+2006-07-02,6,False,HealthSpring
+2006-07-09,11,False,HealthSpring
+2006-07-16,22,False,HealthSpring
+2006-07-23,27,False,HealthSpring
+2006-07-30,32,False,HealthSpring
+2006-08-06,27,False,HealthSpring
+2006-08-13,11,False,HealthSpring
+2006-08-20,25,False,HealthSpring
+2006-08-27,15,False,HealthSpring
+2006-09-03,20,False,HealthSpring
+2006-09-10,42,False,HealthSpring
+2006-09-17,19,False,HealthSpring
+2006-09-24,18,False,HealthSpring
+2006-10-01,23,False,HealthSpring
+2006-10-08,32,False,HealthSpring
+2006-10-15,22,False,HealthSpring
+2006-10-22,22,False,HealthSpring
+2006-10-29,18,False,HealthSpring
+2005-11-06,100,False,SMART Modular Technologies
+2005-11-13,14,False,SMART Modular Technologies
+2005-11-20,58,False,SMART Modular Technologies
+2005-11-27,40,False,SMART Modular Technologies
+2005-12-04,54,False,SMART Modular Technologies
+2005-12-11,69,False,SMART Modular Technologies
+2005-12-18,45,False,SMART Modular Technologies
+2005-12-25,52,False,SMART Modular Technologies
+2006-01-01,43,False,SMART Modular Technologies
+2006-01-08,52,False,SMART Modular Technologies
+2006-01-15,38,False,SMART Modular Technologies
+2006-01-22,25,False,SMART Modular Technologies
+2006-01-29,87,False,SMART Modular Technologies
+2006-02-05,85,False,SMART Modular Technologies
+2006-02-12,24,False,SMART Modular Technologies
+2006-02-19,12,False,SMART Modular Technologies
+2006-02-26,35,False,SMART Modular Technologies
+2006-03-05,46,False,SMART Modular Technologies
+2006-03-12,23,False,SMART Modular Technologies
+2006-03-19,23,False,SMART Modular Technologies
+2006-03-26,69,False,SMART Modular Technologies
+2006-04-02,23,False,SMART Modular Technologies
+2006-04-09,61,False,SMART Modular Technologies
+2006-04-16,24,False,SMART Modular Technologies
+2006-04-23,57,False,SMART Modular Technologies
+2006-04-30,48,False,SMART Modular Technologies
+2006-05-07,11,False,SMART Modular Technologies
+2006-05-14,44,False,SMART Modular Technologies
+2006-05-21,34,False,SMART Modular Technologies
+2006-05-28,46,False,SMART Modular Technologies
+2006-06-04,34,False,SMART Modular Technologies
+2006-06-11,23,False,SMART Modular Technologies
+2006-06-18,23,False,SMART Modular Technologies
+2006-06-25,58,False,SMART Modular Technologies
+2006-07-02,12,False,SMART Modular Technologies
+2006-07-09,35,False,SMART Modular Technologies
+2006-07-16,23,False,SMART Modular Technologies
+2006-07-23,46,False,SMART Modular Technologies
+2006-07-30,56,False,SMART Modular Technologies
+2006-08-06,45,False,SMART Modular Technologies
+2006-08-13,45,False,SMART Modular Technologies
+2006-08-20,43,False,SMART Modular Technologies
+2006-08-27,31,False,SMART Modular Technologies
+2006-09-03,42,False,SMART Modular Technologies
+2006-09-10,80,False,SMART Modular Technologies
+2006-09-17,50,False,SMART Modular Technologies
+2006-09-24,59,False,SMART Modular Technologies
+2006-10-01,10,False,SMART Modular Technologies
+2006-10-08,58,False,SMART Modular Technologies
+2006-10-15,28,False,SMART Modular Technologies
+2006-10-22,38,False,SMART Modular Technologies
+2006-10-29,28,False,SMART Modular Technologies
+2005-11-06,52,False,Resource Capital
+2005-11-13,14,False,Resource Capital
+2005-11-20,37,False,Resource Capital
+2005-11-27,28,False,Resource Capital
+2005-12-04,49,False,Resource Capital
+2005-12-11,36,False,Resource Capital
+2005-12-18,39,False,Resource Capital
+2005-12-25,0,False,Resource Capital
+2006-01-01,22,False,Resource Capital
+2006-01-08,100,False,Resource Capital
+2006-01-15,45,False,Resource Capital
+2006-01-22,51,False,Resource Capital
+2006-01-29,84,False,Resource Capital
+2006-02-05,56,False,Resource Capital
+2006-02-12,44,False,Resource Capital
+2006-02-19,68,False,Resource Capital
+2006-02-26,36,False,Resource Capital
+2006-03-05,54,False,Resource Capital
+2006-03-12,36,False,Resource Capital
+2006-03-19,24,False,Resource Capital
+2006-03-26,53,False,Resource Capital
+2006-04-02,42,False,Resource Capital
+2006-04-09,32,False,Resource Capital
+2006-04-16,55,False,Resource Capital
+2006-04-23,35,False,Resource Capital
+2006-04-30,49,False,Resource Capital
+2006-05-07,46,False,Resource Capital
+2006-05-14,57,False,Resource Capital
+2006-05-21,35,False,Resource Capital
+2006-05-28,65,False,Resource Capital
+2006-06-04,77,False,Resource Capital
+2006-06-11,42,False,Resource Capital
+2006-06-18,53,False,Resource Capital
+2006-06-25,65,False,Resource Capital
+2006-07-02,31,False,Resource Capital
+2006-07-09,77,False,Resource Capital
+2006-07-16,48,False,Resource Capital
+2006-07-23,41,False,Resource Capital
+2006-07-30,35,False,Resource Capital
+2006-08-06,76,False,Resource Capital
+2006-08-13,88,False,Resource Capital
+2006-08-20,67,False,Resource Capital
+2006-08-27,74,False,Resource Capital
+2006-09-03,49,False,Resource Capital
+2006-09-10,46,False,Resource Capital
+2006-09-17,46,False,Resource Capital
+2006-09-24,45,False,Resource Capital
+2006-10-01,46,False,Resource Capital
+2006-10-08,20,False,Resource Capital
+2006-10-15,64,False,Resource Capital
+2006-10-22,49,False,Resource Capital
+2006-10-29,59,False,Resource Capital
+2006-11-05,33,False,Resource Capital
+2005-11-13,17,False,Crocs
+2005-11-20,20,False,Crocs
+2005-11-27,21,False,Crocs
+2005-12-04,24,False,Crocs
+2005-12-11,22,False,Crocs
+2005-12-18,22,False,Crocs
+2005-12-25,27,False,Crocs
+2006-01-01,15,False,Crocs
+2006-01-08,20,False,Crocs
+2006-01-15,18,False,Crocs
+2006-01-22,17,False,Crocs
+2006-01-29,24,False,Crocs
+2006-02-05,34,False,Crocs
+2006-02-12,25,False,Crocs
+2006-02-19,25,False,Crocs
+2006-02-26,23,False,Crocs
+2006-03-05,26,False,Crocs
+2006-03-12,30,False,Crocs
+2006-03-19,27,False,Crocs
+2006-03-26,32,False,Crocs
+2006-04-02,29,False,Crocs
+2006-04-09,37,False,Crocs
+2006-04-16,41,False,Crocs
+2006-04-23,37,False,Crocs
+2006-04-30,44,False,Crocs
+2006-05-07,46,False,Crocs
+2006-05-14,40,False,Crocs
+2006-05-21,50,False,Crocs
+2006-05-28,58,False,Crocs
+2006-06-04,66,False,Crocs
+2006-06-11,62,False,Crocs
+2006-06-18,67,False,Crocs
+2006-06-25,69,False,Crocs
+2006-07-02,77,False,Crocs
+2006-07-09,80,False,Crocs
+2006-07-16,81,False,Crocs
+2006-07-23,86,False,Crocs
+2006-07-30,100,False,Crocs
+2006-08-06,92,False,Crocs
+2006-08-13,78,False,Crocs
+2006-08-20,75,False,Crocs
+2006-08-27,64,False,Crocs
+2006-09-03,71,False,Crocs
+2006-09-10,64,False,Crocs
+2006-09-17,59,False,Crocs
+2006-09-24,56,False,Crocs
+2006-10-01,56,False,Crocs
+2006-10-08,49,False,Crocs
+2006-10-15,44,False,Crocs
+2006-10-22,40,False,Crocs
+2006-10-29,41,False,Crocs
+2006-11-05,41,False,Crocs

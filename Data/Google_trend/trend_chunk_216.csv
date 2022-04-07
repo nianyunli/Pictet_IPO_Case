@@ -1,0 +1,261 @@
+date,SVI,isPartial,Issuer
+2015-07-12,18,False,Pure Storage
+2015-07-19,14,False,Pure Storage
+2015-07-26,16,False,Pure Storage
+2015-08-02,16,False,Pure Storage
+2015-08-09,30,False,Pure Storage
+2015-08-16,26,False,Pure Storage
+2015-08-23,17,False,Pure Storage
+2015-08-30,18,False,Pure Storage
+2015-09-06,23,False,Pure Storage
+2015-09-13,18,False,Pure Storage
+2015-09-20,31,False,Pure Storage
+2015-09-27,27,False,Pure Storage
+2015-10-04,100,False,Pure Storage
+2015-10-11,51,False,Pure Storage
+2015-10-18,22,False,Pure Storage
+2015-10-25,26,False,Pure Storage
+2015-11-01,26,False,Pure Storage
+2015-11-08,17,False,Pure Storage
+2015-11-15,24,False,Pure Storage
+2015-11-22,19,False,Pure Storage
+2015-11-29,27,False,Pure Storage
+2015-12-06,19,False,Pure Storage
+2015-12-13,19,False,Pure Storage
+2015-12-20,17,False,Pure Storage
+2015-12-27,10,False,Pure Storage
+2016-01-03,15,False,Pure Storage
+2016-01-10,16,False,Pure Storage
+2016-01-17,22,False,Pure Storage
+2016-01-24,18,False,Pure Storage
+2016-01-31,16,False,Pure Storage
+2016-02-07,14,False,Pure Storage
+2016-02-14,17,False,Pure Storage
+2016-02-21,17,False,Pure Storage
+2016-02-28,25,False,Pure Storage
+2016-03-06,24,False,Pure Storage
+2016-03-13,30,False,Pure Storage
+2016-03-20,21,False,Pure Storage
+2016-03-27,21,False,Pure Storage
+2016-04-03,20,False,Pure Storage
+2016-04-10,17,False,Pure Storage
+2016-04-17,15,False,Pure Storage
+2016-04-24,13,False,Pure Storage
+2016-05-01,17,False,Pure Storage
+2016-05-08,18,False,Pure Storage
+2016-05-15,18,False,Pure Storage
+2016-05-22,25,False,Pure Storage
+2016-05-29,19,False,Pure Storage
+2016-06-05,19,False,Pure Storage
+2016-06-12,18,False,Pure Storage
+2016-06-19,18,False,Pure Storage
+2016-06-26,18,False,Pure Storage
+2016-07-03,14,False,Pure Storage
+2015-07-12,0,False,Allegiance Bancshares
+2015-07-19,0,False,Allegiance Bancshares
+2015-07-26,0,False,Allegiance Bancshares
+2015-08-02,0,False,Allegiance Bancshares
+2015-08-09,0,False,Allegiance Bancshares
+2015-08-16,0,False,Allegiance Bancshares
+2015-08-23,100,False,Allegiance Bancshares
+2015-08-30,0,False,Allegiance Bancshares
+2015-09-06,0,False,Allegiance Bancshares
+2015-09-13,96,False,Allegiance Bancshares
+2015-09-20,0,False,Allegiance Bancshares
+2015-09-27,0,False,Allegiance Bancshares
+2015-10-04,94,False,Allegiance Bancshares
+2015-10-11,95,False,Allegiance Bancshares
+2015-10-18,0,False,Allegiance Bancshares
+2015-10-25,0,False,Allegiance Bancshares
+2015-11-01,0,False,Allegiance Bancshares
+2015-11-08,0,False,Allegiance Bancshares
+2015-11-15,0,False,Allegiance Bancshares
+2015-11-22,0,False,Allegiance Bancshares
+2015-11-29,0,False,Allegiance Bancshares
+2015-12-06,0,False,Allegiance Bancshares
+2015-12-13,0,False,Allegiance Bancshares
+2015-12-20,0,False,Allegiance Bancshares
+2015-12-27,0,False,Allegiance Bancshares
+2016-01-03,0,False,Allegiance Bancshares
+2016-01-10,0,False,Allegiance Bancshares
+2016-01-17,0,False,Allegiance Bancshares
+2016-01-24,99,False,Allegiance Bancshares
+2016-01-31,0,False,Allegiance Bancshares
+2016-02-07,0,False,Allegiance Bancshares
+2016-02-14,0,False,Allegiance Bancshares
+2016-02-21,0,False,Allegiance Bancshares
+2016-02-28,0,False,Allegiance Bancshares
+2016-03-06,0,False,Allegiance Bancshares
+2016-03-13,0,False,Allegiance Bancshares
+2016-03-20,0,False,Allegiance Bancshares
+2016-03-27,0,False,Allegiance Bancshares
+2016-04-03,0,False,Allegiance Bancshares
+2016-04-10,99,False,Allegiance Bancshares
+2016-04-17,0,False,Allegiance Bancshares
+2016-04-24,0,False,Allegiance Bancshares
+2016-05-01,0,False,Allegiance Bancshares
+2016-05-08,98,False,Allegiance Bancshares
+2016-05-15,0,False,Allegiance Bancshares
+2016-05-22,0,False,Allegiance Bancshares
+2016-05-29,0,False,Allegiance Bancshares
+2016-06-05,0,False,Allegiance Bancshares
+2016-06-12,0,False,Allegiance Bancshares
+2016-06-19,0,False,Allegiance Bancshares
+2016-06-26,0,False,Allegiance Bancshares
+2016-07-03,0,False,Allegiance Bancshares
+2015-07-12,0,False,CytomX Therapeutics
+2015-07-19,0,False,CytomX Therapeutics
+2015-07-26,100,False,CytomX Therapeutics
+2015-08-02,0,False,CytomX Therapeutics
+2015-08-09,0,False,CytomX Therapeutics
+2015-08-16,32,False,CytomX Therapeutics
+2015-08-23,64,False,CytomX Therapeutics
+2015-08-30,0,False,CytomX Therapeutics
+2015-09-06,62,False,CytomX Therapeutics
+2015-09-13,0,False,CytomX Therapeutics
+2015-09-20,0,False,CytomX Therapeutics
+2015-09-27,92,False,CytomX Therapeutics
+2015-10-04,90,False,CytomX Therapeutics
+2015-10-11,61,False,CytomX Therapeutics
+2015-10-18,30,False,CytomX Therapeutics
+2015-10-25,91,False,CytomX Therapeutics
+2015-11-01,0,False,CytomX Therapeutics
+2015-11-08,30,False,CytomX Therapeutics
+2015-11-15,30,False,CytomX Therapeutics
+2015-11-22,0,False,CytomX Therapeutics
+2015-11-29,60,False,CytomX Therapeutics
+2015-12-06,0,False,CytomX Therapeutics
+2015-12-13,0,False,CytomX Therapeutics
+2015-12-20,34,False,CytomX Therapeutics
+2015-12-27,0,False,CytomX Therapeutics
+2016-01-03,0,False,CytomX Therapeutics
+2016-01-10,31,False,CytomX Therapeutics
+2016-01-17,0,False,CytomX Therapeutics
+2016-01-24,0,False,CytomX Therapeutics
+2016-01-31,32,False,CytomX Therapeutics
+2016-02-07,32,False,CytomX Therapeutics
+2016-02-14,31,False,CytomX Therapeutics
+2016-02-21,0,False,CytomX Therapeutics
+2016-02-28,0,False,CytomX Therapeutics
+2016-03-06,0,False,CytomX Therapeutics
+2016-03-13,63,False,CytomX Therapeutics
+2016-03-20,0,False,CytomX Therapeutics
+2016-03-27,0,False,CytomX Therapeutics
+2016-04-03,0,False,CytomX Therapeutics
+2016-04-10,31,False,CytomX Therapeutics
+2016-04-17,93,False,CytomX Therapeutics
+2016-04-24,31,False,CytomX Therapeutics
+2016-05-01,32,False,CytomX Therapeutics
+2016-05-08,31,False,CytomX Therapeutics
+2016-05-15,32,False,CytomX Therapeutics
+2016-05-22,64,False,CytomX Therapeutics
+2016-05-29,32,False,CytomX Therapeutics
+2016-06-05,65,False,CytomX Therapeutics
+2016-06-12,0,False,CytomX Therapeutics
+2016-06-19,32,False,CytomX Therapeutics
+2016-06-26,0,False,CytomX Therapeutics
+2016-07-03,34,False,CytomX Therapeutics
+2015-07-12,8,False,CPI Card Group
+2015-07-19,8,False,CPI Card Group
+2015-07-26,31,False,CPI Card Group
+2015-08-02,18,False,CPI Card Group
+2015-08-09,28,False,CPI Card Group
+2015-08-16,25,False,CPI Card Group
+2015-08-23,17,False,CPI Card Group
+2015-08-30,29,False,CPI Card Group
+2015-09-06,17,False,CPI Card Group
+2015-09-13,12,False,CPI Card Group
+2015-09-20,22,False,CPI Card Group
+2015-09-27,31,False,CPI Card Group
+2015-10-04,100,False,CPI Card Group
+2015-10-11,49,False,CPI Card Group
+2015-10-18,30,False,CPI Card Group
+2015-10-25,16,False,CPI Card Group
+2015-11-01,12,False,CPI Card Group
+2015-11-08,21,False,CPI Card Group
+2015-11-15,16,False,CPI Card Group
+2015-11-22,19,False,CPI Card Group
+2015-11-29,30,False,CPI Card Group
+2015-12-06,9,False,CPI Card Group
+2015-12-13,24,False,CPI Card Group
+2015-12-20,11,False,CPI Card Group
+2015-12-27,8,False,CPI Card Group
+2016-01-03,7,False,CPI Card Group
+2016-01-10,17,False,CPI Card Group
+2016-01-17,2,False,CPI Card Group
+2016-01-24,10,False,CPI Card Group
+2016-01-31,10,False,CPI Card Group
+2016-02-07,12,False,CPI Card Group
+2016-02-14,10,False,CPI Card Group
+2016-02-21,29,False,CPI Card Group
+2016-02-28,5,False,CPI Card Group
+2016-03-06,7,False,CPI Card Group
+2016-03-13,19,False,CPI Card Group
+2016-03-20,5,False,CPI Card Group
+2016-03-27,17,False,CPI Card Group
+2016-04-03,12,False,CPI Card Group
+2016-04-10,12,False,CPI Card Group
+2016-04-17,10,False,CPI Card Group
+2016-04-24,17,False,CPI Card Group
+2016-05-01,5,False,CPI Card Group
+2016-05-08,36,False,CPI Card Group
+2016-05-15,20,False,CPI Card Group
+2016-05-22,7,False,CPI Card Group
+2016-05-29,7,False,CPI Card Group
+2016-06-05,22,False,CPI Card Group
+2016-06-12,24,False,CPI Card Group
+2016-06-19,20,False,CPI Card Group
+2016-06-26,23,False,CPI Card Group
+2016-07-03,16,False,CPI Card Group
+2015-07-19,0,False,Capitol Acquisition Corp. III
+2015-07-26,0,False,Capitol Acquisition Corp. III
+2015-08-02,0,False,Capitol Acquisition Corp. III
+2015-08-09,0,False,Capitol Acquisition Corp. III
+2015-08-16,0,False,Capitol Acquisition Corp. III
+2015-08-23,0,False,Capitol Acquisition Corp. III
+2015-08-30,0,False,Capitol Acquisition Corp. III
+2015-09-06,0,False,Capitol Acquisition Corp. III
+2015-09-13,0,False,Capitol Acquisition Corp. III
+2015-09-20,0,False,Capitol Acquisition Corp. III
+2015-09-27,0,False,Capitol Acquisition Corp. III
+2015-10-04,0,False,Capitol Acquisition Corp. III
+2015-10-11,100,False,Capitol Acquisition Corp. III
+2015-10-18,0,False,Capitol Acquisition Corp. III
+2015-10-25,0,False,Capitol Acquisition Corp. III
+2015-11-01,0,False,Capitol Acquisition Corp. III
+2015-11-08,0,False,Capitol Acquisition Corp. III
+2015-11-15,0,False,Capitol Acquisition Corp. III
+2015-11-22,0,False,Capitol Acquisition Corp. III
+2015-11-29,0,False,Capitol Acquisition Corp. III
+2015-12-06,0,False,Capitol Acquisition Corp. III
+2015-12-13,0,False,Capitol Acquisition Corp. III
+2015-12-20,0,False,Capitol Acquisition Corp. III
+2015-12-27,0,False,Capitol Acquisition Corp. III
+2016-01-03,0,False,Capitol Acquisition Corp. III
+2016-01-10,0,False,Capitol Acquisition Corp. III
+2016-01-17,0,False,Capitol Acquisition Corp. III
+2016-01-24,0,False,Capitol Acquisition Corp. III
+2016-01-31,0,False,Capitol Acquisition Corp. III
+2016-02-07,0,False,Capitol Acquisition Corp. III
+2016-02-14,0,False,Capitol Acquisition Corp. III
+2016-02-21,0,False,Capitol Acquisition Corp. III
+2016-02-28,0,False,Capitol Acquisition Corp. III
+2016-03-06,0,False,Capitol Acquisition Corp. III
+2016-03-13,0,False,Capitol Acquisition Corp. III
+2016-03-20,0,False,Capitol Acquisition Corp. III
+2016-03-27,0,False,Capitol Acquisition Corp. III
+2016-04-03,0,False,Capitol Acquisition Corp. III
+2016-04-10,0,False,Capitol Acquisition Corp. III
+2016-04-17,0,False,Capitol Acquisition Corp. III
+2016-04-24,0,False,Capitol Acquisition Corp. III
+2016-05-01,0,False,Capitol Acquisition Corp. III
+2016-05-08,0,False,Capitol Acquisition Corp. III
+2016-05-15,0,False,Capitol Acquisition Corp. III
+2016-05-22,0,False,Capitol Acquisition Corp. III
+2016-05-29,0,False,Capitol Acquisition Corp. III
+2016-06-05,0,False,Capitol Acquisition Corp. III
+2016-06-12,0,False,Capitol Acquisition Corp. III
+2016-06-19,0,False,Capitol Acquisition Corp. III
+2016-06-26,0,False,Capitol Acquisition Corp. III
+2016-07-03,0,False,Capitol Acquisition Corp. III
+2016-07-10,0,False,Capitol Acquisition Corp. III

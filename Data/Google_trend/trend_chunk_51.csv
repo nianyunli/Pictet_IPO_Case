@@ -1,0 +1,265 @@
+date,SVI,isPartial,Issuer
+2019-01-20,6,False,Zoom Video Communications
+2019-01-27,6,False,Zoom Video Communications
+2019-02-03,9,False,Zoom Video Communications
+2019-02-10,8,False,Zoom Video Communications
+2019-02-17,13,False,Zoom Video Communications
+2019-02-24,8,False,Zoom Video Communications
+2019-03-03,10,False,Zoom Video Communications
+2019-03-10,14,False,Zoom Video Communications
+2019-03-17,10,False,Zoom Video Communications
+2019-03-24,17,False,Zoom Video Communications
+2019-03-31,14,False,Zoom Video Communications
+2019-04-07,21,False,Zoom Video Communications
+2019-04-14,100,False,Zoom Video Communications
+2019-04-21,73,False,Zoom Video Communications
+2019-04-28,40,False,Zoom Video Communications
+2019-05-05,34,False,Zoom Video Communications
+2019-05-12,19,False,Zoom Video Communications
+2019-05-19,33,False,Zoom Video Communications
+2019-05-26,24,False,Zoom Video Communications
+2019-06-02,17,False,Zoom Video Communications
+2019-06-09,24,False,Zoom Video Communications
+2019-06-16,29,False,Zoom Video Communications
+2019-06-23,30,False,Zoom Video Communications
+2019-06-30,16,False,Zoom Video Communications
+2019-07-07,29,False,Zoom Video Communications
+2019-07-14,15,False,Zoom Video Communications
+2019-07-21,20,False,Zoom Video Communications
+2019-07-28,22,False,Zoom Video Communications
+2019-08-04,18,False,Zoom Video Communications
+2019-08-11,15,False,Zoom Video Communications
+2019-08-18,14,False,Zoom Video Communications
+2019-08-25,13,False,Zoom Video Communications
+2019-09-01,21,False,Zoom Video Communications
+2019-09-08,17,False,Zoom Video Communications
+2019-09-15,20,False,Zoom Video Communications
+2019-09-22,18,False,Zoom Video Communications
+2019-09-29,22,False,Zoom Video Communications
+2019-10-06,28,False,Zoom Video Communications
+2019-10-13,23,False,Zoom Video Communications
+2019-10-20,18,False,Zoom Video Communications
+2019-10-27,19,False,Zoom Video Communications
+2019-11-03,20,False,Zoom Video Communications
+2019-11-10,16,False,Zoom Video Communications
+2019-11-17,14,False,Zoom Video Communications
+2019-11-24,12,False,Zoom Video Communications
+2019-12-01,19,False,Zoom Video Communications
+2019-12-08,14,False,Zoom Video Communications
+2019-12-15,19,False,Zoom Video Communications
+2019-12-22,8,False,Zoom Video Communications
+2019-12-29,9,False,Zoom Video Communications
+2020-01-05,13,False,Zoom Video Communications
+2020-01-12,18,False,Zoom Video Communications
+2019-01-27,0,False,Act II Global Acquisition
+2019-02-03,0,False,Act II Global Acquisition
+2019-02-10,0,False,Act II Global Acquisition
+2019-02-17,0,False,Act II Global Acquisition
+2019-02-24,0,False,Act II Global Acquisition
+2019-03-03,0,False,Act II Global Acquisition
+2019-03-10,0,False,Act II Global Acquisition
+2019-03-17,0,False,Act II Global Acquisition
+2019-03-24,0,False,Act II Global Acquisition
+2019-03-31,0,False,Act II Global Acquisition
+2019-04-07,0,False,Act II Global Acquisition
+2019-04-14,36,False,Act II Global Acquisition
+2019-04-21,36,False,Act II Global Acquisition
+2019-04-28,35,False,Act II Global Acquisition
+2019-05-05,0,False,Act II Global Acquisition
+2019-05-12,0,False,Act II Global Acquisition
+2019-05-19,35,False,Act II Global Acquisition
+2019-05-26,35,False,Act II Global Acquisition
+2019-06-02,34,False,Act II Global Acquisition
+2019-06-09,0,False,Act II Global Acquisition
+2019-06-16,0,False,Act II Global Acquisition
+2019-06-23,35,False,Act II Global Acquisition
+2019-06-30,0,False,Act II Global Acquisition
+2019-07-07,0,False,Act II Global Acquisition
+2019-07-14,0,False,Act II Global Acquisition
+2019-07-21,0,False,Act II Global Acquisition
+2019-07-28,0,False,Act II Global Acquisition
+2019-08-04,0,False,Act II Global Acquisition
+2019-08-11,0,False,Act II Global Acquisition
+2019-08-18,0,False,Act II Global Acquisition
+2019-08-25,0,False,Act II Global Acquisition
+2019-09-01,0,False,Act II Global Acquisition
+2019-09-08,33,False,Act II Global Acquisition
+2019-09-15,0,False,Act II Global Acquisition
+2019-09-22,0,False,Act II Global Acquisition
+2019-09-29,33,False,Act II Global Acquisition
+2019-10-06,0,False,Act II Global Acquisition
+2019-10-13,0,False,Act II Global Acquisition
+2019-10-20,32,False,Act II Global Acquisition
+2019-10-27,33,False,Act II Global Acquisition
+2019-11-03,0,False,Act II Global Acquisition
+2019-11-10,0,False,Act II Global Acquisition
+2019-11-17,0,False,Act II Global Acquisition
+2019-11-24,0,False,Act II Global Acquisition
+2019-12-01,0,False,Act II Global Acquisition
+2019-12-08,0,False,Act II Global Acquisition
+2019-12-15,100,False,Act II Global Acquisition
+2019-12-22,36,False,Act II Global Acquisition
+2019-12-29,35,False,Act II Global Acquisition
+2020-01-05,0,False,Act II Global Acquisition
+2020-01-12,0,False,Act II Global Acquisition
+2020-01-19,31,False,Act II Global Acquisition
+2020-01-26,31,False,Act II Global Acquisition
+2019-02-03,7,False,Beyond Meat
+2019-02-10,6,False,Beyond Meat
+2019-02-17,8,False,Beyond Meat
+2019-02-24,8,False,Beyond Meat
+2019-03-03,8,False,Beyond Meat
+2019-03-10,8,False,Beyond Meat
+2019-03-17,10,False,Beyond Meat
+2019-03-24,9,False,Beyond Meat
+2019-03-31,11,False,Beyond Meat
+2019-04-07,9,False,Beyond Meat
+2019-04-14,9,False,Beyond Meat
+2019-04-21,26,False,Beyond Meat
+2019-04-28,84,False,Beyond Meat
+2019-05-05,46,False,Beyond Meat
+2019-05-12,43,False,Beyond Meat
+2019-05-19,35,False,Beyond Meat
+2019-05-26,42,False,Beyond Meat
+2019-06-02,52,False,Beyond Meat
+2019-06-09,100,False,Beyond Meat
+2019-06-16,64,False,Beyond Meat
+2019-06-23,42,False,Beyond Meat
+2019-06-30,35,False,Beyond Meat
+2019-07-07,33,False,Beyond Meat
+2019-07-14,32,False,Beyond Meat
+2019-07-21,48,False,Beyond Meat
+2019-07-28,78,False,Beyond Meat
+2019-08-04,42,False,Beyond Meat
+2019-08-11,36,False,Beyond Meat
+2019-08-18,29,False,Beyond Meat
+2019-08-25,42,False,Beyond Meat
+2019-09-01,27,False,Beyond Meat
+2019-09-08,26,False,Beyond Meat
+2019-09-15,28,False,Beyond Meat
+2019-09-22,32,False,Beyond Meat
+2019-09-29,22,False,Beyond Meat
+2019-10-06,19,False,Beyond Meat
+2019-10-13,21,False,Beyond Meat
+2019-10-20,24,False,Beyond Meat
+2019-10-27,36,False,Beyond Meat
+2019-11-03,29,False,Beyond Meat
+2019-11-10,26,False,Beyond Meat
+2019-11-17,24,False,Beyond Meat
+2019-11-24,18,False,Beyond Meat
+2019-12-01,19,False,Beyond Meat
+2019-12-08,17,False,Beyond Meat
+2019-12-15,17,False,Beyond Meat
+2019-12-22,15,False,Beyond Meat
+2019-12-29,19,False,Beyond Meat
+2020-01-05,30,False,Beyond Meat
+2020-01-12,42,False,Beyond Meat
+2020-01-19,34,False,Beyond Meat
+2020-01-26,33,False,Beyond Meat
+2020-02-02,28,False,Beyond Meat
+2019-02-03,0,False,So-Young International
+2019-02-10,0,False,So-Young International
+2019-02-17,0,False,So-Young International
+2019-02-24,0,False,So-Young International
+2019-03-03,0,False,So-Young International
+2019-03-10,0,False,So-Young International
+2019-03-17,0,False,So-Young International
+2019-03-24,0,False,So-Young International
+2019-03-31,0,False,So-Young International
+2019-04-07,17,False,So-Young International
+2019-04-14,17,False,So-Young International
+2019-04-21,17,False,So-Young International
+2019-04-28,100,False,So-Young International
+2019-05-05,50,False,So-Young International
+2019-05-12,0,False,So-Young International
+2019-05-19,0,False,So-Young International
+2019-05-26,34,False,So-Young International
+2019-06-02,16,False,So-Young International
+2019-06-09,0,False,So-Young International
+2019-06-16,0,False,So-Young International
+2019-06-23,17,False,So-Young International
+2019-06-30,17,False,So-Young International
+2019-07-07,0,False,So-Young International
+2019-07-14,0,False,So-Young International
+2019-07-21,0,False,So-Young International
+2019-07-28,0,False,So-Young International
+2019-08-04,0,False,So-Young International
+2019-08-11,17,False,So-Young International
+2019-08-18,0,False,So-Young International
+2019-08-25,48,False,So-Young International
+2019-09-01,0,False,So-Young International
+2019-09-08,0,False,So-Young International
+2019-09-15,0,False,So-Young International
+2019-09-22,0,False,So-Young International
+2019-09-29,0,False,So-Young International
+2019-10-06,0,False,So-Young International
+2019-10-13,0,False,So-Young International
+2019-10-20,0,False,So-Young International
+2019-10-27,0,False,So-Young International
+2019-11-03,0,False,So-Young International
+2019-11-10,0,False,So-Young International
+2019-11-17,0,False,So-Young International
+2019-11-24,0,False,So-Young International
+2019-12-01,0,False,So-Young International
+2019-12-08,16,False,So-Young International
+2019-12-15,0,False,So-Young International
+2019-12-22,0,False,So-Young International
+2019-12-29,0,False,So-Young International
+2020-01-05,15,False,So-Young International
+2020-01-12,15,False,So-Young International
+2020-01-19,0,False,So-Young International
+2020-01-26,0,False,So-Young International
+2020-02-02,15,False,So-Young International
+2019-02-03,0,False,TransMedics Group
+2019-02-10,0,False,TransMedics Group
+2019-02-17,0,False,TransMedics Group
+2019-02-24,0,False,TransMedics Group
+2019-03-03,0,False,TransMedics Group
+2019-03-10,0,False,TransMedics Group
+2019-03-17,0,False,TransMedics Group
+2019-03-24,0,False,TransMedics Group
+2019-03-31,0,False,TransMedics Group
+2019-04-07,0,False,TransMedics Group
+2019-04-14,17,False,TransMedics Group
+2019-04-21,85,False,TransMedics Group
+2019-04-28,100,False,TransMedics Group
+2019-05-05,0,False,TransMedics Group
+2019-05-12,0,False,TransMedics Group
+2019-05-19,33,False,TransMedics Group
+2019-05-26,0,False,TransMedics Group
+2019-06-02,16,False,TransMedics Group
+2019-06-09,33,False,TransMedics Group
+2019-06-16,0,False,TransMedics Group
+2019-06-23,0,False,TransMedics Group
+2019-06-30,0,False,TransMedics Group
+2019-07-07,0,False,TransMedics Group
+2019-07-14,0,False,TransMedics Group
+2019-07-21,0,False,TransMedics Group
+2019-07-28,17,False,TransMedics Group
+2019-08-04,0,False,TransMedics Group
+2019-08-11,17,False,TransMedics Group
+2019-08-18,0,False,TransMedics Group
+2019-08-25,0,False,TransMedics Group
+2019-09-01,0,False,TransMedics Group
+2019-09-08,16,False,TransMedics Group
+2019-09-15,0,False,TransMedics Group
+2019-09-22,0,False,TransMedics Group
+2019-09-29,16,False,TransMedics Group
+2019-10-06,0,False,TransMedics Group
+2019-10-13,0,False,TransMedics Group
+2019-10-20,0,False,TransMedics Group
+2019-10-27,15,False,TransMedics Group
+2019-11-03,15,False,TransMedics Group
+2019-11-10,0,False,TransMedics Group
+2019-11-17,0,False,TransMedics Group
+2019-11-24,0,False,TransMedics Group
+2019-12-01,46,False,TransMedics Group
+2019-12-08,16,False,TransMedics Group
+2019-12-15,0,False,TransMedics Group
+2019-12-22,0,False,TransMedics Group
+2019-12-29,16,False,TransMedics Group
+2020-01-05,0,False,TransMedics Group
+2020-01-12,0,False,TransMedics Group
+2020-01-19,0,False,TransMedics Group
+2020-01-26,0,False,TransMedics Group
+2020-02-02,44,False,TransMedics Group

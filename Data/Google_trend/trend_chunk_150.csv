@@ -1,0 +1,209 @@
+date,SVI,isPartial,Issuer
+2017-05-14,66,False,YogaWorks
+2017-05-21,73,False,YogaWorks
+2017-05-28,79,False,YogaWorks
+2017-06-04,74,False,YogaWorks
+2017-06-11,94,False,YogaWorks
+2017-06-18,86,False,YogaWorks
+2017-06-25,69,False,YogaWorks
+2017-07-02,90,False,YogaWorks
+2017-07-09,99,False,YogaWorks
+2017-07-16,100,False,YogaWorks
+2017-07-23,83,False,YogaWorks
+2017-07-30,88,False,YogaWorks
+2017-08-06,100,False,YogaWorks
+2017-08-13,85,False,YogaWorks
+2017-08-20,85,False,YogaWorks
+2017-08-27,76,False,YogaWorks
+2017-09-03,78,False,YogaWorks
+2017-09-10,93,False,YogaWorks
+2017-09-17,83,False,YogaWorks
+2017-09-24,88,False,YogaWorks
+2017-10-01,73,False,YogaWorks
+2017-10-08,87,False,YogaWorks
+2017-10-15,71,False,YogaWorks
+2017-10-22,76,False,YogaWorks
+2017-10-29,67,False,YogaWorks
+2017-11-05,72,False,YogaWorks
+2017-11-12,72,False,YogaWorks
+2017-11-19,65,False,YogaWorks
+2017-11-26,80,False,YogaWorks
+2017-12-03,73,False,YogaWorks
+2017-12-10,67,False,YogaWorks
+2017-12-17,69,False,YogaWorks
+2017-12-24,55,False,YogaWorks
+2017-12-31,84,False,YogaWorks
+2018-01-07,97,False,YogaWorks
+2018-01-14,75,False,YogaWorks
+2018-01-21,88,False,YogaWorks
+2018-01-28,89,False,YogaWorks
+2018-02-04,85,False,YogaWorks
+2018-02-11,79,False,YogaWorks
+2018-02-18,71,False,YogaWorks
+2018-02-25,86,False,YogaWorks
+2018-03-04,65,False,YogaWorks
+2018-03-11,73,False,YogaWorks
+2018-03-18,73,False,YogaWorks
+2018-03-25,66,False,YogaWorks
+2018-04-01,88,False,YogaWorks
+2018-04-08,74,False,YogaWorks
+2018-04-15,64,False,YogaWorks
+2018-04-22,75,False,YogaWorks
+2018-04-29,57,False,YogaWorks
+2018-05-06,76,False,YogaWorks
+2017-05-21,0,False,Capitol Investment Corp. IV
+2017-05-28,0,False,Capitol Investment Corp. IV
+2017-06-04,0,False,Capitol Investment Corp. IV
+2017-06-11,0,False,Capitol Investment Corp. IV
+2017-06-18,0,False,Capitol Investment Corp. IV
+2017-06-25,0,False,Capitol Investment Corp. IV
+2017-07-02,0,False,Capitol Investment Corp. IV
+2017-07-09,0,False,Capitol Investment Corp. IV
+2017-07-16,0,False,Capitol Investment Corp. IV
+2017-07-23,0,False,Capitol Investment Corp. IV
+2017-07-30,0,False,Capitol Investment Corp. IV
+2017-08-06,100,False,Capitol Investment Corp. IV
+2017-08-13,0,False,Capitol Investment Corp. IV
+2017-08-20,0,False,Capitol Investment Corp. IV
+2017-08-27,0,False,Capitol Investment Corp. IV
+2017-09-03,50,False,Capitol Investment Corp. IV
+2017-09-10,0,False,Capitol Investment Corp. IV
+2017-09-17,0,False,Capitol Investment Corp. IV
+2017-09-24,49,False,Capitol Investment Corp. IV
+2017-10-01,0,False,Capitol Investment Corp. IV
+2017-10-08,0,False,Capitol Investment Corp. IV
+2017-10-15,0,False,Capitol Investment Corp. IV
+2017-10-22,0,False,Capitol Investment Corp. IV
+2017-10-29,0,False,Capitol Investment Corp. IV
+2017-11-05,0,False,Capitol Investment Corp. IV
+2017-11-12,0,False,Capitol Investment Corp. IV
+2017-11-19,0,False,Capitol Investment Corp. IV
+2017-11-26,0,False,Capitol Investment Corp. IV
+2017-12-03,0,False,Capitol Investment Corp. IV
+2017-12-10,0,False,Capitol Investment Corp. IV
+2017-12-17,0,False,Capitol Investment Corp. IV
+2017-12-24,0,False,Capitol Investment Corp. IV
+2017-12-31,0,False,Capitol Investment Corp. IV
+2018-01-07,0,False,Capitol Investment Corp. IV
+2018-01-14,0,False,Capitol Investment Corp. IV
+2018-01-21,0,False,Capitol Investment Corp. IV
+2018-01-28,0,False,Capitol Investment Corp. IV
+2018-02-04,0,False,Capitol Investment Corp. IV
+2018-02-11,0,False,Capitol Investment Corp. IV
+2018-02-18,45,False,Capitol Investment Corp. IV
+2018-02-25,0,False,Capitol Investment Corp. IV
+2018-03-04,0,False,Capitol Investment Corp. IV
+2018-03-11,0,False,Capitol Investment Corp. IV
+2018-03-18,0,False,Capitol Investment Corp. IV
+2018-03-25,0,False,Capitol Investment Corp. IV
+2018-04-01,0,False,Capitol Investment Corp. IV
+2018-04-08,0,False,Capitol Investment Corp. IV
+2018-04-15,0,False,Capitol Investment Corp. IV
+2018-04-22,0,False,Capitol Investment Corp. IV
+2018-04-29,0,False,Capitol Investment Corp. IV
+2018-05-06,0,False,Capitol Investment Corp. IV
+2018-05-13,0,False,Capitol Investment Corp. IV
+2017-05-21,0,False,Atlantic Acquisition
+2017-05-28,16,False,Atlantic Acquisition
+2017-06-04,16,False,Atlantic Acquisition
+2017-06-11,16,False,Atlantic Acquisition
+2017-06-18,16,False,Atlantic Acquisition
+2017-06-25,33,False,Atlantic Acquisition
+2017-07-02,33,False,Atlantic Acquisition
+2017-07-09,49,False,Atlantic Acquisition
+2017-07-16,82,False,Atlantic Acquisition
+2017-07-23,16,False,Atlantic Acquisition
+2017-07-30,0,False,Atlantic Acquisition
+2017-08-06,16,False,Atlantic Acquisition
+2017-08-13,16,False,Atlantic Acquisition
+2017-08-20,47,False,Atlantic Acquisition
+2017-08-27,47,False,Atlantic Acquisition
+2017-09-03,16,False,Atlantic Acquisition
+2017-09-10,31,False,Atlantic Acquisition
+2017-09-17,31,False,Atlantic Acquisition
+2017-09-24,47,False,Atlantic Acquisition
+2017-10-01,30,False,Atlantic Acquisition
+2017-10-08,15,False,Atlantic Acquisition
+2017-10-15,62,False,Atlantic Acquisition
+2017-10-22,30,False,Atlantic Acquisition
+2017-10-29,30,False,Atlantic Acquisition
+2017-11-05,59,False,Atlantic Acquisition
+2017-11-12,74,False,Atlantic Acquisition
+2017-11-19,60,False,Atlantic Acquisition
+2017-11-26,29,False,Atlantic Acquisition
+2017-12-03,15,False,Atlantic Acquisition
+2017-12-10,45,False,Atlantic Acquisition
+2017-12-17,16,False,Atlantic Acquisition
+2017-12-24,33,False,Atlantic Acquisition
+2017-12-31,31,False,Atlantic Acquisition
+2018-01-07,44,False,Atlantic Acquisition
+2018-01-14,29,False,Atlantic Acquisition
+2018-01-21,14,False,Atlantic Acquisition
+2018-01-28,29,False,Atlantic Acquisition
+2018-02-04,14,False,Atlantic Acquisition
+2018-02-11,14,False,Atlantic Acquisition
+2018-02-18,57,False,Atlantic Acquisition
+2018-02-25,14,False,Atlantic Acquisition
+2018-03-04,14,False,Atlantic Acquisition
+2018-03-11,43,False,Atlantic Acquisition
+2018-03-18,14,False,Atlantic Acquisition
+2018-03-25,30,False,Atlantic Acquisition
+2018-04-01,0,False,Atlantic Acquisition
+2018-04-08,100,False,Atlantic Acquisition
+2018-04-15,29,False,Atlantic Acquisition
+2018-04-22,28,False,Atlantic Acquisition
+2018-04-29,57,False,Atlantic Acquisition
+2018-05-06,29,False,Atlantic Acquisition
+2018-05-13,29,False,Atlantic Acquisition
+2017-06-18,0,False,Social Capital Hedosophia Holdings
+2017-06-25,0,False,Social Capital Hedosophia Holdings
+2017-07-02,0,False,Social Capital Hedosophia Holdings
+2017-07-09,0,False,Social Capital Hedosophia Holdings
+2017-07-16,0,False,Social Capital Hedosophia Holdings
+2017-07-23,0,False,Social Capital Hedosophia Holdings
+2017-07-30,0,False,Social Capital Hedosophia Holdings
+2017-08-06,0,False,Social Capital Hedosophia Holdings
+2017-08-13,0,False,Social Capital Hedosophia Holdings
+2017-08-20,37,False,Social Capital Hedosophia Holdings
+2017-08-27,18,False,Social Capital Hedosophia Holdings
+2017-09-03,0,False,Social Capital Hedosophia Holdings
+2017-09-10,100,False,Social Capital Hedosophia Holdings
+2017-09-17,54,False,Social Capital Hedosophia Holdings
+2017-09-24,9,False,Social Capital Hedosophia Holdings
+2017-10-01,9,False,Social Capital Hedosophia Holdings
+2017-10-08,18,False,Social Capital Hedosophia Holdings
+2017-10-15,18,False,Social Capital Hedosophia Holdings
+2017-10-22,9,False,Social Capital Hedosophia Holdings
+2017-10-29,9,False,Social Capital Hedosophia Holdings
+2017-11-05,9,False,Social Capital Hedosophia Holdings
+2017-11-12,0,False,Social Capital Hedosophia Holdings
+2017-11-19,9,False,Social Capital Hedosophia Holdings
+2017-11-26,0,False,Social Capital Hedosophia Holdings
+2017-12-03,0,False,Social Capital Hedosophia Holdings
+2017-12-10,35,False,Social Capital Hedosophia Holdings
+2017-12-17,18,False,Social Capital Hedosophia Holdings
+2017-12-24,19,False,Social Capital Hedosophia Holdings
+2017-12-31,9,False,Social Capital Hedosophia Holdings
+2018-01-07,0,False,Social Capital Hedosophia Holdings
+2018-01-14,0,False,Social Capital Hedosophia Holdings
+2018-01-21,0,False,Social Capital Hedosophia Holdings
+2018-01-28,0,False,Social Capital Hedosophia Holdings
+2018-02-04,17,False,Social Capital Hedosophia Holdings
+2018-02-11,0,False,Social Capital Hedosophia Holdings
+2018-02-18,0,False,Social Capital Hedosophia Holdings
+2018-02-25,0,False,Social Capital Hedosophia Holdings
+2018-03-04,8,False,Social Capital Hedosophia Holdings
+2018-03-11,0,False,Social Capital Hedosophia Holdings
+2018-03-18,0,False,Social Capital Hedosophia Holdings
+2018-03-25,9,False,Social Capital Hedosophia Holdings
+2018-04-01,9,False,Social Capital Hedosophia Holdings
+2018-04-08,0,False,Social Capital Hedosophia Holdings
+2018-04-15,0,False,Social Capital Hedosophia Holdings
+2018-04-22,17,False,Social Capital Hedosophia Holdings
+2018-04-29,0,False,Social Capital Hedosophia Holdings
+2018-05-06,0,False,Social Capital Hedosophia Holdings
+2018-05-13,9,False,Social Capital Hedosophia Holdings
+2018-05-20,0,False,Social Capital Hedosophia Holdings
+2018-05-27,0,False,Social Capital Hedosophia Holdings
+2018-06-03,0,False,Social Capital Hedosophia Holdings
+2018-06-10,0,False,Social Capital Hedosophia Holdings

@@ -1,0 +1,261 @@
+date,SVI,isPartial,Issuer
+2012-01-01,13,False,Annie’s
+2012-01-08,36,False,Annie’s
+2012-01-15,0,False,Annie’s
+2012-01-22,58,False,Annie’s
+2012-01-29,0,False,Annie’s
+2012-02-05,11,False,Annie’s
+2012-02-12,23,False,Annie’s
+2012-02-19,12,False,Annie’s
+2012-02-26,81,False,Annie’s
+2012-03-04,23,False,Annie’s
+2012-03-11,34,False,Annie’s
+2012-03-18,23,False,Annie’s
+2012-03-25,34,False,Annie’s
+2012-04-01,36,False,Annie’s
+2012-04-08,12,False,Annie’s
+2012-04-15,56,False,Annie’s
+2012-04-22,11,False,Annie’s
+2012-04-29,12,False,Annie’s
+2012-05-06,11,False,Annie’s
+2012-05-13,46,False,Annie’s
+2012-05-20,68,False,Annie’s
+2012-05-27,34,False,Annie’s
+2012-06-03,34,False,Annie’s
+2012-06-10,11,False,Annie’s
+2012-06-17,23,False,Annie’s
+2012-06-24,34,False,Annie’s
+2012-07-01,57,False,Annie’s
+2012-07-08,23,False,Annie’s
+2012-07-15,35,False,Annie’s
+2012-07-22,12,False,Annie’s
+2012-07-29,34,False,Annie’s
+2012-08-05,23,False,Annie’s
+2012-08-12,23,False,Annie’s
+2012-08-19,58,False,Annie’s
+2012-08-26,11,False,Annie’s
+2012-09-02,33,False,Annie’s
+2012-09-09,22,False,Annie’s
+2012-09-16,11,False,Annie’s
+2012-09-23,11,False,Annie’s
+2012-09-30,11,False,Annie’s
+2012-10-07,42,False,Annie’s
+2012-10-14,21,False,Annie’s
+2012-10-21,10,False,Annie’s
+2012-10-28,31,False,Annie’s
+2012-11-04,100,False,Annie’s
+2012-11-11,31,False,Annie’s
+2012-11-18,31,False,Annie’s
+2012-11-25,30,False,Annie’s
+2012-12-02,30,False,Annie’s
+2012-12-09,20,False,Annie’s
+2012-12-16,30,False,Annie’s
+2012-12-23,11,False,Annie’s
+2012-01-01,68,False,Regional Management
+2012-01-08,100,False,Regional Management
+2012-01-15,69,False,Regional Management
+2012-01-22,89,False,Regional Management
+2012-01-29,88,False,Regional Management
+2012-02-05,87,False,Regional Management
+2012-02-12,74,False,Regional Management
+2012-02-19,89,False,Regional Management
+2012-02-26,72,False,Regional Management
+2012-03-04,83,False,Regional Management
+2012-03-11,79,False,Regional Management
+2012-03-18,96,False,Regional Management
+2012-03-25,79,False,Regional Management
+2012-04-01,84,False,Regional Management
+2012-04-08,74,False,Regional Management
+2012-04-15,90,False,Regional Management
+2012-04-22,95,False,Regional Management
+2012-04-29,88,False,Regional Management
+2012-05-06,89,False,Regional Management
+2012-05-13,93,False,Regional Management
+2012-05-20,88,False,Regional Management
+2012-05-27,60,False,Regional Management
+2012-06-03,90,False,Regional Management
+2012-06-10,85,False,Regional Management
+2012-06-17,93,False,Regional Management
+2012-06-24,75,False,Regional Management
+2012-07-01,77,False,Regional Management
+2012-07-08,99,False,Regional Management
+2012-07-15,98,False,Regional Management
+2012-07-22,73,False,Regional Management
+2012-07-29,76,False,Regional Management
+2012-08-05,69,False,Regional Management
+2012-08-12,81,False,Regional Management
+2012-08-19,75,False,Regional Management
+2012-08-26,100,False,Regional Management
+2012-09-02,75,False,Regional Management
+2012-09-09,73,False,Regional Management
+2012-09-16,78,False,Regional Management
+2012-09-23,69,False,Regional Management
+2012-09-30,88,False,Regional Management
+2012-10-07,87,False,Regional Management
+2012-10-14,73,False,Regional Management
+2012-10-21,83,False,Regional Management
+2012-10-28,66,False,Regional Management
+2012-11-04,65,False,Regional Management
+2012-11-11,74,False,Regional Management
+2012-11-18,64,False,Regional Management
+2012-11-25,78,False,Regional Management
+2012-12-02,88,False,Regional Management
+2012-12-09,78,False,Regional Management
+2012-12-16,69,False,Regional Management
+2012-12-23,53,False,Regional Management
+2012-01-01,18,False,Vocera Communications
+2012-01-08,9,False,Vocera Communications
+2012-01-15,8,False,Vocera Communications
+2012-01-22,25,False,Vocera Communications
+2012-01-29,0,False,Vocera Communications
+2012-02-05,17,False,Vocera Communications
+2012-02-12,0,False,Vocera Communications
+2012-02-19,0,False,Vocera Communications
+2012-02-26,34,False,Vocera Communications
+2012-03-04,25,False,Vocera Communications
+2012-03-11,8,False,Vocera Communications
+2012-03-18,0,False,Vocera Communications
+2012-03-25,100,False,Vocera Communications
+2012-04-01,0,False,Vocera Communications
+2012-04-08,35,False,Vocera Communications
+2012-04-15,25,False,Vocera Communications
+2012-04-22,25,False,Vocera Communications
+2012-04-29,8,False,Vocera Communications
+2012-05-06,25,False,Vocera Communications
+2012-05-13,33,False,Vocera Communications
+2012-05-20,16,False,Vocera Communications
+2012-05-27,0,False,Vocera Communications
+2012-06-03,25,False,Vocera Communications
+2012-06-10,16,False,Vocera Communications
+2012-06-17,16,False,Vocera Communications
+2012-06-24,0,False,Vocera Communications
+2012-07-01,8,False,Vocera Communications
+2012-07-08,8,False,Vocera Communications
+2012-07-15,8,False,Vocera Communications
+2012-07-22,25,False,Vocera Communications
+2012-07-29,0,False,Vocera Communications
+2012-08-05,33,False,Vocera Communications
+2012-08-12,17,False,Vocera Communications
+2012-08-19,50,False,Vocera Communications
+2012-08-26,16,False,Vocera Communications
+2012-09-02,32,False,Vocera Communications
+2012-09-09,24,False,Vocera Communications
+2012-09-16,8,False,Vocera Communications
+2012-09-23,31,False,Vocera Communications
+2012-09-30,8,False,Vocera Communications
+2012-10-07,8,False,Vocera Communications
+2012-10-14,0,False,Vocera Communications
+2012-10-21,30,False,Vocera Communications
+2012-10-28,22,False,Vocera Communications
+2012-11-04,22,False,Vocera Communications
+2012-11-11,7,False,Vocera Communications
+2012-11-18,7,False,Vocera Communications
+2012-11-25,14,False,Vocera Communications
+2012-12-02,14,False,Vocera Communications
+2012-12-09,14,False,Vocera Communications
+2012-12-16,0,False,Vocera Communications
+2012-12-23,16,False,Vocera Communications
+2012-01-01,26,False,CafePress
+2012-01-08,30,False,CafePress
+2012-01-15,55,False,CafePress
+2012-01-22,53,False,CafePress
+2012-01-29,58,False,CafePress
+2012-02-05,55,False,CafePress
+2012-02-12,57,False,CafePress
+2012-02-19,61,False,CafePress
+2012-02-26,61,False,CafePress
+2012-03-04,61,False,CafePress
+2012-03-11,59,False,CafePress
+2012-03-18,49,False,CafePress
+2012-03-25,60,False,CafePress
+2012-04-01,53,False,CafePress
+2012-04-08,50,False,CafePress
+2012-04-15,43,False,CafePress
+2012-04-22,50,False,CafePress
+2012-04-29,48,False,CafePress
+2012-05-06,51,False,CafePress
+2012-05-13,45,False,CafePress
+2012-05-20,45,False,CafePress
+2012-05-27,47,False,CafePress
+2012-06-03,48,False,CafePress
+2012-06-10,45,False,CafePress
+2012-06-17,43,False,CafePress
+2012-06-24,44,False,CafePress
+2012-07-01,40,False,CafePress
+2012-07-08,45,False,CafePress
+2012-07-15,48,False,CafePress
+2012-07-22,50,False,CafePress
+2012-07-29,50,False,CafePress
+2012-08-05,51,False,CafePress
+2012-08-12,48,False,CafePress
+2012-08-19,49,False,CafePress
+2012-08-26,47,False,CafePress
+2012-09-02,48,False,CafePress
+2012-09-09,54,False,CafePress
+2012-09-16,44,False,CafePress
+2012-09-23,43,False,CafePress
+2012-09-30,48,False,CafePress
+2012-10-07,49,False,CafePress
+2012-10-14,48,False,CafePress
+2012-10-21,47,False,CafePress
+2012-10-28,41,False,CafePress
+2012-11-04,52,False,CafePress
+2012-11-11,53,False,CafePress
+2012-11-18,60,False,CafePress
+2012-11-25,92,False,CafePress
+2012-12-02,91,False,CafePress
+2012-12-09,100,False,CafePress
+2012-12-16,72,False,CafePress
+2012-12-23,46,False,CafePress
+2012-01-01,44,False,Merrimack Pharmaceuticals
+2012-01-08,83,False,Merrimack Pharmaceuticals
+2012-01-15,27,False,Merrimack Pharmaceuticals
+2012-01-22,74,False,Merrimack Pharmaceuticals
+2012-01-29,86,False,Merrimack Pharmaceuticals
+2012-02-05,80,False,Merrimack Pharmaceuticals
+2012-02-12,40,False,Merrimack Pharmaceuticals
+2012-02-19,20,False,Merrimack Pharmaceuticals
+2012-02-26,27,False,Merrimack Pharmaceuticals
+2012-03-04,27,False,Merrimack Pharmaceuticals
+2012-03-11,33,False,Merrimack Pharmaceuticals
+2012-03-18,40,False,Merrimack Pharmaceuticals
+2012-03-25,100,False,Merrimack Pharmaceuticals
+2012-04-01,34,False,Merrimack Pharmaceuticals
+2012-04-08,21,False,Merrimack Pharmaceuticals
+2012-04-15,72,False,Merrimack Pharmaceuticals
+2012-04-22,20,False,Merrimack Pharmaceuticals
+2012-04-29,47,False,Merrimack Pharmaceuticals
+2012-05-06,40,False,Merrimack Pharmaceuticals
+2012-05-13,60,False,Merrimack Pharmaceuticals
+2012-05-20,39,False,Merrimack Pharmaceuticals
+2012-05-27,33,False,Merrimack Pharmaceuticals
+2012-06-03,13,False,Merrimack Pharmaceuticals
+2012-06-10,0,False,Merrimack Pharmaceuticals
+2012-06-17,13,False,Merrimack Pharmaceuticals
+2012-06-24,27,False,Merrimack Pharmaceuticals
+2012-07-01,46,False,Merrimack Pharmaceuticals
+2012-07-08,7,False,Merrimack Pharmaceuticals
+2012-07-15,47,False,Merrimack Pharmaceuticals
+2012-07-22,34,False,Merrimack Pharmaceuticals
+2012-07-29,33,False,Merrimack Pharmaceuticals
+2012-08-05,26,False,Merrimack Pharmaceuticals
+2012-08-12,27,False,Merrimack Pharmaceuticals
+2012-08-19,33,False,Merrimack Pharmaceuticals
+2012-08-26,39,False,Merrimack Pharmaceuticals
+2012-09-02,19,False,Merrimack Pharmaceuticals
+2012-09-09,31,False,Merrimack Pharmaceuticals
+2012-09-16,31,False,Merrimack Pharmaceuticals
+2012-09-23,56,False,Merrimack Pharmaceuticals
+2012-09-30,25,False,Merrimack Pharmaceuticals
+2012-10-07,30,False,Merrimack Pharmaceuticals
+2012-10-14,30,False,Merrimack Pharmaceuticals
+2012-10-21,12,False,Merrimack Pharmaceuticals
+2012-10-28,0,False,Merrimack Pharmaceuticals
+2012-11-04,41,False,Merrimack Pharmaceuticals
+2012-11-11,36,False,Merrimack Pharmaceuticals
+2012-11-18,12,False,Merrimack Pharmaceuticals
+2012-11-25,35,False,Merrimack Pharmaceuticals
+2012-12-02,29,False,Merrimack Pharmaceuticals
+2012-12-09,29,False,Merrimack Pharmaceuticals
+2012-12-16,29,False,Merrimack Pharmaceuticals
+2012-12-23,26,False,Merrimack Pharmaceuticals

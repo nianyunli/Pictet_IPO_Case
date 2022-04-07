@@ -1,0 +1,261 @@
+date,SVI,isPartial,Issuer
+2010-05-16,17,False,Electromed
+2010-05-23,87,False,Electromed
+2010-05-30,0,False,Electromed
+2010-06-06,51,False,Electromed
+2010-06-13,35,False,Electromed
+2010-06-20,34,False,Electromed
+2010-06-27,0,False,Electromed
+2010-07-04,67,False,Electromed
+2010-07-11,48,False,Electromed
+2010-07-18,32,False,Electromed
+2010-07-25,16,False,Electromed
+2010-08-01,66,False,Electromed
+2010-08-08,65,False,Electromed
+2010-08-15,64,False,Electromed
+2010-08-22,47,False,Electromed
+2010-08-29,15,False,Electromed
+2010-09-05,46,False,Electromed
+2010-09-12,15,False,Electromed
+2010-09-19,15,False,Electromed
+2010-09-26,100,False,Electromed
+2010-10-03,58,False,Electromed
+2010-10-10,15,False,Electromed
+2010-10-17,14,False,Electromed
+2010-10-24,14,False,Electromed
+2010-10-31,28,False,Electromed
+2010-11-07,55,False,Electromed
+2010-11-14,14,False,Electromed
+2010-11-21,14,False,Electromed
+2010-11-28,40,False,Electromed
+2010-12-05,0,False,Electromed
+2010-12-12,41,False,Electromed
+2010-12-19,31,False,Electromed
+2010-12-26,16,False,Electromed
+2011-01-02,27,False,Electromed
+2011-01-09,52,False,Electromed
+2011-01-16,26,False,Electromed
+2011-01-23,13,False,Electromed
+2011-01-30,25,False,Electromed
+2011-02-06,25,False,Electromed
+2011-02-13,25,False,Electromed
+2011-02-20,25,False,Electromed
+2011-02-27,12,False,Electromed
+2011-03-06,12,False,Electromed
+2011-03-13,50,False,Electromed
+2011-03-20,12,False,Electromed
+2011-03-27,0,False,Electromed
+2011-04-03,75,False,Electromed
+2011-04-10,38,False,Electromed
+2011-04-17,40,False,Electromed
+2011-04-24,39,False,Electromed
+2011-05-01,37,False,Electromed
+2011-05-08,37,False,Electromed
+2010-05-30,0,False,Whitestone REIT
+2010-06-06,27,False,Whitestone REIT
+2010-06-13,0,False,Whitestone REIT
+2010-06-20,27,False,Whitestone REIT
+2010-06-27,0,False,Whitestone REIT
+2010-07-04,0,False,Whitestone REIT
+2010-07-11,25,False,Whitestone REIT
+2010-07-18,0,False,Whitestone REIT
+2010-07-25,25,False,Whitestone REIT
+2010-08-01,0,False,Whitestone REIT
+2010-08-08,25,False,Whitestone REIT
+2010-08-15,100,False,Whitestone REIT
+2010-08-22,24,False,Whitestone REIT
+2010-08-29,47,False,Whitestone REIT
+2010-09-05,24,False,Whitestone REIT
+2010-09-12,23,False,Whitestone REIT
+2010-09-19,23,False,Whitestone REIT
+2010-09-26,0,False,Whitestone REIT
+2010-10-03,23,False,Whitestone REIT
+2010-10-10,23,False,Whitestone REIT
+2010-10-17,0,False,Whitestone REIT
+2010-10-24,0,False,Whitestone REIT
+2010-10-31,0,False,Whitestone REIT
+2010-11-07,0,False,Whitestone REIT
+2010-11-14,22,False,Whitestone REIT
+2010-11-21,22,False,Whitestone REIT
+2010-11-28,21,False,Whitestone REIT
+2010-12-05,43,False,Whitestone REIT
+2010-12-12,0,False,Whitestone REIT
+2010-12-19,48,False,Whitestone REIT
+2010-12-26,25,False,Whitestone REIT
+2011-01-02,21,False,Whitestone REIT
+2011-01-09,41,False,Whitestone REIT
+2011-01-16,60,False,Whitestone REIT
+2011-01-23,0,False,Whitestone REIT
+2011-01-30,0,False,Whitestone REIT
+2011-02-06,20,False,Whitestone REIT
+2011-02-13,0,False,Whitestone REIT
+2011-02-20,0,False,Whitestone REIT
+2011-02-27,39,False,Whitestone REIT
+2011-03-06,0,False,Whitestone REIT
+2011-03-13,20,False,Whitestone REIT
+2011-03-20,20,False,Whitestone REIT
+2011-03-27,19,False,Whitestone REIT
+2011-04-03,20,False,Whitestone REIT
+2011-04-10,20,False,Whitestone REIT
+2011-04-17,21,False,Whitestone REIT
+2011-04-24,40,False,Whitestone REIT
+2011-05-01,20,False,Whitestone REIT
+2011-05-08,19,False,Whitestone REIT
+2011-05-15,19,False,Whitestone REIT
+2011-05-22,19,False,Whitestone REIT
+2010-06-20,0,False,SouFun Holdings Limited
+2010-06-27,0,False,SouFun Holdings Limited
+2010-07-04,0,False,SouFun Holdings Limited
+2010-07-11,0,False,SouFun Holdings Limited
+2010-07-18,0,False,SouFun Holdings Limited
+2010-07-25,0,False,SouFun Holdings Limited
+2010-08-01,0,False,SouFun Holdings Limited
+2010-08-08,0,False,SouFun Holdings Limited
+2010-08-15,0,False,SouFun Holdings Limited
+2010-08-22,0,False,SouFun Holdings Limited
+2010-08-29,0,False,SouFun Holdings Limited
+2010-09-05,0,False,SouFun Holdings Limited
+2010-09-12,100,False,SouFun Holdings Limited
+2010-09-19,0,False,SouFun Holdings Limited
+2010-09-26,96,False,SouFun Holdings Limited
+2010-10-03,0,False,SouFun Holdings Limited
+2010-10-10,0,False,SouFun Holdings Limited
+2010-10-17,0,False,SouFun Holdings Limited
+2010-10-24,0,False,SouFun Holdings Limited
+2010-10-31,0,False,SouFun Holdings Limited
+2010-11-07,93,False,SouFun Holdings Limited
+2010-11-14,0,False,SouFun Holdings Limited
+2010-11-21,0,False,SouFun Holdings Limited
+2010-11-28,0,False,SouFun Holdings Limited
+2010-12-05,0,False,SouFun Holdings Limited
+2010-12-12,92,False,SouFun Holdings Limited
+2010-12-19,0,False,SouFun Holdings Limited
+2010-12-26,0,False,SouFun Holdings Limited
+2011-01-02,0,False,SouFun Holdings Limited
+2011-01-09,0,False,SouFun Holdings Limited
+2011-01-16,0,False,SouFun Holdings Limited
+2011-01-23,0,False,SouFun Holdings Limited
+2011-01-30,0,False,SouFun Holdings Limited
+2011-02-06,0,False,SouFun Holdings Limited
+2011-02-13,0,False,SouFun Holdings Limited
+2011-02-20,83,False,SouFun Holdings Limited
+2011-02-27,0,False,SouFun Holdings Limited
+2011-03-06,0,False,SouFun Holdings Limited
+2011-03-13,0,False,SouFun Holdings Limited
+2011-03-20,0,False,SouFun Holdings Limited
+2011-03-27,0,False,SouFun Holdings Limited
+2011-04-03,0,False,SouFun Holdings Limited
+2011-04-10,0,False,SouFun Holdings Limited
+2011-04-17,88,False,SouFun Holdings Limited
+2011-04-24,0,False,SouFun Holdings Limited
+2011-05-01,0,False,SouFun Holdings Limited
+2011-05-08,0,False,SouFun Holdings Limited
+2011-05-15,0,False,SouFun Holdings Limited
+2011-05-22,0,False,SouFun Holdings Limited
+2011-05-29,0,False,SouFun Holdings Limited
+2011-06-05,0,False,SouFun Holdings Limited
+2011-06-12,0,False,SouFun Holdings Limited
+2010-06-27,0,False,CoreSite Realty
+2010-07-04,0,False,CoreSite Realty
+2010-07-11,0,False,CoreSite Realty
+2010-07-18,25,False,CoreSite Realty
+2010-07-25,0,False,CoreSite Realty
+2010-08-01,0,False,CoreSite Realty
+2010-08-08,0,False,CoreSite Realty
+2010-08-15,0,False,CoreSite Realty
+2010-08-22,0,False,CoreSite Realty
+2010-08-29,0,False,CoreSite Realty
+2010-09-05,0,False,CoreSite Realty
+2010-09-12,47,False,CoreSite Realty
+2010-09-19,69,False,CoreSite Realty
+2010-09-26,67,False,CoreSite Realty
+2010-10-03,0,False,CoreSite Realty
+2010-10-10,0,False,CoreSite Realty
+2010-10-17,0,False,CoreSite Realty
+2010-10-24,0,False,CoreSite Realty
+2010-10-31,22,False,CoreSite Realty
+2010-11-07,22,False,CoreSite Realty
+2010-11-14,44,False,CoreSite Realty
+2010-11-21,0,False,CoreSite Realty
+2010-11-28,0,False,CoreSite Realty
+2010-12-05,64,False,CoreSite Realty
+2010-12-12,0,False,CoreSite Realty
+2010-12-19,49,False,CoreSite Realty
+2010-12-26,0,False,CoreSite Realty
+2011-01-02,0,False,CoreSite Realty
+2011-01-09,0,False,CoreSite Realty
+2011-01-16,0,False,CoreSite Realty
+2011-01-23,20,False,CoreSite Realty
+2011-01-30,19,False,CoreSite Realty
+2011-02-06,100,False,CoreSite Realty
+2011-02-13,0,False,CoreSite Realty
+2011-02-20,0,False,CoreSite Realty
+2011-02-27,20,False,CoreSite Realty
+2011-03-06,39,False,CoreSite Realty
+2011-03-13,20,False,CoreSite Realty
+2011-03-20,39,False,CoreSite Realty
+2011-03-27,0,False,CoreSite Realty
+2011-04-03,0,False,CoreSite Realty
+2011-04-10,0,False,CoreSite Realty
+2011-04-17,0,False,CoreSite Realty
+2011-04-24,0,False,CoreSite Realty
+2011-05-01,0,False,CoreSite Realty
+2011-05-08,0,False,CoreSite Realty
+2011-05-15,19,False,CoreSite Realty
+2011-05-22,19,False,CoreSite Realty
+2011-05-29,20,False,CoreSite Realty
+2011-06-05,0,False,CoreSite Realty
+2011-06-12,0,False,CoreSite Realty
+2011-06-19,0,False,CoreSite Realty
+2010-06-27,70,False,SciQuest
+2010-07-04,18,False,SciQuest
+2010-07-11,34,False,SciQuest
+2010-07-18,34,False,SciQuest
+2010-07-25,31,False,SciQuest
+2010-08-01,21,False,SciQuest
+2010-08-08,34,False,SciQuest
+2010-08-15,41,False,SciQuest
+2010-08-22,37,False,SciQuest
+2010-08-29,29,False,SciQuest
+2010-09-05,46,False,SciQuest
+2010-09-12,48,False,SciQuest
+2010-09-19,100,False,SciQuest
+2010-09-26,67,False,SciQuest
+2010-10-03,28,False,SciQuest
+2010-10-10,16,False,SciQuest
+2010-10-17,30,False,SciQuest
+2010-10-24,39,False,SciQuest
+2010-10-31,45,False,SciQuest
+2010-11-07,32,False,SciQuest
+2010-11-14,39,False,SciQuest
+2010-11-21,15,False,SciQuest
+2010-11-28,20,False,SciQuest
+2010-12-05,23,False,SciQuest
+2010-12-12,26,False,SciQuest
+2010-12-19,36,False,SciQuest
+2010-12-26,20,False,SciQuest
+2011-01-02,41,False,SciQuest
+2011-01-09,39,False,SciQuest
+2011-01-16,38,False,SciQuest
+2011-01-23,22,False,SciQuest
+2011-01-30,26,False,SciQuest
+2011-02-06,27,False,SciQuest
+2011-02-13,40,False,SciQuest
+2011-02-20,21,False,SciQuest
+2011-02-27,35,False,SciQuest
+2011-03-06,37,False,SciQuest
+2011-03-13,19,False,SciQuest
+2011-03-20,32,False,SciQuest
+2011-03-27,37,False,SciQuest
+2011-04-03,35,False,SciQuest
+2011-04-10,24,False,SciQuest
+2011-04-17,22,False,SciQuest
+2011-04-24,22,False,SciQuest
+2011-05-01,27,False,SciQuest
+2011-05-08,26,False,SciQuest
+2011-05-15,39,False,SciQuest
+2011-05-22,47,False,SciQuest
+2011-05-29,24,False,SciQuest
+2011-06-05,13,False,SciQuest
+2011-06-12,26,False,SciQuest
+2011-06-19,34,False,SciQuest

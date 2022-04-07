@@ -1,0 +1,261 @@
+date,SVI,isPartial,Issuer
+2017-08-13,14,False,Four Seasons Education
+2017-08-20,13,False,Four Seasons Education
+2017-08-27,13,False,Four Seasons Education
+2017-09-03,26,False,Four Seasons Education
+2017-09-10,26,False,Four Seasons Education
+2017-09-17,32,False,Four Seasons Education
+2017-09-24,13,False,Four Seasons Education
+2017-10-01,13,False,Four Seasons Education
+2017-10-08,26,False,Four Seasons Education
+2017-10-15,33,False,Four Seasons Education
+2017-10-22,19,False,Four Seasons Education
+2017-10-29,38,False,Four Seasons Education
+2017-11-05,100,False,Four Seasons Education
+2017-11-12,25,False,Four Seasons Education
+2017-11-19,19,False,Four Seasons Education
+2017-11-26,12,False,Four Seasons Education
+2017-12-03,13,False,Four Seasons Education
+2017-12-10,44,False,Four Seasons Education
+2017-12-17,13,False,Four Seasons Education
+2017-12-24,49,False,Four Seasons Education
+2017-12-31,19,False,Four Seasons Education
+2018-01-07,19,False,Four Seasons Education
+2018-01-14,42,False,Four Seasons Education
+2018-01-21,42,False,Four Seasons Education
+2018-01-28,12,False,Four Seasons Education
+2018-02-04,30,False,Four Seasons Education
+2018-02-11,25,False,Four Seasons Education
+2018-02-18,18,False,Four Seasons Education
+2018-02-25,18,False,Four Seasons Education
+2018-03-04,24,False,Four Seasons Education
+2018-03-11,24,False,Four Seasons Education
+2018-03-18,12,False,Four Seasons Education
+2018-03-25,0,False,Four Seasons Education
+2018-04-01,50,False,Four Seasons Education
+2018-04-08,24,False,Four Seasons Education
+2018-04-15,30,False,Four Seasons Education
+2018-04-22,24,False,Four Seasons Education
+2018-04-29,24,False,Four Seasons Education
+2018-05-06,24,False,Four Seasons Education
+2018-05-13,24,False,Four Seasons Education
+2018-05-20,62,False,Four Seasons Education
+2018-05-27,12,False,Four Seasons Education
+2018-06-03,67,False,Four Seasons Education
+2018-06-10,6,False,Four Seasons Education
+2018-06-17,6,False,Four Seasons Education
+2018-06-24,24,False,Four Seasons Education
+2018-07-01,24,False,Four Seasons Education
+2018-07-08,18,False,Four Seasons Education
+2018-07-15,0,False,Four Seasons Education
+2018-07-22,12,False,Four Seasons Education
+2018-07-29,0,False,Four Seasons Education
+2018-08-05,6,False,Four Seasons Education
+2017-08-13,0,False,Metropolitan Bank Holding
+2017-08-20,0,False,Metropolitan Bank Holding
+2017-08-27,0,False,Metropolitan Bank Holding
+2017-09-03,0,False,Metropolitan Bank Holding
+2017-09-10,0,False,Metropolitan Bank Holding
+2017-09-17,0,False,Metropolitan Bank Holding
+2017-09-24,0,False,Metropolitan Bank Holding
+2017-10-01,7,False,Metropolitan Bank Holding
+2017-10-08,7,False,Metropolitan Bank Holding
+2017-10-15,0,False,Metropolitan Bank Holding
+2017-10-22,7,False,Metropolitan Bank Holding
+2017-10-29,14,False,Metropolitan Bank Holding
+2017-11-05,21,False,Metropolitan Bank Holding
+2017-11-12,7,False,Metropolitan Bank Holding
+2017-11-19,0,False,Metropolitan Bank Holding
+2017-11-26,0,False,Metropolitan Bank Holding
+2017-12-03,0,False,Metropolitan Bank Holding
+2017-12-10,35,False,Metropolitan Bank Holding
+2017-12-17,7,False,Metropolitan Bank Holding
+2017-12-24,8,False,Metropolitan Bank Holding
+2017-12-31,7,False,Metropolitan Bank Holding
+2018-01-07,0,False,Metropolitan Bank Holding
+2018-01-14,100,False,Metropolitan Bank Holding
+2018-01-21,7,False,Metropolitan Bank Holding
+2018-01-28,0,False,Metropolitan Bank Holding
+2018-02-04,0,False,Metropolitan Bank Holding
+2018-02-11,0,False,Metropolitan Bank Holding
+2018-02-18,0,False,Metropolitan Bank Holding
+2018-02-25,0,False,Metropolitan Bank Holding
+2018-03-04,0,False,Metropolitan Bank Holding
+2018-03-11,7,False,Metropolitan Bank Holding
+2018-03-18,0,False,Metropolitan Bank Holding
+2018-03-25,7,False,Metropolitan Bank Holding
+2018-04-01,0,False,Metropolitan Bank Holding
+2018-04-08,7,False,Metropolitan Bank Holding
+2018-04-15,0,False,Metropolitan Bank Holding
+2018-04-22,0,False,Metropolitan Bank Holding
+2018-04-29,0,False,Metropolitan Bank Holding
+2018-05-06,0,False,Metropolitan Bank Holding
+2018-05-13,0,False,Metropolitan Bank Holding
+2018-05-20,0,False,Metropolitan Bank Holding
+2018-05-27,0,False,Metropolitan Bank Holding
+2018-06-03,0,False,Metropolitan Bank Holding
+2018-06-10,13,False,Metropolitan Bank Holding
+2018-06-17,7,False,Metropolitan Bank Holding
+2018-06-24,0,False,Metropolitan Bank Holding
+2018-07-01,0,False,Metropolitan Bank Holding
+2018-07-08,13,False,Metropolitan Bank Holding
+2018-07-15,0,False,Metropolitan Bank Holding
+2018-07-22,7,False,Metropolitan Bank Holding
+2018-07-29,0,False,Metropolitan Bank Holding
+2018-08-05,0,False,Metropolitan Bank Holding
+2017-08-13,11,False,Apellis Pharmaceuticals
+2017-08-20,44,False,Apellis Pharmaceuticals
+2017-08-27,33,False,Apellis Pharmaceuticals
+2017-09-03,33,False,Apellis Pharmaceuticals
+2017-09-10,22,False,Apellis Pharmaceuticals
+2017-09-17,11,False,Apellis Pharmaceuticals
+2017-09-24,11,False,Apellis Pharmaceuticals
+2017-10-01,21,False,Apellis Pharmaceuticals
+2017-10-08,0,False,Apellis Pharmaceuticals
+2017-10-15,32,False,Apellis Pharmaceuticals
+2017-10-22,21,False,Apellis Pharmaceuticals
+2017-10-29,42,False,Apellis Pharmaceuticals
+2017-11-05,72,False,Apellis Pharmaceuticals
+2017-11-12,82,False,Apellis Pharmaceuticals
+2017-11-19,0,False,Apellis Pharmaceuticals
+2017-11-26,10,False,Apellis Pharmaceuticals
+2017-12-03,41,False,Apellis Pharmaceuticals
+2017-12-10,10,False,Apellis Pharmaceuticals
+2017-12-17,33,False,Apellis Pharmaceuticals
+2017-12-24,57,False,Apellis Pharmaceuticals
+2017-12-31,32,False,Apellis Pharmaceuticals
+2018-01-07,41,False,Apellis Pharmaceuticals
+2018-01-14,30,False,Apellis Pharmaceuticals
+2018-01-21,20,False,Apellis Pharmaceuticals
+2018-01-28,10,False,Apellis Pharmaceuticals
+2018-02-04,10,False,Apellis Pharmaceuticals
+2018-02-11,10,False,Apellis Pharmaceuticals
+2018-02-18,20,False,Apellis Pharmaceuticals
+2018-02-25,20,False,Apellis Pharmaceuticals
+2018-03-04,20,False,Apellis Pharmaceuticals
+2018-03-11,30,False,Apellis Pharmaceuticals
+2018-03-18,20,False,Apellis Pharmaceuticals
+2018-03-25,41,False,Apellis Pharmaceuticals
+2018-04-01,20,False,Apellis Pharmaceuticals
+2018-04-08,10,False,Apellis Pharmaceuticals
+2018-04-15,30,False,Apellis Pharmaceuticals
+2018-04-22,20,False,Apellis Pharmaceuticals
+2018-04-29,80,False,Apellis Pharmaceuticals
+2018-05-06,20,False,Apellis Pharmaceuticals
+2018-05-13,10,False,Apellis Pharmaceuticals
+2018-05-20,41,False,Apellis Pharmaceuticals
+2018-05-27,10,False,Apellis Pharmaceuticals
+2018-06-03,20,False,Apellis Pharmaceuticals
+2018-06-10,20,False,Apellis Pharmaceuticals
+2018-06-17,30,False,Apellis Pharmaceuticals
+2018-06-24,30,False,Apellis Pharmaceuticals
+2018-07-01,20,False,Apellis Pharmaceuticals
+2018-07-08,69,False,Apellis Pharmaceuticals
+2018-07-15,0,False,Apellis Pharmaceuticals
+2018-07-22,41,False,Apellis Pharmaceuticals
+2018-07-29,100,False,Apellis Pharmaceuticals
+2018-08-05,30,False,Apellis Pharmaceuticals
+2017-08-13,41,False,Sogou
+2017-08-20,37,False,Sogou
+2017-08-27,48,False,Sogou
+2017-09-03,47,False,Sogou
+2017-09-10,42,False,Sogou
+2017-09-17,40,False,Sogou
+2017-09-24,34,False,Sogou
+2017-10-01,38,False,Sogou
+2017-10-08,39,False,Sogou
+2017-10-15,35,False,Sogou
+2017-10-22,41,False,Sogou
+2017-10-29,54,False,Sogou
+2017-11-05,100,False,Sogou
+2017-11-12,49,False,Sogou
+2017-11-19,53,False,Sogou
+2017-11-26,44,False,Sogou
+2017-12-03,42,False,Sogou
+2017-12-10,38,False,Sogou
+2017-12-17,37,False,Sogou
+2017-12-24,33,False,Sogou
+2017-12-31,39,False,Sogou
+2018-01-07,38,False,Sogou
+2018-01-14,29,False,Sogou
+2018-01-21,41,False,Sogou
+2018-01-28,44,False,Sogou
+2018-02-04,34,False,Sogou
+2018-02-11,26,False,Sogou
+2018-02-18,31,False,Sogou
+2018-02-25,43,False,Sogou
+2018-03-04,40,False,Sogou
+2018-03-11,36,False,Sogou
+2018-03-18,45,False,Sogou
+2018-03-25,33,False,Sogou
+2018-04-01,43,False,Sogou
+2018-04-08,33,False,Sogou
+2018-04-15,39,False,Sogou
+2018-04-22,31,False,Sogou
+2018-04-29,24,False,Sogou
+2018-05-06,29,False,Sogou
+2018-05-13,38,False,Sogou
+2018-05-20,30,False,Sogou
+2018-05-27,30,False,Sogou
+2018-06-03,47,False,Sogou
+2018-06-10,55,False,Sogou
+2018-06-17,52,False,Sogou
+2018-06-24,41,False,Sogou
+2018-07-01,40,False,Sogou
+2018-07-08,39,False,Sogou
+2018-07-15,42,False,Sogou
+2018-07-22,39,False,Sogou
+2018-07-29,43,False,Sogou
+2018-08-05,41,False,Sogou
+2017-08-13,85,False,Bandwidth
+2017-08-20,84,False,Bandwidth
+2017-08-27,83,False,Bandwidth
+2017-09-03,87,False,Bandwidth
+2017-09-10,95,False,Bandwidth
+2017-09-17,93,False,Bandwidth
+2017-09-24,93,False,Bandwidth
+2017-10-01,82,False,Bandwidth
+2017-10-08,88,False,Bandwidth
+2017-10-15,93,False,Bandwidth
+2017-10-22,94,False,Bandwidth
+2017-10-29,90,False,Bandwidth
+2017-11-05,100,False,Bandwidth
+2017-11-12,97,False,Bandwidth
+2017-11-19,92,False,Bandwidth
+2017-11-26,96,False,Bandwidth
+2017-12-03,98,False,Bandwidth
+2017-12-10,98,False,Bandwidth
+2017-12-17,88,False,Bandwidth
+2017-12-24,75,False,Bandwidth
+2017-12-31,79,False,Bandwidth
+2018-01-07,89,False,Bandwidth
+2018-01-14,86,False,Bandwidth
+2018-01-21,93,False,Bandwidth
+2018-01-28,88,False,Bandwidth
+2018-02-04,86,False,Bandwidth
+2018-02-11,84,False,Bandwidth
+2018-02-18,86,False,Bandwidth
+2018-02-25,86,False,Bandwidth
+2018-03-04,91,False,Bandwidth
+2018-03-11,84,False,Bandwidth
+2018-03-18,82,False,Bandwidth
+2018-03-25,81,False,Bandwidth
+2018-04-01,81,False,Bandwidth
+2018-04-08,83,False,Bandwidth
+2018-04-15,82,False,Bandwidth
+2018-04-22,85,False,Bandwidth
+2018-04-29,80,False,Bandwidth
+2018-05-06,82,False,Bandwidth
+2018-05-13,79,False,Bandwidth
+2018-05-20,75,False,Bandwidth
+2018-05-27,74,False,Bandwidth
+2018-06-03,76,False,Bandwidth
+2018-06-10,71,False,Bandwidth
+2018-06-17,71,False,Bandwidth
+2018-06-24,75,False,Bandwidth
+2018-07-01,69,False,Bandwidth
+2018-07-08,72,False,Bandwidth
+2018-07-15,74,False,Bandwidth
+2018-07-22,77,False,Bandwidth
+2018-07-29,80,False,Bandwidth
+2018-08-05,76,False,Bandwidth

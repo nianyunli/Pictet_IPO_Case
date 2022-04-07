@@ -1,0 +1,209 @@
+date,SVI,isPartial,Issuer
+2013-04-21,0,False,NRG Yield
+2013-04-28,0,False,NRG Yield
+2013-05-05,0,False,NRG Yield
+2013-05-12,0,False,NRG Yield
+2013-05-19,0,False,NRG Yield
+2013-05-26,0,False,NRG Yield
+2013-06-02,3,False,NRG Yield
+2013-06-09,7,False,NRG Yield
+2013-06-16,13,False,NRG Yield
+2013-06-23,0,False,NRG Yield
+2013-06-30,0,False,NRG Yield
+2013-07-07,48,False,NRG Yield
+2013-07-14,100,False,NRG Yield
+2013-07-21,17,False,NRG Yield
+2013-07-28,17,False,NRG Yield
+2013-08-04,10,False,NRG Yield
+2013-08-11,10,False,NRG Yield
+2013-08-18,3,False,NRG Yield
+2013-08-25,10,False,NRG Yield
+2013-09-01,16,False,NRG Yield
+2013-09-08,6,False,NRG Yield
+2013-09-15,13,False,NRG Yield
+2013-09-22,10,False,NRG Yield
+2013-09-29,3,False,NRG Yield
+2013-10-06,0,False,NRG Yield
+2013-10-13,16,False,NRG Yield
+2013-10-20,9,False,NRG Yield
+2013-10-27,6,False,NRG Yield
+2013-11-03,9,False,NRG Yield
+2013-11-10,15,False,NRG Yield
+2013-11-17,6,False,NRG Yield
+2013-11-24,3,False,NRG Yield
+2013-12-01,21,False,NRG Yield
+2013-12-08,16,False,NRG Yield
+2013-12-15,0,False,NRG Yield
+2013-12-22,3,False,NRG Yield
+2013-12-29,7,False,NRG Yield
+2014-01-05,0,False,NRG Yield
+2014-01-12,12,False,NRG Yield
+2014-01-19,6,False,NRG Yield
+2014-01-26,9,False,NRG Yield
+2014-02-02,12,False,NRG Yield
+2014-02-09,6,False,NRG Yield
+2014-02-16,9,False,NRG Yield
+2014-02-23,11,False,NRG Yield
+2014-03-02,15,False,NRG Yield
+2014-03-09,12,False,NRG Yield
+2014-03-16,0,False,NRG Yield
+2014-03-23,11,False,NRG Yield
+2014-03-30,9,False,NRG Yield
+2014-04-06,9,False,NRG Yield
+2014-04-13,0,False,NRG Yield
+2013-04-21,15,False,OncoMed Pharmaceuticals
+2013-04-28,8,False,OncoMed Pharmaceuticals
+2013-05-05,15,False,OncoMed Pharmaceuticals
+2013-05-12,0,False,OncoMed Pharmaceuticals
+2013-05-19,7,False,OncoMed Pharmaceuticals
+2013-05-26,7,False,OncoMed Pharmaceuticals
+2013-06-02,0,False,OncoMed Pharmaceuticals
+2013-06-09,7,False,OncoMed Pharmaceuticals
+2013-06-16,0,False,OncoMed Pharmaceuticals
+2013-06-23,0,False,OncoMed Pharmaceuticals
+2013-06-30,0,False,OncoMed Pharmaceuticals
+2013-07-07,23,False,OncoMed Pharmaceuticals
+2013-07-14,100,False,OncoMed Pharmaceuticals
+2013-07-21,45,False,OncoMed Pharmaceuticals
+2013-07-28,23,False,OncoMed Pharmaceuticals
+2013-08-04,8,False,OncoMed Pharmaceuticals
+2013-08-11,8,False,OncoMed Pharmaceuticals
+2013-08-18,0,False,OncoMed Pharmaceuticals
+2013-08-25,0,False,OncoMed Pharmaceuticals
+2013-09-01,0,False,OncoMed Pharmaceuticals
+2013-09-08,7,False,OncoMed Pharmaceuticals
+2013-09-15,0,False,OncoMed Pharmaceuticals
+2013-09-22,7,False,OncoMed Pharmaceuticals
+2013-09-29,14,False,OncoMed Pharmaceuticals
+2013-10-06,7,False,OncoMed Pharmaceuticals
+2013-10-13,14,False,OncoMed Pharmaceuticals
+2013-10-20,7,False,OncoMed Pharmaceuticals
+2013-10-27,7,False,OncoMed Pharmaceuticals
+2013-11-03,14,False,OncoMed Pharmaceuticals
+2013-11-10,0,False,OncoMed Pharmaceuticals
+2013-11-17,0,False,OncoMed Pharmaceuticals
+2013-11-24,0,False,OncoMed Pharmaceuticals
+2013-12-01,7,False,OncoMed Pharmaceuticals
+2013-12-08,14,False,OncoMed Pharmaceuticals
+2013-12-15,14,False,OncoMed Pharmaceuticals
+2013-12-22,8,False,OncoMed Pharmaceuticals
+2013-12-29,8,False,OncoMed Pharmaceuticals
+2014-01-05,14,False,OncoMed Pharmaceuticals
+2014-01-12,13,False,OncoMed Pharmaceuticals
+2014-01-19,6,False,OncoMed Pharmaceuticals
+2014-01-26,13,False,OncoMed Pharmaceuticals
+2014-02-02,14,False,OncoMed Pharmaceuticals
+2014-02-09,6,False,OncoMed Pharmaceuticals
+2014-02-16,6,False,OncoMed Pharmaceuticals
+2014-02-23,6,False,OncoMed Pharmaceuticals
+2014-03-02,19,False,OncoMed Pharmaceuticals
+2014-03-09,7,False,OncoMed Pharmaceuticals
+2014-03-16,13,False,OncoMed Pharmaceuticals
+2014-03-23,25,False,OncoMed Pharmaceuticals
+2014-03-30,0,False,OncoMed Pharmaceuticals
+2014-04-06,13,False,OncoMed Pharmaceuticals
+2014-04-13,7,False,OncoMed Pharmaceuticals
+2013-04-21,77,False,UCP
+2013-04-28,80,False,UCP
+2013-05-05,84,False,UCP
+2013-05-12,88,False,UCP
+2013-05-19,80,False,UCP
+2013-05-26,77,False,UCP
+2013-06-02,87,False,UCP
+2013-06-09,87,False,UCP
+2013-06-16,86,False,UCP
+2013-06-23,85,False,UCP
+2013-06-30,92,False,UCP
+2013-07-07,99,False,UCP
+2013-07-14,83,False,UCP
+2013-07-21,77,False,UCP
+2013-07-28,77,False,UCP
+2013-08-04,67,False,UCP
+2013-08-11,67,False,UCP
+2013-08-18,74,False,UCP
+2013-08-25,84,False,UCP
+2013-09-01,91,False,UCP
+2013-09-08,93,False,UCP
+2013-09-15,92,False,UCP
+2013-09-22,100,False,UCP
+2013-09-29,99,False,UCP
+2013-10-06,91,False,UCP
+2013-10-13,97,False,UCP
+2013-10-20,86,False,UCP
+2013-10-27,83,False,UCP
+2013-11-03,89,False,UCP
+2013-11-10,76,False,UCP
+2013-11-17,81,False,UCP
+2013-11-24,84,False,UCP
+2013-12-01,88,False,UCP
+2013-12-08,92,False,UCP
+2013-12-15,80,False,UCP
+2013-12-22,63,False,UCP
+2013-12-29,72,False,UCP
+2014-01-05,85,False,UCP
+2014-01-12,84,False,UCP
+2014-01-19,92,False,UCP
+2014-01-26,86,False,UCP
+2014-02-02,85,False,UCP
+2014-02-09,86,False,UCP
+2014-02-16,95,False,UCP
+2014-02-23,78,False,UCP
+2014-03-02,76,False,UCP
+2014-03-09,84,False,UCP
+2014-03-16,76,False,UCP
+2014-03-23,80,False,UCP
+2014-03-30,78,False,UCP
+2014-04-06,79,False,UCP
+2014-04-13,76,False,UCP
+2013-04-21,58,False,Diamond Resorts International
+2013-04-28,54,False,Diamond Resorts International
+2013-05-05,33,False,Diamond Resorts International
+2013-05-12,36,False,Diamond Resorts International
+2013-05-19,50,False,Diamond Resorts International
+2013-05-26,60,False,Diamond Resorts International
+2013-06-02,62,False,Diamond Resorts International
+2013-06-09,54,False,Diamond Resorts International
+2013-06-16,76,False,Diamond Resorts International
+2013-06-23,51,False,Diamond Resorts International
+2013-06-30,73,False,Diamond Resorts International
+2013-07-07,67,False,Diamond Resorts International
+2013-07-14,73,False,Diamond Resorts International
+2013-07-21,76,False,Diamond Resorts International
+2013-07-28,72,False,Diamond Resorts International
+2013-08-04,51,False,Diamond Resorts International
+2013-08-11,54,False,Diamond Resorts International
+2013-08-18,41,False,Diamond Resorts International
+2013-08-25,62,False,Diamond Resorts International
+2013-09-01,63,False,Diamond Resorts International
+2013-09-08,57,False,Diamond Resorts International
+2013-09-15,59,False,Diamond Resorts International
+2013-09-22,58,False,Diamond Resorts International
+2013-09-29,52,False,Diamond Resorts International
+2013-10-06,60,False,Diamond Resorts International
+2013-10-13,54,False,Diamond Resorts International
+2013-10-20,53,False,Diamond Resorts International
+2013-10-27,48,False,Diamond Resorts International
+2013-11-03,35,False,Diamond Resorts International
+2013-11-10,54,False,Diamond Resorts International
+2013-11-17,66,False,Diamond Resorts International
+2013-11-24,53,False,Diamond Resorts International
+2013-12-01,46,False,Diamond Resorts International
+2013-12-08,38,False,Diamond Resorts International
+2013-12-15,35,False,Diamond Resorts International
+2013-12-22,70,False,Diamond Resorts International
+2013-12-29,100,False,Diamond Resorts International
+2014-01-05,86,False,Diamond Resorts International
+2014-01-12,75,False,Diamond Resorts International
+2014-01-19,76,False,Diamond Resorts International
+2014-01-26,74,False,Diamond Resorts International
+2014-02-02,54,False,Diamond Resorts International
+2014-02-09,56,False,Diamond Resorts International
+2014-02-16,72,False,Diamond Resorts International
+2014-02-23,62,False,Diamond Resorts International
+2014-03-02,63,False,Diamond Resorts International
+2014-03-09,79,False,Diamond Resorts International
+2014-03-16,73,False,Diamond Resorts International
+2014-03-23,52,False,Diamond Resorts International
+2014-03-30,70,False,Diamond Resorts International
+2014-04-06,67,False,Diamond Resorts International
+2014-04-13,37,False,Diamond Resorts International

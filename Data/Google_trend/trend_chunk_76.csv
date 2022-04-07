@@ -1,0 +1,261 @@
+date,SVI,isPartial,Issuer
+2019-07-28,0,False,Phathom Pharmaceuticals
+2019-08-04,11,False,Phathom Pharmaceuticals
+2019-08-11,0,False,Phathom Pharmaceuticals
+2019-08-18,11,False,Phathom Pharmaceuticals
+2019-08-25,0,False,Phathom Pharmaceuticals
+2019-09-01,0,False,Phathom Pharmaceuticals
+2019-09-08,10,False,Phathom Pharmaceuticals
+2019-09-15,0,False,Phathom Pharmaceuticals
+2019-09-22,10,False,Phathom Pharmaceuticals
+2019-09-29,51,False,Phathom Pharmaceuticals
+2019-10-06,21,False,Phathom Pharmaceuticals
+2019-10-13,20,False,Phathom Pharmaceuticals
+2019-10-20,100,False,Phathom Pharmaceuticals
+2019-10-27,71,False,Phathom Pharmaceuticals
+2019-11-03,20,False,Phathom Pharmaceuticals
+2019-11-10,60,False,Phathom Pharmaceuticals
+2019-11-17,41,False,Phathom Pharmaceuticals
+2019-11-24,10,False,Phathom Pharmaceuticals
+2019-12-01,50,False,Phathom Pharmaceuticals
+2019-12-08,41,False,Phathom Pharmaceuticals
+2019-12-15,31,False,Phathom Pharmaceuticals
+2019-12-22,55,False,Phathom Pharmaceuticals
+2019-12-29,11,False,Phathom Pharmaceuticals
+2020-01-05,0,False,Phathom Pharmaceuticals
+2020-01-12,48,False,Phathom Pharmaceuticals
+2020-01-19,10,False,Phathom Pharmaceuticals
+2020-01-26,19,False,Phathom Pharmaceuticals
+2020-02-02,48,False,Phathom Pharmaceuticals
+2020-02-09,38,False,Phathom Pharmaceuticals
+2020-02-16,19,False,Phathom Pharmaceuticals
+2020-02-23,56,False,Phathom Pharmaceuticals
+2020-03-01,46,False,Phathom Pharmaceuticals
+2020-03-08,9,False,Phathom Pharmaceuticals
+2020-03-15,27,False,Phathom Pharmaceuticals
+2020-03-22,26,False,Phathom Pharmaceuticals
+2020-03-29,9,False,Phathom Pharmaceuticals
+2020-04-05,18,False,Phathom Pharmaceuticals
+2020-04-12,9,False,Phathom Pharmaceuticals
+2020-04-19,35,False,Phathom Pharmaceuticals
+2020-04-26,26,False,Phathom Pharmaceuticals
+2020-05-03,26,False,Phathom Pharmaceuticals
+2020-05-10,35,False,Phathom Pharmaceuticals
+2020-05-17,9,False,Phathom Pharmaceuticals
+2020-05-24,27,False,Phathom Pharmaceuticals
+2020-05-31,26,False,Phathom Pharmaceuticals
+2020-06-07,18,False,Phathom Pharmaceuticals
+2020-06-14,63,False,Phathom Pharmaceuticals
+2020-06-21,9,False,Phathom Pharmaceuticals
+2020-06-28,28,False,Phathom Pharmaceuticals
+2020-07-05,9,False,Phathom Pharmaceuticals
+2020-07-12,10,False,Phathom Pharmaceuticals
+2020-07-19,19,False,Phathom Pharmaceuticals
+2019-07-28,18,False,Progyny
+2019-08-04,10,False,Progyny
+2019-08-11,24,False,Progyny
+2019-08-18,23,False,Progyny
+2019-08-25,19,False,Progyny
+2019-09-01,11,False,Progyny
+2019-09-08,13,False,Progyny
+2019-09-15,20,False,Progyny
+2019-09-22,33,False,Progyny
+2019-09-29,22,False,Progyny
+2019-10-06,29,False,Progyny
+2019-10-13,38,False,Progyny
+2019-10-20,100,False,Progyny
+2019-10-27,56,False,Progyny
+2019-11-03,57,False,Progyny
+2019-11-10,46,False,Progyny
+2019-11-17,42,False,Progyny
+2019-11-24,21,False,Progyny
+2019-12-01,59,False,Progyny
+2019-12-08,49,False,Progyny
+2019-12-15,46,False,Progyny
+2019-12-22,30,False,Progyny
+2019-12-29,17,False,Progyny
+2020-01-05,42,False,Progyny
+2020-01-12,36,False,Progyny
+2020-01-19,65,False,Progyny
+2020-01-26,33,False,Progyny
+2020-02-02,43,False,Progyny
+2020-02-09,33,False,Progyny
+2020-02-16,58,False,Progyny
+2020-02-23,33,False,Progyny
+2020-03-01,30,False,Progyny
+2020-03-08,24,False,Progyny
+2020-03-15,15,False,Progyny
+2020-03-22,20,False,Progyny
+2020-03-29,17,False,Progyny
+2020-04-05,11,False,Progyny
+2020-04-12,28,False,Progyny
+2020-04-19,31,False,Progyny
+2020-04-26,23,False,Progyny
+2020-05-03,29,False,Progyny
+2020-05-10,51,False,Progyny
+2020-05-17,30,False,Progyny
+2020-05-24,34,False,Progyny
+2020-05-31,42,False,Progyny
+2020-06-07,32,False,Progyny
+2020-06-14,35,False,Progyny
+2020-06-21,28,False,Progyny
+2020-06-28,21,False,Progyny
+2020-07-05,39,False,Progyny
+2020-07-12,41,False,Progyny
+2020-07-19,31,False,Progyny
+2019-07-28,26,False,TFF Pharmaceuticals
+2019-08-04,0,False,TFF Pharmaceuticals
+2019-08-11,0,False,TFF Pharmaceuticals
+2019-08-18,100,False,TFF Pharmaceuticals
+2019-08-25,24,False,TFF Pharmaceuticals
+2019-09-01,0,False,TFF Pharmaceuticals
+2019-09-08,0,False,TFF Pharmaceuticals
+2019-09-15,24,False,TFF Pharmaceuticals
+2019-09-22,0,False,TFF Pharmaceuticals
+2019-09-29,0,False,TFF Pharmaceuticals
+2019-10-06,0,False,TFF Pharmaceuticals
+2019-10-13,24,False,TFF Pharmaceuticals
+2019-10-20,47,False,TFF Pharmaceuticals
+2019-10-27,47,False,TFF Pharmaceuticals
+2019-11-03,46,False,TFF Pharmaceuticals
+2019-11-10,0,False,TFF Pharmaceuticals
+2019-11-17,24,False,TFF Pharmaceuticals
+2019-11-24,69,False,TFF Pharmaceuticals
+2019-12-01,47,False,TFF Pharmaceuticals
+2019-12-08,24,False,TFF Pharmaceuticals
+2019-12-15,0,False,TFF Pharmaceuticals
+2019-12-22,0,False,TFF Pharmaceuticals
+2019-12-29,25,False,TFF Pharmaceuticals
+2020-01-05,23,False,TFF Pharmaceuticals
+2020-01-12,44,False,TFF Pharmaceuticals
+2020-01-19,45,False,TFF Pharmaceuticals
+2020-01-26,0,False,TFF Pharmaceuticals
+2020-02-02,0,False,TFF Pharmaceuticals
+2020-02-09,22,False,TFF Pharmaceuticals
+2020-02-16,22,False,TFF Pharmaceuticals
+2020-02-23,22,False,TFF Pharmaceuticals
+2020-03-01,0,False,TFF Pharmaceuticals
+2020-03-08,63,False,TFF Pharmaceuticals
+2020-03-15,0,False,TFF Pharmaceuticals
+2020-03-22,41,False,TFF Pharmaceuticals
+2020-03-29,0,False,TFF Pharmaceuticals
+2020-04-05,63,False,TFF Pharmaceuticals
+2020-04-12,40,False,TFF Pharmaceuticals
+2020-04-19,40,False,TFF Pharmaceuticals
+2020-04-26,61,False,TFF Pharmaceuticals
+2020-05-03,20,False,TFF Pharmaceuticals
+2020-05-10,20,False,TFF Pharmaceuticals
+2020-05-17,0,False,TFF Pharmaceuticals
+2020-05-24,0,False,TFF Pharmaceuticals
+2020-05-31,20,False,TFF Pharmaceuticals
+2020-06-07,21,False,TFF Pharmaceuticals
+2020-06-14,42,False,TFF Pharmaceuticals
+2020-06-21,0,False,TFF Pharmaceuticals
+2020-06-28,0,False,TFF Pharmaceuticals
+2020-07-05,44,False,TFF Pharmaceuticals
+2020-07-12,0,False,TFF Pharmaceuticals
+2020-07-19,0,False,TFF Pharmaceuticals
+2019-07-28,60,False,Youdao
+2019-08-04,62,False,Youdao
+2019-08-11,81,False,Youdao
+2019-08-18,67,False,Youdao
+2019-08-25,73,False,Youdao
+2019-09-01,78,False,Youdao
+2019-09-08,82,False,Youdao
+2019-09-15,91,False,Youdao
+2019-09-22,100,False,Youdao
+2019-09-29,80,False,Youdao
+2019-10-06,87,False,Youdao
+2019-10-13,86,False,Youdao
+2019-10-20,89,False,Youdao
+2019-10-27,77,False,Youdao
+2019-11-03,84,False,Youdao
+2019-11-10,71,False,Youdao
+2019-11-17,83,False,Youdao
+2019-11-24,70,False,Youdao
+2019-12-01,73,False,Youdao
+2019-12-08,73,False,Youdao
+2019-12-15,55,False,Youdao
+2019-12-22,40,False,Youdao
+2019-12-29,41,False,Youdao
+2020-01-05,58,False,Youdao
+2020-01-12,69,False,Youdao
+2020-01-19,54,False,Youdao
+2020-01-26,45,False,Youdao
+2020-02-02,63,False,Youdao
+2020-02-09,68,False,Youdao
+2020-02-16,56,False,Youdao
+2020-02-23,74,False,Youdao
+2020-03-01,63,False,Youdao
+2020-03-08,61,False,Youdao
+2020-03-15,66,False,Youdao
+2020-03-22,64,False,Youdao
+2020-03-29,67,False,Youdao
+2020-04-05,67,False,Youdao
+2020-04-12,77,False,Youdao
+2020-04-19,73,False,Youdao
+2020-04-26,70,False,Youdao
+2020-05-03,67,False,Youdao
+2020-05-10,72,False,Youdao
+2020-05-17,63,False,Youdao
+2020-05-24,62,False,Youdao
+2020-05-31,63,False,Youdao
+2020-06-07,56,False,Youdao
+2020-06-14,65,False,Youdao
+2020-06-21,59,False,Youdao
+2020-06-28,58,False,Youdao
+2020-07-05,62,False,Youdao
+2020-07-12,66,False,Youdao
+2020-07-19,65,False,Youdao
+2019-08-04,20,False,Oyster Point Pharma
+2019-08-11,10,False,Oyster Point Pharma
+2019-08-18,10,False,Oyster Point Pharma
+2019-08-25,9,False,Oyster Point Pharma
+2019-09-01,0,False,Oyster Point Pharma
+2019-09-08,0,False,Oyster Point Pharma
+2019-09-15,47,False,Oyster Point Pharma
+2019-09-22,28,False,Oyster Point Pharma
+2019-09-29,0,False,Oyster Point Pharma
+2019-10-06,19,False,Oyster Point Pharma
+2019-10-13,18,False,Oyster Point Pharma
+2019-10-20,54,False,Oyster Point Pharma
+2019-10-27,100,False,Oyster Point Pharma
+2019-11-03,45,False,Oyster Point Pharma
+2019-11-10,9,False,Oyster Point Pharma
+2019-11-17,28,False,Oyster Point Pharma
+2019-11-24,18,False,Oyster Point Pharma
+2019-12-01,36,False,Oyster Point Pharma
+2019-12-08,0,False,Oyster Point Pharma
+2019-12-15,0,False,Oyster Point Pharma
+2019-12-22,20,False,Oyster Point Pharma
+2019-12-29,19,False,Oyster Point Pharma
+2020-01-05,54,False,Oyster Point Pharma
+2020-01-12,34,False,Oyster Point Pharma
+2020-01-19,17,False,Oyster Point Pharma
+2020-01-26,35,False,Oyster Point Pharma
+2020-02-02,0,False,Oyster Point Pharma
+2020-02-09,9,False,Oyster Point Pharma
+2020-02-16,9,False,Oyster Point Pharma
+2020-02-23,34,False,Oyster Point Pharma
+2020-03-01,33,False,Oyster Point Pharma
+2020-03-08,16,False,Oyster Point Pharma
+2020-03-15,16,False,Oyster Point Pharma
+2020-03-22,0,False,Oyster Point Pharma
+2020-03-29,23,False,Oyster Point Pharma
+2020-04-05,0,False,Oyster Point Pharma
+2020-04-12,8,False,Oyster Point Pharma
+2020-04-19,16,False,Oyster Point Pharma
+2020-04-26,23,False,Oyster Point Pharma
+2020-05-03,23,False,Oyster Point Pharma
+2020-05-10,71,False,Oyster Point Pharma
+2020-05-17,32,False,Oyster Point Pharma
+2020-05-24,33,False,Oyster Point Pharma
+2020-05-31,24,False,Oyster Point Pharma
+2020-06-07,0,False,Oyster Point Pharma
+2020-06-14,16,False,Oyster Point Pharma
+2020-06-21,8,False,Oyster Point Pharma
+2020-06-28,42,False,Oyster Point Pharma
+2020-07-05,8,False,Oyster Point Pharma
+2020-07-12,17,False,Oyster Point Pharma
+2020-07-19,26,False,Oyster Point Pharma
+2020-07-26,43,False,Oyster Point Pharma

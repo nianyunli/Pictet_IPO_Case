@@ -1,0 +1,261 @@
+date,SVI,isPartial,Issuer
+2015-11-08,23,False,Editas Medicine
+2015-11-15,19,False,Editas Medicine
+2015-11-22,3,False,Editas Medicine
+2015-11-29,26,False,Editas Medicine
+2015-12-06,7,False,Editas Medicine
+2015-12-13,17,False,Editas Medicine
+2015-12-20,4,False,Editas Medicine
+2015-12-27,15,False,Editas Medicine
+2016-01-03,41,False,Editas Medicine
+2016-01-10,48,False,Editas Medicine
+2016-01-17,34,False,Editas Medicine
+2016-01-24,55,False,Editas Medicine
+2016-01-31,100,False,Editas Medicine
+2016-02-07,31,False,Editas Medicine
+2016-02-14,17,False,Editas Medicine
+2016-02-21,27,False,Editas Medicine
+2016-02-28,34,False,Editas Medicine
+2016-03-06,71,False,Editas Medicine
+2016-03-13,17,False,Editas Medicine
+2016-03-20,14,False,Editas Medicine
+2016-03-27,14,False,Editas Medicine
+2016-04-03,31,False,Editas Medicine
+2016-04-10,24,False,Editas Medicine
+2016-04-17,44,False,Editas Medicine
+2016-04-24,24,False,Editas Medicine
+2016-05-01,31,False,Editas Medicine
+2016-05-08,17,False,Editas Medicine
+2016-05-15,28,False,Editas Medicine
+2016-05-22,10,False,Editas Medicine
+2016-05-29,11,False,Editas Medicine
+2016-06-05,21,False,Editas Medicine
+2016-06-12,20,False,Editas Medicine
+2016-06-19,17,False,Editas Medicine
+2016-06-26,28,False,Editas Medicine
+2016-07-03,19,False,Editas Medicine
+2016-07-10,11,False,Editas Medicine
+2016-07-17,22,False,Editas Medicine
+2016-07-24,11,False,Editas Medicine
+2016-07-31,15,False,Editas Medicine
+2016-08-07,19,False,Editas Medicine
+2016-08-14,27,False,Editas Medicine
+2016-08-21,22,False,Editas Medicine
+2016-08-28,14,False,Editas Medicine
+2016-09-04,29,False,Editas Medicine
+2016-09-11,21,False,Editas Medicine
+2016-09-18,11,False,Editas Medicine
+2016-09-25,7,False,Editas Medicine
+2016-10-02,28,False,Editas Medicine
+2016-10-09,24,False,Editas Medicine
+2016-10-16,38,False,Editas Medicine
+2016-10-23,14,False,Editas Medicine
+2016-10-30,7,False,Editas Medicine
+2015-11-15,15,False,AveXis
+2015-11-22,0,False,AveXis
+2015-11-29,11,False,AveXis
+2015-12-06,15,False,AveXis
+2015-12-13,23,False,AveXis
+2015-12-20,0,False,AveXis
+2015-12-27,4,False,AveXis
+2016-01-03,8,False,AveXis
+2016-01-10,12,False,AveXis
+2016-01-17,23,False,AveXis
+2016-01-24,19,False,AveXis
+2016-01-31,31,False,AveXis
+2016-02-07,60,False,AveXis
+2016-02-14,47,False,AveXis
+2016-02-21,31,False,AveXis
+2016-02-28,34,False,AveXis
+2016-03-06,50,False,AveXis
+2016-03-13,19,False,AveXis
+2016-03-20,24,False,AveXis
+2016-03-27,20,False,AveXis
+2016-04-03,4,False,AveXis
+2016-04-10,12,False,AveXis
+2016-04-17,15,False,AveXis
+2016-04-24,19,False,AveXis
+2016-05-01,24,False,AveXis
+2016-05-08,54,False,AveXis
+2016-05-15,35,False,AveXis
+2016-05-22,75,False,AveXis
+2016-05-29,4,False,AveXis
+2016-06-05,24,False,AveXis
+2016-06-12,16,False,AveXis
+2016-06-19,28,False,AveXis
+2016-06-26,20,False,AveXis
+2016-07-03,13,False,AveXis
+2016-07-10,17,False,AveXis
+2016-07-17,42,False,AveXis
+2016-07-24,25,False,AveXis
+2016-07-31,25,False,AveXis
+2016-08-07,26,False,AveXis
+2016-08-14,31,False,AveXis
+2016-08-21,30,False,AveXis
+2016-08-28,12,False,AveXis
+2016-09-04,50,False,AveXis
+2016-09-11,28,False,AveXis
+2016-09-18,32,False,AveXis
+2016-09-25,51,False,AveXis
+2016-10-02,20,False,AveXis
+2016-10-09,44,False,AveXis
+2016-10-16,24,False,AveXis
+2016-10-23,28,False,AveXis
+2016-10-30,100,False,AveXis
+2016-11-06,50,False,AveXis
+2015-11-15,0,False,Proteostasis Therapeutics
+2015-11-22,0,False,Proteostasis Therapeutics
+2015-11-29,0,False,Proteostasis Therapeutics
+2015-12-06,0,False,Proteostasis Therapeutics
+2015-12-13,8,False,Proteostasis Therapeutics
+2015-12-20,0,False,Proteostasis Therapeutics
+2015-12-27,27,False,Proteostasis Therapeutics
+2016-01-03,8,False,Proteostasis Therapeutics
+2016-01-10,16,False,Proteostasis Therapeutics
+2016-01-17,0,False,Proteostasis Therapeutics
+2016-01-24,0,False,Proteostasis Therapeutics
+2016-01-31,33,False,Proteostasis Therapeutics
+2016-02-07,100,False,Proteostasis Therapeutics
+2016-02-14,0,False,Proteostasis Therapeutics
+2016-02-21,49,False,Proteostasis Therapeutics
+2016-02-28,0,False,Proteostasis Therapeutics
+2016-03-06,49,False,Proteostasis Therapeutics
+2016-03-13,16,False,Proteostasis Therapeutics
+2016-03-20,0,False,Proteostasis Therapeutics
+2016-03-27,16,False,Proteostasis Therapeutics
+2016-04-03,16,False,Proteostasis Therapeutics
+2016-04-10,0,False,Proteostasis Therapeutics
+2016-04-17,24,False,Proteostasis Therapeutics
+2016-04-24,8,False,Proteostasis Therapeutics
+2016-05-01,17,False,Proteostasis Therapeutics
+2016-05-08,16,False,Proteostasis Therapeutics
+2016-05-15,0,False,Proteostasis Therapeutics
+2016-05-22,0,False,Proteostasis Therapeutics
+2016-05-29,0,False,Proteostasis Therapeutics
+2016-06-05,17,False,Proteostasis Therapeutics
+2016-06-12,8,False,Proteostasis Therapeutics
+2016-06-19,8,False,Proteostasis Therapeutics
+2016-06-26,8,False,Proteostasis Therapeutics
+2016-07-03,9,False,Proteostasis Therapeutics
+2016-07-10,17,False,Proteostasis Therapeutics
+2016-07-17,0,False,Proteostasis Therapeutics
+2016-07-24,18,False,Proteostasis Therapeutics
+2016-07-31,9,False,Proteostasis Therapeutics
+2016-08-07,27,False,Proteostasis Therapeutics
+2016-08-14,28,False,Proteostasis Therapeutics
+2016-08-21,0,False,Proteostasis Therapeutics
+2016-08-28,0,False,Proteostasis Therapeutics
+2016-09-04,9,False,Proteostasis Therapeutics
+2016-09-11,17,False,Proteostasis Therapeutics
+2016-09-18,8,False,Proteostasis Therapeutics
+2016-09-25,0,False,Proteostasis Therapeutics
+2016-10-02,0,False,Proteostasis Therapeutics
+2016-10-09,33,False,Proteostasis Therapeutics
+2016-10-16,0,False,Proteostasis Therapeutics
+2016-10-23,51,False,Proteostasis Therapeutics
+2016-10-30,17,False,Proteostasis Therapeutics
+2016-11-06,8,False,Proteostasis Therapeutics
+2015-11-29,0,False,Silver Run Acquisition
+2015-12-06,0,False,Silver Run Acquisition
+2015-12-13,0,False,Silver Run Acquisition
+2015-12-20,0,False,Silver Run Acquisition
+2015-12-27,0,False,Silver Run Acquisition
+2016-01-03,0,False,Silver Run Acquisition
+2016-01-10,0,False,Silver Run Acquisition
+2016-01-17,0,False,Silver Run Acquisition
+2016-01-24,0,False,Silver Run Acquisition
+2016-01-31,3,False,Silver Run Acquisition
+2016-02-07,0,False,Silver Run Acquisition
+2016-02-14,3,False,Silver Run Acquisition
+2016-02-21,100,False,Silver Run Acquisition
+2016-02-28,34,False,Silver Run Acquisition
+2016-03-06,3,False,Silver Run Acquisition
+2016-03-13,14,False,Silver Run Acquisition
+2016-03-20,18,False,Silver Run Acquisition
+2016-03-27,0,False,Silver Run Acquisition
+2016-04-03,17,False,Silver Run Acquisition
+2016-04-10,3,False,Silver Run Acquisition
+2016-04-17,3,False,Silver Run Acquisition
+2016-04-24,14,False,Silver Run Acquisition
+2016-05-01,7,False,Silver Run Acquisition
+2016-05-08,0,False,Silver Run Acquisition
+2016-05-15,10,False,Silver Run Acquisition
+2016-05-22,0,False,Silver Run Acquisition
+2016-05-29,4,False,Silver Run Acquisition
+2016-06-05,4,False,Silver Run Acquisition
+2016-06-12,0,False,Silver Run Acquisition
+2016-06-19,4,False,Silver Run Acquisition
+2016-06-26,0,False,Silver Run Acquisition
+2016-07-03,11,False,Silver Run Acquisition
+2016-07-10,0,False,Silver Run Acquisition
+2016-07-17,52,False,Silver Run Acquisition
+2016-07-24,26,False,Silver Run Acquisition
+2016-07-31,15,False,Silver Run Acquisition
+2016-08-07,15,False,Silver Run Acquisition
+2016-08-14,12,False,Silver Run Acquisition
+2016-08-21,8,False,Silver Run Acquisition
+2016-08-28,15,False,Silver Run Acquisition
+2016-09-04,15,False,Silver Run Acquisition
+2016-09-11,7,False,Silver Run Acquisition
+2016-09-18,4,False,Silver Run Acquisition
+2016-09-25,11,False,Silver Run Acquisition
+2016-10-02,4,False,Silver Run Acquisition
+2016-10-09,35,False,Silver Run Acquisition
+2016-10-16,0,False,Silver Run Acquisition
+2016-10-23,11,False,Silver Run Acquisition
+2016-10-30,0,False,Silver Run Acquisition
+2016-11-06,7,False,Silver Run Acquisition
+2016-11-13,7,False,Silver Run Acquisition
+2016-11-20,7,False,Silver Run Acquisition
+2015-12-06,0,False,Jensyn Acquisition
+2015-12-13,0,False,Jensyn Acquisition
+2015-12-20,0,False,Jensyn Acquisition
+2015-12-27,0,False,Jensyn Acquisition
+2016-01-03,0,False,Jensyn Acquisition
+2016-01-10,0,False,Jensyn Acquisition
+2016-01-17,0,False,Jensyn Acquisition
+2016-01-24,0,False,Jensyn Acquisition
+2016-01-31,0,False,Jensyn Acquisition
+2016-02-07,0,False,Jensyn Acquisition
+2016-02-14,0,False,Jensyn Acquisition
+2016-02-21,0,False,Jensyn Acquisition
+2016-02-28,100,False,Jensyn Acquisition
+2016-03-06,20,False,Jensyn Acquisition
+2016-03-13,20,False,Jensyn Acquisition
+2016-03-20,0,False,Jensyn Acquisition
+2016-03-27,0,False,Jensyn Acquisition
+2016-04-03,41,False,Jensyn Acquisition
+2016-04-10,0,False,Jensyn Acquisition
+2016-04-17,0,False,Jensyn Acquisition
+2016-04-24,0,False,Jensyn Acquisition
+2016-05-01,21,False,Jensyn Acquisition
+2016-05-08,0,False,Jensyn Acquisition
+2016-05-15,0,False,Jensyn Acquisition
+2016-05-22,0,False,Jensyn Acquisition
+2016-05-29,0,False,Jensyn Acquisition
+2016-06-05,21,False,Jensyn Acquisition
+2016-06-12,0,False,Jensyn Acquisition
+2016-06-19,0,False,Jensyn Acquisition
+2016-06-26,0,False,Jensyn Acquisition
+2016-07-03,0,False,Jensyn Acquisition
+2016-07-10,0,False,Jensyn Acquisition
+2016-07-17,0,False,Jensyn Acquisition
+2016-07-24,0,False,Jensyn Acquisition
+2016-07-31,0,False,Jensyn Acquisition
+2016-08-07,0,False,Jensyn Acquisition
+2016-08-14,0,False,Jensyn Acquisition
+2016-08-21,0,False,Jensyn Acquisition
+2016-08-28,0,False,Jensyn Acquisition
+2016-09-04,0,False,Jensyn Acquisition
+2016-09-11,0,False,Jensyn Acquisition
+2016-09-18,0,False,Jensyn Acquisition
+2016-09-25,0,False,Jensyn Acquisition
+2016-10-02,21,False,Jensyn Acquisition
+2016-10-09,0,False,Jensyn Acquisition
+2016-10-16,0,False,Jensyn Acquisition
+2016-10-23,0,False,Jensyn Acquisition
+2016-10-30,0,False,Jensyn Acquisition
+2016-11-06,0,False,Jensyn Acquisition
+2016-11-13,0,False,Jensyn Acquisition
+2016-11-20,0,False,Jensyn Acquisition
+2016-11-27,0,False,Jensyn Acquisition

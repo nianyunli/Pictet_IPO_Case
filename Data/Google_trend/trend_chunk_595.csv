@@ -1,0 +1,261 @@
+date,SVI,isPartial,Issuer
+2004-03-28,30,False,salesforce.com
+2004-04-04,33,False,salesforce.com
+2004-04-11,16,False,salesforce.com
+2004-04-18,23,False,salesforce.com
+2004-04-25,41,False,salesforce.com
+2004-05-02,44,False,salesforce.com
+2004-05-09,71,False,salesforce.com
+2004-05-16,32,False,salesforce.com
+2004-05-23,26,False,salesforce.com
+2004-05-30,12,False,salesforce.com
+2004-06-06,46,False,salesforce.com
+2004-06-13,35,False,salesforce.com
+2004-06-20,100,False,salesforce.com
+2004-06-27,36,False,salesforce.com
+2004-07-04,39,False,salesforce.com
+2004-07-11,53,False,salesforce.com
+2004-07-18,33,False,salesforce.com
+2004-07-25,24,False,salesforce.com
+2004-08-01,30,False,salesforce.com
+2004-08-08,32,False,salesforce.com
+2004-08-15,26,False,salesforce.com
+2004-08-22,17,False,salesforce.com
+2004-08-29,30,False,salesforce.com
+2004-09-05,54,False,salesforce.com
+2004-09-12,18,False,salesforce.com
+2004-09-19,25,False,salesforce.com
+2004-09-26,38,False,salesforce.com
+2004-10-03,25,False,salesforce.com
+2004-10-10,43,False,salesforce.com
+2004-10-17,39,False,salesforce.com
+2004-10-24,23,False,salesforce.com
+2004-10-31,34,False,salesforce.com
+2004-11-07,39,False,salesforce.com
+2004-11-14,25,False,salesforce.com
+2004-11-21,10,False,salesforce.com
+2004-11-28,16,False,salesforce.com
+2004-12-05,25,False,salesforce.com
+2004-12-12,37,False,salesforce.com
+2004-12-19,25,False,salesforce.com
+2004-12-26,13,False,salesforce.com
+2005-01-02,51,False,salesforce.com
+2005-01-09,40,False,salesforce.com
+2005-01-16,38,False,salesforce.com
+2005-01-23,31,False,salesforce.com
+2005-01-30,27,False,salesforce.com
+2005-02-06,42,False,salesforce.com
+2005-02-13,33,False,salesforce.com
+2005-02-20,26,False,salesforce.com
+2005-02-27,25,False,salesforce.com
+2005-03-06,37,False,salesforce.com
+2005-03-13,33,False,salesforce.com
+2005-03-20,51,False,salesforce.com
+2004-03-28,0,False,New York Mortgage Trust
+2004-04-04,0,False,New York Mortgage Trust
+2004-04-11,0,False,New York Mortgage Trust
+2004-04-18,0,False,New York Mortgage Trust
+2004-04-25,0,False,New York Mortgage Trust
+2004-05-02,0,False,New York Mortgage Trust
+2004-05-09,0,False,New York Mortgage Trust
+2004-05-16,0,False,New York Mortgage Trust
+2004-05-23,0,False,New York Mortgage Trust
+2004-05-30,0,False,New York Mortgage Trust
+2004-06-06,0,False,New York Mortgage Trust
+2004-06-13,0,False,New York Mortgage Trust
+2004-06-20,0,False,New York Mortgage Trust
+2004-06-27,99,False,New York Mortgage Trust
+2004-07-04,0,False,New York Mortgage Trust
+2004-07-11,0,False,New York Mortgage Trust
+2004-07-18,99,False,New York Mortgage Trust
+2004-07-25,0,False,New York Mortgage Trust
+2004-08-01,100,False,New York Mortgage Trust
+2004-08-08,0,False,New York Mortgage Trust
+2004-08-15,0,False,New York Mortgage Trust
+2004-08-22,0,False,New York Mortgage Trust
+2004-08-29,89,False,New York Mortgage Trust
+2004-09-05,0,False,New York Mortgage Trust
+2004-09-12,0,False,New York Mortgage Trust
+2004-09-19,0,False,New York Mortgage Trust
+2004-09-26,0,False,New York Mortgage Trust
+2004-10-03,84,False,New York Mortgage Trust
+2004-10-10,0,False,New York Mortgage Trust
+2004-10-17,80,False,New York Mortgage Trust
+2004-10-24,0,False,New York Mortgage Trust
+2004-10-31,0,False,New York Mortgage Trust
+2004-11-07,0,False,New York Mortgage Trust
+2004-11-14,0,False,New York Mortgage Trust
+2004-11-21,0,False,New York Mortgage Trust
+2004-11-28,0,False,New York Mortgage Trust
+2004-12-05,0,False,New York Mortgage Trust
+2004-12-12,0,False,New York Mortgage Trust
+2004-12-19,0,False,New York Mortgage Trust
+2004-12-26,0,False,New York Mortgage Trust
+2005-01-02,77,False,New York Mortgage Trust
+2005-01-09,0,False,New York Mortgage Trust
+2005-01-16,0,False,New York Mortgage Trust
+2005-01-23,0,False,New York Mortgage Trust
+2005-01-30,0,False,New York Mortgage Trust
+2005-02-06,0,False,New York Mortgage Trust
+2005-02-13,0,False,New York Mortgage Trust
+2005-02-20,72,False,New York Mortgage Trust
+2005-02-27,0,False,New York Mortgage Trust
+2005-03-06,0,False,New York Mortgage Trust
+2005-03-13,0,False,New York Mortgage Trust
+2005-03-20,0,False,New York Mortgage Trust
+2004-03-28,0,False,Gol Intelligent Airlines
+2004-04-04,0,False,Gol Intelligent Airlines
+2004-04-11,0,False,Gol Intelligent Airlines
+2004-04-18,0,False,Gol Intelligent Airlines
+2004-04-25,0,False,Gol Intelligent Airlines
+2004-05-02,0,False,Gol Intelligent Airlines
+2004-05-09,0,False,Gol Intelligent Airlines
+2004-05-16,0,False,Gol Intelligent Airlines
+2004-05-23,0,False,Gol Intelligent Airlines
+2004-05-30,0,False,Gol Intelligent Airlines
+2004-06-06,0,False,Gol Intelligent Airlines
+2004-06-13,0,False,Gol Intelligent Airlines
+2004-06-20,0,False,Gol Intelligent Airlines
+2004-06-27,0,False,Gol Intelligent Airlines
+2004-07-04,0,False,Gol Intelligent Airlines
+2004-07-11,0,False,Gol Intelligent Airlines
+2004-07-18,0,False,Gol Intelligent Airlines
+2004-07-25,0,False,Gol Intelligent Airlines
+2004-08-01,0,False,Gol Intelligent Airlines
+2004-08-08,0,False,Gol Intelligent Airlines
+2004-08-15,0,False,Gol Intelligent Airlines
+2004-08-22,0,False,Gol Intelligent Airlines
+2004-08-29,100,False,Gol Intelligent Airlines
+2004-09-05,0,False,Gol Intelligent Airlines
+2004-09-12,0,False,Gol Intelligent Airlines
+2004-09-19,0,False,Gol Intelligent Airlines
+2004-09-26,0,False,Gol Intelligent Airlines
+2004-10-03,0,False,Gol Intelligent Airlines
+2004-10-10,0,False,Gol Intelligent Airlines
+2004-10-17,0,False,Gol Intelligent Airlines
+2004-10-24,0,False,Gol Intelligent Airlines
+2004-10-31,0,False,Gol Intelligent Airlines
+2004-11-07,0,False,Gol Intelligent Airlines
+2004-11-14,0,False,Gol Intelligent Airlines
+2004-11-21,0,False,Gol Intelligent Airlines
+2004-11-28,0,False,Gol Intelligent Airlines
+2004-12-05,0,False,Gol Intelligent Airlines
+2004-12-12,0,False,Gol Intelligent Airlines
+2004-12-19,0,False,Gol Intelligent Airlines
+2004-12-26,0,False,Gol Intelligent Airlines
+2005-01-02,0,False,Gol Intelligent Airlines
+2005-01-09,0,False,Gol Intelligent Airlines
+2005-01-16,0,False,Gol Intelligent Airlines
+2005-01-23,0,False,Gol Intelligent Airlines
+2005-01-30,0,False,Gol Intelligent Airlines
+2005-02-06,0,False,Gol Intelligent Airlines
+2005-02-13,0,False,Gol Intelligent Airlines
+2005-02-20,0,False,Gol Intelligent Airlines
+2005-02-27,0,False,Gol Intelligent Airlines
+2005-03-06,0,False,Gol Intelligent Airlines
+2005-03-13,0,False,Gol Intelligent Airlines
+2005-03-20,0,False,Gol Intelligent Airlines
+2004-03-28,0,False,Strategic Hotel Capital
+2004-04-04,56,False,Strategic Hotel Capital
+2004-04-11,46,False,Strategic Hotel Capital
+2004-04-18,50,False,Strategic Hotel Capital
+2004-04-25,25,False,Strategic Hotel Capital
+2004-05-02,0,False,Strategic Hotel Capital
+2004-05-09,25,False,Strategic Hotel Capital
+2004-05-16,0,False,Strategic Hotel Capital
+2004-05-23,25,False,Strategic Hotel Capital
+2004-05-30,26,False,Strategic Hotel Capital
+2004-06-06,100,False,Strategic Hotel Capital
+2004-06-13,50,False,Strategic Hotel Capital
+2004-06-20,51,False,Strategic Hotel Capital
+2004-06-27,26,False,Strategic Hotel Capital
+2004-07-04,26,False,Strategic Hotel Capital
+2004-07-11,0,False,Strategic Hotel Capital
+2004-07-18,0,False,Strategic Hotel Capital
+2004-07-25,52,False,Strategic Hotel Capital
+2004-08-01,0,False,Strategic Hotel Capital
+2004-08-08,0,False,Strategic Hotel Capital
+2004-08-15,0,False,Strategic Hotel Capital
+2004-08-22,0,False,Strategic Hotel Capital
+2004-08-29,0,False,Strategic Hotel Capital
+2004-09-05,0,False,Strategic Hotel Capital
+2004-09-12,22,False,Strategic Hotel Capital
+2004-09-19,0,False,Strategic Hotel Capital
+2004-09-26,0,False,Strategic Hotel Capital
+2004-10-03,0,False,Strategic Hotel Capital
+2004-10-10,0,False,Strategic Hotel Capital
+2004-10-17,42,False,Strategic Hotel Capital
+2004-10-24,0,False,Strategic Hotel Capital
+2004-10-31,21,False,Strategic Hotel Capital
+2004-11-07,31,False,Strategic Hotel Capital
+2004-11-14,0,False,Strategic Hotel Capital
+2004-11-21,0,False,Strategic Hotel Capital
+2004-11-28,20,False,Strategic Hotel Capital
+2004-12-05,0,False,Strategic Hotel Capital
+2004-12-12,0,False,Strategic Hotel Capital
+2004-12-19,0,False,Strategic Hotel Capital
+2004-12-26,28,False,Strategic Hotel Capital
+2005-01-02,40,False,Strategic Hotel Capital
+2005-01-09,0,False,Strategic Hotel Capital
+2005-01-16,18,False,Strategic Hotel Capital
+2005-01-23,0,False,Strategic Hotel Capital
+2005-01-30,0,False,Strategic Hotel Capital
+2005-02-06,0,False,Strategic Hotel Capital
+2005-02-13,0,False,Strategic Hotel Capital
+2005-02-20,0,False,Strategic Hotel Capital
+2005-02-27,0,False,Strategic Hotel Capital
+2005-03-06,0,False,Strategic Hotel Capital
+2005-03-13,17,False,Strategic Hotel Capital
+2005-03-20,0,False,Strategic Hotel Capital
+2004-03-28,15,False,Xyratex
+2004-04-04,49,False,Xyratex
+2004-04-11,0,False,Xyratex
+2004-04-18,57,False,Xyratex
+2004-04-25,73,False,Xyratex
+2004-05-02,15,False,Xyratex
+2004-05-09,28,False,Xyratex
+2004-05-16,43,False,Xyratex
+2004-05-23,14,False,Xyratex
+2004-05-30,30,False,Xyratex
+2004-06-06,14,False,Xyratex
+2004-06-13,100,False,Xyratex
+2004-06-20,44,False,Xyratex
+2004-06-27,45,False,Xyratex
+2004-07-04,15,False,Xyratex
+2004-07-11,35,False,Xyratex
+2004-07-18,59,False,Xyratex
+2004-07-25,30,False,Xyratex
+2004-08-01,30,False,Xyratex
+2004-08-08,58,False,Xyratex
+2004-08-15,14,False,Xyratex
+2004-08-22,41,False,Xyratex
+2004-08-29,0,False,Xyratex
+2004-09-05,0,False,Xyratex
+2004-09-12,38,False,Xyratex
+2004-09-19,37,False,Xyratex
+2004-09-26,0,False,Xyratex
+2004-10-03,38,False,Xyratex
+2004-10-10,15,False,Xyratex
+2004-10-17,0,False,Xyratex
+2004-10-24,56,False,Xyratex
+2004-10-31,24,False,Xyratex
+2004-11-07,35,False,Xyratex
+2004-11-14,0,False,Xyratex
+2004-11-21,60,False,Xyratex
+2004-11-28,11,False,Xyratex
+2004-12-05,45,False,Xyratex
+2004-12-12,23,False,Xyratex
+2004-12-19,0,False,Xyratex
+2004-12-26,16,False,Xyratex
+2005-01-02,11,False,Xyratex
+2005-01-09,21,False,Xyratex
+2005-01-16,31,False,Xyratex
+2005-01-23,31,False,Xyratex
+2005-01-30,10,False,Xyratex
+2005-02-06,31,False,Xyratex
+2005-02-13,51,False,Xyratex
+2005-02-20,43,False,Xyratex
+2005-02-27,51,False,Xyratex
+2005-03-06,29,False,Xyratex
+2005-03-13,29,False,Xyratex
+2005-03-20,53,False,Xyratex

@@ -1,0 +1,261 @@
+date,SVI,isPartial,Issuer
+2006-08-06,36,False,Globalstar
+2006-08-13,57,False,Globalstar
+2006-08-20,51,False,Globalstar
+2006-08-27,27,False,Globalstar
+2006-09-03,45,False,Globalstar
+2006-09-10,63,False,Globalstar
+2006-09-17,42,False,Globalstar
+2006-09-24,39,False,Globalstar
+2006-10-01,52,False,Globalstar
+2006-10-08,38,False,Globalstar
+2006-10-15,53,False,Globalstar
+2006-10-22,70,False,Globalstar
+2006-10-29,55,False,Globalstar
+2006-11-05,38,False,Globalstar
+2006-11-12,61,False,Globalstar
+2006-11-19,44,False,Globalstar
+2006-11-26,48,False,Globalstar
+2006-12-03,40,False,Globalstar
+2006-12-10,75,False,Globalstar
+2006-12-17,53,False,Globalstar
+2006-12-24,38,False,Globalstar
+2006-12-31,43,False,Globalstar
+2007-01-07,35,False,Globalstar
+2007-01-14,56,False,Globalstar
+2007-01-21,47,False,Globalstar
+2007-01-28,49,False,Globalstar
+2007-02-04,100,False,Globalstar
+2007-02-11,46,False,Globalstar
+2007-02-18,51,False,Globalstar
+2007-02-25,55,False,Globalstar
+2007-03-04,49,False,Globalstar
+2007-03-11,47,False,Globalstar
+2007-03-18,38,False,Globalstar
+2007-03-25,64,False,Globalstar
+2007-04-01,47,False,Globalstar
+2007-04-08,59,False,Globalstar
+2007-04-15,51,False,Globalstar
+2007-04-22,37,False,Globalstar
+2007-04-29,48,False,Globalstar
+2007-05-06,51,False,Globalstar
+2007-05-13,70,False,Globalstar
+2007-05-20,67,False,Globalstar
+2007-05-27,57,False,Globalstar
+2007-06-03,51,False,Globalstar
+2007-06-10,63,False,Globalstar
+2007-06-17,51,False,Globalstar
+2007-06-24,56,False,Globalstar
+2007-07-01,38,False,Globalstar
+2007-07-08,48,False,Globalstar
+2007-07-15,57,False,Globalstar
+2007-07-22,50,False,Globalstar
+2007-07-29,51,False,Globalstar
+2006-08-06,0,False,Innophos Holdings
+2006-08-13,0,False,Innophos Holdings
+2006-08-20,0,False,Innophos Holdings
+2006-08-27,0,False,Innophos Holdings
+2006-09-03,0,False,Innophos Holdings
+2006-09-10,0,False,Innophos Holdings
+2006-09-17,0,False,Innophos Holdings
+2006-09-24,0,False,Innophos Holdings
+2006-10-01,0,False,Innophos Holdings
+2006-10-08,0,False,Innophos Holdings
+2006-10-15,0,False,Innophos Holdings
+2006-10-22,0,False,Innophos Holdings
+2006-10-29,99,False,Innophos Holdings
+2006-11-05,0,False,Innophos Holdings
+2006-11-12,0,False,Innophos Holdings
+2006-11-19,0,False,Innophos Holdings
+2006-11-26,0,False,Innophos Holdings
+2006-12-03,0,False,Innophos Holdings
+2006-12-10,0,False,Innophos Holdings
+2006-12-17,100,False,Innophos Holdings
+2006-12-24,0,False,Innophos Holdings
+2006-12-31,0,False,Innophos Holdings
+2007-01-07,0,False,Innophos Holdings
+2007-01-14,0,False,Innophos Holdings
+2007-01-21,0,False,Innophos Holdings
+2007-01-28,0,False,Innophos Holdings
+2007-02-04,0,False,Innophos Holdings
+2007-02-11,0,False,Innophos Holdings
+2007-02-18,0,False,Innophos Holdings
+2007-02-25,0,False,Innophos Holdings
+2007-03-04,0,False,Innophos Holdings
+2007-03-11,0,False,Innophos Holdings
+2007-03-18,0,False,Innophos Holdings
+2007-03-25,0,False,Innophos Holdings
+2007-04-01,0,False,Innophos Holdings
+2007-04-08,0,False,Innophos Holdings
+2007-04-15,0,False,Innophos Holdings
+2007-04-22,0,False,Innophos Holdings
+2007-04-29,0,False,Innophos Holdings
+2007-05-06,0,False,Innophos Holdings
+2007-05-13,0,False,Innophos Holdings
+2007-05-20,0,False,Innophos Holdings
+2007-05-27,0,False,Innophos Holdings
+2007-06-03,0,False,Innophos Holdings
+2007-06-10,0,False,Innophos Holdings
+2007-06-17,0,False,Innophos Holdings
+2007-06-24,0,False,Innophos Holdings
+2007-07-01,0,False,Innophos Holdings
+2007-07-08,0,False,Innophos Holdings
+2007-07-15,0,False,Innophos Holdings
+2007-07-22,0,False,Innophos Holdings
+2007-07-29,72,False,Innophos Holdings
+2006-08-06,63,False,ORBCOMM
+2006-08-13,64,False,ORBCOMM
+2006-08-20,24,False,ORBCOMM
+2006-08-27,35,False,ORBCOMM
+2006-09-03,12,False,ORBCOMM
+2006-09-10,0,False,ORBCOMM
+2006-09-17,56,False,ORBCOMM
+2006-09-24,44,False,ORBCOMM
+2006-10-01,67,False,ORBCOMM
+2006-10-08,43,False,ORBCOMM
+2006-10-15,21,False,ORBCOMM
+2006-10-22,64,False,ORBCOMM
+2006-10-29,74,False,ORBCOMM
+2006-11-05,91,False,ORBCOMM
+2006-11-12,100,False,ORBCOMM
+2006-11-19,72,False,ORBCOMM
+2006-11-26,49,False,ORBCOMM
+2006-12-03,50,False,ORBCOMM
+2006-12-10,20,False,ORBCOMM
+2006-12-17,32,False,ORBCOMM
+2006-12-24,12,False,ORBCOMM
+2006-12-31,86,False,ORBCOMM
+2007-01-07,28,False,ORBCOMM
+2007-01-14,37,False,ORBCOMM
+2007-01-21,54,False,ORBCOMM
+2007-01-28,18,False,ORBCOMM
+2007-02-04,9,False,ORBCOMM
+2007-02-11,45,False,ORBCOMM
+2007-02-18,27,False,ORBCOMM
+2007-02-25,52,False,ORBCOMM
+2007-03-04,26,False,ORBCOMM
+2007-03-11,35,False,ORBCOMM
+2007-03-18,26,False,ORBCOMM
+2007-03-25,34,False,ORBCOMM
+2007-04-01,18,False,ORBCOMM
+2007-04-08,17,False,ORBCOMM
+2007-04-15,17,False,ORBCOMM
+2007-04-22,50,False,ORBCOMM
+2007-04-29,25,False,ORBCOMM
+2007-05-06,39,False,ORBCOMM
+2007-05-13,31,False,ORBCOMM
+2007-05-20,23,False,ORBCOMM
+2007-05-27,62,False,ORBCOMM
+2007-06-03,54,False,ORBCOMM
+2007-06-10,31,False,ORBCOMM
+2007-06-17,23,False,ORBCOMM
+2007-06-24,8,False,ORBCOMM
+2007-07-01,39,False,ORBCOMM
+2007-07-08,16,False,ORBCOMM
+2007-07-15,47,False,ORBCOMM
+2007-07-22,32,False,ORBCOMM
+2007-07-29,8,False,ORBCOMM
+2006-08-13,0,False,Catalyst Pharmaceutical Partners
+2006-08-20,0,False,Catalyst Pharmaceutical Partners
+2006-08-27,0,False,Catalyst Pharmaceutical Partners
+2006-09-03,0,False,Catalyst Pharmaceutical Partners
+2006-09-10,0,False,Catalyst Pharmaceutical Partners
+2006-09-17,0,False,Catalyst Pharmaceutical Partners
+2006-09-24,70,False,Catalyst Pharmaceutical Partners
+2006-10-01,0,False,Catalyst Pharmaceutical Partners
+2006-10-08,0,False,Catalyst Pharmaceutical Partners
+2006-10-15,0,False,Catalyst Pharmaceutical Partners
+2006-10-22,0,False,Catalyst Pharmaceutical Partners
+2006-10-29,0,False,Catalyst Pharmaceutical Partners
+2006-11-05,0,False,Catalyst Pharmaceutical Partners
+2006-11-12,0,False,Catalyst Pharmaceutical Partners
+2006-11-19,0,False,Catalyst Pharmaceutical Partners
+2006-11-26,0,False,Catalyst Pharmaceutical Partners
+2006-12-03,0,False,Catalyst Pharmaceutical Partners
+2006-12-10,0,False,Catalyst Pharmaceutical Partners
+2006-12-17,0,False,Catalyst Pharmaceutical Partners
+2006-12-24,0,False,Catalyst Pharmaceutical Partners
+2006-12-31,0,False,Catalyst Pharmaceutical Partners
+2007-01-07,0,False,Catalyst Pharmaceutical Partners
+2007-01-14,0,False,Catalyst Pharmaceutical Partners
+2007-01-21,0,False,Catalyst Pharmaceutical Partners
+2007-01-28,58,False,Catalyst Pharmaceutical Partners
+2007-02-04,0,False,Catalyst Pharmaceutical Partners
+2007-02-11,0,False,Catalyst Pharmaceutical Partners
+2007-02-18,0,False,Catalyst Pharmaceutical Partners
+2007-02-25,0,False,Catalyst Pharmaceutical Partners
+2007-03-04,0,False,Catalyst Pharmaceutical Partners
+2007-03-11,56,False,Catalyst Pharmaceutical Partners
+2007-03-18,0,False,Catalyst Pharmaceutical Partners
+2007-03-25,0,False,Catalyst Pharmaceutical Partners
+2007-04-01,0,False,Catalyst Pharmaceutical Partners
+2007-04-08,0,False,Catalyst Pharmaceutical Partners
+2007-04-15,0,False,Catalyst Pharmaceutical Partners
+2007-04-22,0,False,Catalyst Pharmaceutical Partners
+2007-04-29,0,False,Catalyst Pharmaceutical Partners
+2007-05-06,0,False,Catalyst Pharmaceutical Partners
+2007-05-13,0,False,Catalyst Pharmaceutical Partners
+2007-05-20,0,False,Catalyst Pharmaceutical Partners
+2007-05-27,100,False,Catalyst Pharmaceutical Partners
+2007-06-03,0,False,Catalyst Pharmaceutical Partners
+2007-06-10,0,False,Catalyst Pharmaceutical Partners
+2007-06-17,0,False,Catalyst Pharmaceutical Partners
+2007-06-24,49,False,Catalyst Pharmaceutical Partners
+2007-07-01,0,False,Catalyst Pharmaceutical Partners
+2007-07-08,0,False,Catalyst Pharmaceutical Partners
+2007-07-15,0,False,Catalyst Pharmaceutical Partners
+2007-07-22,0,False,Catalyst Pharmaceutical Partners
+2007-07-29,0,False,Catalyst Pharmaceutical Partners
+2007-08-05,51,False,Catalyst Pharmaceutical Partners
+2006-08-13,53,False,Canadian Solar
+2006-08-20,42,False,Canadian Solar
+2006-08-27,56,False,Canadian Solar
+2006-09-03,25,False,Canadian Solar
+2006-09-10,31,False,Canadian Solar
+2006-09-17,31,False,Canadian Solar
+2006-09-24,8,False,Canadian Solar
+2006-10-01,39,False,Canadian Solar
+2006-10-08,23,False,Canadian Solar
+2006-10-15,37,False,Canadian Solar
+2006-10-22,44,False,Canadian Solar
+2006-10-29,59,False,Canadian Solar
+2006-11-05,99,False,Canadian Solar
+2006-11-12,49,False,Canadian Solar
+2006-11-19,22,False,Canadian Solar
+2006-11-26,48,False,Canadian Solar
+2006-12-03,28,False,Canadian Solar
+2006-12-10,14,False,Canadian Solar
+2006-12-17,30,False,Canadian Solar
+2006-12-24,35,False,Canadian Solar
+2006-12-31,15,False,Canadian Solar
+2007-01-07,53,False,Canadian Solar
+2007-01-14,19,False,Canadian Solar
+2007-01-21,38,False,Canadian Solar
+2007-01-28,76,False,Canadian Solar
+2007-02-04,56,False,Canadian Solar
+2007-02-11,37,False,Canadian Solar
+2007-02-18,51,False,Canadian Solar
+2007-02-25,42,False,Canadian Solar
+2007-03-04,24,False,Canadian Solar
+2007-03-11,24,False,Canadian Solar
+2007-03-18,53,False,Canadian Solar
+2007-03-25,36,False,Canadian Solar
+2007-04-01,38,False,Canadian Solar
+2007-04-08,30,False,Canadian Solar
+2007-04-15,100,False,Canadian Solar
+2007-04-22,52,False,Canadian Solar
+2007-04-29,35,False,Canadian Solar
+2007-05-06,38,False,Canadian Solar
+2007-05-13,49,False,Canadian Solar
+2007-05-20,86,False,Canadian Solar
+2007-05-27,60,False,Canadian Solar
+2007-06-03,64,False,Canadian Solar
+2007-06-10,21,False,Canadian Solar
+2007-06-17,27,False,Canadian Solar
+2007-06-24,48,False,Canadian Solar
+2007-07-01,60,False,Canadian Solar
+2007-07-08,66,False,Canadian Solar
+2007-07-15,22,False,Canadian Solar
+2007-07-22,50,False,Canadian Solar
+2007-07-29,54,False,Canadian Solar
+2007-08-05,38,False,Canadian Solar

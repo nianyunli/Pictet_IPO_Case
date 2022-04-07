@@ -1,0 +1,159 @@
+date,SVI,isPartial,Issuer
+2011-01-16,34,False,Zipcar
+2011-01-23,34,False,Zipcar
+2011-01-30,37,False,Zipcar
+2011-02-06,33,False,Zipcar
+2011-02-13,36,False,Zipcar
+2011-02-20,34,False,Zipcar
+2011-02-27,37,False,Zipcar
+2011-03-06,32,False,Zipcar
+2011-03-13,34,False,Zipcar
+2011-03-20,35,False,Zipcar
+2011-03-27,35,False,Zipcar
+2011-04-03,40,False,Zipcar
+2011-04-10,100,False,Zipcar
+2011-04-17,50,False,Zipcar
+2011-04-24,45,False,Zipcar
+2011-05-01,44,False,Zipcar
+2011-05-08,44,False,Zipcar
+2011-05-15,44,False,Zipcar
+2011-05-22,38,False,Zipcar
+2011-05-29,40,False,Zipcar
+2011-06-05,42,False,Zipcar
+2011-06-12,37,False,Zipcar
+2011-06-19,40,False,Zipcar
+2011-06-26,43,False,Zipcar
+2011-07-03,37,False,Zipcar
+2011-07-10,45,False,Zipcar
+2011-07-17,43,False,Zipcar
+2011-07-24,39,False,Zipcar
+2011-07-31,42,False,Zipcar
+2011-08-07,42,False,Zipcar
+2011-08-14,42,False,Zipcar
+2011-08-21,55,False,Zipcar
+2011-08-28,54,False,Zipcar
+2011-09-04,44,False,Zipcar
+2011-09-11,42,False,Zipcar
+2011-09-18,40,False,Zipcar
+2011-09-25,45,False,Zipcar
+2011-10-02,46,False,Zipcar
+2011-10-09,42,False,Zipcar
+2011-10-16,42,False,Zipcar
+2011-10-23,43,False,Zipcar
+2011-10-30,40,False,Zipcar
+2011-11-06,41,False,Zipcar
+2011-11-13,41,False,Zipcar
+2011-11-20,37,False,Zipcar
+2011-11-27,39,False,Zipcar
+2011-12-04,38,False,Zipcar
+2011-12-11,35,False,Zipcar
+2011-12-18,32,False,Zipcar
+2011-12-25,35,False,Zipcar
+2012-01-01,34,False,Zipcar
+2012-01-08,35,False,Zipcar
+2011-01-16,33,False,Ellie Mae
+2011-01-23,45,False,Ellie Mae
+2011-01-30,56,False,Ellie Mae
+2011-02-06,74,False,Ellie Mae
+2011-02-13,60,False,Ellie Mae
+2011-02-20,32,False,Ellie Mae
+2011-02-27,60,False,Ellie Mae
+2011-03-06,28,False,Ellie Mae
+2011-03-13,65,False,Ellie Mae
+2011-03-20,24,False,Ellie Mae
+2011-03-27,72,False,Ellie Mae
+2011-04-03,60,False,Ellie Mae
+2011-04-10,84,False,Ellie Mae
+2011-04-17,42,False,Ellie Mae
+2011-04-24,50,False,Ellie Mae
+2011-05-01,100,False,Ellie Mae
+2011-05-08,56,False,Ellie Mae
+2011-05-15,67,False,Ellie Mae
+2011-05-22,40,False,Ellie Mae
+2011-05-29,53,False,Ellie Mae
+2011-06-05,52,False,Ellie Mae
+2011-06-12,36,False,Ellie Mae
+2011-06-19,55,False,Ellie Mae
+2011-06-26,32,False,Ellie Mae
+2011-07-03,49,False,Ellie Mae
+2011-07-10,57,False,Ellie Mae
+2011-07-17,20,False,Ellie Mae
+2011-07-24,48,False,Ellie Mae
+2011-07-31,53,False,Ellie Mae
+2011-08-07,62,False,Ellie Mae
+2011-08-14,48,False,Ellie Mae
+2011-08-21,31,False,Ellie Mae
+2011-08-28,64,False,Ellie Mae
+2011-09-04,44,False,Ellie Mae
+2011-09-11,37,False,Ellie Mae
+2011-09-18,51,False,Ellie Mae
+2011-09-25,43,False,Ellie Mae
+2011-10-02,61,False,Ellie Mae
+2011-10-09,79,False,Ellie Mae
+2011-10-16,71,False,Ellie Mae
+2011-10-23,45,False,Ellie Mae
+2011-10-30,46,False,Ellie Mae
+2011-11-06,42,False,Ellie Mae
+2011-11-13,58,False,Ellie Mae
+2011-11-20,21,False,Ellie Mae
+2011-11-27,41,False,Ellie Mae
+2011-12-04,40,False,Ellie Mae
+2011-12-11,47,False,Ellie Mae
+2011-12-18,43,False,Ellie Mae
+2011-12-25,98,False,Ellie Mae
+2012-01-01,62,False,Ellie Mae
+2012-01-08,39,False,Ellie Mae
+2012-01-15,70,False,Ellie Mae
+2011-01-16,26,False,STAG Industrial
+2011-01-23,26,False,STAG Industrial
+2011-01-30,25,False,STAG Industrial
+2011-02-06,26,False,STAG Industrial
+2011-02-13,0,False,STAG Industrial
+2011-02-20,0,False,STAG Industrial
+2011-02-27,0,False,STAG Industrial
+2011-03-06,25,False,STAG Industrial
+2011-03-13,26,False,STAG Industrial
+2011-03-20,0,False,STAG Industrial
+2011-03-27,0,False,STAG Industrial
+2011-04-03,76,False,STAG Industrial
+2011-04-10,51,False,STAG Industrial
+2011-04-17,53,False,STAG Industrial
+2011-04-24,78,False,STAG Industrial
+2011-05-01,76,False,STAG Industrial
+2011-05-08,0,False,STAG Industrial
+2011-05-15,99,False,STAG Industrial
+2011-05-22,0,False,STAG Industrial
+2011-05-29,26,False,STAG Industrial
+2011-06-05,76,False,STAG Industrial
+2011-06-12,25,False,STAG Industrial
+2011-06-19,25,False,STAG Industrial
+2011-06-26,25,False,STAG Industrial
+2011-07-03,0,False,STAG Industrial
+2011-07-10,26,False,STAG Industrial
+2011-07-17,25,False,STAG Industrial
+2011-07-24,51,False,STAG Industrial
+2011-07-31,51,False,STAG Industrial
+2011-08-07,49,False,STAG Industrial
+2011-08-14,100,False,STAG Industrial
+2011-08-21,24,False,STAG Industrial
+2011-08-28,0,False,STAG Industrial
+2011-09-04,23,False,STAG Industrial
+2011-09-11,0,False,STAG Industrial
+2011-09-18,23,False,STAG Industrial
+2011-09-25,0,False,STAG Industrial
+2011-10-02,23,False,STAG Industrial
+2011-10-09,44,False,STAG Industrial
+2011-10-16,0,False,STAG Industrial
+2011-10-23,88,False,STAG Industrial
+2011-10-30,44,False,STAG Industrial
+2011-11-06,44,False,STAG Industrial
+2011-11-13,43,False,STAG Industrial
+2011-11-20,22,False,STAG Industrial
+2011-11-27,0,False,STAG Industrial
+2011-12-04,42,False,STAG Industrial
+2011-12-11,0,False,STAG Industrial
+2011-12-18,23,False,STAG Industrial
+2011-12-25,0,False,STAG Industrial
+2012-01-01,65,False,STAG Industrial
+2012-01-08,62,False,STAG Industrial
+2012-01-15,20,False,STAG Industrial

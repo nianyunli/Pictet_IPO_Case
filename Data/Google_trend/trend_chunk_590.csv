@@ -1,0 +1,261 @@
+date,SVI,isPartial,Issuer
+2004-02-22,30,False,Blue Nile
+2004-02-29,44,False,Blue Nile
+2004-03-07,36,False,Blue Nile
+2004-03-14,31,False,Blue Nile
+2004-03-21,55,False,Blue Nile
+2004-03-28,46,False,Blue Nile
+2004-04-04,43,False,Blue Nile
+2004-04-11,28,False,Blue Nile
+2004-04-18,40,False,Blue Nile
+2004-04-25,49,False,Blue Nile
+2004-05-02,57,False,Blue Nile
+2004-05-09,66,False,Blue Nile
+2004-05-16,74,False,Blue Nile
+2004-05-23,55,False,Blue Nile
+2004-05-30,34,False,Blue Nile
+2004-06-06,53,False,Blue Nile
+2004-06-13,49,False,Blue Nile
+2004-06-20,33,False,Blue Nile
+2004-06-27,43,False,Blue Nile
+2004-07-04,51,False,Blue Nile
+2004-07-11,51,False,Blue Nile
+2004-07-18,57,False,Blue Nile
+2004-07-25,59,False,Blue Nile
+2004-08-01,70,False,Blue Nile
+2004-08-08,80,False,Blue Nile
+2004-08-15,61,False,Blue Nile
+2004-08-22,63,False,Blue Nile
+2004-08-29,91,False,Blue Nile
+2004-09-05,64,False,Blue Nile
+2004-09-12,65,False,Blue Nile
+2004-09-19,66,False,Blue Nile
+2004-09-26,60,False,Blue Nile
+2004-10-03,45,False,Blue Nile
+2004-10-10,62,False,Blue Nile
+2004-10-17,58,False,Blue Nile
+2004-10-24,64,False,Blue Nile
+2004-10-31,62,False,Blue Nile
+2004-11-07,73,False,Blue Nile
+2004-11-14,62,False,Blue Nile
+2004-11-21,64,False,Blue Nile
+2004-11-28,88,False,Blue Nile
+2004-12-05,80,False,Blue Nile
+2004-12-12,100,False,Blue Nile
+2004-12-19,83,False,Blue Nile
+2004-12-26,71,False,Blue Nile
+2005-01-02,54,False,Blue Nile
+2005-01-09,60,False,Blue Nile
+2005-01-16,54,False,Blue Nile
+2005-01-23,48,False,Blue Nile
+2005-01-30,68,False,Blue Nile
+2005-02-06,72,False,Blue Nile
+2005-02-13,62,False,Blue Nile
+2004-02-22,76,False,Animas
+2004-02-29,38,False,Animas
+2004-03-07,55,False,Animas
+2004-03-14,33,False,Animas
+2004-03-21,79,False,Animas
+2004-03-28,65,False,Animas
+2004-04-04,75,False,Animas
+2004-04-11,90,False,Animas
+2004-04-18,56,False,Animas
+2004-04-25,53,False,Animas
+2004-05-02,50,False,Animas
+2004-05-09,58,False,Animas
+2004-05-16,49,False,Animas
+2004-05-23,72,False,Animas
+2004-05-30,47,False,Animas
+2004-06-06,73,False,Animas
+2004-06-13,55,False,Animas
+2004-06-20,64,False,Animas
+2004-06-27,50,False,Animas
+2004-07-04,43,False,Animas
+2004-07-11,46,False,Animas
+2004-07-18,40,False,Animas
+2004-07-25,43,False,Animas
+2004-08-01,43,False,Animas
+2004-08-08,46,False,Animas
+2004-08-15,80,False,Animas
+2004-08-22,83,False,Animas
+2004-08-29,71,False,Animas
+2004-09-05,90,False,Animas
+2004-09-12,53,False,Animas
+2004-09-19,51,False,Animas
+2004-09-26,39,False,Animas
+2004-10-03,55,False,Animas
+2004-10-10,62,False,Animas
+2004-10-17,58,False,Animas
+2004-10-24,75,False,Animas
+2004-10-31,100,False,Animas
+2004-11-07,64,False,Animas
+2004-11-14,59,False,Animas
+2004-11-21,52,False,Animas
+2004-11-28,85,False,Animas
+2004-12-05,63,False,Animas
+2004-12-12,56,False,Animas
+2004-12-19,40,False,Animas
+2004-12-26,66,False,Animas
+2005-01-02,61,False,Animas
+2005-01-09,41,False,Animas
+2005-01-16,56,False,Animas
+2005-01-23,53,False,Animas
+2005-01-30,47,False,Animas
+2005-02-06,61,False,Animas
+2005-02-13,64,False,Animas
+2004-02-29,21,False,Genworth Financial
+2004-03-07,0,False,Genworth Financial
+2004-03-14,24,False,Genworth Financial
+2004-03-21,23,False,Genworth Financial
+2004-03-28,0,False,Genworth Financial
+2004-04-04,0,False,Genworth Financial
+2004-04-11,0,False,Genworth Financial
+2004-04-18,0,False,Genworth Financial
+2004-04-25,0,False,Genworth Financial
+2004-05-02,34,False,Genworth Financial
+2004-05-09,11,False,Genworth Financial
+2004-05-16,11,False,Genworth Financial
+2004-05-23,100,False,Genworth Financial
+2004-05-30,35,False,Genworth Financial
+2004-06-06,45,False,Genworth Financial
+2004-06-13,56,False,Genworth Financial
+2004-06-20,11,False,Genworth Financial
+2004-06-27,46,False,Genworth Financial
+2004-07-04,58,False,Genworth Financial
+2004-07-11,27,False,Genworth Financial
+2004-07-18,70,False,Genworth Financial
+2004-07-25,23,False,Genworth Financial
+2004-08-01,12,False,Genworth Financial
+2004-08-08,46,False,Genworth Financial
+2004-08-15,23,False,Genworth Financial
+2004-08-22,32,False,Genworth Financial
+2004-08-29,42,False,Genworth Financial
+2004-09-05,31,False,Genworth Financial
+2004-09-12,20,False,Genworth Financial
+2004-09-19,20,False,Genworth Financial
+2004-09-26,59,False,Genworth Financial
+2004-10-03,39,False,Genworth Financial
+2004-10-10,35,False,Genworth Financial
+2004-10-17,47,False,Genworth Financial
+2004-10-24,66,False,Genworth Financial
+2004-10-31,19,False,Genworth Financial
+2004-11-07,14,False,Genworth Financial
+2004-11-14,21,False,Genworth Financial
+2004-11-21,38,False,Genworth Financial
+2004-11-28,9,False,Genworth Financial
+2004-12-05,80,False,Genworth Financial
+2004-12-12,63,False,Genworth Financial
+2004-12-19,75,False,Genworth Financial
+2004-12-26,25,False,Genworth Financial
+2005-01-02,45,False,Genworth Financial
+2005-01-09,66,False,Genworth Financial
+2005-01-16,49,False,Genworth Financial
+2005-01-23,33,False,Genworth Financial
+2005-01-30,40,False,Genworth Financial
+2005-02-06,33,False,Genworth Financial
+2005-02-13,32,False,Genworth Financial
+2005-02-20,17,False,Genworth Financial
+2004-02-29,0,False,ACADIA Pharmaceuticals
+2004-03-07,0,False,ACADIA Pharmaceuticals
+2004-03-14,0,False,ACADIA Pharmaceuticals
+2004-03-21,0,False,ACADIA Pharmaceuticals
+2004-03-28,0,False,ACADIA Pharmaceuticals
+2004-04-04,0,False,ACADIA Pharmaceuticals
+2004-04-11,0,False,ACADIA Pharmaceuticals
+2004-04-18,0,False,ACADIA Pharmaceuticals
+2004-04-25,21,False,ACADIA Pharmaceuticals
+2004-05-02,41,False,ACADIA Pharmaceuticals
+2004-05-09,20,False,ACADIA Pharmaceuticals
+2004-05-16,20,False,ACADIA Pharmaceuticals
+2004-05-23,100,False,ACADIA Pharmaceuticals
+2004-05-30,21,False,ACADIA Pharmaceuticals
+2004-06-06,0,False,ACADIA Pharmaceuticals
+2004-06-13,40,False,ACADIA Pharmaceuticals
+2004-06-20,0,False,ACADIA Pharmaceuticals
+2004-06-27,0,False,ACADIA Pharmaceuticals
+2004-07-04,21,False,ACADIA Pharmaceuticals
+2004-07-11,25,False,ACADIA Pharmaceuticals
+2004-07-18,0,False,ACADIA Pharmaceuticals
+2004-07-25,0,False,ACADIA Pharmaceuticals
+2004-08-01,21,False,ACADIA Pharmaceuticals
+2004-08-08,0,False,ACADIA Pharmaceuticals
+2004-08-15,0,False,ACADIA Pharmaceuticals
+2004-08-22,0,False,ACADIA Pharmaceuticals
+2004-08-29,19,False,ACADIA Pharmaceuticals
+2004-09-05,0,False,ACADIA Pharmaceuticals
+2004-09-12,36,False,ACADIA Pharmaceuticals
+2004-09-19,53,False,ACADIA Pharmaceuticals
+2004-09-26,35,False,ACADIA Pharmaceuticals
+2004-10-03,0,False,ACADIA Pharmaceuticals
+2004-10-10,0,False,ACADIA Pharmaceuticals
+2004-10-17,34,False,ACADIA Pharmaceuticals
+2004-10-24,20,False,ACADIA Pharmaceuticals
+2004-10-31,34,False,ACADIA Pharmaceuticals
+2004-11-07,25,False,ACADIA Pharmaceuticals
+2004-11-14,38,False,ACADIA Pharmaceuticals
+2004-11-21,0,False,ACADIA Pharmaceuticals
+2004-11-28,0,False,ACADIA Pharmaceuticals
+2004-12-05,16,False,ACADIA Pharmaceuticals
+2004-12-12,0,False,ACADIA Pharmaceuticals
+2004-12-19,0,False,ACADIA Pharmaceuticals
+2004-12-26,0,False,ACADIA Pharmaceuticals
+2005-01-02,48,False,ACADIA Pharmaceuticals
+2005-01-09,15,False,ACADIA Pharmaceuticals
+2005-01-16,0,False,ACADIA Pharmaceuticals
+2005-01-23,29,False,ACADIA Pharmaceuticals
+2005-01-30,0,False,ACADIA Pharmaceuticals
+2005-02-06,30,False,ACADIA Pharmaceuticals
+2005-02-13,14,False,ACADIA Pharmaceuticals
+2005-02-20,15,False,ACADIA Pharmaceuticals
+2004-02-29,0,False,Angio Dynamics
+2004-03-07,0,False,Angio Dynamics
+2004-03-14,54,False,Angio Dynamics
+2004-03-21,0,False,Angio Dynamics
+2004-03-28,0,False,Angio Dynamics
+2004-04-04,0,False,Angio Dynamics
+2004-04-11,0,False,Angio Dynamics
+2004-04-18,50,False,Angio Dynamics
+2004-04-25,0,False,Angio Dynamics
+2004-05-02,0,False,Angio Dynamics
+2004-05-09,0,False,Angio Dynamics
+2004-05-16,0,False,Angio Dynamics
+2004-05-23,0,False,Angio Dynamics
+2004-05-30,0,False,Angio Dynamics
+2004-06-06,50,False,Angio Dynamics
+2004-06-13,100,False,Angio Dynamics
+2004-06-20,0,False,Angio Dynamics
+2004-06-27,0,False,Angio Dynamics
+2004-07-04,0,False,Angio Dynamics
+2004-07-11,61,False,Angio Dynamics
+2004-07-18,0,False,Angio Dynamics
+2004-07-25,0,False,Angio Dynamics
+2004-08-01,0,False,Angio Dynamics
+2004-08-08,0,False,Angio Dynamics
+2004-08-15,0,False,Angio Dynamics
+2004-08-22,0,False,Angio Dynamics
+2004-08-29,0,False,Angio Dynamics
+2004-09-05,0,False,Angio Dynamics
+2004-09-12,45,False,Angio Dynamics
+2004-09-19,0,False,Angio Dynamics
+2004-09-26,0,False,Angio Dynamics
+2004-10-03,0,False,Angio Dynamics
+2004-10-10,0,False,Angio Dynamics
+2004-10-17,0,False,Angio Dynamics
+2004-10-24,0,False,Angio Dynamics
+2004-10-31,0,False,Angio Dynamics
+2004-11-07,62,False,Angio Dynamics
+2004-11-14,0,False,Angio Dynamics
+2004-11-21,0,False,Angio Dynamics
+2004-11-28,0,False,Angio Dynamics
+2004-12-05,0,False,Angio Dynamics
+2004-12-12,0,False,Angio Dynamics
+2004-12-19,0,False,Angio Dynamics
+2004-12-26,0,False,Angio Dynamics
+2005-01-02,40,False,Angio Dynamics
+2005-01-09,37,False,Angio Dynamics
+2005-01-16,0,False,Angio Dynamics
+2005-01-23,36,False,Angio Dynamics
+2005-01-30,0,False,Angio Dynamics
+2005-02-06,37,False,Angio Dynamics
+2005-02-13,0,False,Angio Dynamics
+2005-02-20,0,False,Angio Dynamics

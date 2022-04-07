@@ -1,0 +1,261 @@
+date,SVI,isPartial,Issuer
+2004-09-12,0,False,First State Financial
+2004-09-19,20,False,First State Financial
+2004-09-26,0,False,First State Financial
+2004-10-03,41,False,First State Financial
+2004-10-10,25,False,First State Financial
+2004-10-17,39,False,First State Financial
+2004-10-24,23,False,First State Financial
+2004-10-31,40,False,First State Financial
+2004-11-07,0,False,First State Financial
+2004-11-14,0,False,First State Financial
+2004-11-21,0,False,First State Financial
+2004-11-28,19,False,First State Financial
+2004-12-05,37,False,First State Financial
+2004-12-12,19,False,First State Financial
+2004-12-19,0,False,First State Financial
+2004-12-26,0,False,First State Financial
+2005-01-02,38,False,First State Financial
+2005-01-09,35,False,First State Financial
+2005-01-16,52,False,First State Financial
+2005-01-23,0,False,First State Financial
+2005-01-30,17,False,First State Financial
+2005-02-06,34,False,First State Financial
+2005-02-13,100,False,First State Financial
+2005-02-20,0,False,First State Financial
+2005-02-27,17,False,First State Financial
+2005-03-06,16,False,First State Financial
+2005-03-13,16,False,First State Financial
+2005-03-20,0,False,First State Financial
+2005-03-27,46,False,First State Financial
+2005-04-03,23,False,First State Financial
+2005-04-10,16,False,First State Financial
+2005-04-17,16,False,First State Financial
+2005-04-24,46,False,First State Financial
+2005-05-01,32,False,First State Financial
+2005-05-08,15,False,First State Financial
+2005-05-15,0,False,First State Financial
+2005-05-22,0,False,First State Financial
+2005-05-29,0,False,First State Financial
+2005-06-05,30,False,First State Financial
+2005-06-12,31,False,First State Financial
+2005-06-19,16,False,First State Financial
+2005-06-26,0,False,First State Financial
+2005-07-03,16,False,First State Financial
+2005-07-10,16,False,First State Financial
+2005-07-17,15,False,First State Financial
+2005-07-24,16,False,First State Financial
+2005-07-31,0,False,First State Financial
+2005-08-07,0,False,First State Financial
+2005-08-14,15,False,First State Financial
+2005-08-21,0,False,First State Financial
+2005-08-28,57,False,First State Financial
+2005-09-04,42,False,First State Financial
+2004-09-12,9,False,Bill Barrett
+2004-09-19,18,False,Bill Barrett
+2004-09-26,28,False,Bill Barrett
+2004-10-03,28,False,Bill Barrett
+2004-10-10,11,False,Bill Barrett
+2004-10-17,9,False,Bill Barrett
+2004-10-24,31,False,Bill Barrett
+2004-10-31,27,False,Bill Barrett
+2004-11-07,52,False,Bill Barrett
+2004-11-14,10,False,Bill Barrett
+2004-11-21,18,False,Bill Barrett
+2004-11-28,25,False,Bill Barrett
+2004-12-05,100,False,Bill Barrett
+2004-12-12,60,False,Bill Barrett
+2004-12-19,20,False,Bill Barrett
+2004-12-26,0,False,Bill Barrett
+2005-01-02,8,False,Bill Barrett
+2005-01-09,16,False,Bill Barrett
+2005-01-16,15,False,Bill Barrett
+2005-01-23,23,False,Bill Barrett
+2005-01-30,8,False,Bill Barrett
+2005-02-06,15,False,Bill Barrett
+2005-02-13,15,False,Bill Barrett
+2005-02-20,16,False,Bill Barrett
+2005-02-27,8,False,Bill Barrett
+2005-03-06,14,False,Bill Barrett
+2005-03-13,14,False,Bill Barrett
+2005-03-20,0,False,Bill Barrett
+2005-03-27,7,False,Bill Barrett
+2005-04-03,0,False,Bill Barrett
+2005-04-10,7,False,Bill Barrett
+2005-04-17,0,False,Bill Barrett
+2005-04-24,7,False,Bill Barrett
+2005-05-01,22,False,Bill Barrett
+2005-05-08,14,False,Bill Barrett
+2005-05-15,0,False,Bill Barrett
+2005-05-22,14,False,Bill Barrett
+2005-05-29,21,False,Bill Barrett
+2005-06-05,0,False,Bill Barrett
+2005-06-12,21,False,Bill Barrett
+2005-06-19,14,False,Bill Barrett
+2005-06-26,7,False,Bill Barrett
+2005-07-03,0,False,Bill Barrett
+2005-07-10,7,False,Bill Barrett
+2005-07-17,14,False,Bill Barrett
+2005-07-24,7,False,Bill Barrett
+2005-07-31,21,False,Bill Barrett
+2005-08-07,34,False,Bill Barrett
+2005-08-14,14,False,Bill Barrett
+2005-08-21,16,False,Bill Barrett
+2005-08-28,13,False,Bill Barrett
+2005-09-04,13,False,Bill Barrett
+2004-09-12,37,False,HouseValues
+2004-09-19,0,False,HouseValues
+2004-09-26,55,False,HouseValues
+2004-10-03,18,False,HouseValues
+2004-10-10,0,False,HouseValues
+2004-10-17,0,False,HouseValues
+2004-10-24,21,False,HouseValues
+2004-10-31,18,False,HouseValues
+2004-11-07,26,False,HouseValues
+2004-11-14,20,False,HouseValues
+2004-11-21,18,False,HouseValues
+2004-11-28,83,False,HouseValues
+2004-12-05,83,False,HouseValues
+2004-12-12,68,False,HouseValues
+2004-12-19,0,False,HouseValues
+2004-12-26,23,False,HouseValues
+2005-01-02,17,False,HouseValues
+2005-01-09,46,False,HouseValues
+2005-01-16,61,False,HouseValues
+2005-01-23,61,False,HouseValues
+2005-01-30,15,False,HouseValues
+2005-02-06,15,False,HouseValues
+2005-02-13,30,False,HouseValues
+2005-02-20,47,False,HouseValues
+2005-02-27,15,False,HouseValues
+2005-03-06,42,False,HouseValues
+2005-03-13,14,False,HouseValues
+2005-03-20,47,False,HouseValues
+2005-03-27,41,False,HouseValues
+2005-04-03,41,False,HouseValues
+2005-04-10,0,False,HouseValues
+2005-04-17,28,False,HouseValues
+2005-04-24,41,False,HouseValues
+2005-05-01,100,False,HouseValues
+2005-05-08,0,False,HouseValues
+2005-05-15,40,False,HouseValues
+2005-05-22,56,False,HouseValues
+2005-05-29,14,False,HouseValues
+2005-06-05,27,False,HouseValues
+2005-06-12,27,False,HouseValues
+2005-06-19,0,False,HouseValues
+2005-06-26,28,False,HouseValues
+2005-07-03,56,False,HouseValues
+2005-07-10,14,False,HouseValues
+2005-07-17,82,False,HouseValues
+2005-07-24,28,False,HouseValues
+2005-07-31,42,False,HouseValues
+2005-08-07,68,False,HouseValues
+2005-08-14,0,False,HouseValues
+2005-08-21,15,False,HouseValues
+2005-08-28,25,False,HouseValues
+2005-09-04,25,False,HouseValues
+2004-09-12,0,False,Adeza Biomedical
+2004-09-19,0,False,Adeza Biomedical
+2004-09-26,0,False,Adeza Biomedical
+2004-10-03,0,False,Adeza Biomedical
+2004-10-10,0,False,Adeza Biomedical
+2004-10-17,0,False,Adeza Biomedical
+2004-10-24,0,False,Adeza Biomedical
+2004-10-31,0,False,Adeza Biomedical
+2004-11-07,78,False,Adeza Biomedical
+2004-11-14,60,False,Adeza Biomedical
+2004-11-21,0,False,Adeza Biomedical
+2004-11-28,100,False,Adeza Biomedical
+2004-12-05,50,False,Adeza Biomedical
+2004-12-12,0,False,Adeza Biomedical
+2004-12-19,0,False,Adeza Biomedical
+2004-12-26,0,False,Adeza Biomedical
+2005-01-02,0,False,Adeza Biomedical
+2005-01-09,0,False,Adeza Biomedical
+2005-01-16,0,False,Adeza Biomedical
+2005-01-23,0,False,Adeza Biomedical
+2005-01-30,45,False,Adeza Biomedical
+2005-02-06,0,False,Adeza Biomedical
+2005-02-13,0,False,Adeza Biomedical
+2005-02-20,0,False,Adeza Biomedical
+2005-02-27,45,False,Adeza Biomedical
+2005-03-06,0,False,Adeza Biomedical
+2005-03-13,0,False,Adeza Biomedical
+2005-03-20,0,False,Adeza Biomedical
+2005-03-27,0,False,Adeza Biomedical
+2005-04-03,62,False,Adeza Biomedical
+2005-04-10,42,False,Adeza Biomedical
+2005-04-17,42,False,Adeza Biomedical
+2005-04-24,0,False,Adeza Biomedical
+2005-05-01,0,False,Adeza Biomedical
+2005-05-08,81,False,Adeza Biomedical
+2005-05-15,0,False,Adeza Biomedical
+2005-05-22,0,False,Adeza Biomedical
+2005-05-29,0,False,Adeza Biomedical
+2005-06-05,0,False,Adeza Biomedical
+2005-06-12,0,False,Adeza Biomedical
+2005-06-19,0,False,Adeza Biomedical
+2005-06-26,0,False,Adeza Biomedical
+2005-07-03,0,False,Adeza Biomedical
+2005-07-10,0,False,Adeza Biomedical
+2005-07-17,41,False,Adeza Biomedical
+2005-07-24,0,False,Adeza Biomedical
+2005-07-31,42,False,Adeza Biomedical
+2005-08-07,0,False,Adeza Biomedical
+2005-08-14,41,False,Adeza Biomedical
+2005-08-21,0,False,Adeza Biomedical
+2005-08-28,0,False,Adeza Biomedical
+2005-09-04,0,False,Adeza Biomedical
+2004-09-12,36,False,Community Bancorp
+2004-09-19,35,False,Community Bancorp
+2004-09-26,53,False,Community Bancorp
+2004-10-03,53,False,Community Bancorp
+2004-10-10,43,False,Community Bancorp
+2004-10-17,51,False,Community Bancorp
+2004-10-24,20,False,Community Bancorp
+2004-10-31,17,False,Community Bancorp
+2004-11-07,100,False,Community Bancorp
+2004-11-14,19,False,Community Bancorp
+2004-11-21,17,False,Community Bancorp
+2004-11-28,64,False,Community Bancorp
+2004-12-05,48,False,Community Bancorp
+2004-12-12,33,False,Community Bancorp
+2004-12-19,58,False,Community Bancorp
+2004-12-26,68,False,Community Bancorp
+2005-01-02,49,False,Community Bancorp
+2005-01-09,0,False,Community Bancorp
+2005-01-16,0,False,Community Bancorp
+2005-01-23,15,False,Community Bancorp
+2005-01-30,0,False,Community Bancorp
+2005-02-06,30,False,Community Bancorp
+2005-02-13,29,False,Community Bancorp
+2005-02-20,30,False,Community Bancorp
+2005-02-27,14,False,Community Bancorp
+2005-03-06,41,False,Community Bancorp
+2005-03-13,27,False,Community Bancorp
+2005-03-20,0,False,Community Bancorp
+2005-03-27,27,False,Community Bancorp
+2005-04-03,20,False,Community Bancorp
+2005-04-10,41,False,Community Bancorp
+2005-04-17,14,False,Community Bancorp
+2005-04-24,53,False,Community Bancorp
+2005-05-01,14,False,Community Bancorp
+2005-05-08,0,False,Community Bancorp
+2005-05-15,13,False,Community Bancorp
+2005-05-22,54,False,Community Bancorp
+2005-05-29,0,False,Community Bancorp
+2005-06-05,13,False,Community Bancorp
+2005-06-12,26,False,Community Bancorp
+2005-06-19,82,False,Community Bancorp
+2005-06-26,14,False,Community Bancorp
+2005-07-03,27,False,Community Bancorp
+2005-07-10,27,False,Community Bancorp
+2005-07-17,27,False,Community Bancorp
+2005-07-24,0,False,Community Bancorp
+2005-07-31,40,False,Community Bancorp
+2005-08-07,26,False,Community Bancorp
+2005-08-14,0,False,Community Bancorp
+2005-08-21,30,False,Community Bancorp
+2005-08-28,37,False,Community Bancorp
+2005-09-04,12,False,Community Bancorp

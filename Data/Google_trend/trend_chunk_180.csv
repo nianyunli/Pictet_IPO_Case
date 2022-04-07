@@ -1,0 +1,261 @@
+date,SVI,isPartial,Issuer
+2016-06-26,83,False,Valvoline
+2016-07-03,80,False,Valvoline
+2016-07-10,84,False,Valvoline
+2016-07-17,81,False,Valvoline
+2016-07-24,83,False,Valvoline
+2016-07-31,80,False,Valvoline
+2016-08-07,79,False,Valvoline
+2016-08-14,82,False,Valvoline
+2016-08-21,78,False,Valvoline
+2016-08-28,79,False,Valvoline
+2016-09-04,81,False,Valvoline
+2016-09-11,80,False,Valvoline
+2016-09-18,85,False,Valvoline
+2016-09-25,78,False,Valvoline
+2016-10-02,77,False,Valvoline
+2016-10-09,79,False,Valvoline
+2016-10-16,75,False,Valvoline
+2016-10-23,77,False,Valvoline
+2016-10-30,77,False,Valvoline
+2016-11-06,72,False,Valvoline
+2016-11-13,80,False,Valvoline
+2016-11-20,76,False,Valvoline
+2016-11-27,74,False,Valvoline
+2016-12-04,76,False,Valvoline
+2016-12-11,76,False,Valvoline
+2016-12-18,80,False,Valvoline
+2016-12-25,78,False,Valvoline
+2017-01-01,78,False,Valvoline
+2017-01-08,78,False,Valvoline
+2017-01-15,73,False,Valvoline
+2017-01-22,75,False,Valvoline
+2017-01-29,76,False,Valvoline
+2017-02-05,74,False,Valvoline
+2017-02-12,74,False,Valvoline
+2017-02-19,81,False,Valvoline
+2017-02-26,89,False,Valvoline
+2017-03-05,82,False,Valvoline
+2017-03-12,83,False,Valvoline
+2017-03-19,85,False,Valvoline
+2017-03-26,83,False,Valvoline
+2017-04-02,86,False,Valvoline
+2017-04-09,91,False,Valvoline
+2017-04-16,83,False,Valvoline
+2017-04-23,86,False,Valvoline
+2017-04-30,88,False,Valvoline
+2017-05-07,86,False,Valvoline
+2017-05-14,87,False,Valvoline
+2017-05-21,98,False,Valvoline
+2017-05-28,84,False,Valvoline
+2017-06-04,88,False,Valvoline
+2017-06-11,98,False,Valvoline
+2017-06-18,100,False,Valvoline
+2016-07-03,0,False,Fulgent Genetics
+2016-07-10,0,False,Fulgent Genetics
+2016-07-17,0,False,Fulgent Genetics
+2016-07-24,0,False,Fulgent Genetics
+2016-07-31,0,False,Fulgent Genetics
+2016-08-07,0,False,Fulgent Genetics
+2016-08-14,10,False,Fulgent Genetics
+2016-08-21,20,False,Fulgent Genetics
+2016-08-28,9,False,Fulgent Genetics
+2016-09-04,9,False,Fulgent Genetics
+2016-09-11,0,False,Fulgent Genetics
+2016-09-18,28,False,Fulgent Genetics
+2016-09-25,100,False,Fulgent Genetics
+2016-10-02,64,False,Fulgent Genetics
+2016-10-09,9,False,Fulgent Genetics
+2016-10-16,18,False,Fulgent Genetics
+2016-10-23,37,False,Fulgent Genetics
+2016-10-30,0,False,Fulgent Genetics
+2016-11-06,9,False,Fulgent Genetics
+2016-11-13,36,False,Fulgent Genetics
+2016-11-20,9,False,Fulgent Genetics
+2016-11-27,0,False,Fulgent Genetics
+2016-12-04,8,False,Fulgent Genetics
+2016-12-11,0,False,Fulgent Genetics
+2016-12-18,19,False,Fulgent Genetics
+2016-12-25,0,False,Fulgent Genetics
+2017-01-01,9,False,Fulgent Genetics
+2017-01-08,9,False,Fulgent Genetics
+2017-01-15,8,False,Fulgent Genetics
+2017-01-22,8,False,Fulgent Genetics
+2017-01-29,8,False,Fulgent Genetics
+2017-02-05,17,False,Fulgent Genetics
+2017-02-12,8,False,Fulgent Genetics
+2017-02-19,8,False,Fulgent Genetics
+2017-02-26,8,False,Fulgent Genetics
+2017-03-05,8,False,Fulgent Genetics
+2017-03-12,0,False,Fulgent Genetics
+2017-03-19,8,False,Fulgent Genetics
+2017-03-26,8,False,Fulgent Genetics
+2017-04-02,0,False,Fulgent Genetics
+2017-04-09,17,False,Fulgent Genetics
+2017-04-16,25,False,Fulgent Genetics
+2017-04-23,0,False,Fulgent Genetics
+2017-04-30,0,False,Fulgent Genetics
+2017-05-07,17,False,Fulgent Genetics
+2017-05-14,9,False,Fulgent Genetics
+2017-05-21,9,False,Fulgent Genetics
+2017-05-28,9,False,Fulgent Genetics
+2017-06-04,9,False,Fulgent Genetics
+2017-06-11,9,False,Fulgent Genetics
+2017-06-18,26,False,Fulgent Genetics
+2017-06-25,27,False,Fulgent Genetics
+2016-07-03,0,False,MedEquities Realty Trust
+2016-07-10,0,False,MedEquities Realty Trust
+2016-07-17,0,False,MedEquities Realty Trust
+2016-07-24,0,False,MedEquities Realty Trust
+2016-07-31,27,False,MedEquities Realty Trust
+2016-08-07,0,False,MedEquities Realty Trust
+2016-08-14,84,False,MedEquities Realty Trust
+2016-08-21,0,False,MedEquities Realty Trust
+2016-08-28,0,False,MedEquities Realty Trust
+2016-09-04,0,False,MedEquities Realty Trust
+2016-09-11,0,False,MedEquities Realty Trust
+2016-09-18,25,False,MedEquities Realty Trust
+2016-09-25,100,False,MedEquities Realty Trust
+2016-10-02,25,False,MedEquities Realty Trust
+2016-10-09,0,False,MedEquities Realty Trust
+2016-10-16,25,False,MedEquities Realty Trust
+2016-10-23,0,False,MedEquities Realty Trust
+2016-10-30,0,False,MedEquities Realty Trust
+2016-11-06,24,False,MedEquities Realty Trust
+2016-11-13,0,False,MedEquities Realty Trust
+2016-11-20,0,False,MedEquities Realty Trust
+2016-11-27,0,False,MedEquities Realty Trust
+2016-12-04,0,False,MedEquities Realty Trust
+2016-12-11,0,False,MedEquities Realty Trust
+2016-12-18,0,False,MedEquities Realty Trust
+2016-12-25,0,False,MedEquities Realty Trust
+2017-01-01,48,False,MedEquities Realty Trust
+2017-01-08,0,False,MedEquities Realty Trust
+2017-01-15,23,False,MedEquities Realty Trust
+2017-01-22,0,False,MedEquities Realty Trust
+2017-01-29,0,False,MedEquities Realty Trust
+2017-02-05,0,False,MedEquities Realty Trust
+2017-02-12,0,False,MedEquities Realty Trust
+2017-02-19,0,False,MedEquities Realty Trust
+2017-02-26,0,False,MedEquities Realty Trust
+2017-03-05,0,False,MedEquities Realty Trust
+2017-03-12,22,False,MedEquities Realty Trust
+2017-03-19,0,False,MedEquities Realty Trust
+2017-03-26,0,False,MedEquities Realty Trust
+2017-04-02,0,False,MedEquities Realty Trust
+2017-04-09,0,False,MedEquities Realty Trust
+2017-04-16,0,False,MedEquities Realty Trust
+2017-04-23,0,False,MedEquities Realty Trust
+2017-04-30,0,False,MedEquities Realty Trust
+2017-05-07,0,False,MedEquities Realty Trust
+2017-05-14,24,False,MedEquities Realty Trust
+2017-05-21,0,False,MedEquities Realty Trust
+2017-05-28,0,False,MedEquities Realty Trust
+2017-06-04,0,False,MedEquities Realty Trust
+2017-06-11,0,False,MedEquities Realty Trust
+2017-06-18,24,False,MedEquities Realty Trust
+2017-06-25,0,False,MedEquities Realty Trust
+2016-07-03,12,False,Tabula Rasa HealthCare
+2016-07-10,0,False,Tabula Rasa HealthCare
+2016-07-17,0,False,Tabula Rasa HealthCare
+2016-07-24,0,False,Tabula Rasa HealthCare
+2016-07-31,0,False,Tabula Rasa HealthCare
+2016-08-07,12,False,Tabula Rasa HealthCare
+2016-08-14,0,False,Tabula Rasa HealthCare
+2016-08-21,24,False,Tabula Rasa HealthCare
+2016-08-28,0,False,Tabula Rasa HealthCare
+2016-09-04,0,False,Tabula Rasa HealthCare
+2016-09-11,11,False,Tabula Rasa HealthCare
+2016-09-18,34,False,Tabula Rasa HealthCare
+2016-09-25,100,False,Tabula Rasa HealthCare
+2016-10-02,22,False,Tabula Rasa HealthCare
+2016-10-09,11,False,Tabula Rasa HealthCare
+2016-10-16,22,False,Tabula Rasa HealthCare
+2016-10-23,0,False,Tabula Rasa HealthCare
+2016-10-30,0,False,Tabula Rasa HealthCare
+2016-11-06,11,False,Tabula Rasa HealthCare
+2016-11-13,11,False,Tabula Rasa HealthCare
+2016-11-20,0,False,Tabula Rasa HealthCare
+2016-11-27,21,False,Tabula Rasa HealthCare
+2016-12-04,0,False,Tabula Rasa HealthCare
+2016-12-11,11,False,Tabula Rasa HealthCare
+2016-12-18,0,False,Tabula Rasa HealthCare
+2016-12-25,11,False,Tabula Rasa HealthCare
+2017-01-01,11,False,Tabula Rasa HealthCare
+2017-01-08,0,False,Tabula Rasa HealthCare
+2017-01-15,0,False,Tabula Rasa HealthCare
+2017-01-22,0,False,Tabula Rasa HealthCare
+2017-01-29,0,False,Tabula Rasa HealthCare
+2017-02-05,0,False,Tabula Rasa HealthCare
+2017-02-12,30,False,Tabula Rasa HealthCare
+2017-02-19,0,False,Tabula Rasa HealthCare
+2017-02-26,20,False,Tabula Rasa HealthCare
+2017-03-05,0,False,Tabula Rasa HealthCare
+2017-03-12,20,False,Tabula Rasa HealthCare
+2017-03-19,10,False,Tabula Rasa HealthCare
+2017-03-26,10,False,Tabula Rasa HealthCare
+2017-04-02,10,False,Tabula Rasa HealthCare
+2017-04-09,0,False,Tabula Rasa HealthCare
+2017-04-16,10,False,Tabula Rasa HealthCare
+2017-04-23,10,False,Tabula Rasa HealthCare
+2017-04-30,0,False,Tabula Rasa HealthCare
+2017-05-07,0,False,Tabula Rasa HealthCare
+2017-05-14,22,False,Tabula Rasa HealthCare
+2017-05-21,11,False,Tabula Rasa HealthCare
+2017-05-28,0,False,Tabula Rasa HealthCare
+2017-06-04,11,False,Tabula Rasa HealthCare
+2017-06-11,0,False,Tabula Rasa HealthCare
+2017-06-18,31,False,Tabula Rasa HealthCare
+2017-06-25,0,False,Tabula Rasa HealthCare
+2016-07-03,25,False,Nutanix
+2016-07-10,25,False,Nutanix
+2016-07-17,25,False,Nutanix
+2016-07-24,25,False,Nutanix
+2016-07-31,26,False,Nutanix
+2016-08-07,24,False,Nutanix
+2016-08-14,26,False,Nutanix
+2016-08-21,30,False,Nutanix
+2016-08-28,35,False,Nutanix
+2016-09-04,29,False,Nutanix
+2016-09-11,31,False,Nutanix
+2016-09-18,42,False,Nutanix
+2016-09-25,100,False,Nutanix
+2016-10-02,80,False,Nutanix
+2016-10-09,38,False,Nutanix
+2016-10-16,32,False,Nutanix
+2016-10-23,37,False,Nutanix
+2016-10-30,32,False,Nutanix
+2016-11-06,34,False,Nutanix
+2016-11-13,30,False,Nutanix
+2016-11-20,28,False,Nutanix
+2016-11-27,38,False,Nutanix
+2016-12-04,30,False,Nutanix
+2016-12-11,33,False,Nutanix
+2016-12-18,28,False,Nutanix
+2016-12-25,18,False,Nutanix
+2017-01-01,26,False,Nutanix
+2017-01-08,33,False,Nutanix
+2017-01-15,33,False,Nutanix
+2017-01-22,33,False,Nutanix
+2017-01-29,33,False,Nutanix
+2017-02-05,39,False,Nutanix
+2017-02-12,36,False,Nutanix
+2017-02-19,31,False,Nutanix
+2017-02-26,41,False,Nutanix
+2017-03-05,39,False,Nutanix
+2017-03-12,34,False,Nutanix
+2017-03-19,35,False,Nutanix
+2017-03-26,36,False,Nutanix
+2017-04-02,35,False,Nutanix
+2017-04-09,32,False,Nutanix
+2017-04-16,32,False,Nutanix
+2017-04-23,33,False,Nutanix
+2017-04-30,36,False,Nutanix
+2017-05-07,37,False,Nutanix
+2017-05-14,36,False,Nutanix
+2017-05-21,44,False,Nutanix
+2017-05-28,38,False,Nutanix
+2017-06-04,44,False,Nutanix
+2017-06-11,40,False,Nutanix
+2017-06-18,37,False,Nutanix
+2017-06-25,50,False,Nutanix

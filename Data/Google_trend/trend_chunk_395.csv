@@ -1,0 +1,209 @@
+date,SVI,isPartial,Issuer
+2010-03-28,0,False,Hudson Pacific Properties
+2010-04-04,0,False,Hudson Pacific Properties
+2010-04-11,0,False,Hudson Pacific Properties
+2010-04-18,0,False,Hudson Pacific Properties
+2010-04-25,0,False,Hudson Pacific Properties
+2010-05-02,25,False,Hudson Pacific Properties
+2010-05-09,0,False,Hudson Pacific Properties
+2010-05-16,0,False,Hudson Pacific Properties
+2010-05-23,0,False,Hudson Pacific Properties
+2010-05-30,0,False,Hudson Pacific Properties
+2010-06-06,0,False,Hudson Pacific Properties
+2010-06-13,51,False,Hudson Pacific Properties
+2010-06-20,100,False,Hudson Pacific Properties
+2010-06-27,50,False,Hudson Pacific Properties
+2010-07-04,73,False,Hudson Pacific Properties
+2010-07-11,71,False,Hudson Pacific Properties
+2010-07-18,47,False,Hudson Pacific Properties
+2010-07-25,47,False,Hudson Pacific Properties
+2010-08-01,24,False,Hudson Pacific Properties
+2010-08-08,71,False,Hudson Pacific Properties
+2010-08-15,47,False,Hudson Pacific Properties
+2010-08-22,0,False,Hudson Pacific Properties
+2010-08-29,0,False,Hudson Pacific Properties
+2010-09-05,0,False,Hudson Pacific Properties
+2010-09-12,44,False,Hudson Pacific Properties
+2010-09-19,43,False,Hudson Pacific Properties
+2010-09-26,21,False,Hudson Pacific Properties
+2010-10-03,21,False,Hudson Pacific Properties
+2010-10-10,0,False,Hudson Pacific Properties
+2010-10-17,0,False,Hudson Pacific Properties
+2010-10-24,21,False,Hudson Pacific Properties
+2010-10-31,41,False,Hudson Pacific Properties
+2010-11-07,61,False,Hudson Pacific Properties
+2010-11-14,41,False,Hudson Pacific Properties
+2010-11-21,0,False,Hudson Pacific Properties
+2010-11-28,20,False,Hudson Pacific Properties
+2010-12-05,0,False,Hudson Pacific Properties
+2010-12-12,20,False,Hudson Pacific Properties
+2010-12-19,45,False,Hudson Pacific Properties
+2010-12-26,0,False,Hudson Pacific Properties
+2011-01-02,40,False,Hudson Pacific Properties
+2011-01-09,0,False,Hudson Pacific Properties
+2011-01-16,0,False,Hudson Pacific Properties
+2011-01-23,56,False,Hudson Pacific Properties
+2011-01-30,36,False,Hudson Pacific Properties
+2011-02-06,0,False,Hudson Pacific Properties
+2011-02-13,18,False,Hudson Pacific Properties
+2011-02-20,0,False,Hudson Pacific Properties
+2011-02-27,0,False,Hudson Pacific Properties
+2011-03-06,55,False,Hudson Pacific Properties
+2011-03-13,55,False,Hudson Pacific Properties
+2011-03-20,18,False,Hudson Pacific Properties
+2010-03-28,23,False,Fabrinet
+2010-04-04,9,False,Fabrinet
+2010-04-11,22,False,Fabrinet
+2010-04-18,18,False,Fabrinet
+2010-04-25,9,False,Fabrinet
+2010-05-02,9,False,Fabrinet
+2010-05-09,14,False,Fabrinet
+2010-05-16,18,False,Fabrinet
+2010-05-23,18,False,Fabrinet
+2010-05-30,14,False,Fabrinet
+2010-06-06,18,False,Fabrinet
+2010-06-13,55,False,Fabrinet
+2010-06-20,100,False,Fabrinet
+2010-06-27,55,False,Fabrinet
+2010-07-04,27,False,Fabrinet
+2010-07-11,26,False,Fabrinet
+2010-07-18,47,False,Fabrinet
+2010-07-25,34,False,Fabrinet
+2010-08-01,13,False,Fabrinet
+2010-08-08,21,False,Fabrinet
+2010-08-15,25,False,Fabrinet
+2010-08-22,46,False,Fabrinet
+2010-08-29,36,False,Fabrinet
+2010-09-05,33,False,Fabrinet
+2010-09-12,20,False,Fabrinet
+2010-09-19,27,False,Fabrinet
+2010-09-26,15,False,Fabrinet
+2010-10-03,39,False,Fabrinet
+2010-10-10,19,False,Fabrinet
+2010-10-17,11,False,Fabrinet
+2010-10-24,22,False,Fabrinet
+2010-10-31,11,False,Fabrinet
+2010-11-07,18,False,Fabrinet
+2010-11-14,19,False,Fabrinet
+2010-11-21,22,False,Fabrinet
+2010-11-28,32,False,Fabrinet
+2010-12-05,18,False,Fabrinet
+2010-12-12,11,False,Fabrinet
+2010-12-19,21,False,Fabrinet
+2010-12-26,8,False,Fabrinet
+2011-01-02,43,False,Fabrinet
+2011-01-09,31,False,Fabrinet
+2011-01-16,17,False,Fabrinet
+2011-01-23,20,False,Fabrinet
+2011-01-30,23,False,Fabrinet
+2011-02-06,24,False,Fabrinet
+2011-02-13,27,False,Fabrinet
+2011-02-20,30,False,Fabrinet
+2011-02-27,23,False,Fabrinet
+2011-03-06,17,False,Fabrinet
+2011-03-13,40,False,Fabrinet
+2011-03-20,10,False,Fabrinet
+2010-04-04,12,False,Tesla Motors
+2010-04-11,15,False,Tesla Motors
+2010-04-18,16,False,Tesla Motors
+2010-04-25,17,False,Tesla Motors
+2010-05-02,15,False,Tesla Motors
+2010-05-09,13,False,Tesla Motors
+2010-05-16,32,False,Tesla Motors
+2010-05-23,32,False,Tesla Motors
+2010-05-30,18,False,Tesla Motors
+2010-06-06,13,False,Tesla Motors
+2010-06-13,30,False,Tesla Motors
+2010-06-20,32,False,Tesla Motors
+2010-06-27,100,False,Tesla Motors
+2010-07-04,33,False,Tesla Motors
+2010-07-11,25,False,Tesla Motors
+2010-07-18,20,False,Tesla Motors
+2010-07-25,24,False,Tesla Motors
+2010-08-01,17,False,Tesla Motors
+2010-08-08,15,False,Tesla Motors
+2010-08-15,15,False,Tesla Motors
+2010-08-22,16,False,Tesla Motors
+2010-08-29,13,False,Tesla Motors
+2010-09-05,15,False,Tesla Motors
+2010-09-12,16,False,Tesla Motors
+2010-09-19,17,False,Tesla Motors
+2010-09-26,15,False,Tesla Motors
+2010-10-03,17,False,Tesla Motors
+2010-10-10,16,False,Tesla Motors
+2010-10-17,14,False,Tesla Motors
+2010-10-24,14,False,Tesla Motors
+2010-10-31,16,False,Tesla Motors
+2010-11-07,17,False,Tesla Motors
+2010-11-14,15,False,Tesla Motors
+2010-11-21,13,False,Tesla Motors
+2010-11-28,13,False,Tesla Motors
+2010-12-05,12,False,Tesla Motors
+2010-12-12,14,False,Tesla Motors
+2010-12-19,11,False,Tesla Motors
+2010-12-26,13,False,Tesla Motors
+2011-01-02,14,False,Tesla Motors
+2011-01-09,17,False,Tesla Motors
+2011-01-16,16,False,Tesla Motors
+2011-01-23,15,False,Tesla Motors
+2011-01-30,12,False,Tesla Motors
+2011-02-06,13,False,Tesla Motors
+2011-02-13,14,False,Tesla Motors
+2011-02-20,14,False,Tesla Motors
+2011-02-27,13,False,Tesla Motors
+2011-03-06,18,False,Tesla Motors
+2011-03-13,12,False,Tesla Motors
+2011-03-20,14,False,Tesla Motors
+2011-03-27,25,False,Tesla Motors
+2010-04-04,0,False,AutoNavi Holdings
+2010-04-11,0,False,AutoNavi Holdings
+2010-04-18,0,False,AutoNavi Holdings
+2010-04-25,0,False,AutoNavi Holdings
+2010-05-02,0,False,AutoNavi Holdings
+2010-05-09,0,False,AutoNavi Holdings
+2010-05-16,0,False,AutoNavi Holdings
+2010-05-23,0,False,AutoNavi Holdings
+2010-05-30,0,False,AutoNavi Holdings
+2010-06-06,100,False,AutoNavi Holdings
+2010-06-13,0,False,AutoNavi Holdings
+2010-06-20,0,False,AutoNavi Holdings
+2010-06-27,51,False,AutoNavi Holdings
+2010-07-04,0,False,AutoNavi Holdings
+2010-07-11,0,False,AutoNavi Holdings
+2010-07-18,0,False,AutoNavi Holdings
+2010-07-25,47,False,AutoNavi Holdings
+2010-08-01,0,False,AutoNavi Holdings
+2010-08-08,0,False,AutoNavi Holdings
+2010-08-15,0,False,AutoNavi Holdings
+2010-08-22,0,False,AutoNavi Holdings
+2010-08-29,44,False,AutoNavi Holdings
+2010-09-05,45,False,AutoNavi Holdings
+2010-09-12,0,False,AutoNavi Holdings
+2010-09-19,0,False,AutoNavi Holdings
+2010-09-26,0,False,AutoNavi Holdings
+2010-10-03,0,False,AutoNavi Holdings
+2010-10-10,43,False,AutoNavi Holdings
+2010-10-17,0,False,AutoNavi Holdings
+2010-10-24,0,False,AutoNavi Holdings
+2010-10-31,0,False,AutoNavi Holdings
+2010-11-07,0,False,AutoNavi Holdings
+2010-11-14,0,False,AutoNavi Holdings
+2010-11-21,0,False,AutoNavi Holdings
+2010-11-28,0,False,AutoNavi Holdings
+2010-12-05,0,False,AutoNavi Holdings
+2010-12-12,0,False,AutoNavi Holdings
+2010-12-19,0,False,AutoNavi Holdings
+2010-12-26,47,False,AutoNavi Holdings
+2011-01-02,0,False,AutoNavi Holdings
+2011-01-09,0,False,AutoNavi Holdings
+2011-01-16,38,False,AutoNavi Holdings
+2011-01-23,0,False,AutoNavi Holdings
+2011-01-30,0,False,AutoNavi Holdings
+2011-02-06,0,False,AutoNavi Holdings
+2011-02-13,37,False,AutoNavi Holdings
+2011-02-20,0,False,AutoNavi Holdings
+2011-02-27,0,False,AutoNavi Holdings
+2011-03-06,37,False,AutoNavi Holdings
+2011-03-13,0,False,AutoNavi Holdings
+2011-03-20,0,False,AutoNavi Holdings
+2011-03-27,0,False,AutoNavi Holdings

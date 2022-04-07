@@ -1,0 +1,209 @@
+date,SVI,isPartial,Issuer
+2006-12-10,46,False,Sourcefire
+2006-12-17,31,False,Sourcefire
+2006-12-24,7,False,Sourcefire
+2006-12-31,0,False,Sourcefire
+2007-01-07,16,False,Sourcefire
+2007-01-14,42,False,Sourcefire
+2007-01-21,36,False,Sourcefire
+2007-01-28,57,False,Sourcefire
+2007-02-04,20,False,Sourcefire
+2007-02-11,31,False,Sourcefire
+2007-02-18,52,False,Sourcefire
+2007-02-25,70,False,Sourcefire
+2007-03-04,100,False,Sourcefire
+2007-03-11,80,False,Sourcefire
+2007-03-18,59,False,Sourcefire
+2007-03-25,63,False,Sourcefire
+2007-04-01,58,False,Sourcefire
+2007-04-08,35,False,Sourcefire
+2007-04-15,29,False,Sourcefire
+2007-04-22,43,False,Sourcefire
+2007-04-29,39,False,Sourcefire
+2007-05-06,44,False,Sourcefire
+2007-05-13,27,False,Sourcefire
+2007-05-20,27,False,Sourcefire
+2007-05-27,40,False,Sourcefire
+2007-06-03,40,False,Sourcefire
+2007-06-10,62,False,Sourcefire
+2007-06-17,40,False,Sourcefire
+2007-06-24,31,False,Sourcefire
+2007-07-01,31,False,Sourcefire
+2007-07-08,45,False,Sourcefire
+2007-07-15,9,False,Sourcefire
+2007-07-22,59,False,Sourcefire
+2007-07-29,84,False,Sourcefire
+2007-08-05,36,False,Sourcefire
+2007-08-12,82,False,Sourcefire
+2007-08-19,82,False,Sourcefire
+2007-08-26,50,False,Sourcefire
+2007-09-02,33,False,Sourcefire
+2007-09-09,36,False,Sourcefire
+2007-09-16,52,False,Sourcefire
+2007-09-23,39,False,Sourcefire
+2007-09-30,39,False,Sourcefire
+2007-10-07,23,False,Sourcefire
+2007-10-14,45,False,Sourcefire
+2007-10-21,59,False,Sourcefire
+2007-10-28,34,False,Sourcefire
+2007-11-04,36,False,Sourcefire
+2007-11-11,39,False,Sourcefire
+2007-11-18,22,False,Sourcefire
+2007-11-25,49,False,Sourcefire
+2007-12-02,43,False,Sourcefire
+2006-12-17,20,False,BigBand Networks
+2006-12-24,59,False,BigBand Networks
+2006-12-31,51,False,BigBand Networks
+2007-01-07,0,False,BigBand Networks
+2007-01-14,0,False,BigBand Networks
+2007-01-21,26,False,BigBand Networks
+2007-01-28,26,False,BigBand Networks
+2007-02-04,17,False,BigBand Networks
+2007-02-11,9,False,BigBand Networks
+2007-02-18,17,False,BigBand Networks
+2007-02-25,41,False,BigBand Networks
+2007-03-04,25,False,BigBand Networks
+2007-03-11,100,False,BigBand Networks
+2007-03-18,24,False,BigBand Networks
+2007-03-25,32,False,BigBand Networks
+2007-04-01,17,False,BigBand Networks
+2007-04-08,0,False,BigBand Networks
+2007-04-15,24,False,BigBand Networks
+2007-04-22,24,False,BigBand Networks
+2007-04-29,32,False,BigBand Networks
+2007-05-06,15,False,BigBand Networks
+2007-05-13,22,False,BigBand Networks
+2007-05-20,37,False,BigBand Networks
+2007-05-27,15,False,BigBand Networks
+2007-06-03,15,False,BigBand Networks
+2007-06-10,15,False,BigBand Networks
+2007-06-17,7,False,BigBand Networks
+2007-06-24,22,False,BigBand Networks
+2007-07-01,45,False,BigBand Networks
+2007-07-08,22,False,BigBand Networks
+2007-07-15,15,False,BigBand Networks
+2007-07-22,8,False,BigBand Networks
+2007-07-29,22,False,BigBand Networks
+2007-08-05,22,False,BigBand Networks
+2007-08-12,30,False,BigBand Networks
+2007-08-19,22,False,BigBand Networks
+2007-08-26,28,False,BigBand Networks
+2007-09-02,20,False,BigBand Networks
+2007-09-09,0,False,BigBand Networks
+2007-09-16,13,False,BigBand Networks
+2007-09-23,13,False,BigBand Networks
+2007-09-30,51,False,BigBand Networks
+2007-10-07,6,False,BigBand Networks
+2007-10-14,6,False,BigBand Networks
+2007-10-21,12,False,BigBand Networks
+2007-10-28,38,False,BigBand Networks
+2007-11-04,18,False,BigBand Networks
+2007-11-11,16,False,BigBand Networks
+2007-11-18,25,False,BigBand Networks
+2007-11-25,6,False,BigBand Networks
+2007-12-02,18,False,BigBand Networks
+2007-12-09,18,False,BigBand Networks
+2006-12-17,41,False,FCStone Group
+2006-12-24,48,False,FCStone Group
+2006-12-31,0,False,FCStone Group
+2007-01-07,0,False,FCStone Group
+2007-01-14,0,False,FCStone Group
+2007-01-21,0,False,FCStone Group
+2007-01-28,0,False,FCStone Group
+2007-02-04,0,False,FCStone Group
+2007-02-11,0,False,FCStone Group
+2007-02-18,0,False,FCStone Group
+2007-02-25,0,False,FCStone Group
+2007-03-04,100,False,FCStone Group
+2007-03-11,100,False,FCStone Group
+2007-03-18,32,False,FCStone Group
+2007-03-25,0,False,FCStone Group
+2007-04-01,0,False,FCStone Group
+2007-04-08,0,False,FCStone Group
+2007-04-15,32,False,FCStone Group
+2007-04-22,0,False,FCStone Group
+2007-04-29,0,False,FCStone Group
+2007-05-06,0,False,FCStone Group
+2007-05-13,0,False,FCStone Group
+2007-05-20,0,False,FCStone Group
+2007-05-27,0,False,FCStone Group
+2007-06-03,0,False,FCStone Group
+2007-06-10,0,False,FCStone Group
+2007-06-17,30,False,FCStone Group
+2007-06-24,29,False,FCStone Group
+2007-07-01,0,False,FCStone Group
+2007-07-08,0,False,FCStone Group
+2007-07-15,30,False,FCStone Group
+2007-07-22,60,False,FCStone Group
+2007-07-29,30,False,FCStone Group
+2007-08-05,0,False,FCStone Group
+2007-08-12,0,False,FCStone Group
+2007-08-19,0,False,FCStone Group
+2007-08-26,0,False,FCStone Group
+2007-09-02,0,False,FCStone Group
+2007-09-09,0,False,FCStone Group
+2007-09-16,0,False,FCStone Group
+2007-09-23,26,False,FCStone Group
+2007-09-30,0,False,FCStone Group
+2007-10-07,0,False,FCStone Group
+2007-10-14,25,False,FCStone Group
+2007-10-21,25,False,FCStone Group
+2007-10-28,0,False,FCStone Group
+2007-11-04,0,False,FCStone Group
+2007-11-11,22,False,FCStone Group
+2007-11-18,25,False,FCStone Group
+2007-11-25,0,False,FCStone Group
+2007-12-02,0,False,FCStone Group
+2007-12-09,0,False,FCStone Group
+2006-12-17,0,False,Tongjitang Chinese Medicines
+2006-12-24,0,False,Tongjitang Chinese Medicines
+2006-12-31,0,False,Tongjitang Chinese Medicines
+2007-01-07,0,False,Tongjitang Chinese Medicines
+2007-01-14,0,False,Tongjitang Chinese Medicines
+2007-01-21,0,False,Tongjitang Chinese Medicines
+2007-01-28,0,False,Tongjitang Chinese Medicines
+2007-02-04,0,False,Tongjitang Chinese Medicines
+2007-02-11,0,False,Tongjitang Chinese Medicines
+2007-02-18,0,False,Tongjitang Chinese Medicines
+2007-02-25,33,False,Tongjitang Chinese Medicines
+2007-03-04,100,False,Tongjitang Chinese Medicines
+2007-03-11,67,False,Tongjitang Chinese Medicines
+2007-03-18,33,False,Tongjitang Chinese Medicines
+2007-03-25,0,False,Tongjitang Chinese Medicines
+2007-04-01,0,False,Tongjitang Chinese Medicines
+2007-04-08,33,False,Tongjitang Chinese Medicines
+2007-04-15,0,False,Tongjitang Chinese Medicines
+2007-04-22,0,False,Tongjitang Chinese Medicines
+2007-04-29,32,False,Tongjitang Chinese Medicines
+2007-05-06,0,False,Tongjitang Chinese Medicines
+2007-05-13,0,False,Tongjitang Chinese Medicines
+2007-05-20,0,False,Tongjitang Chinese Medicines
+2007-05-27,0,False,Tongjitang Chinese Medicines
+2007-06-03,29,False,Tongjitang Chinese Medicines
+2007-06-10,0,False,Tongjitang Chinese Medicines
+2007-06-17,30,False,Tongjitang Chinese Medicines
+2007-06-24,29,False,Tongjitang Chinese Medicines
+2007-07-01,0,False,Tongjitang Chinese Medicines
+2007-07-08,0,False,Tongjitang Chinese Medicines
+2007-07-15,0,False,Tongjitang Chinese Medicines
+2007-07-22,0,False,Tongjitang Chinese Medicines
+2007-07-29,0,False,Tongjitang Chinese Medicines
+2007-08-05,0,False,Tongjitang Chinese Medicines
+2007-08-12,0,False,Tongjitang Chinese Medicines
+2007-08-19,0,False,Tongjitang Chinese Medicines
+2007-08-26,0,False,Tongjitang Chinese Medicines
+2007-09-02,27,False,Tongjitang Chinese Medicines
+2007-09-09,27,False,Tongjitang Chinese Medicines
+2007-09-16,26,False,Tongjitang Chinese Medicines
+2007-09-23,26,False,Tongjitang Chinese Medicines
+2007-09-30,0,False,Tongjitang Chinese Medicines
+2007-10-07,26,False,Tongjitang Chinese Medicines
+2007-10-14,0,False,Tongjitang Chinese Medicines
+2007-10-21,25,False,Tongjitang Chinese Medicines
+2007-10-28,0,False,Tongjitang Chinese Medicines
+2007-11-04,0,False,Tongjitang Chinese Medicines
+2007-11-11,0,False,Tongjitang Chinese Medicines
+2007-11-18,0,False,Tongjitang Chinese Medicines
+2007-11-25,0,False,Tongjitang Chinese Medicines
+2007-12-02,24,False,Tongjitang Chinese Medicines
+2007-12-09,0,False,Tongjitang Chinese Medicines

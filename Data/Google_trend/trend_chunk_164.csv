@@ -1,0 +1,261 @@
+date,SVI,isPartial,Issuer
+2017-09-10,0,False,Odonate Therapeutics
+2017-09-17,17,False,Odonate Therapeutics
+2017-09-24,70,False,Odonate Therapeutics
+2017-10-01,34,False,Odonate Therapeutics
+2017-10-08,0,False,Odonate Therapeutics
+2017-10-15,17,False,Odonate Therapeutics
+2017-10-22,0,False,Odonate Therapeutics
+2017-10-29,0,False,Odonate Therapeutics
+2017-11-05,33,False,Odonate Therapeutics
+2017-11-12,100,False,Odonate Therapeutics
+2017-11-19,17,False,Odonate Therapeutics
+2017-11-26,100,False,Odonate Therapeutics
+2017-12-03,100,False,Odonate Therapeutics
+2017-12-10,34,False,Odonate Therapeutics
+2017-12-17,35,False,Odonate Therapeutics
+2017-12-24,37,False,Odonate Therapeutics
+2017-12-31,69,False,Odonate Therapeutics
+2018-01-07,33,False,Odonate Therapeutics
+2018-01-14,0,False,Odonate Therapeutics
+2018-01-21,16,False,Odonate Therapeutics
+2018-01-28,49,False,Odonate Therapeutics
+2018-02-04,65,False,Odonate Therapeutics
+2018-02-11,16,False,Odonate Therapeutics
+2018-02-18,32,False,Odonate Therapeutics
+2018-02-25,32,False,Odonate Therapeutics
+2018-03-04,32,False,Odonate Therapeutics
+2018-03-11,0,False,Odonate Therapeutics
+2018-03-18,32,False,Odonate Therapeutics
+2018-03-25,17,False,Odonate Therapeutics
+2018-04-01,17,False,Odonate Therapeutics
+2018-04-08,16,False,Odonate Therapeutics
+2018-04-15,48,False,Odonate Therapeutics
+2018-04-22,16,False,Odonate Therapeutics
+2018-04-29,0,False,Odonate Therapeutics
+2018-05-06,49,False,Odonate Therapeutics
+2018-05-13,49,False,Odonate Therapeutics
+2018-05-20,50,False,Odonate Therapeutics
+2018-05-27,0,False,Odonate Therapeutics
+2018-06-03,65,False,Odonate Therapeutics
+2018-06-10,48,False,Odonate Therapeutics
+2018-06-17,16,False,Odonate Therapeutics
+2018-06-24,64,False,Odonate Therapeutics
+2018-07-01,32,False,Odonate Therapeutics
+2018-07-08,16,False,Odonate Therapeutics
+2018-07-15,33,False,Odonate Therapeutics
+2018-07-22,17,False,Odonate Therapeutics
+2018-07-29,32,False,Odonate Therapeutics
+2018-08-05,32,False,Odonate Therapeutics
+2018-08-12,0,False,Odonate Therapeutics
+2018-08-19,16,False,Odonate Therapeutics
+2018-08-26,32,False,Odonate Therapeutics
+2018-09-02,16,False,Odonate Therapeutics
+2017-09-10,30,False,Quanterix
+2017-09-17,19,False,Quanterix
+2017-09-24,11,False,Quanterix
+2017-10-01,33,False,Quanterix
+2017-10-08,26,False,Quanterix
+2017-10-15,34,False,Quanterix
+2017-10-22,22,False,Quanterix
+2017-10-29,15,False,Quanterix
+2017-11-05,25,False,Quanterix
+2017-11-12,28,False,Quanterix
+2017-11-19,22,False,Quanterix
+2017-11-26,85,False,Quanterix
+2017-12-03,100,False,Quanterix
+2017-12-10,36,False,Quanterix
+2017-12-17,34,False,Quanterix
+2017-12-24,4,False,Quanterix
+2017-12-31,30,False,Quanterix
+2018-01-07,39,False,Quanterix
+2018-01-14,31,False,Quanterix
+2018-01-21,51,False,Quanterix
+2018-01-28,42,False,Quanterix
+2018-02-04,35,False,Quanterix
+2018-02-11,28,False,Quanterix
+2018-02-18,31,False,Quanterix
+2018-02-25,38,False,Quanterix
+2018-03-04,20,False,Quanterix
+2018-03-11,62,False,Quanterix
+2018-03-18,21,False,Quanterix
+2018-03-25,46,False,Quanterix
+2018-04-01,35,False,Quanterix
+2018-04-08,31,False,Quanterix
+2018-04-15,17,False,Quanterix
+2018-04-22,31,False,Quanterix
+2018-04-29,14,False,Quanterix
+2018-05-06,28,False,Quanterix
+2018-05-13,28,False,Quanterix
+2018-05-20,32,False,Quanterix
+2018-05-27,32,False,Quanterix
+2018-06-03,21,False,Quanterix
+2018-06-10,24,False,Quanterix
+2018-06-17,24,False,Quanterix
+2018-06-24,28,False,Quanterix
+2018-07-01,24,False,Quanterix
+2018-07-08,21,False,Quanterix
+2018-07-15,28,False,Quanterix
+2018-07-22,25,False,Quanterix
+2018-07-29,38,False,Quanterix
+2018-08-05,21,False,Quanterix
+2018-08-12,31,False,Quanterix
+2018-08-19,28,False,Quanterix
+2018-08-26,34,False,Quanterix
+2018-09-02,38,False,Quanterix
+2017-09-10,8,False,Denali Therapeutics
+2017-09-17,10,False,Denali Therapeutics
+2017-09-24,6,False,Denali Therapeutics
+2017-10-01,10,False,Denali Therapeutics
+2017-10-08,15,False,Denali Therapeutics
+2017-10-15,6,False,Denali Therapeutics
+2017-10-22,4,False,Denali Therapeutics
+2017-10-29,10,False,Denali Therapeutics
+2017-11-05,6,False,Denali Therapeutics
+2017-11-12,30,False,Denali Therapeutics
+2017-11-19,2,False,Denali Therapeutics
+2017-11-26,38,False,Denali Therapeutics
+2017-12-03,100,False,Denali Therapeutics
+2017-12-10,69,False,Denali Therapeutics
+2017-12-17,30,False,Denali Therapeutics
+2017-12-24,22,False,Denali Therapeutics
+2017-12-31,39,False,Denali Therapeutics
+2018-01-07,38,False,Denali Therapeutics
+2018-01-14,16,False,Denali Therapeutics
+2018-01-21,15,False,Denali Therapeutics
+2018-01-28,16,False,Denali Therapeutics
+2018-02-04,19,False,Denali Therapeutics
+2018-02-11,25,False,Denali Therapeutics
+2018-02-18,19,False,Denali Therapeutics
+2018-02-25,17,False,Denali Therapeutics
+2018-03-04,21,False,Denali Therapeutics
+2018-03-11,33,False,Denali Therapeutics
+2018-03-18,25,False,Denali Therapeutics
+2018-03-25,28,False,Denali Therapeutics
+2018-04-01,28,False,Denali Therapeutics
+2018-04-08,10,False,Denali Therapeutics
+2018-04-15,17,False,Denali Therapeutics
+2018-04-22,17,False,Denali Therapeutics
+2018-04-29,16,False,Denali Therapeutics
+2018-05-06,16,False,Denali Therapeutics
+2018-05-13,12,False,Denali Therapeutics
+2018-05-20,30,False,Denali Therapeutics
+2018-05-27,12,False,Denali Therapeutics
+2018-06-03,16,False,Denali Therapeutics
+2018-06-10,27,False,Denali Therapeutics
+2018-06-17,16,False,Denali Therapeutics
+2018-06-24,17,False,Denali Therapeutics
+2018-07-01,12,False,Denali Therapeutics
+2018-07-08,19,False,Denali Therapeutics
+2018-07-15,16,False,Denali Therapeutics
+2018-07-22,16,False,Denali Therapeutics
+2018-07-29,12,False,Denali Therapeutics
+2018-08-05,19,False,Denali Therapeutics
+2018-08-12,15,False,Denali Therapeutics
+2018-08-19,10,False,Denali Therapeutics
+2018-08-26,15,False,Denali Therapeutics
+2018-09-02,11,False,Denali Therapeutics
+2017-09-10,0,False,GigCapital
+2017-09-17,34,False,GigCapital
+2017-09-24,0,False,GigCapital
+2017-10-01,0,False,GigCapital
+2017-10-08,0,False,GigCapital
+2017-10-15,0,False,GigCapital
+2017-10-22,0,False,GigCapital
+2017-10-29,0,False,GigCapital
+2017-11-05,0,False,GigCapital
+2017-11-12,0,False,GigCapital
+2017-11-19,0,False,GigCapital
+2017-11-26,33,False,GigCapital
+2017-12-03,33,False,GigCapital
+2017-12-10,100,False,GigCapital
+2017-12-17,0,False,GigCapital
+2017-12-24,0,False,GigCapital
+2017-12-31,69,False,GigCapital
+2018-01-07,0,False,GigCapital
+2018-01-14,64,False,GigCapital
+2018-01-21,0,False,GigCapital
+2018-01-28,65,False,GigCapital
+2018-02-04,0,False,GigCapital
+2018-02-11,32,False,GigCapital
+2018-02-18,32,False,GigCapital
+2018-02-25,0,False,GigCapital
+2018-03-04,0,False,GigCapital
+2018-03-11,0,False,GigCapital
+2018-03-18,0,False,GigCapital
+2018-03-25,33,False,GigCapital
+2018-04-01,0,False,GigCapital
+2018-04-08,0,False,GigCapital
+2018-04-15,0,False,GigCapital
+2018-04-22,64,False,GigCapital
+2018-04-29,0,False,GigCapital
+2018-05-06,0,False,GigCapital
+2018-05-13,0,False,GigCapital
+2018-05-20,0,False,GigCapital
+2018-05-27,0,False,GigCapital
+2018-06-03,32,False,GigCapital
+2018-06-10,0,False,GigCapital
+2018-06-17,0,False,GigCapital
+2018-06-24,0,False,GigCapital
+2018-07-01,0,False,GigCapital
+2018-07-08,0,False,GigCapital
+2018-07-15,0,False,GigCapital
+2018-07-22,0,False,GigCapital
+2018-07-29,0,False,GigCapital
+2018-08-05,32,False,GigCapital
+2018-08-12,0,False,GigCapital
+2018-08-19,32,False,GigCapital
+2018-08-26,0,False,GigCapital
+2018-09-02,32,False,GigCapital
+2017-09-10,25,False,Luther Burbank
+2017-09-17,19,False,Luther Burbank
+2017-09-24,18,False,Luther Burbank
+2017-10-01,22,False,Luther Burbank
+2017-10-08,100,False,Luther Burbank
+2017-10-15,19,False,Luther Burbank
+2017-10-22,24,False,Luther Burbank
+2017-10-29,23,False,Luther Burbank
+2017-11-05,17,False,Luther Burbank
+2017-11-12,19,False,Luther Burbank
+2017-11-19,14,False,Luther Burbank
+2017-11-26,23,False,Luther Burbank
+2017-12-03,24,False,Luther Burbank
+2017-12-10,21,False,Luther Burbank
+2017-12-17,16,False,Luther Burbank
+2017-12-24,13,False,Luther Burbank
+2017-12-31,17,False,Luther Burbank
+2018-01-07,21,False,Luther Burbank
+2018-01-14,18,False,Luther Burbank
+2018-01-21,22,False,Luther Burbank
+2018-01-28,22,False,Luther Burbank
+2018-02-04,14,False,Luther Burbank
+2018-02-11,23,False,Luther Burbank
+2018-02-18,19,False,Luther Burbank
+2018-02-25,22,False,Luther Burbank
+2018-03-04,22,False,Luther Burbank
+2018-03-11,16,False,Luther Burbank
+2018-03-18,19,False,Luther Burbank
+2018-03-25,17,False,Luther Burbank
+2018-04-01,13,False,Luther Burbank
+2018-04-08,16,False,Luther Burbank
+2018-04-15,19,False,Luther Burbank
+2018-04-22,14,False,Luther Burbank
+2018-04-29,24,False,Luther Burbank
+2018-05-06,20,False,Luther Burbank
+2018-05-13,18,False,Luther Burbank
+2018-05-20,20,False,Luther Burbank
+2018-05-27,13,False,Luther Burbank
+2018-06-03,15,False,Luther Burbank
+2018-06-10,17,False,Luther Burbank
+2018-06-17,16,False,Luther Burbank
+2018-06-24,13,False,Luther Burbank
+2018-07-01,13,False,Luther Burbank
+2018-07-08,19,False,Luther Burbank
+2018-07-15,21,False,Luther Burbank
+2018-07-22,17,False,Luther Burbank
+2018-07-29,25,False,Luther Burbank
+2018-08-05,28,False,Luther Burbank
+2018-08-12,24,False,Luther Burbank
+2018-08-19,23,False,Luther Burbank
+2018-08-26,23,False,Luther Burbank
+2018-09-02,18,False,Luther Burbank

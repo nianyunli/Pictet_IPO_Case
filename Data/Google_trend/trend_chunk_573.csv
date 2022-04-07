@@ -1,0 +1,264 @@
+date,SVI,isPartial,Issuer
+2005-08-21,28,False,Under Armour
+2005-08-28,30,False,Under Armour
+2005-09-04,28,False,Under Armour
+2005-09-11,25,False,Under Armour
+2005-09-18,28,False,Under Armour
+2005-09-25,31,False,Under Armour
+2005-10-02,29,False,Under Armour
+2005-10-09,28,False,Under Armour
+2005-10-16,30,False,Under Armour
+2005-10-23,26,False,Under Armour
+2005-10-30,28,False,Under Armour
+2005-11-06,38,False,Under Armour
+2005-11-13,100,False,Under Armour
+2005-11-20,41,False,Under Armour
+2005-11-27,46,False,Under Armour
+2005-12-04,54,False,Under Armour
+2005-12-11,45,False,Under Armour
+2005-12-18,35,False,Under Armour
+2005-12-25,29,False,Under Armour
+2006-01-01,23,False,Under Armour
+2006-01-08,24,False,Under Armour
+2006-01-15,22,False,Under Armour
+2006-01-22,27,False,Under Armour
+2006-01-29,18,False,Under Armour
+2006-02-05,26,False,Under Armour
+2006-02-12,27,False,Under Armour
+2006-02-19,24,False,Under Armour
+2006-02-26,23,False,Under Armour
+2006-03-05,24,False,Under Armour
+2006-03-12,23,False,Under Armour
+2006-03-19,25,False,Under Armour
+2006-03-26,23,False,Under Armour
+2006-04-02,25,False,Under Armour
+2006-04-09,24,False,Under Armour
+2006-04-16,27,False,Under Armour
+2006-04-23,26,False,Under Armour
+2006-04-30,32,False,Under Armour
+2006-05-07,23,False,Under Armour
+2006-05-14,21,False,Under Armour
+2006-05-21,19,False,Under Armour
+2006-05-28,24,False,Under Armour
+2006-06-04,23,False,Under Armour
+2006-06-11,20,False,Under Armour
+2006-06-18,26,False,Under Armour
+2006-06-25,19,False,Under Armour
+2006-07-02,23,False,Under Armour
+2006-07-09,25,False,Under Armour
+2006-07-16,32,False,Under Armour
+2006-07-23,35,False,Under Armour
+2006-07-30,35,False,Under Armour
+2006-08-06,36,False,Under Armour
+2006-08-13,36,False,Under Armour
+2005-08-21,31,False,Tronox
+2005-08-28,0,False,Tronox
+2005-09-04,0,False,Tronox
+2005-09-11,24,False,Tronox
+2005-09-18,12,False,Tronox
+2005-09-25,0,False,Tronox
+2005-10-02,0,False,Tronox
+2005-10-09,0,False,Tronox
+2005-10-16,22,False,Tronox
+2005-10-23,34,False,Tronox
+2005-10-30,11,False,Tronox
+2005-11-06,38,False,Tronox
+2005-11-13,86,False,Tronox
+2005-11-20,100,False,Tronox
+2005-11-27,21,False,Tronox
+2005-12-04,10,False,Tronox
+2005-12-11,21,False,Tronox
+2005-12-18,81,False,Tronox
+2005-12-25,0,False,Tronox
+2006-01-01,33,False,Tronox
+2006-01-08,30,False,Tronox
+2006-01-15,19,False,Tronox
+2006-01-22,48,False,Tronox
+2006-01-29,19,False,Tronox
+2006-02-05,56,False,Tronox
+2006-02-12,9,False,Tronox
+2006-02-19,28,False,Tronox
+2006-02-26,54,False,Tronox
+2006-03-05,36,False,Tronox
+2006-03-12,54,False,Tronox
+2006-03-19,45,False,Tronox
+2006-03-26,44,False,Tronox
+2006-04-02,89,False,Tronox
+2006-04-09,28,False,Tronox
+2006-04-16,18,False,Tronox
+2006-04-23,44,False,Tronox
+2006-04-30,28,False,Tronox
+2006-05-07,60,False,Tronox
+2006-05-14,43,False,Tronox
+2006-05-21,17,False,Tronox
+2006-05-28,79,False,Tronox
+2006-06-04,44,False,Tronox
+2006-06-11,27,False,Tronox
+2006-06-18,26,False,Tronox
+2006-06-25,44,False,Tronox
+2006-07-02,55,False,Tronox
+2006-07-09,36,False,Tronox
+2006-07-16,27,False,Tronox
+2006-07-23,35,False,Tronox
+2006-07-30,17,False,Tronox
+2006-08-06,35,False,Tronox
+2006-08-13,17,False,Tronox
+2006-08-20,75,False,Tronox
+2005-08-21,0,False,Union Drilling
+2005-08-28,21,False,Union Drilling
+2005-09-04,0,False,Union Drilling
+2005-09-11,20,False,Union Drilling
+2005-09-18,0,False,Union Drilling
+2005-09-25,0,False,Union Drilling
+2005-10-02,57,False,Union Drilling
+2005-10-09,0,False,Union Drilling
+2005-10-16,18,False,Union Drilling
+2005-10-23,19,False,Union Drilling
+2005-10-30,19,False,Union Drilling
+2005-11-06,21,False,Union Drilling
+2005-11-13,18,False,Union Drilling
+2005-11-20,74,False,Union Drilling
+2005-11-27,51,False,Union Drilling
+2005-12-04,0,False,Union Drilling
+2005-12-11,0,False,Union Drilling
+2005-12-18,0,False,Union Drilling
+2005-12-25,44,False,Union Drilling
+2006-01-01,0,False,Union Drilling
+2006-01-08,33,False,Union Drilling
+2006-01-15,32,False,Union Drilling
+2006-01-22,32,False,Union Drilling
+2006-01-29,16,False,Union Drilling
+2006-02-05,0,False,Union Drilling
+2006-02-12,15,False,Union Drilling
+2006-02-19,15,False,Union Drilling
+2006-02-26,0,False,Union Drilling
+2006-03-05,0,False,Union Drilling
+2006-03-12,15,False,Union Drilling
+2006-03-19,0,False,Union Drilling
+2006-03-26,15,False,Union Drilling
+2006-04-02,0,False,Union Drilling
+2006-04-09,0,False,Union Drilling
+2006-04-16,30,False,Union Drilling
+2006-04-23,0,False,Union Drilling
+2006-04-30,30,False,Union Drilling
+2006-05-07,100,False,Union Drilling
+2006-05-14,42,False,Union Drilling
+2006-05-21,0,False,Union Drilling
+2006-05-28,29,False,Union Drilling
+2006-06-04,15,False,Union Drilling
+2006-06-11,0,False,Union Drilling
+2006-06-18,0,False,Union Drilling
+2006-06-25,0,False,Union Drilling
+2006-07-02,0,False,Union Drilling
+2006-07-09,0,False,Union Drilling
+2006-07-16,0,False,Union Drilling
+2006-07-23,14,False,Union Drilling
+2006-07-30,14,False,Union Drilling
+2006-08-06,0,False,Union Drilling
+2006-08-13,14,False,Union Drilling
+2006-08-20,14,False,Union Drilling
+2005-08-21,0,False,Brookdale Senior Living
+2005-08-28,0,False,Brookdale Senior Living
+2005-09-04,0,False,Brookdale Senior Living
+2005-09-11,0,False,Brookdale Senior Living
+2005-09-18,40,False,Brookdale Senior Living
+2005-09-25,0,False,Brookdale Senior Living
+2005-10-02,0,False,Brookdale Senior Living
+2005-10-09,19,False,Brookdale Senior Living
+2005-10-16,19,False,Brookdale Senior Living
+2005-10-23,38,False,Brookdale Senior Living
+2005-10-30,19,False,Brookdale Senior Living
+2005-11-06,21,False,Brookdale Senior Living
+2005-11-13,36,False,Brookdale Senior Living
+2005-11-20,74,False,Brookdale Senior Living
+2005-11-27,52,False,Brookdale Senior Living
+2005-12-04,18,False,Brookdale Senior Living
+2005-12-11,18,False,Brookdale Senior Living
+2005-12-18,0,False,Brookdale Senior Living
+2005-12-25,0,False,Brookdale Senior Living
+2006-01-01,37,False,Brookdale Senior Living
+2006-01-08,17,False,Brookdale Senior Living
+2006-01-15,32,False,Brookdale Senior Living
+2006-01-22,48,False,Brookdale Senior Living
+2006-01-29,32,False,Brookdale Senior Living
+2006-02-05,16,False,Brookdale Senior Living
+2006-02-12,62,False,Brookdale Senior Living
+2006-02-19,46,False,Brookdale Senior Living
+2006-02-26,0,False,Brookdale Senior Living
+2006-03-05,15,False,Brookdale Senior Living
+2006-03-12,15,False,Brookdale Senior Living
+2006-03-19,30,False,Brookdale Senior Living
+2006-03-26,44,False,Brookdale Senior Living
+2006-04-02,74,False,Brookdale Senior Living
+2006-04-09,16,False,Brookdale Senior Living
+2006-04-16,0,False,Brookdale Senior Living
+2006-04-23,29,False,Brookdale Senior Living
+2006-04-30,62,False,Brookdale Senior Living
+2006-05-07,14,False,Brookdale Senior Living
+2006-05-14,100,False,Brookdale Senior Living
+2006-05-21,44,False,Brookdale Senior Living
+2006-05-28,15,False,Brookdale Senior Living
+2006-06-04,44,False,Brookdale Senior Living
+2006-06-11,0,False,Brookdale Senior Living
+2006-06-18,44,False,Brookdale Senior Living
+2006-06-25,30,False,Brookdale Senior Living
+2006-07-02,15,False,Brookdale Senior Living
+2006-07-09,15,False,Brookdale Senior Living
+2006-07-16,90,False,Brookdale Senior Living
+2006-07-23,29,False,Brookdale Senior Living
+2006-07-30,29,False,Brookdale Senior Living
+2006-08-06,15,False,Brookdale Senior Living
+2006-08-13,29,False,Brookdale Senior Living
+2006-08-20,83,False,Brookdale Senior Living
+2005-09-04,0,False,Actions Semiconductor
+2005-09-11,16,False,Actions Semiconductor
+2005-09-18,16,False,Actions Semiconductor
+2005-09-25,15,False,Actions Semiconductor
+2005-10-02,0,False,Actions Semiconductor
+2005-10-09,46,False,Actions Semiconductor
+2005-10-16,15,False,Actions Semiconductor
+2005-10-23,15,False,Actions Semiconductor
+2005-10-30,46,False,Actions Semiconductor
+2005-11-06,34,False,Actions Semiconductor
+2005-11-13,100,False,Actions Semiconductor
+2005-11-20,44,False,Actions Semiconductor
+2005-11-27,82,False,Actions Semiconductor
+2005-12-04,14,False,Actions Semiconductor
+2005-12-11,0,False,Actions Semiconductor
+2005-12-18,0,False,Actions Semiconductor
+2005-12-25,0,False,Actions Semiconductor
+2006-01-01,15,False,Actions Semiconductor
+2006-01-08,27,False,Actions Semiconductor
+2006-01-15,13,False,Actions Semiconductor
+2006-01-22,13,False,Actions Semiconductor
+2006-01-29,0,False,Actions Semiconductor
+2006-02-05,0,False,Actions Semiconductor
+2006-02-12,0,False,Actions Semiconductor
+2006-02-19,12,False,Actions Semiconductor
+2006-02-26,12,False,Actions Semiconductor
+2006-03-05,12,False,Actions Semiconductor
+2006-03-12,12,False,Actions Semiconductor
+2006-03-19,36,False,Actions Semiconductor
+2006-03-26,23,False,Actions Semiconductor
+2006-04-02,12,False,Actions Semiconductor
+2006-04-09,13,False,Actions Semiconductor
+2006-04-16,12,False,Actions Semiconductor
+2006-04-23,12,False,Actions Semiconductor
+2006-04-30,0,False,Actions Semiconductor
+2006-05-07,12,False,Actions Semiconductor
+2006-05-14,23,False,Actions Semiconductor
+2006-05-21,0,False,Actions Semiconductor
+2006-05-28,35,False,Actions Semiconductor
+2006-06-04,0,False,Actions Semiconductor
+2006-06-11,0,False,Actions Semiconductor
+2006-06-18,12,False,Actions Semiconductor
+2006-06-25,0,False,Actions Semiconductor
+2006-07-02,25,False,Actions Semiconductor
+2006-07-09,0,False,Actions Semiconductor
+2006-07-16,36,False,Actions Semiconductor
+2006-07-23,23,False,Actions Semiconductor
+2006-07-30,23,False,Actions Semiconductor
+2006-08-06,12,False,Actions Semiconductor
+2006-08-13,0,False,Actions Semiconductor
+2006-08-20,44,False,Actions Semiconductor
+2006-08-27,11,False,Actions Semiconductor

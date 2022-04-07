@@ -1,0 +1,263 @@
+date,SVI,isPartial,Issuer
+2012-01-01,16,False,Millennial Media
+2012-01-08,18,False,Millennial Media
+2012-01-15,13,False,Millennial Media
+2012-01-22,14,False,Millennial Media
+2012-01-29,14,False,Millennial Media
+2012-02-05,13,False,Millennial Media
+2012-02-12,9,False,Millennial Media
+2012-02-19,7,False,Millennial Media
+2012-02-26,16,False,Millennial Media
+2012-03-04,13,False,Millennial Media
+2012-03-11,18,False,Millennial Media
+2012-03-18,11,False,Millennial Media
+2012-03-25,100,False,Millennial Media
+2012-04-01,19,False,Millennial Media
+2012-04-08,28,False,Millennial Media
+2012-04-15,16,False,Millennial Media
+2012-04-22,13,False,Millennial Media
+2012-04-29,14,False,Millennial Media
+2012-05-06,18,False,Millennial Media
+2012-05-13,12,False,Millennial Media
+2012-05-20,18,False,Millennial Media
+2012-05-27,13,False,Millennial Media
+2012-06-03,6,False,Millennial Media
+2012-06-10,8,False,Millennial Media
+2012-06-17,15,False,Millennial Media
+2012-06-24,9,False,Millennial Media
+2012-07-01,8,False,Millennial Media
+2012-07-08,13,False,Millennial Media
+2012-07-15,15,False,Millennial Media
+2012-07-22,15,False,Millennial Media
+2012-07-29,13,False,Millennial Media
+2012-08-05,17,False,Millennial Media
+2012-08-12,14,False,Millennial Media
+2012-08-19,11,False,Millennial Media
+2012-08-26,12,False,Millennial Media
+2012-09-02,9,False,Millennial Media
+2012-09-09,11,False,Millennial Media
+2012-09-16,12,False,Millennial Media
+2012-09-23,16,False,Millennial Media
+2012-09-30,9,False,Millennial Media
+2012-10-07,16,False,Millennial Media
+2012-10-14,16,False,Millennial Media
+2012-10-21,8,False,Millennial Media
+2012-10-28,11,False,Millennial Media
+2012-11-04,11,False,Millennial Media
+2012-11-11,8,False,Millennial Media
+2012-11-18,11,False,Millennial Media
+2012-11-25,15,False,Millennial Media
+2012-12-02,12,False,Millennial Media
+2012-12-09,9,False,Millennial Media
+2012-12-16,7,False,Millennial Media
+2012-12-23,7,False,Millennial Media
+2012-01-01,67,False,Rexnord
+2012-01-08,62,False,Rexnord
+2012-01-15,72,False,Rexnord
+2012-01-22,62,False,Rexnord
+2012-01-29,71,False,Rexnord
+2012-02-05,67,False,Rexnord
+2012-02-12,77,False,Rexnord
+2012-02-19,76,False,Rexnord
+2012-02-26,82,False,Rexnord
+2012-03-04,80,False,Rexnord
+2012-03-11,67,False,Rexnord
+2012-03-18,69,False,Rexnord
+2012-03-25,100,False,Rexnord
+2012-04-01,73,False,Rexnord
+2012-04-08,70,False,Rexnord
+2012-04-15,73,False,Rexnord
+2012-04-22,78,False,Rexnord
+2012-04-29,63,False,Rexnord
+2012-05-06,63,False,Rexnord
+2012-05-13,71,False,Rexnord
+2012-05-20,56,False,Rexnord
+2012-05-27,66,False,Rexnord
+2012-06-03,67,False,Rexnord
+2012-06-10,57,False,Rexnord
+2012-06-17,72,False,Rexnord
+2012-06-24,65,False,Rexnord
+2012-07-01,58,False,Rexnord
+2012-07-08,64,False,Rexnord
+2012-07-15,54,False,Rexnord
+2012-07-22,65,False,Rexnord
+2012-07-29,65,False,Rexnord
+2012-08-05,73,False,Rexnord
+2012-08-12,66,False,Rexnord
+2012-08-19,77,False,Rexnord
+2012-08-26,62,False,Rexnord
+2012-09-02,47,False,Rexnord
+2012-09-09,68,False,Rexnord
+2012-09-16,61,False,Rexnord
+2012-09-23,80,False,Rexnord
+2012-09-30,55,False,Rexnord
+2012-10-07,75,False,Rexnord
+2012-10-14,55,False,Rexnord
+2012-10-21,61,False,Rexnord
+2012-10-28,57,False,Rexnord
+2012-11-04,53,False,Rexnord
+2012-11-11,52,False,Rexnord
+2012-11-18,58,False,Rexnord
+2012-11-25,55,False,Rexnord
+2012-12-02,49,False,Rexnord
+2012-12-09,59,False,Rexnord
+2012-12-16,41,False,Rexnord
+2012-12-23,15,False,Rexnord
+2012-01-01,43,False,Enphase Energy
+2012-01-08,47,False,Enphase Energy
+2012-01-15,46,False,Enphase Energy
+2012-01-22,63,False,Enphase Energy
+2012-01-29,39,False,Enphase Energy
+2012-02-05,28,False,Enphase Energy
+2012-02-12,11,False,Enphase Energy
+2012-02-19,45,False,Enphase Energy
+2012-02-26,23,False,Enphase Energy
+2012-03-04,56,False,Enphase Energy
+2012-03-11,100,False,Enphase Energy
+2012-03-18,79,False,Enphase Energy
+2012-03-25,79,False,Enphase Energy
+2012-04-01,99,False,Enphase Energy
+2012-04-08,70,False,Enphase Energy
+2012-04-15,33,False,Enphase Energy
+2012-04-22,51,False,Enphase Energy
+2012-04-29,28,False,Enphase Energy
+2012-05-06,61,False,Enphase Energy
+2012-05-13,50,False,Enphase Energy
+2012-05-20,17,False,Enphase Energy
+2012-05-27,45,False,Enphase Energy
+2012-06-03,55,False,Enphase Energy
+2012-06-10,17,False,Enphase Energy
+2012-06-17,39,False,Enphase Energy
+2012-06-24,45,False,Enphase Energy
+2012-07-01,22,False,Enphase Energy
+2012-07-08,22,False,Enphase Energy
+2012-07-15,34,False,Enphase Energy
+2012-07-22,11,False,Enphase Energy
+2012-07-29,50,False,Enphase Energy
+2012-08-05,39,False,Enphase Energy
+2012-08-12,46,False,Enphase Energy
+2012-08-19,51,False,Enphase Energy
+2012-08-26,55,False,Enphase Energy
+2012-09-02,59,False,Enphase Energy
+2012-09-09,42,False,Enphase Energy
+2012-09-16,58,False,Enphase Energy
+2012-09-23,64,False,Enphase Energy
+2012-09-30,37,False,Enphase Energy
+2012-10-07,72,False,Enphase Energy
+2012-10-14,35,False,Enphase Energy
+2012-10-21,40,False,Enphase Energy
+2012-10-28,56,False,Enphase Energy
+2012-11-04,39,False,Enphase Energy
+2012-11-11,50,False,Enphase Energy
+2012-11-18,10,False,Enphase Energy
+2012-11-25,29,False,Enphase Energy
+2012-12-02,68,False,Enphase Energy
+2012-12-09,68,False,Enphase Energy
+2012-12-16,49,False,Enphase Energy
+2012-12-23,28,False,Enphase Energy
+2012-12-30,31,False,Enphase Energy
+2012-01-01,0,False,GasLog Ltd.
+2012-01-08,0,False,GasLog Ltd.
+2012-01-15,0,False,GasLog Ltd.
+2012-01-22,0,False,GasLog Ltd.
+2012-01-29,0,False,GasLog Ltd.
+2012-02-05,0,False,GasLog Ltd.
+2012-02-12,0,False,GasLog Ltd.
+2012-02-19,0,False,GasLog Ltd.
+2012-02-26,0,False,GasLog Ltd.
+2012-03-04,96,False,GasLog Ltd.
+2012-03-11,0,False,GasLog Ltd.
+2012-03-18,0,False,GasLog Ltd.
+2012-03-25,0,False,GasLog Ltd.
+2012-04-01,0,False,GasLog Ltd.
+2012-04-08,100,False,GasLog Ltd.
+2012-04-15,0,False,GasLog Ltd.
+2012-04-22,0,False,GasLog Ltd.
+2012-04-29,0,False,GasLog Ltd.
+2012-05-06,95,False,GasLog Ltd.
+2012-05-13,0,False,GasLog Ltd.
+2012-05-20,0,False,GasLog Ltd.
+2012-05-27,0,False,GasLog Ltd.
+2012-06-03,0,False,GasLog Ltd.
+2012-06-10,0,False,GasLog Ltd.
+2012-06-17,0,False,GasLog Ltd.
+2012-06-24,0,False,GasLog Ltd.
+2012-07-01,0,False,GasLog Ltd.
+2012-07-08,0,False,GasLog Ltd.
+2012-07-15,0,False,GasLog Ltd.
+2012-07-22,0,False,GasLog Ltd.
+2012-07-29,0,False,GasLog Ltd.
+2012-08-05,95,False,GasLog Ltd.
+2012-08-12,0,False,GasLog Ltd.
+2012-08-19,0,False,GasLog Ltd.
+2012-08-26,0,False,GasLog Ltd.
+2012-09-02,0,False,GasLog Ltd.
+2012-09-09,0,False,GasLog Ltd.
+2012-09-16,0,False,GasLog Ltd.
+2012-09-23,91,False,GasLog Ltd.
+2012-09-30,0,False,GasLog Ltd.
+2012-10-07,0,False,GasLog Ltd.
+2012-10-14,0,False,GasLog Ltd.
+2012-10-21,0,False,GasLog Ltd.
+2012-10-28,0,False,GasLog Ltd.
+2012-11-04,0,False,GasLog Ltd.
+2012-11-11,0,False,GasLog Ltd.
+2012-11-18,0,False,GasLog Ltd.
+2012-11-25,83,False,GasLog Ltd.
+2012-12-02,82,False,GasLog Ltd.
+2012-12-09,0,False,GasLog Ltd.
+2012-12-16,0,False,GasLog Ltd.
+2012-12-23,0,False,GasLog Ltd.
+2012-12-30,0,False,GasLog Ltd.
+2012-01-08,26,False,TCP Capital
+2012-01-15,0,False,TCP Capital
+2012-01-22,51,False,TCP Capital
+2012-01-29,25,False,TCP Capital
+2012-02-05,0,False,TCP Capital
+2012-02-12,50,False,TCP Capital
+2012-02-19,0,False,TCP Capital
+2012-02-26,25,False,TCP Capital
+2012-03-04,0,False,TCP Capital
+2012-03-11,49,False,TCP Capital
+2012-03-18,0,False,TCP Capital
+2012-03-25,75,False,TCP Capital
+2012-04-01,77,False,TCP Capital
+2012-04-08,26,False,TCP Capital
+2012-04-15,25,False,TCP Capital
+2012-04-22,100,False,TCP Capital
+2012-04-29,25,False,TCP Capital
+2012-05-06,25,False,TCP Capital
+2012-05-13,50,False,TCP Capital
+2012-05-20,0,False,TCP Capital
+2012-05-27,25,False,TCP Capital
+2012-06-03,0,False,TCP Capital
+2012-06-10,25,False,TCP Capital
+2012-06-17,74,False,TCP Capital
+2012-06-24,25,False,TCP Capital
+2012-07-01,0,False,TCP Capital
+2012-07-08,25,False,TCP Capital
+2012-07-15,25,False,TCP Capital
+2012-07-22,25,False,TCP Capital
+2012-07-29,49,False,TCP Capital
+2012-08-05,25,False,TCP Capital
+2012-08-12,25,False,TCP Capital
+2012-08-19,0,False,TCP Capital
+2012-08-26,0,False,TCP Capital
+2012-09-02,0,False,TCP Capital
+2012-09-09,24,False,TCP Capital
+2012-09-16,0,False,TCP Capital
+2012-09-23,0,False,TCP Capital
+2012-09-30,23,False,TCP Capital
+2012-10-07,23,False,TCP Capital
+2012-10-14,45,False,TCP Capital
+2012-10-21,22,False,TCP Capital
+2012-10-28,23,False,TCP Capital
+2012-11-04,44,False,TCP Capital
+2012-11-11,22,False,TCP Capital
+2012-11-18,0,False,TCP Capital
+2012-11-25,0,False,TCP Capital
+2012-12-02,43,False,TCP Capital
+2012-12-09,21,False,TCP Capital
+2012-12-16,0,False,TCP Capital
+2012-12-23,49,False,TCP Capital
+2012-12-30,0,False,TCP Capital

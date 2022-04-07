@@ -1,0 +1,261 @@
+date,SVI,isPartial,Issuer
+2004-08-01,0,False,GMH Communities Trust
+2004-08-08,0,False,GMH Communities Trust
+2004-08-15,0,False,GMH Communities Trust
+2004-08-22,0,False,GMH Communities Trust
+2004-08-29,0,False,GMH Communities Trust
+2004-09-05,0,False,GMH Communities Trust
+2004-09-12,0,False,GMH Communities Trust
+2004-09-19,0,False,GMH Communities Trust
+2004-09-26,0,False,GMH Communities Trust
+2004-10-03,0,False,GMH Communities Trust
+2004-10-10,0,False,GMH Communities Trust
+2004-10-17,0,False,GMH Communities Trust
+2004-10-24,0,False,GMH Communities Trust
+2004-10-31,0,False,GMH Communities Trust
+2004-11-07,100,False,GMH Communities Trust
+2004-11-14,0,False,GMH Communities Trust
+2004-11-21,0,False,GMH Communities Trust
+2004-11-28,0,False,GMH Communities Trust
+2004-12-05,0,False,GMH Communities Trust
+2004-12-12,0,False,GMH Communities Trust
+2004-12-19,0,False,GMH Communities Trust
+2004-12-26,0,False,GMH Communities Trust
+2005-01-02,0,False,GMH Communities Trust
+2005-01-09,0,False,GMH Communities Trust
+2005-01-16,0,False,GMH Communities Trust
+2005-01-23,0,False,GMH Communities Trust
+2005-01-30,0,False,GMH Communities Trust
+2005-02-06,59,False,GMH Communities Trust
+2005-02-13,0,False,GMH Communities Trust
+2005-02-20,0,False,GMH Communities Trust
+2005-02-27,58,False,GMH Communities Trust
+2005-03-06,54,False,GMH Communities Trust
+2005-03-13,0,False,GMH Communities Trust
+2005-03-20,0,False,GMH Communities Trust
+2005-03-27,0,False,GMH Communities Trust
+2005-04-03,0,False,GMH Communities Trust
+2005-04-10,54,False,GMH Communities Trust
+2005-04-17,0,False,GMH Communities Trust
+2005-04-24,0,False,GMH Communities Trust
+2005-05-01,0,False,GMH Communities Trust
+2005-05-08,0,False,GMH Communities Trust
+2005-05-15,0,False,GMH Communities Trust
+2005-05-22,0,False,GMH Communities Trust
+2005-05-29,0,False,GMH Communities Trust
+2005-06-05,52,False,GMH Communities Trust
+2005-06-12,0,False,GMH Communities Trust
+2005-06-19,55,False,GMH Communities Trust
+2005-06-26,54,False,GMH Communities Trust
+2005-07-03,0,False,GMH Communities Trust
+2005-07-10,0,False,GMH Communities Trust
+2005-07-17,0,False,GMH Communities Trust
+2005-07-24,0,False,GMH Communities Trust
+2004-08-01,0,False,Calamos Asset Management
+2004-08-08,0,False,Calamos Asset Management
+2004-08-15,75,False,Calamos Asset Management
+2004-08-22,0,False,Calamos Asset Management
+2004-08-29,0,False,Calamos Asset Management
+2004-09-05,0,False,Calamos Asset Management
+2004-09-12,0,False,Calamos Asset Management
+2004-09-19,65,False,Calamos Asset Management
+2004-09-26,0,False,Calamos Asset Management
+2004-10-03,66,False,Calamos Asset Management
+2004-10-10,0,False,Calamos Asset Management
+2004-10-17,63,False,Calamos Asset Management
+2004-10-24,74,False,Calamos Asset Management
+2004-10-31,64,False,Calamos Asset Management
+2004-11-07,92,False,Calamos Asset Management
+2004-11-14,0,False,Calamos Asset Management
+2004-11-21,0,False,Calamos Asset Management
+2004-11-28,60,False,Calamos Asset Management
+2004-12-05,0,False,Calamos Asset Management
+2004-12-12,0,False,Calamos Asset Management
+2004-12-19,0,False,Calamos Asset Management
+2004-12-26,0,False,Calamos Asset Management
+2005-01-02,60,False,Calamos Asset Management
+2005-01-09,55,False,Calamos Asset Management
+2005-01-16,0,False,Calamos Asset Management
+2005-01-23,0,False,Calamos Asset Management
+2005-01-30,0,False,Calamos Asset Management
+2005-02-06,55,False,Calamos Asset Management
+2005-02-13,0,False,Calamos Asset Management
+2005-02-20,0,False,Calamos Asset Management
+2005-02-27,0,False,Calamos Asset Management
+2005-03-06,0,False,Calamos Asset Management
+2005-03-13,0,False,Calamos Asset Management
+2005-03-20,0,False,Calamos Asset Management
+2005-03-27,0,False,Calamos Asset Management
+2005-04-03,0,False,Calamos Asset Management
+2005-04-10,0,False,Calamos Asset Management
+2005-04-17,50,False,Calamos Asset Management
+2005-04-24,0,False,Calamos Asset Management
+2005-05-01,0,False,Calamos Asset Management
+2005-05-08,0,False,Calamos Asset Management
+2005-05-15,48,False,Calamos Asset Management
+2005-05-22,0,False,Calamos Asset Management
+2005-05-29,50,False,Calamos Asset Management
+2005-06-05,0,False,Calamos Asset Management
+2005-06-12,98,False,Calamos Asset Management
+2005-06-19,50,False,Calamos Asset Management
+2005-06-26,100,False,Calamos Asset Management
+2005-07-03,0,False,Calamos Asset Management
+2005-07-10,50,False,Calamos Asset Management
+2005-07-17,49,False,Calamos Asset Management
+2005-07-24,0,False,Calamos Asset Management
+2004-08-01,67,False,eLong
+2004-08-08,73,False,eLong
+2004-08-15,43,False,eLong
+2004-08-22,61,False,eLong
+2004-08-29,87,False,eLong
+2004-09-05,60,False,eLong
+2004-09-12,38,False,eLong
+2004-09-19,62,False,eLong
+2004-09-26,62,False,eLong
+2004-10-03,56,False,eLong
+2004-10-10,53,False,eLong
+2004-10-17,66,False,eLong
+2004-10-24,98,False,eLong
+2004-10-31,42,False,eLong
+2004-11-07,26,False,eLong
+2004-11-14,95,False,eLong
+2004-11-21,96,False,eLong
+2004-11-28,23,False,eLong
+2004-12-05,45,False,eLong
+2004-12-12,46,False,eLong
+2004-12-19,68,False,eLong
+2004-12-26,32,False,eLong
+2005-01-02,29,False,eLong
+2005-01-09,26,False,eLong
+2005-01-16,68,False,eLong
+2005-01-23,57,False,eLong
+2005-01-30,51,False,eLong
+2005-02-06,21,False,eLong
+2005-02-13,41,False,eLong
+2005-02-20,37,False,eLong
+2005-02-27,77,False,eLong
+2005-03-06,53,False,eLong
+2005-03-13,58,False,eLong
+2005-03-20,74,False,eLong
+2005-03-27,61,False,eLong
+2005-04-03,42,False,eLong
+2005-04-10,62,False,eLong
+2005-04-17,53,False,eLong
+2005-04-24,52,False,eLong
+2005-05-01,58,False,eLong
+2005-05-08,23,False,eLong
+2005-05-15,60,False,eLong
+2005-05-22,71,False,eLong
+2005-05-29,29,False,eLong
+2005-06-05,50,False,eLong
+2005-06-12,56,False,eLong
+2005-06-19,77,False,eLong
+2005-06-26,100,False,eLong
+2005-07-03,67,False,eLong
+2005-07-10,62,False,eLong
+2005-07-17,52,False,eLong
+2005-07-24,43,False,eLong
+2004-08-01,0,False,DreamWorks Animation SKG
+2004-08-08,0,False,DreamWorks Animation SKG
+2004-08-15,0,False,DreamWorks Animation SKG
+2004-08-22,0,False,DreamWorks Animation SKG
+2004-08-29,0,False,DreamWorks Animation SKG
+2004-09-05,0,False,DreamWorks Animation SKG
+2004-09-12,0,False,DreamWorks Animation SKG
+2004-09-19,0,False,DreamWorks Animation SKG
+2004-09-26,0,False,DreamWorks Animation SKG
+2004-10-03,0,False,DreamWorks Animation SKG
+2004-10-10,0,False,DreamWorks Animation SKG
+2004-10-17,0,False,DreamWorks Animation SKG
+2004-10-24,49,False,DreamWorks Animation SKG
+2004-10-31,0,False,DreamWorks Animation SKG
+2004-11-07,0,False,DreamWorks Animation SKG
+2004-11-14,47,False,DreamWorks Animation SKG
+2004-11-21,0,False,DreamWorks Animation SKG
+2004-11-28,0,False,DreamWorks Animation SKG
+2004-12-05,39,False,DreamWorks Animation SKG
+2004-12-12,0,False,DreamWorks Animation SKG
+2004-12-19,0,False,DreamWorks Animation SKG
+2004-12-26,0,False,DreamWorks Animation SKG
+2005-01-02,0,False,DreamWorks Animation SKG
+2005-01-09,0,False,DreamWorks Animation SKG
+2005-01-16,0,False,DreamWorks Animation SKG
+2005-01-23,0,False,DreamWorks Animation SKG
+2005-01-30,0,False,DreamWorks Animation SKG
+2005-02-06,0,False,DreamWorks Animation SKG
+2005-02-13,0,False,DreamWorks Animation SKG
+2005-02-20,0,False,DreamWorks Animation SKG
+2005-02-27,0,False,DreamWorks Animation SKG
+2005-03-06,0,False,DreamWorks Animation SKG
+2005-03-13,33,False,DreamWorks Animation SKG
+2005-03-20,0,False,DreamWorks Animation SKG
+2005-03-27,0,False,DreamWorks Animation SKG
+2005-04-03,49,False,DreamWorks Animation SKG
+2005-04-10,0,False,DreamWorks Animation SKG
+2005-04-17,0,False,DreamWorks Animation SKG
+2005-04-24,33,False,DreamWorks Animation SKG
+2005-05-01,0,False,DreamWorks Animation SKG
+2005-05-08,0,False,DreamWorks Animation SKG
+2005-05-15,0,False,DreamWorks Animation SKG
+2005-05-22,33,False,DreamWorks Animation SKG
+2005-05-29,100,False,DreamWorks Animation SKG
+2005-06-05,0,False,DreamWorks Animation SKG
+2005-06-12,65,False,DreamWorks Animation SKG
+2005-06-19,67,False,DreamWorks Animation SKG
+2005-06-26,33,False,DreamWorks Animation SKG
+2005-07-03,0,False,DreamWorks Animation SKG
+2005-07-10,0,False,DreamWorks Animation SKG
+2005-07-17,0,False,DreamWorks Animation SKG
+2005-07-24,0,False,DreamWorks Animation SKG
+2004-08-01,22,False,Build-A-Bear Workshop
+2004-08-08,0,False,Build-A-Bear Workshop
+2004-08-15,21,False,Build-A-Bear Workshop
+2004-08-22,0,False,Build-A-Bear Workshop
+2004-08-29,39,False,Build-A-Bear Workshop
+2004-09-05,19,False,Build-A-Bear Workshop
+2004-09-12,0,False,Build-A-Bear Workshop
+2004-09-19,0,False,Build-A-Bear Workshop
+2004-09-26,18,False,Build-A-Bear Workshop
+2004-10-03,0,False,Build-A-Bear Workshop
+2004-10-10,0,False,Build-A-Bear Workshop
+2004-10-17,18,False,Build-A-Bear Workshop
+2004-10-24,0,False,Build-A-Bear Workshop
+2004-10-31,89,False,Build-A-Bear Workshop
+2004-11-07,52,False,Build-A-Bear Workshop
+2004-11-14,59,False,Build-A-Bear Workshop
+2004-11-21,70,False,Build-A-Bear Workshop
+2004-11-28,83,False,Build-A-Bear Workshop
+2004-12-05,50,False,Build-A-Bear Workshop
+2004-12-12,85,False,Build-A-Bear Workshop
+2004-12-19,100,False,Build-A-Bear Workshop
+2004-12-26,0,False,Build-A-Bear Workshop
+2005-01-02,33,False,Build-A-Bear Workshop
+2005-01-09,31,False,Build-A-Bear Workshop
+2005-01-16,31,False,Build-A-Bear Workshop
+2005-01-23,46,False,Build-A-Bear Workshop
+2005-01-30,45,False,Build-A-Bear Workshop
+2005-02-06,61,False,Build-A-Bear Workshop
+2005-02-13,45,False,Build-A-Bear Workshop
+2005-02-20,47,False,Build-A-Bear Workshop
+2005-02-27,75,False,Build-A-Bear Workshop
+2005-03-06,14,False,Build-A-Bear Workshop
+2005-03-13,14,False,Build-A-Bear Workshop
+2005-03-20,31,False,Build-A-Bear Workshop
+2005-03-27,27,False,Build-A-Bear Workshop
+2005-04-03,41,False,Build-A-Bear Workshop
+2005-04-10,42,False,Build-A-Bear Workshop
+2005-04-17,14,False,Build-A-Bear Workshop
+2005-04-24,27,False,Build-A-Bear Workshop
+2005-05-01,0,False,Build-A-Bear Workshop
+2005-05-08,27,False,Build-A-Bear Workshop
+2005-05-15,27,False,Build-A-Bear Workshop
+2005-05-22,56,False,Build-A-Bear Workshop
+2005-05-29,0,False,Build-A-Bear Workshop
+2005-06-05,67,False,Build-A-Bear Workshop
+2005-06-12,27,False,Build-A-Bear Workshop
+2005-06-19,42,False,Build-A-Bear Workshop
+2005-06-26,14,False,Build-A-Bear Workshop
+2005-07-03,14,False,Build-A-Bear Workshop
+2005-07-10,56,False,Build-A-Bear Workshop
+2005-07-17,14,False,Build-A-Bear Workshop
+2005-07-24,41,False,Build-A-Bear Workshop

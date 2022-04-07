@@ -1,0 +1,265 @@
+date,SVI,isPartial,Issuer
+2013-12-22,0,False,Q2 Holdings
+2013-12-29,0,False,Q2 Holdings
+2014-01-05,0,False,Q2 Holdings
+2014-01-12,0,False,Q2 Holdings
+2014-01-19,5,False,Q2 Holdings
+2014-01-26,0,False,Q2 Holdings
+2014-02-02,0,False,Q2 Holdings
+2014-02-09,14,False,Q2 Holdings
+2014-02-16,10,False,Q2 Holdings
+2014-02-23,5,False,Q2 Holdings
+2014-03-02,10,False,Q2 Holdings
+2014-03-09,35,False,Q2 Holdings
+2014-03-16,100,False,Q2 Holdings
+2014-03-23,19,False,Q2 Holdings
+2014-03-30,10,False,Q2 Holdings
+2014-04-06,5,False,Q2 Holdings
+2014-04-13,5,False,Q2 Holdings
+2014-04-20,5,False,Q2 Holdings
+2014-04-27,0,False,Q2 Holdings
+2014-05-04,0,False,Q2 Holdings
+2014-05-11,0,False,Q2 Holdings
+2014-05-18,5,False,Q2 Holdings
+2014-05-25,0,False,Q2 Holdings
+2014-06-01,0,False,Q2 Holdings
+2014-06-08,0,False,Q2 Holdings
+2014-06-15,11,False,Q2 Holdings
+2014-06-22,5,False,Q2 Holdings
+2014-06-29,0,False,Q2 Holdings
+2014-07-06,5,False,Q2 Holdings
+2014-07-13,5,False,Q2 Holdings
+2014-07-20,17,False,Q2 Holdings
+2014-07-27,0,False,Q2 Holdings
+2014-08-03,23,False,Q2 Holdings
+2014-08-10,5,False,Q2 Holdings
+2014-08-17,0,False,Q2 Holdings
+2014-08-24,0,False,Q2 Holdings
+2014-08-31,0,False,Q2 Holdings
+2014-09-07,0,False,Q2 Holdings
+2014-09-14,0,False,Q2 Holdings
+2014-09-21,10,False,Q2 Holdings
+2014-09-28,0,False,Q2 Holdings
+2014-10-05,0,False,Q2 Holdings
+2014-10-12,15,False,Q2 Holdings
+2014-10-19,5,False,Q2 Holdings
+2014-10-26,5,False,Q2 Holdings
+2014-11-02,5,False,Q2 Holdings
+2014-11-09,5,False,Q2 Holdings
+2014-11-16,0,False,Q2 Holdings
+2014-11-23,0,False,Q2 Holdings
+2014-11-30,0,False,Q2 Holdings
+2014-12-07,0,False,Q2 Holdings
+2014-12-14,0,False,Q2 Holdings
+2013-12-22,21,False,A10 Networks
+2013-12-29,30,False,A10 Networks
+2014-01-05,25,False,A10 Networks
+2014-01-12,35,False,A10 Networks
+2014-01-19,28,False,A10 Networks
+2014-01-26,31,False,A10 Networks
+2014-02-02,31,False,A10 Networks
+2014-02-09,33,False,A10 Networks
+2014-02-16,51,False,A10 Networks
+2014-02-23,30,False,A10 Networks
+2014-03-02,32,False,A10 Networks
+2014-03-09,42,False,A10 Networks
+2014-03-16,100,False,A10 Networks
+2014-03-23,44,False,A10 Networks
+2014-03-30,29,False,A10 Networks
+2014-04-06,42,False,A10 Networks
+2014-04-13,38,False,A10 Networks
+2014-04-20,30,False,A10 Networks
+2014-04-27,43,False,A10 Networks
+2014-05-04,28,False,A10 Networks
+2014-05-11,38,False,A10 Networks
+2014-05-18,38,False,A10 Networks
+2014-05-25,32,False,A10 Networks
+2014-06-01,31,False,A10 Networks
+2014-06-08,36,False,A10 Networks
+2014-06-15,22,False,A10 Networks
+2014-06-22,19,False,A10 Networks
+2014-06-29,28,False,A10 Networks
+2014-07-06,25,False,A10 Networks
+2014-07-13,31,False,A10 Networks
+2014-07-20,35,False,A10 Networks
+2014-07-27,35,False,A10 Networks
+2014-08-03,43,False,A10 Networks
+2014-08-10,32,False,A10 Networks
+2014-08-17,27,False,A10 Networks
+2014-08-24,29,False,A10 Networks
+2014-08-31,24,False,A10 Networks
+2014-09-07,16,False,A10 Networks
+2014-09-14,35,False,A10 Networks
+2014-09-21,32,False,A10 Networks
+2014-09-28,30,False,A10 Networks
+2014-10-05,36,False,A10 Networks
+2014-10-12,30,False,A10 Networks
+2014-10-19,21,False,A10 Networks
+2014-10-26,23,False,A10 Networks
+2014-11-02,28,False,A10 Networks
+2014-11-09,23,False,A10 Networks
+2014-11-16,35,False,A10 Networks
+2014-11-23,12,False,A10 Networks
+2014-11-30,35,False,A10 Networks
+2014-12-07,31,False,A10 Networks
+2014-12-14,29,False,A10 Networks
+2014-12-21,19,False,A10 Networks
+2013-12-22,34,False,Amber Road
+2013-12-29,63,False,Amber Road
+2014-01-05,66,False,Amber Road
+2014-01-12,55,False,Amber Road
+2014-01-19,48,False,Amber Road
+2014-01-26,69,False,Amber Road
+2014-02-02,67,False,Amber Road
+2014-02-09,86,False,Amber Road
+2014-02-16,53,False,Amber Road
+2014-02-23,64,False,Amber Road
+2014-03-02,69,False,Amber Road
+2014-03-09,76,False,Amber Road
+2014-03-16,82,False,Amber Road
+2014-03-23,63,False,Amber Road
+2014-03-30,55,False,Amber Road
+2014-04-06,43,False,Amber Road
+2014-04-13,51,False,Amber Road
+2014-04-20,69,False,Amber Road
+2014-04-27,58,False,Amber Road
+2014-05-04,65,False,Amber Road
+2014-05-11,68,False,Amber Road
+2014-05-18,72,False,Amber Road
+2014-05-25,59,False,Amber Road
+2014-06-01,67,False,Amber Road
+2014-06-08,74,False,Amber Road
+2014-06-15,49,False,Amber Road
+2014-06-22,67,False,Amber Road
+2014-06-29,57,False,Amber Road
+2014-07-06,63,False,Amber Road
+2014-07-13,66,False,Amber Road
+2014-07-20,68,False,Amber Road
+2014-07-27,76,False,Amber Road
+2014-08-03,70,False,Amber Road
+2014-08-10,89,False,Amber Road
+2014-08-17,86,False,Amber Road
+2014-08-24,75,False,Amber Road
+2014-08-31,70,False,Amber Road
+2014-09-07,43,False,Amber Road
+2014-09-14,56,False,Amber Road
+2014-09-21,100,False,Amber Road
+2014-09-28,57,False,Amber Road
+2014-10-05,58,False,Amber Road
+2014-10-12,73,False,Amber Road
+2014-10-19,66,False,Amber Road
+2014-10-26,59,False,Amber Road
+2014-11-02,58,False,Amber Road
+2014-11-09,64,False,Amber Road
+2014-11-16,65,False,Amber Road
+2014-11-23,57,False,Amber Road
+2014-11-30,63,False,Amber Road
+2014-12-07,71,False,Amber Road
+2014-12-14,68,False,Amber Road
+2014-12-21,57,False,Amber Road
+2013-12-22,51,False,Borderfree
+2013-12-29,44,False,Borderfree
+2014-01-05,51,False,Borderfree
+2014-01-12,47,False,Borderfree
+2014-01-19,40,False,Borderfree
+2014-01-26,48,False,Borderfree
+2014-02-02,42,False,Borderfree
+2014-02-09,45,False,Borderfree
+2014-02-16,44,False,Borderfree
+2014-02-23,37,False,Borderfree
+2014-03-02,30,False,Borderfree
+2014-03-09,55,False,Borderfree
+2014-03-16,100,False,Borderfree
+2014-03-23,62,False,Borderfree
+2014-03-30,52,False,Borderfree
+2014-04-06,49,False,Borderfree
+2014-04-13,47,False,Borderfree
+2014-04-20,50,False,Borderfree
+2014-04-27,36,False,Borderfree
+2014-05-04,55,False,Borderfree
+2014-05-11,45,False,Borderfree
+2014-05-18,40,False,Borderfree
+2014-05-25,37,False,Borderfree
+2014-06-01,42,False,Borderfree
+2014-06-08,45,False,Borderfree
+2014-06-15,45,False,Borderfree
+2014-06-22,48,False,Borderfree
+2014-06-29,64,False,Borderfree
+2014-07-06,50,False,Borderfree
+2014-07-13,41,False,Borderfree
+2014-07-20,55,False,Borderfree
+2014-07-27,46,False,Borderfree
+2014-08-03,52,False,Borderfree
+2014-08-10,45,False,Borderfree
+2014-08-17,50,False,Borderfree
+2014-08-24,45,False,Borderfree
+2014-08-31,40,False,Borderfree
+2014-09-07,49,False,Borderfree
+2014-09-14,59,False,Borderfree
+2014-09-21,37,False,Borderfree
+2014-09-28,68,False,Borderfree
+2014-10-05,41,False,Borderfree
+2014-10-12,48,False,Borderfree
+2014-10-19,54,False,Borderfree
+2014-10-26,47,False,Borderfree
+2014-11-02,40,False,Borderfree
+2014-11-09,53,False,Borderfree
+2014-11-16,54,False,Borderfree
+2014-11-23,77,False,Borderfree
+2014-11-30,95,False,Borderfree
+2014-12-07,68,False,Borderfree
+2014-12-14,46,False,Borderfree
+2014-12-21,38,False,Borderfree
+2013-12-22,0,False,Ruthigen
+2013-12-29,0,False,Ruthigen
+2014-01-05,0,False,Ruthigen
+2014-01-12,0,False,Ruthigen
+2014-01-19,0,False,Ruthigen
+2014-01-26,0,False,Ruthigen
+2014-02-02,0,False,Ruthigen
+2014-02-09,5,False,Ruthigen
+2014-02-16,5,False,Ruthigen
+2014-02-23,0,False,Ruthigen
+2014-03-02,0,False,Ruthigen
+2014-03-09,11,False,Ruthigen
+2014-03-16,100,False,Ruthigen
+2014-03-23,10,False,Ruthigen
+2014-03-30,5,False,Ruthigen
+2014-04-06,5,False,Ruthigen
+2014-04-13,0,False,Ruthigen
+2014-04-20,5,False,Ruthigen
+2014-04-27,5,False,Ruthigen
+2014-05-04,11,False,Ruthigen
+2014-05-11,0,False,Ruthigen
+2014-05-18,11,False,Ruthigen
+2014-05-25,0,False,Ruthigen
+2014-06-01,0,False,Ruthigen
+2014-06-08,6,False,Ruthigen
+2014-06-15,6,False,Ruthigen
+2014-06-22,12,False,Ruthigen
+2014-06-29,0,False,Ruthigen
+2014-07-06,0,False,Ruthigen
+2014-07-13,0,False,Ruthigen
+2014-07-20,6,False,Ruthigen
+2014-07-27,6,False,Ruthigen
+2014-08-03,6,False,Ruthigen
+2014-08-10,12,False,Ruthigen
+2014-08-17,0,False,Ruthigen
+2014-08-24,0,False,Ruthigen
+2014-08-31,0,False,Ruthigen
+2014-09-07,0,False,Ruthigen
+2014-09-14,0,False,Ruthigen
+2014-09-21,0,False,Ruthigen
+2014-09-28,6,False,Ruthigen
+2014-10-05,6,False,Ruthigen
+2014-10-12,0,False,Ruthigen
+2014-10-19,0,False,Ruthigen
+2014-10-26,6,False,Ruthigen
+2014-11-02,0,False,Ruthigen
+2014-11-09,0,False,Ruthigen
+2014-11-16,5,False,Ruthigen
+2014-11-23,0,False,Ruthigen
+2014-11-30,11,False,Ruthigen
+2014-12-07,5,False,Ruthigen
+2014-12-14,0,False,Ruthigen
+2014-12-21,6,False,Ruthigen

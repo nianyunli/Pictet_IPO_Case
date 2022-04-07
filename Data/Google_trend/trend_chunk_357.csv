@@ -1,0 +1,261 @@
+date,SVI,isPartial,Issuer
+2010-11-14,5,False,Imperial Holdings
+2010-11-21,5,False,Imperial Holdings
+2010-11-28,11,False,Imperial Holdings
+2010-12-05,4,False,Imperial Holdings
+2010-12-12,7,False,Imperial Holdings
+2010-12-19,5,False,Imperial Holdings
+2010-12-26,10,False,Imperial Holdings
+2011-01-02,9,False,Imperial Holdings
+2011-01-09,9,False,Imperial Holdings
+2011-01-16,13,False,Imperial Holdings
+2011-01-23,8,False,Imperial Holdings
+2011-01-30,26,False,Imperial Holdings
+2011-02-06,10,False,Imperial Holdings
+2011-02-13,14,False,Imperial Holdings
+2011-02-20,4,False,Imperial Holdings
+2011-02-27,18,False,Imperial Holdings
+2011-03-06,10,False,Imperial Holdings
+2011-03-13,8,False,Imperial Holdings
+2011-03-20,16,False,Imperial Holdings
+2011-03-27,16,False,Imperial Holdings
+2011-04-03,12,False,Imperial Holdings
+2011-04-10,4,False,Imperial Holdings
+2011-04-17,2,False,Imperial Holdings
+2011-04-24,4,False,Imperial Holdings
+2011-05-01,4,False,Imperial Holdings
+2011-05-08,14,False,Imperial Holdings
+2011-05-15,4,False,Imperial Holdings
+2011-05-22,6,False,Imperial Holdings
+2011-05-29,8,False,Imperial Holdings
+2011-06-05,10,False,Imperial Holdings
+2011-06-12,12,False,Imperial Holdings
+2011-06-19,10,False,Imperial Holdings
+2011-06-26,4,False,Imperial Holdings
+2011-07-03,4,False,Imperial Holdings
+2011-07-10,10,False,Imperial Holdings
+2011-07-17,8,False,Imperial Holdings
+2011-07-24,16,False,Imperial Holdings
+2011-07-31,6,False,Imperial Holdings
+2011-08-07,8,False,Imperial Holdings
+2011-08-14,8,False,Imperial Holdings
+2011-08-21,16,False,Imperial Holdings
+2011-08-28,8,False,Imperial Holdings
+2011-09-04,9,False,Imperial Holdings
+2011-09-11,17,False,Imperial Holdings
+2011-09-18,13,False,Imperial Holdings
+2011-09-25,100,False,Imperial Holdings
+2011-10-02,20,False,Imperial Holdings
+2011-10-09,25,False,Imperial Holdings
+2011-10-16,14,False,Imperial Holdings
+2011-10-23,14,False,Imperial Holdings
+2011-10-30,16,False,Imperial Holdings
+2011-11-06,9,False,Imperial Holdings
+2010-11-14,17,False,Gevo
+2010-11-21,22,False,Gevo
+2010-11-28,21,False,Gevo
+2010-12-05,25,False,Gevo
+2010-12-12,18,False,Gevo
+2010-12-19,18,False,Gevo
+2010-12-26,15,False,Gevo
+2011-01-02,18,False,Gevo
+2011-01-09,27,False,Gevo
+2011-01-16,22,False,Gevo
+2011-01-23,48,False,Gevo
+2011-01-30,31,False,Gevo
+2011-02-06,100,False,Gevo
+2011-02-13,49,False,Gevo
+2011-02-20,31,False,Gevo
+2011-02-27,28,False,Gevo
+2011-03-06,29,False,Gevo
+2011-03-13,20,False,Gevo
+2011-03-20,44,False,Gevo
+2011-03-27,45,False,Gevo
+2011-04-03,29,False,Gevo
+2011-04-10,39,False,Gevo
+2011-04-17,55,False,Gevo
+2011-04-24,27,False,Gevo
+2011-05-01,26,False,Gevo
+2011-05-08,36,False,Gevo
+2011-05-15,26,False,Gevo
+2011-05-22,31,False,Gevo
+2011-05-29,31,False,Gevo
+2011-06-05,33,False,Gevo
+2011-06-12,31,False,Gevo
+2011-06-19,27,False,Gevo
+2011-06-26,20,False,Gevo
+2011-07-03,30,False,Gevo
+2011-07-10,32,False,Gevo
+2011-07-17,19,False,Gevo
+2011-07-24,46,False,Gevo
+2011-07-31,30,False,Gevo
+2011-08-07,32,False,Gevo
+2011-08-14,29,False,Gevo
+2011-08-21,27,False,Gevo
+2011-08-28,18,False,Gevo
+2011-09-04,28,False,Gevo
+2011-09-11,25,False,Gevo
+2011-09-18,19,False,Gevo
+2011-09-25,32,False,Gevo
+2011-10-02,26,False,Gevo
+2011-10-09,25,False,Gevo
+2011-10-16,33,False,Gevo
+2011-10-23,28,False,Gevo
+2011-10-30,22,False,Gevo
+2011-11-06,23,False,Gevo
+2010-11-14,23,False,Summit Hotel Properties
+2010-11-21,23,False,Summit Hotel Properties
+2010-11-28,43,False,Summit Hotel Properties
+2010-12-05,0,False,Summit Hotel Properties
+2010-12-12,0,False,Summit Hotel Properties
+2010-12-19,0,False,Summit Hotel Properties
+2010-12-26,26,False,Summit Hotel Properties
+2011-01-02,0,False,Summit Hotel Properties
+2011-01-09,21,False,Summit Hotel Properties
+2011-01-16,0,False,Summit Hotel Properties
+2011-01-23,82,False,Summit Hotel Properties
+2011-01-30,20,False,Summit Hotel Properties
+2011-02-06,82,False,Summit Hotel Properties
+2011-02-13,20,False,Summit Hotel Properties
+2011-02-20,20,False,Summit Hotel Properties
+2011-02-27,61,False,Summit Hotel Properties
+2011-03-06,20,False,Summit Hotel Properties
+2011-03-13,0,False,Summit Hotel Properties
+2011-03-20,81,False,Summit Hotel Properties
+2011-03-27,100,False,Summit Hotel Properties
+2011-04-03,0,False,Summit Hotel Properties
+2011-04-10,20,False,Summit Hotel Properties
+2011-04-17,0,False,Summit Hotel Properties
+2011-04-24,0,False,Summit Hotel Properties
+2011-05-01,20,False,Summit Hotel Properties
+2011-05-08,20,False,Summit Hotel Properties
+2011-05-15,39,False,Summit Hotel Properties
+2011-05-22,40,False,Summit Hotel Properties
+2011-05-29,41,False,Summit Hotel Properties
+2011-06-05,20,False,Summit Hotel Properties
+2011-06-12,0,False,Summit Hotel Properties
+2011-06-19,40,False,Summit Hotel Properties
+2011-06-26,20,False,Summit Hotel Properties
+2011-07-03,41,False,Summit Hotel Properties
+2011-07-10,41,False,Summit Hotel Properties
+2011-07-17,20,False,Summit Hotel Properties
+2011-07-24,20,False,Summit Hotel Properties
+2011-07-31,41,False,Summit Hotel Properties
+2011-08-07,20,False,Summit Hotel Properties
+2011-08-14,40,False,Summit Hotel Properties
+2011-08-21,19,False,Summit Hotel Properties
+2011-08-28,19,False,Summit Hotel Properties
+2011-09-04,0,False,Summit Hotel Properties
+2011-09-11,18,False,Summit Hotel Properties
+2011-09-18,18,False,Summit Hotel Properties
+2011-09-25,0,False,Summit Hotel Properties
+2011-10-02,0,False,Summit Hotel Properties
+2011-10-09,35,False,Summit Hotel Properties
+2011-10-16,0,False,Summit Hotel Properties
+2011-10-23,18,False,Summit Hotel Properties
+2011-10-30,0,False,Summit Hotel Properties
+2011-11-06,35,False,Summit Hotel Properties
+2010-11-14,42,False,Fluidigm
+2010-11-21,34,False,Fluidigm
+2010-11-28,32,False,Fluidigm
+2010-12-05,41,False,Fluidigm
+2010-12-12,29,False,Fluidigm
+2010-12-19,37,False,Fluidigm
+2010-12-26,14,False,Fluidigm
+2011-01-02,49,False,Fluidigm
+2011-01-09,31,False,Fluidigm
+2011-01-16,35,False,Fluidigm
+2011-01-23,73,False,Fluidigm
+2011-01-30,75,False,Fluidigm
+2011-02-06,100,False,Fluidigm
+2011-02-13,57,False,Fluidigm
+2011-02-20,56,False,Fluidigm
+2011-02-27,34,False,Fluidigm
+2011-03-06,26,False,Fluidigm
+2011-03-13,23,False,Fluidigm
+2011-03-20,45,False,Fluidigm
+2011-03-27,19,False,Fluidigm
+2011-04-03,45,False,Fluidigm
+2011-04-10,49,False,Fluidigm
+2011-04-17,40,False,Fluidigm
+2011-04-24,35,False,Fluidigm
+2011-05-01,15,False,Fluidigm
+2011-05-08,52,False,Fluidigm
+2011-05-15,44,False,Fluidigm
+2011-05-22,63,False,Fluidigm
+2011-05-29,38,False,Fluidigm
+2011-06-05,45,False,Fluidigm
+2011-06-12,49,False,Fluidigm
+2011-06-19,52,False,Fluidigm
+2011-06-26,46,False,Fluidigm
+2011-07-03,34,False,Fluidigm
+2011-07-10,27,False,Fluidigm
+2011-07-17,19,False,Fluidigm
+2011-07-24,34,False,Fluidigm
+2011-07-31,42,False,Fluidigm
+2011-08-07,66,False,Fluidigm
+2011-08-14,30,False,Fluidigm
+2011-08-21,62,False,Fluidigm
+2011-08-28,28,False,Fluidigm
+2011-09-04,31,False,Fluidigm
+2011-09-11,34,False,Fluidigm
+2011-09-18,51,False,Fluidigm
+2011-09-25,20,False,Fluidigm
+2011-10-02,27,False,Fluidigm
+2011-10-09,29,False,Fluidigm
+2011-10-16,30,False,Fluidigm
+2011-10-23,46,False,Fluidigm
+2011-10-30,30,False,Fluidigm
+2011-11-06,33,False,Fluidigm
+2010-11-14,38,False,AcelRx Pharmaceuticals
+2010-11-21,74,False,AcelRx Pharmaceuticals
+2010-11-28,0,False,AcelRx Pharmaceuticals
+2010-12-05,0,False,AcelRx Pharmaceuticals
+2010-12-12,0,False,AcelRx Pharmaceuticals
+2010-12-19,0,False,AcelRx Pharmaceuticals
+2010-12-26,0,False,AcelRx Pharmaceuticals
+2011-01-02,0,False,AcelRx Pharmaceuticals
+2011-01-09,0,False,AcelRx Pharmaceuticals
+2011-01-16,0,False,AcelRx Pharmaceuticals
+2011-01-23,0,False,AcelRx Pharmaceuticals
+2011-01-30,33,False,AcelRx Pharmaceuticals
+2011-02-06,0,False,AcelRx Pharmaceuticals
+2011-02-13,100,False,AcelRx Pharmaceuticals
+2011-02-20,99,False,AcelRx Pharmaceuticals
+2011-02-27,0,False,AcelRx Pharmaceuticals
+2011-03-06,0,False,AcelRx Pharmaceuticals
+2011-03-13,0,False,AcelRx Pharmaceuticals
+2011-03-20,0,False,AcelRx Pharmaceuticals
+2011-03-27,33,False,AcelRx Pharmaceuticals
+2011-04-03,33,False,AcelRx Pharmaceuticals
+2011-04-10,0,False,AcelRx Pharmaceuticals
+2011-04-17,0,False,AcelRx Pharmaceuticals
+2011-04-24,69,False,AcelRx Pharmaceuticals
+2011-05-01,0,False,AcelRx Pharmaceuticals
+2011-05-08,33,False,AcelRx Pharmaceuticals
+2011-05-15,0,False,AcelRx Pharmaceuticals
+2011-05-22,0,False,AcelRx Pharmaceuticals
+2011-05-29,34,False,AcelRx Pharmaceuticals
+2011-06-05,33,False,AcelRx Pharmaceuticals
+2011-06-12,0,False,AcelRx Pharmaceuticals
+2011-06-19,33,False,AcelRx Pharmaceuticals
+2011-06-26,0,False,AcelRx Pharmaceuticals
+2011-07-03,0,False,AcelRx Pharmaceuticals
+2011-07-10,0,False,AcelRx Pharmaceuticals
+2011-07-17,0,False,AcelRx Pharmaceuticals
+2011-07-24,0,False,AcelRx Pharmaceuticals
+2011-07-31,0,False,AcelRx Pharmaceuticals
+2011-08-07,0,False,AcelRx Pharmaceuticals
+2011-08-14,0,False,AcelRx Pharmaceuticals
+2011-08-21,0,False,AcelRx Pharmaceuticals
+2011-08-28,0,False,AcelRx Pharmaceuticals
+2011-09-04,0,False,AcelRx Pharmaceuticals
+2011-09-11,30,False,AcelRx Pharmaceuticals
+2011-09-18,0,False,AcelRx Pharmaceuticals
+2011-09-25,30,False,AcelRx Pharmaceuticals
+2011-10-02,0,False,AcelRx Pharmaceuticals
+2011-10-09,0,False,AcelRx Pharmaceuticals
+2011-10-16,0,False,AcelRx Pharmaceuticals
+2011-10-23,29,False,AcelRx Pharmaceuticals
+2011-10-30,29,False,AcelRx Pharmaceuticals
+2011-11-06,0,False,AcelRx Pharmaceuticals

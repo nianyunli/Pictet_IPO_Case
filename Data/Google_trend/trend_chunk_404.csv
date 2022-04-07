@@ -1,0 +1,261 @@
+date,SVI,isPartial,Issuer
+2010-07-25,46,False,NetSpend Holdings
+2010-08-01,0,False,NetSpend Holdings
+2010-08-08,0,False,NetSpend Holdings
+2010-08-15,0,False,NetSpend Holdings
+2010-08-22,0,False,NetSpend Holdings
+2010-08-29,21,False,NetSpend Holdings
+2010-09-05,0,False,NetSpend Holdings
+2010-09-12,0,False,NetSpend Holdings
+2010-09-19,21,False,NetSpend Holdings
+2010-09-26,20,False,NetSpend Holdings
+2010-10-03,21,False,NetSpend Holdings
+2010-10-10,62,False,NetSpend Holdings
+2010-10-17,100,False,NetSpend Holdings
+2010-10-24,0,False,NetSpend Holdings
+2010-10-31,0,False,NetSpend Holdings
+2010-11-07,20,False,NetSpend Holdings
+2010-11-14,20,False,NetSpend Holdings
+2010-11-21,0,False,NetSpend Holdings
+2010-11-28,0,False,NetSpend Holdings
+2010-12-05,0,False,NetSpend Holdings
+2010-12-12,0,False,NetSpend Holdings
+2010-12-19,22,False,NetSpend Holdings
+2010-12-26,0,False,NetSpend Holdings
+2011-01-02,19,False,NetSpend Holdings
+2011-01-09,0,False,NetSpend Holdings
+2011-01-16,0,False,NetSpend Holdings
+2011-01-23,0,False,NetSpend Holdings
+2011-01-30,0,False,NetSpend Holdings
+2011-02-06,0,False,NetSpend Holdings
+2011-02-13,18,False,NetSpend Holdings
+2011-02-20,18,False,NetSpend Holdings
+2011-02-27,0,False,NetSpend Holdings
+2011-03-06,18,False,NetSpend Holdings
+2011-03-13,18,False,NetSpend Holdings
+2011-03-20,0,False,NetSpend Holdings
+2011-03-27,0,False,NetSpend Holdings
+2011-04-03,53,False,NetSpend Holdings
+2011-04-10,18,False,NetSpend Holdings
+2011-04-17,19,False,NetSpend Holdings
+2011-04-24,0,False,NetSpend Holdings
+2011-05-01,0,False,NetSpend Holdings
+2011-05-08,0,False,NetSpend Holdings
+2011-05-15,0,False,NetSpend Holdings
+2011-05-22,0,False,NetSpend Holdings
+2011-05-29,0,False,NetSpend Holdings
+2011-06-05,18,False,NetSpend Holdings
+2011-06-12,0,False,NetSpend Holdings
+2011-06-19,0,False,NetSpend Holdings
+2011-06-26,0,False,NetSpend Holdings
+2011-07-03,0,False,NetSpend Holdings
+2011-07-10,0,False,NetSpend Holdings
+2011-07-17,17,False,NetSpend Holdings
+2010-07-25,0,False,ShangPharma
+2010-08-01,0,False,ShangPharma
+2010-08-08,0,False,ShangPharma
+2010-08-15,0,False,ShangPharma
+2010-08-22,0,False,ShangPharma
+2010-08-29,0,False,ShangPharma
+2010-09-05,0,False,ShangPharma
+2010-09-12,7,False,ShangPharma
+2010-09-19,0,False,ShangPharma
+2010-09-26,13,False,ShangPharma
+2010-10-03,27,False,ShangPharma
+2010-10-10,7,False,ShangPharma
+2010-10-17,100,False,ShangPharma
+2010-10-24,40,False,ShangPharma
+2010-10-31,7,False,ShangPharma
+2010-11-07,26,False,ShangPharma
+2010-11-14,13,False,ShangPharma
+2010-11-21,7,False,ShangPharma
+2010-11-28,6,False,ShangPharma
+2010-12-05,19,False,ShangPharma
+2010-12-12,0,False,ShangPharma
+2010-12-19,7,False,ShangPharma
+2010-12-26,0,False,ShangPharma
+2011-01-02,6,False,ShangPharma
+2011-01-09,0,False,ShangPharma
+2011-01-16,6,False,ShangPharma
+2011-01-23,0,False,ShangPharma
+2011-01-30,0,False,ShangPharma
+2011-02-06,6,False,ShangPharma
+2011-02-13,18,False,ShangPharma
+2011-02-20,0,False,ShangPharma
+2011-02-27,12,False,ShangPharma
+2011-03-06,6,False,ShangPharma
+2011-03-13,6,False,ShangPharma
+2011-03-20,12,False,ShangPharma
+2011-03-27,0,False,ShangPharma
+2011-04-03,0,False,ShangPharma
+2011-04-10,6,False,ShangPharma
+2011-04-17,6,False,ShangPharma
+2011-04-24,6,False,ShangPharma
+2011-05-01,6,False,ShangPharma
+2011-05-08,6,False,ShangPharma
+2011-05-15,6,False,ShangPharma
+2011-05-22,0,False,ShangPharma
+2011-05-29,0,False,ShangPharma
+2011-06-05,6,False,ShangPharma
+2011-06-12,0,False,ShangPharma
+2011-06-19,6,False,ShangPharma
+2011-06-26,0,False,ShangPharma
+2011-07-03,6,False,ShangPharma
+2011-07-10,0,False,ShangPharma
+2011-07-17,6,False,ShangPharma
+2010-07-25,0,False,TAL Education Group
+2010-08-01,0,False,TAL Education Group
+2010-08-08,0,False,TAL Education Group
+2010-08-15,0,False,TAL Education Group
+2010-08-22,0,False,TAL Education Group
+2010-08-29,0,False,TAL Education Group
+2010-09-05,0,False,TAL Education Group
+2010-09-12,0,False,TAL Education Group
+2010-09-19,0,False,TAL Education Group
+2010-09-26,13,False,TAL Education Group
+2010-10-03,38,False,TAL Education Group
+2010-10-10,52,False,TAL Education Group
+2010-10-17,100,False,TAL Education Group
+2010-10-24,50,False,TAL Education Group
+2010-10-31,13,False,TAL Education Group
+2010-11-07,12,False,TAL Education Group
+2010-11-14,0,False,TAL Education Group
+2010-11-21,0,False,TAL Education Group
+2010-11-28,12,False,TAL Education Group
+2010-12-05,0,False,TAL Education Group
+2010-12-12,0,False,TAL Education Group
+2010-12-19,0,False,TAL Education Group
+2010-12-26,0,False,TAL Education Group
+2011-01-02,0,False,TAL Education Group
+2011-01-09,0,False,TAL Education Group
+2011-01-16,0,False,TAL Education Group
+2011-01-23,0,False,TAL Education Group
+2011-01-30,11,False,TAL Education Group
+2011-02-06,0,False,TAL Education Group
+2011-02-13,11,False,TAL Education Group
+2011-02-20,0,False,TAL Education Group
+2011-02-27,0,False,TAL Education Group
+2011-03-06,11,False,TAL Education Group
+2011-03-13,11,False,TAL Education Group
+2011-03-20,0,False,TAL Education Group
+2011-03-27,11,False,TAL Education Group
+2011-04-03,11,False,TAL Education Group
+2011-04-10,0,False,TAL Education Group
+2011-04-17,0,False,TAL Education Group
+2011-04-24,0,False,TAL Education Group
+2011-05-01,0,False,TAL Education Group
+2011-05-08,11,False,TAL Education Group
+2011-05-15,0,False,TAL Education Group
+2011-05-22,0,False,TAL Education Group
+2011-05-29,33,False,TAL Education Group
+2011-06-05,0,False,TAL Education Group
+2011-06-12,0,False,TAL Education Group
+2011-06-19,0,False,TAL Education Group
+2011-06-26,0,False,TAL Education Group
+2011-07-03,0,False,TAL Education Group
+2011-07-10,0,False,TAL Education Group
+2011-07-17,11,False,TAL Education Group
+2010-07-25,0,False,Bravo Brio Restaurant Group
+2010-08-01,29,False,Bravo Brio Restaurant Group
+2010-08-08,0,False,Bravo Brio Restaurant Group
+2010-08-15,28,False,Bravo Brio Restaurant Group
+2010-08-22,0,False,Bravo Brio Restaurant Group
+2010-08-29,0,False,Bravo Brio Restaurant Group
+2010-09-05,0,False,Bravo Brio Restaurant Group
+2010-09-12,0,False,Bravo Brio Restaurant Group
+2010-09-19,0,False,Bravo Brio Restaurant Group
+2010-09-26,50,False,Bravo Brio Restaurant Group
+2010-10-03,51,False,Bravo Brio Restaurant Group
+2010-10-10,0,False,Bravo Brio Restaurant Group
+2010-10-17,100,False,Bravo Brio Restaurant Group
+2010-10-24,25,False,Bravo Brio Restaurant Group
+2010-10-31,25,False,Bravo Brio Restaurant Group
+2010-11-07,24,False,Bravo Brio Restaurant Group
+2010-11-14,25,False,Bravo Brio Restaurant Group
+2010-11-21,0,False,Bravo Brio Restaurant Group
+2010-11-28,0,False,Bravo Brio Restaurant Group
+2010-12-05,24,False,Bravo Brio Restaurant Group
+2010-12-12,0,False,Bravo Brio Restaurant Group
+2010-12-19,27,False,Bravo Brio Restaurant Group
+2010-12-26,28,False,Bravo Brio Restaurant Group
+2011-01-02,0,False,Bravo Brio Restaurant Group
+2011-01-09,0,False,Bravo Brio Restaurant Group
+2011-01-16,0,False,Bravo Brio Restaurant Group
+2011-01-23,45,False,Bravo Brio Restaurant Group
+2011-01-30,0,False,Bravo Brio Restaurant Group
+2011-02-06,22,False,Bravo Brio Restaurant Group
+2011-02-13,22,False,Bravo Brio Restaurant Group
+2011-02-20,0,False,Bravo Brio Restaurant Group
+2011-02-27,0,False,Bravo Brio Restaurant Group
+2011-03-06,0,False,Bravo Brio Restaurant Group
+2011-03-13,22,False,Bravo Brio Restaurant Group
+2011-03-20,22,False,Bravo Brio Restaurant Group
+2011-03-27,0,False,Bravo Brio Restaurant Group
+2011-04-03,22,False,Bravo Brio Restaurant Group
+2011-04-10,0,False,Bravo Brio Restaurant Group
+2011-04-17,0,False,Bravo Brio Restaurant Group
+2011-04-24,23,False,Bravo Brio Restaurant Group
+2011-05-01,22,False,Bravo Brio Restaurant Group
+2011-05-08,0,False,Bravo Brio Restaurant Group
+2011-05-15,0,False,Bravo Brio Restaurant Group
+2011-05-22,0,False,Bravo Brio Restaurant Group
+2011-05-29,0,False,Bravo Brio Restaurant Group
+2011-06-05,0,False,Bravo Brio Restaurant Group
+2011-06-12,0,False,Bravo Brio Restaurant Group
+2011-06-19,65,False,Bravo Brio Restaurant Group
+2011-06-26,0,False,Bravo Brio Restaurant Group
+2011-07-03,22,False,Bravo Brio Restaurant Group
+2011-07-10,0,False,Bravo Brio Restaurant Group
+2011-07-17,0,False,Bravo Brio Restaurant Group
+2010-07-25,68,False,Vera Bradley
+2010-08-01,77,False,Vera Bradley
+2010-08-08,75,False,Vera Bradley
+2010-08-15,69,False,Vera Bradley
+2010-08-22,64,False,Vera Bradley
+2010-08-29,58,False,Vera Bradley
+2010-09-05,55,False,Vera Bradley
+2010-09-12,53,False,Vera Bradley
+2010-09-19,55,False,Vera Bradley
+2010-09-26,53,False,Vera Bradley
+2010-10-03,51,False,Vera Bradley
+2010-10-10,49,False,Vera Bradley
+2010-10-17,52,False,Vera Bradley
+2010-10-24,45,False,Vera Bradley
+2010-10-31,52,False,Vera Bradley
+2010-11-07,61,False,Vera Bradley
+2010-11-14,73,False,Vera Bradley
+2010-11-21,89,False,Vera Bradley
+2010-11-28,100,False,Vera Bradley
+2010-12-05,98,False,Vera Bradley
+2010-12-12,98,False,Vera Bradley
+2010-12-19,81,False,Vera Bradley
+2010-12-26,86,False,Vera Bradley
+2011-01-02,67,False,Vera Bradley
+2011-01-09,72,False,Vera Bradley
+2011-01-16,61,False,Vera Bradley
+2011-01-23,52,False,Vera Bradley
+2011-01-30,52,False,Vera Bradley
+2011-02-06,50,False,Vera Bradley
+2011-02-13,49,False,Vera Bradley
+2011-02-20,45,False,Vera Bradley
+2011-02-27,48,False,Vera Bradley
+2011-03-06,49,False,Vera Bradley
+2011-03-13,48,False,Vera Bradley
+2011-03-20,64,False,Vera Bradley
+2011-03-27,55,False,Vera Bradley
+2011-04-03,57,False,Vera Bradley
+2011-04-10,70,False,Vera Bradley
+2011-04-17,62,False,Vera Bradley
+2011-04-24,58,False,Vera Bradley
+2011-05-01,66,False,Vera Bradley
+2011-05-08,58,False,Vera Bradley
+2011-05-15,52,False,Vera Bradley
+2011-05-22,53,False,Vera Bradley
+2011-05-29,56,False,Vera Bradley
+2011-06-05,60,False,Vera Bradley
+2011-06-12,53,False,Vera Bradley
+2011-06-19,62,False,Vera Bradley
+2011-06-26,69,False,Vera Bradley
+2011-07-03,83,False,Vera Bradley
+2011-07-10,77,False,Vera Bradley
+2011-07-17,76,False,Vera Bradley

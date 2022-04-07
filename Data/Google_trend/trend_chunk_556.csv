@@ -1,0 +1,261 @@
+date,SVI,isPartial,Issuer
+2005-05-01,0,False,Healthcare Acquisition
+2005-05-08,0,False,Healthcare Acquisition
+2005-05-15,23,False,Healthcare Acquisition
+2005-05-22,24,False,Healthcare Acquisition
+2005-05-29,24,False,Healthcare Acquisition
+2005-06-05,0,False,Healthcare Acquisition
+2005-06-12,47,False,Healthcare Acquisition
+2005-06-19,0,False,Healthcare Acquisition
+2005-06-26,24,False,Healthcare Acquisition
+2005-07-03,0,False,Healthcare Acquisition
+2005-07-10,24,False,Healthcare Acquisition
+2005-07-17,47,False,Healthcare Acquisition
+2005-07-24,24,False,Healthcare Acquisition
+2005-07-31,72,False,Healthcare Acquisition
+2005-08-07,47,False,Healthcare Acquisition
+2005-08-14,24,False,Healthcare Acquisition
+2005-08-21,27,False,Healthcare Acquisition
+2005-08-28,0,False,Healthcare Acquisition
+2005-09-04,22,False,Healthcare Acquisition
+2005-09-11,21,False,Healthcare Acquisition
+2005-09-18,0,False,Healthcare Acquisition
+2005-09-25,100,False,Healthcare Acquisition
+2005-10-02,20,False,Healthcare Acquisition
+2005-10-09,40,False,Healthcare Acquisition
+2005-10-16,19,False,Healthcare Acquisition
+2005-10-23,0,False,Healthcare Acquisition
+2005-10-30,0,False,Healthcare Acquisition
+2005-11-06,22,False,Healthcare Acquisition
+2005-11-13,0,False,Healthcare Acquisition
+2005-11-20,19,False,Healthcare Acquisition
+2005-11-27,18,False,Healthcare Acquisition
+2005-12-04,0,False,Healthcare Acquisition
+2005-12-11,0,False,Healthcare Acquisition
+2005-12-18,61,False,Healthcare Acquisition
+2005-12-25,0,False,Healthcare Acquisition
+2006-01-01,0,False,Healthcare Acquisition
+2006-01-08,0,False,Healthcare Acquisition
+2006-01-15,17,False,Healthcare Acquisition
+2006-01-22,33,False,Healthcare Acquisition
+2006-01-29,0,False,Healthcare Acquisition
+2006-02-05,16,False,Healthcare Acquisition
+2006-02-12,32,False,Healthcare Acquisition
+2006-02-19,16,False,Healthcare Acquisition
+2006-02-26,16,False,Healthcare Acquisition
+2006-03-05,31,False,Healthcare Acquisition
+2006-03-12,0,False,Healthcare Acquisition
+2006-03-19,16,False,Healthcare Acquisition
+2006-03-26,15,False,Healthcare Acquisition
+2006-04-02,47,False,Healthcare Acquisition
+2006-04-09,16,False,Healthcare Acquisition
+2006-04-16,16,False,Healthcare Acquisition
+2006-04-23,30,False,Healthcare Acquisition
+2005-05-08,48,False,Baby Universe
+2005-05-15,34,False,Baby Universe
+2005-05-22,35,False,Baby Universe
+2005-05-29,100,False,Baby Universe
+2005-06-05,41,False,Baby Universe
+2005-06-12,62,False,Baby Universe
+2005-06-19,71,False,Baby Universe
+2005-06-26,50,False,Baby Universe
+2005-07-03,57,False,Baby Universe
+2005-07-10,99,False,Baby Universe
+2005-07-17,56,False,Baby Universe
+2005-07-24,70,False,Baby Universe
+2005-07-31,92,False,Baby Universe
+2005-08-07,69,False,Baby Universe
+2005-08-14,42,False,Baby Universe
+2005-08-21,55,False,Baby Universe
+2005-08-28,71,False,Baby Universe
+2005-09-04,38,False,Baby Universe
+2005-09-11,61,False,Baby Universe
+2005-09-18,18,False,Baby Universe
+2005-09-25,59,False,Baby Universe
+2005-10-02,36,False,Baby Universe
+2005-10-09,53,False,Baby Universe
+2005-10-16,52,False,Baby Universe
+2005-10-23,58,False,Baby Universe
+2005-10-30,65,False,Baby Universe
+2005-11-06,53,False,Baby Universe
+2005-11-13,44,False,Baby Universe
+2005-11-20,51,False,Baby Universe
+2005-11-27,63,False,Baby Universe
+2005-12-04,48,False,Baby Universe
+2005-12-11,87,False,Baby Universe
+2005-12-18,24,False,Baby Universe
+2005-12-25,75,False,Baby Universe
+2006-01-01,62,False,Baby Universe
+2006-01-08,66,False,Baby Universe
+2006-01-15,69,False,Baby Universe
+2006-01-22,64,False,Baby Universe
+2006-01-29,59,False,Baby Universe
+2006-02-05,72,False,Baby Universe
+2006-02-12,43,False,Baby Universe
+2006-02-19,57,False,Baby Universe
+2006-02-26,60,False,Baby Universe
+2006-03-05,64,False,Baby Universe
+2006-03-12,73,False,Baby Universe
+2006-03-19,46,False,Baby Universe
+2006-03-26,50,False,Baby Universe
+2006-04-02,59,False,Baby Universe
+2006-04-09,53,False,Baby Universe
+2006-04-16,33,False,Baby Universe
+2006-04-23,63,False,Baby Universe
+2006-04-30,28,False,Baby Universe
+2005-05-08,64,False,Unica
+2005-05-15,78,False,Unica
+2005-05-22,76,False,Unica
+2005-05-29,59,False,Unica
+2005-06-05,83,False,Unica
+2005-06-12,76,False,Unica
+2005-06-19,83,False,Unica
+2005-06-26,83,False,Unica
+2005-07-03,84,False,Unica
+2005-07-10,75,False,Unica
+2005-07-17,67,False,Unica
+2005-07-24,99,False,Unica
+2005-07-31,73,False,Unica
+2005-08-07,61,False,Unica
+2005-08-14,66,False,Unica
+2005-08-21,79,False,Unica
+2005-08-28,79,False,Unica
+2005-09-04,94,False,Unica
+2005-09-11,75,False,Unica
+2005-09-18,82,False,Unica
+2005-09-25,89,False,Unica
+2005-10-02,69,False,Unica
+2005-10-09,76,False,Unica
+2005-10-16,94,False,Unica
+2005-10-23,95,False,Unica
+2005-10-30,81,False,Unica
+2005-11-06,69,False,Unica
+2005-11-13,91,False,Unica
+2005-11-20,83,False,Unica
+2005-11-27,81,False,Unica
+2005-12-04,90,False,Unica
+2005-12-11,74,False,Unica
+2005-12-18,82,False,Unica
+2005-12-25,100,False,Unica
+2006-01-01,90,False,Unica
+2006-01-08,77,False,Unica
+2006-01-15,85,False,Unica
+2006-01-22,90,False,Unica
+2006-01-29,90,False,Unica
+2006-02-05,93,False,Unica
+2006-02-12,90,False,Unica
+2006-02-19,71,False,Unica
+2006-02-26,81,False,Unica
+2006-03-05,79,False,Unica
+2006-03-12,74,False,Unica
+2006-03-19,92,False,Unica
+2006-03-26,87,False,Unica
+2006-04-02,83,False,Unica
+2006-04-09,68,False,Unica
+2006-04-16,95,False,Unica
+2006-04-23,88,False,Unica
+2006-04-30,74,False,Unica
+2005-05-08,28,False,The Republic Group
+2005-05-15,0,False,The Republic Group
+2005-05-22,0,False,The Republic Group
+2005-05-29,0,False,The Republic Group
+2005-06-05,83,False,The Republic Group
+2005-06-12,57,False,The Republic Group
+2005-06-19,58,False,The Republic Group
+2005-06-26,0,False,The Republic Group
+2005-07-03,0,False,The Republic Group
+2005-07-10,0,False,The Republic Group
+2005-07-17,0,False,The Republic Group
+2005-07-24,0,False,The Republic Group
+2005-07-31,0,False,The Republic Group
+2005-08-07,0,False,The Republic Group
+2005-08-14,28,False,The Republic Group
+2005-08-21,32,False,The Republic Group
+2005-08-28,79,False,The Republic Group
+2005-09-04,26,False,The Republic Group
+2005-09-11,50,False,The Republic Group
+2005-09-18,100,False,The Republic Group
+2005-09-25,48,False,The Republic Group
+2005-10-02,0,False,The Republic Group
+2005-10-09,24,False,The Republic Group
+2005-10-16,23,False,The Republic Group
+2005-10-23,0,False,The Republic Group
+2005-10-30,0,False,The Republic Group
+2005-11-06,0,False,The Republic Group
+2005-11-13,67,False,The Republic Group
+2005-11-20,23,False,The Republic Group
+2005-11-27,43,False,The Republic Group
+2005-12-04,0,False,The Republic Group
+2005-12-11,45,False,The Republic Group
+2005-12-18,98,False,The Republic Group
+2005-12-25,28,False,The Republic Group
+2006-01-01,46,False,The Republic Group
+2006-01-08,83,False,The Republic Group
+2006-01-15,0,False,The Republic Group
+2006-01-22,40,False,The Republic Group
+2006-01-29,0,False,The Republic Group
+2006-02-05,0,False,The Republic Group
+2006-02-12,19,False,The Republic Group
+2006-02-19,58,False,The Republic Group
+2006-02-26,95,False,The Republic Group
+2006-03-05,75,False,The Republic Group
+2006-03-12,19,False,The Republic Group
+2006-03-19,0,False,The Republic Group
+2006-03-26,18,False,The Republic Group
+2006-04-02,19,False,The Republic Group
+2006-04-09,59,False,The Republic Group
+2006-04-16,19,False,The Republic Group
+2006-04-23,18,False,The Republic Group
+2006-04-30,39,False,The Republic Group
+2005-05-08,0,False,MWI Veterinary Supply
+2005-05-15,0,False,MWI Veterinary Supply
+2005-05-22,0,False,MWI Veterinary Supply
+2005-05-29,0,False,MWI Veterinary Supply
+2005-06-05,0,False,MWI Veterinary Supply
+2005-06-12,54,False,MWI Veterinary Supply
+2005-06-19,0,False,MWI Veterinary Supply
+2005-06-26,0,False,MWI Veterinary Supply
+2005-07-03,56,False,MWI Veterinary Supply
+2005-07-10,0,False,MWI Veterinary Supply
+2005-07-17,54,False,MWI Veterinary Supply
+2005-07-24,0,False,MWI Veterinary Supply
+2005-07-31,0,False,MWI Veterinary Supply
+2005-08-07,0,False,MWI Veterinary Supply
+2005-08-14,0,False,MWI Veterinary Supply
+2005-08-21,0,False,MWI Veterinary Supply
+2005-08-28,100,False,MWI Veterinary Supply
+2005-09-04,0,False,MWI Veterinary Supply
+2005-09-11,0,False,MWI Veterinary Supply
+2005-09-18,0,False,MWI Veterinary Supply
+2005-09-25,46,False,MWI Veterinary Supply
+2005-10-02,0,False,MWI Veterinary Supply
+2005-10-09,91,False,MWI Veterinary Supply
+2005-10-16,0,False,MWI Veterinary Supply
+2005-10-23,45,False,MWI Veterinary Supply
+2005-10-30,46,False,MWI Veterinary Supply
+2005-11-06,51,False,MWI Veterinary Supply
+2005-11-13,0,False,MWI Veterinary Supply
+2005-11-20,0,False,MWI Veterinary Supply
+2005-11-27,41,False,MWI Veterinary Supply
+2005-12-04,0,False,MWI Veterinary Supply
+2005-12-11,42,False,MWI Veterinary Supply
+2005-12-18,93,False,MWI Veterinary Supply
+2005-12-25,0,False,MWI Veterinary Supply
+2006-01-01,44,False,MWI Veterinary Supply
+2006-01-08,79,False,MWI Veterinary Supply
+2006-01-15,0,False,MWI Veterinary Supply
+2006-01-22,38,False,MWI Veterinary Supply
+2006-01-29,0,False,MWI Veterinary Supply
+2006-02-05,0,False,MWI Veterinary Supply
+2006-02-12,0,False,MWI Veterinary Supply
+2006-02-19,0,False,MWI Veterinary Supply
+2006-02-26,72,False,MWI Veterinary Supply
+2006-03-05,0,False,MWI Veterinary Supply
+2006-03-12,36,False,MWI Veterinary Supply
+2006-03-19,0,False,MWI Veterinary Supply
+2006-03-26,0,False,MWI Veterinary Supply
+2006-04-02,0,False,MWI Veterinary Supply
+2006-04-09,0,False,MWI Veterinary Supply
+2006-04-16,0,False,MWI Veterinary Supply
+2006-04-23,0,False,MWI Veterinary Supply
+2006-04-30,0,False,MWI Veterinary Supply

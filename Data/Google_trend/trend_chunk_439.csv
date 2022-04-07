@@ -1,0 +1,261 @@
+date,SVI,isPartial,Issuer
+2006-11-12,20,False,Accuray
+2006-11-19,12,False,Accuray
+2006-11-26,32,False,Accuray
+2006-12-03,24,False,Accuray
+2006-12-10,20,False,Accuray
+2006-12-17,9,False,Accuray
+2006-12-24,10,False,Accuray
+2006-12-31,9,False,Accuray
+2007-01-07,11,False,Accuray
+2007-01-14,18,False,Accuray
+2007-01-21,18,False,Accuray
+2007-01-28,47,False,Accuray
+2007-02-04,100,False,Accuray
+2007-02-11,36,False,Accuray
+2007-02-18,7,False,Accuray
+2007-02-25,24,False,Accuray
+2007-03-04,7,False,Accuray
+2007-03-11,39,False,Accuray
+2007-03-18,10,False,Accuray
+2007-03-25,27,False,Accuray
+2007-04-01,11,False,Accuray
+2007-04-08,25,False,Accuray
+2007-04-15,17,False,Accuray
+2007-04-22,20,False,Accuray
+2007-04-29,31,False,Accuray
+2007-05-06,37,False,Accuray
+2007-05-13,19,False,Accuray
+2007-05-20,19,False,Accuray
+2007-05-27,6,False,Accuray
+2007-06-03,9,False,Accuray
+2007-06-10,15,False,Accuray
+2007-06-17,19,False,Accuray
+2007-06-24,25,False,Accuray
+2007-07-01,13,False,Accuray
+2007-07-08,13,False,Accuray
+2007-07-15,6,False,Accuray
+2007-07-22,19,False,Accuray
+2007-07-29,22,False,Accuray
+2007-08-05,10,False,Accuray
+2007-08-12,13,False,Accuray
+2007-08-19,24,False,Accuray
+2007-08-26,12,False,Accuray
+2007-09-02,23,False,Accuray
+2007-09-09,0,False,Accuray
+2007-09-16,22,False,Accuray
+2007-09-23,30,False,Accuray
+2007-09-30,22,False,Accuray
+2007-10-07,22,False,Accuray
+2007-10-14,11,False,Accuray
+2007-10-21,21,False,Accuray
+2007-10-28,32,False,Accuray
+2007-11-04,38,False,Accuray
+2006-11-12,0,False,Mellanox Technologies
+2006-11-19,0,False,Mellanox Technologies
+2006-11-26,0,False,Mellanox Technologies
+2006-12-03,0,False,Mellanox Technologies
+2006-12-10,0,False,Mellanox Technologies
+2006-12-17,0,False,Mellanox Technologies
+2006-12-24,0,False,Mellanox Technologies
+2006-12-31,0,False,Mellanox Technologies
+2007-01-07,0,False,Mellanox Technologies
+2007-01-14,0,False,Mellanox Technologies
+2007-01-21,100,False,Mellanox Technologies
+2007-01-28,0,False,Mellanox Technologies
+2007-02-04,25,False,Mellanox Technologies
+2007-02-11,0,False,Mellanox Technologies
+2007-02-18,0,False,Mellanox Technologies
+2007-02-25,24,False,Mellanox Technologies
+2007-03-04,48,False,Mellanox Technologies
+2007-03-11,49,False,Mellanox Technologies
+2007-03-18,0,False,Mellanox Technologies
+2007-03-25,24,False,Mellanox Technologies
+2007-04-01,25,False,Mellanox Technologies
+2007-04-08,0,False,Mellanox Technologies
+2007-04-15,0,False,Mellanox Technologies
+2007-04-22,46,False,Mellanox Technologies
+2007-04-29,0,False,Mellanox Technologies
+2007-05-06,0,False,Mellanox Technologies
+2007-05-13,0,False,Mellanox Technologies
+2007-05-20,0,False,Mellanox Technologies
+2007-05-27,0,False,Mellanox Technologies
+2007-06-03,0,False,Mellanox Technologies
+2007-06-10,21,False,Mellanox Technologies
+2007-06-17,0,False,Mellanox Technologies
+2007-06-24,0,False,Mellanox Technologies
+2007-07-01,0,False,Mellanox Technologies
+2007-07-08,22,False,Mellanox Technologies
+2007-07-15,0,False,Mellanox Technologies
+2007-07-22,22,False,Mellanox Technologies
+2007-07-29,0,False,Mellanox Technologies
+2007-08-05,0,False,Mellanox Technologies
+2007-08-12,0,False,Mellanox Technologies
+2007-08-19,21,False,Mellanox Technologies
+2007-08-26,0,False,Mellanox Technologies
+2007-09-02,0,False,Mellanox Technologies
+2007-09-09,19,False,Mellanox Technologies
+2007-09-16,19,False,Mellanox Technologies
+2007-09-23,0,False,Mellanox Technologies
+2007-09-30,0,False,Mellanox Technologies
+2007-10-07,0,False,Mellanox Technologies
+2007-10-14,0,False,Mellanox Technologies
+2007-10-21,0,False,Mellanox Technologies
+2007-10-28,0,False,Mellanox Technologies
+2007-11-04,0,False,Mellanox Technologies
+2006-11-12,40,False,National CineMedia
+2006-11-19,0,False,National CineMedia
+2006-11-26,26,False,National CineMedia
+2006-12-03,13,False,National CineMedia
+2006-12-10,0,False,National CineMedia
+2006-12-17,14,False,National CineMedia
+2006-12-24,0,False,National CineMedia
+2006-12-31,21,False,National CineMedia
+2007-01-07,19,False,National CineMedia
+2007-01-14,18,False,National CineMedia
+2007-01-21,24,False,National CineMedia
+2007-01-28,48,False,National CineMedia
+2007-02-04,100,False,National CineMedia
+2007-02-11,0,False,National CineMedia
+2007-02-18,18,False,National CineMedia
+2007-02-25,29,False,National CineMedia
+2007-03-04,17,False,National CineMedia
+2007-03-11,23,False,National CineMedia
+2007-03-18,56,False,National CineMedia
+2007-03-25,39,False,National CineMedia
+2007-04-01,12,False,National CineMedia
+2007-04-08,12,False,National CineMedia
+2007-04-15,22,False,National CineMedia
+2007-04-22,11,False,National CineMedia
+2007-04-29,39,False,National CineMedia
+2007-05-06,15,False,National CineMedia
+2007-05-13,31,False,National CineMedia
+2007-05-20,0,False,National CineMedia
+2007-05-27,10,False,National CineMedia
+2007-06-03,10,False,National CineMedia
+2007-06-10,10,False,National CineMedia
+2007-06-17,26,False,National CineMedia
+2007-06-24,10,False,National CineMedia
+2007-07-01,5,False,National CineMedia
+2007-07-08,10,False,National CineMedia
+2007-07-15,0,False,National CineMedia
+2007-07-22,16,False,National CineMedia
+2007-07-29,26,False,National CineMedia
+2007-08-05,31,False,National CineMedia
+2007-08-12,0,False,National CineMedia
+2007-08-19,5,False,National CineMedia
+2007-08-26,10,False,National CineMedia
+2007-09-02,19,False,National CineMedia
+2007-09-09,14,False,National CineMedia
+2007-09-16,5,False,National CineMedia
+2007-09-23,9,False,National CineMedia
+2007-09-30,9,False,National CineMedia
+2007-10-07,23,False,National CineMedia
+2007-10-14,22,False,National CineMedia
+2007-10-21,9,False,National CineMedia
+2007-10-28,18,False,National CineMedia
+2007-11-04,21,False,National CineMedia
+2006-11-12,9,False,Switch and Data
+2006-11-19,0,False,Switch and Data
+2006-11-26,13,False,Switch and Data
+2006-12-03,22,False,Switch and Data
+2006-12-10,30,False,Switch and Data
+2006-12-17,9,False,Switch and Data
+2006-12-24,0,False,Switch and Data
+2006-12-31,5,False,Switch and Data
+2007-01-07,8,False,Switch and Data
+2007-01-14,16,False,Switch and Data
+2007-01-21,20,False,Switch and Data
+2007-01-28,78,False,Switch and Data
+2007-02-04,100,False,Switch and Data
+2007-02-11,23,False,Switch and Data
+2007-02-18,20,False,Switch and Data
+2007-02-25,8,False,Switch and Data
+2007-03-04,15,False,Switch and Data
+2007-03-11,19,False,Switch and Data
+2007-03-18,15,False,Switch and Data
+2007-03-25,26,False,Switch and Data
+2007-04-01,20,False,Switch and Data
+2007-04-08,11,False,Switch and Data
+2007-04-15,15,False,Switch and Data
+2007-04-22,7,False,Switch and Data
+2007-04-29,18,False,Switch and Data
+2007-05-06,10,False,Switch and Data
+2007-05-13,10,False,Switch and Data
+2007-05-20,7,False,Switch and Data
+2007-05-27,10,False,Switch and Data
+2007-06-03,17,False,Switch and Data
+2007-06-10,20,False,Switch and Data
+2007-06-17,10,False,Switch and Data
+2007-06-24,3,False,Switch and Data
+2007-07-01,3,False,Switch and Data
+2007-07-08,14,False,Switch and Data
+2007-07-15,10,False,Switch and Data
+2007-07-22,24,False,Switch and Data
+2007-07-29,3,False,Switch and Data
+2007-08-05,14,False,Switch and Data
+2007-08-12,10,False,Switch and Data
+2007-08-19,10,False,Switch and Data
+2007-08-26,3,False,Switch and Data
+2007-09-02,3,False,Switch and Data
+2007-09-09,18,False,Switch and Data
+2007-09-16,15,False,Switch and Data
+2007-09-23,21,False,Switch and Data
+2007-09-30,15,False,Switch and Data
+2007-10-07,21,False,Switch and Data
+2007-10-14,6,False,Switch and Data
+2007-10-21,14,False,Switch and Data
+2007-10-28,9,False,Switch and Data
+2007-11-04,8,False,Switch and Data
+2006-11-12,23,False,Optimer Pharmaceuticals
+2006-11-19,0,False,Optimer Pharmaceuticals
+2006-11-26,0,False,Optimer Pharmaceuticals
+2006-12-03,0,False,Optimer Pharmaceuticals
+2006-12-10,0,False,Optimer Pharmaceuticals
+2006-12-17,0,False,Optimer Pharmaceuticals
+2006-12-24,0,False,Optimer Pharmaceuticals
+2006-12-31,0,False,Optimer Pharmaceuticals
+2007-01-07,21,False,Optimer Pharmaceuticals
+2007-01-14,0,False,Optimer Pharmaceuticals
+2007-01-21,0,False,Optimer Pharmaceuticals
+2007-01-28,20,False,Optimer Pharmaceuticals
+2007-02-04,100,False,Optimer Pharmaceuticals
+2007-02-11,20,False,Optimer Pharmaceuticals
+2007-02-18,20,False,Optimer Pharmaceuticals
+2007-02-25,20,False,Optimer Pharmaceuticals
+2007-03-04,20,False,Optimer Pharmaceuticals
+2007-03-11,20,False,Optimer Pharmaceuticals
+2007-03-18,0,False,Optimer Pharmaceuticals
+2007-03-25,19,False,Optimer Pharmaceuticals
+2007-04-01,0,False,Optimer Pharmaceuticals
+2007-04-08,0,False,Optimer Pharmaceuticals
+2007-04-15,0,False,Optimer Pharmaceuticals
+2007-04-22,19,False,Optimer Pharmaceuticals
+2007-04-29,0,False,Optimer Pharmaceuticals
+2007-05-06,17,False,Optimer Pharmaceuticals
+2007-05-13,0,False,Optimer Pharmaceuticals
+2007-05-20,17,False,Optimer Pharmaceuticals
+2007-05-27,0,False,Optimer Pharmaceuticals
+2007-06-03,0,False,Optimer Pharmaceuticals
+2007-06-10,0,False,Optimer Pharmaceuticals
+2007-06-17,0,False,Optimer Pharmaceuticals
+2007-06-24,0,False,Optimer Pharmaceuticals
+2007-07-01,35,False,Optimer Pharmaceuticals
+2007-07-08,0,False,Optimer Pharmaceuticals
+2007-07-15,0,False,Optimer Pharmaceuticals
+2007-07-22,0,False,Optimer Pharmaceuticals
+2007-07-29,17,False,Optimer Pharmaceuticals
+2007-08-05,18,False,Optimer Pharmaceuticals
+2007-08-12,18,False,Optimer Pharmaceuticals
+2007-08-19,0,False,Optimer Pharmaceuticals
+2007-08-26,0,False,Optimer Pharmaceuticals
+2007-09-02,0,False,Optimer Pharmaceuticals
+2007-09-09,16,False,Optimer Pharmaceuticals
+2007-09-16,0,False,Optimer Pharmaceuticals
+2007-09-23,0,False,Optimer Pharmaceuticals
+2007-09-30,0,False,Optimer Pharmaceuticals
+2007-10-07,0,False,Optimer Pharmaceuticals
+2007-10-14,0,False,Optimer Pharmaceuticals
+2007-10-21,15,False,Optimer Pharmaceuticals
+2007-10-28,0,False,Optimer Pharmaceuticals
+2007-11-04,14,False,Optimer Pharmaceuticals

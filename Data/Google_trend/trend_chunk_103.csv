@@ -1,0 +1,261 @@
+date,SVI,isPartial,Issuer
+2018-03-25,5,False,AVROBIO
+2018-04-01,16,False,AVROBIO
+2018-04-08,0,False,AVROBIO
+2018-04-15,5,False,AVROBIO
+2018-04-22,20,False,AVROBIO
+2018-04-29,10,False,AVROBIO
+2018-05-06,15,False,AVROBIO
+2018-05-13,21,False,AVROBIO
+2018-05-20,5,False,AVROBIO
+2018-05-27,31,False,AVROBIO
+2018-06-03,36,False,AVROBIO
+2018-06-10,35,False,AVROBIO
+2018-06-17,82,False,AVROBIO
+2018-06-24,36,False,AVROBIO
+2018-07-01,10,False,AVROBIO
+2018-07-08,41,False,AVROBIO
+2018-07-15,31,False,AVROBIO
+2018-07-22,16,False,AVROBIO
+2018-07-29,0,False,AVROBIO
+2018-08-05,30,False,AVROBIO
+2018-08-12,25,False,AVROBIO
+2018-08-19,10,False,AVROBIO
+2018-08-26,25,False,AVROBIO
+2018-09-02,25,False,AVROBIO
+2018-09-09,10,False,AVROBIO
+2018-09-16,25,False,AVROBIO
+2018-09-23,40,False,AVROBIO
+2018-09-30,100,False,AVROBIO
+2018-10-07,56,False,AVROBIO
+2018-10-14,21,False,AVROBIO
+2018-10-21,5,False,AVROBIO
+2018-10-28,15,False,AVROBIO
+2018-11-04,20,False,AVROBIO
+2018-11-11,10,False,AVROBIO
+2018-11-18,10,False,AVROBIO
+2018-11-25,25,False,AVROBIO
+2018-12-02,20,False,AVROBIO
+2018-12-09,26,False,AVROBIO
+2018-12-16,21,False,AVROBIO
+2018-12-23,6,False,AVROBIO
+2018-12-30,11,False,AVROBIO
+2019-01-06,15,False,AVROBIO
+2019-01-13,25,False,AVROBIO
+2019-01-20,29,False,AVROBIO
+2019-01-27,10,False,AVROBIO
+2019-02-03,44,False,AVROBIO
+2019-02-10,34,False,AVROBIO
+2019-02-17,10,False,AVROBIO
+2019-02-24,29,False,AVROBIO
+2019-03-03,0,False,AVROBIO
+2019-03-10,10,False,AVROBIO
+2019-03-17,10,False,AVROBIO
+2018-03-25,55,False,Essential Properties
+2018-04-01,64,False,Essential Properties
+2018-04-08,81,False,Essential Properties
+2018-04-15,61,False,Essential Properties
+2018-04-22,53,False,Essential Properties
+2018-04-29,59,False,Essential Properties
+2018-05-06,52,False,Essential Properties
+2018-05-13,41,False,Essential Properties
+2018-05-20,64,False,Essential Properties
+2018-05-27,41,False,Essential Properties
+2018-06-03,46,False,Essential Properties
+2018-06-10,45,False,Essential Properties
+2018-06-17,68,False,Essential Properties
+2018-06-24,46,False,Essential Properties
+2018-07-01,38,False,Essential Properties
+2018-07-08,50,False,Essential Properties
+2018-07-15,68,False,Essential Properties
+2018-07-22,46,False,Essential Properties
+2018-07-29,44,False,Essential Properties
+2018-08-05,44,False,Essential Properties
+2018-08-12,48,False,Essential Properties
+2018-08-19,50,False,Essential Properties
+2018-08-26,62,False,Essential Properties
+2018-09-02,100,False,Essential Properties
+2018-09-09,65,False,Essential Properties
+2018-09-16,93,False,Essential Properties
+2018-09-23,59,False,Essential Properties
+2018-09-30,81,False,Essential Properties
+2018-10-07,44,False,Essential Properties
+2018-10-14,67,False,Essential Properties
+2018-10-21,64,False,Essential Properties
+2018-10-28,71,False,Essential Properties
+2018-11-04,48,False,Essential Properties
+2018-11-11,68,False,Essential Properties
+2018-11-18,51,False,Essential Properties
+2018-11-25,75,False,Essential Properties
+2018-12-02,75,False,Essential Properties
+2018-12-09,70,False,Essential Properties
+2018-12-16,69,False,Essential Properties
+2018-12-23,47,False,Essential Properties
+2018-12-30,55,False,Essential Properties
+2019-01-06,69,False,Essential Properties
+2019-01-13,72,False,Essential Properties
+2019-01-20,79,False,Essential Properties
+2019-01-27,69,False,Essential Properties
+2019-02-03,61,False,Essential Properties
+2019-02-10,70,False,Essential Properties
+2019-02-17,80,False,Essential Properties
+2019-02-24,42,False,Essential Properties
+2019-03-03,68,False,Essential Properties
+2019-03-10,85,False,Essential Properties
+2019-03-17,61,False,Essential Properties
+2018-03-25,8,False,i3 Verticals
+2018-04-01,4,False,i3 Verticals
+2018-04-08,12,False,i3 Verticals
+2018-04-15,0,False,i3 Verticals
+2018-04-22,12,False,i3 Verticals
+2018-04-29,12,False,i3 Verticals
+2018-05-06,4,False,i3 Verticals
+2018-05-13,4,False,i3 Verticals
+2018-05-20,16,False,i3 Verticals
+2018-05-27,8,False,i3 Verticals
+2018-06-03,8,False,i3 Verticals
+2018-06-10,59,False,i3 Verticals
+2018-06-17,100,False,i3 Verticals
+2018-06-24,32,False,i3 Verticals
+2018-07-01,4,False,i3 Verticals
+2018-07-08,4,False,i3 Verticals
+2018-07-15,21,False,i3 Verticals
+2018-07-22,4,False,i3 Verticals
+2018-07-29,0,False,i3 Verticals
+2018-08-05,4,False,i3 Verticals
+2018-08-12,12,False,i3 Verticals
+2018-08-19,20,False,i3 Verticals
+2018-08-26,8,False,i3 Verticals
+2018-09-02,28,False,i3 Verticals
+2018-09-09,16,False,i3 Verticals
+2018-09-16,27,False,i3 Verticals
+2018-09-23,23,False,i3 Verticals
+2018-09-30,24,False,i3 Verticals
+2018-10-07,20,False,i3 Verticals
+2018-10-14,8,False,i3 Verticals
+2018-10-21,28,False,i3 Verticals
+2018-10-28,24,False,i3 Verticals
+2018-11-04,27,False,i3 Verticals
+2018-11-11,16,False,i3 Verticals
+2018-11-18,8,False,i3 Verticals
+2018-11-25,4,False,i3 Verticals
+2018-12-02,16,False,i3 Verticals
+2018-12-09,4,False,i3 Verticals
+2018-12-16,8,False,i3 Verticals
+2018-12-23,4,False,i3 Verticals
+2018-12-30,4,False,i3 Verticals
+2019-01-06,8,False,i3 Verticals
+2019-01-13,16,False,i3 Verticals
+2019-01-20,15,False,i3 Verticals
+2019-01-27,8,False,i3 Verticals
+2019-02-03,11,False,i3 Verticals
+2019-02-10,15,False,i3 Verticals
+2019-02-17,15,False,i3 Verticals
+2019-02-24,0,False,i3 Verticals
+2019-03-03,12,False,i3 Verticals
+2019-03-10,23,False,i3 Verticals
+2019-03-17,16,False,i3 Verticals
+2018-03-25,0,False,Kezar Life Sciences
+2018-04-01,41,False,Kezar Life Sciences
+2018-04-08,20,False,Kezar Life Sciences
+2018-04-15,10,False,Kezar Life Sciences
+2018-04-22,10,False,Kezar Life Sciences
+2018-04-29,0,False,Kezar Life Sciences
+2018-05-06,0,False,Kezar Life Sciences
+2018-05-13,0,False,Kezar Life Sciences
+2018-05-20,51,False,Kezar Life Sciences
+2018-05-27,10,False,Kezar Life Sciences
+2018-06-03,30,False,Kezar Life Sciences
+2018-06-10,49,False,Kezar Life Sciences
+2018-06-17,100,False,Kezar Life Sciences
+2018-06-24,10,False,Kezar Life Sciences
+2018-07-01,10,False,Kezar Life Sciences
+2018-07-08,10,False,Kezar Life Sciences
+2018-07-15,21,False,Kezar Life Sciences
+2018-07-22,21,False,Kezar Life Sciences
+2018-07-29,0,False,Kezar Life Sciences
+2018-08-05,20,False,Kezar Life Sciences
+2018-08-12,10,False,Kezar Life Sciences
+2018-08-19,10,False,Kezar Life Sciences
+2018-08-26,10,False,Kezar Life Sciences
+2018-09-02,20,False,Kezar Life Sciences
+2018-09-09,10,False,Kezar Life Sciences
+2018-09-16,0,False,Kezar Life Sciences
+2018-09-23,0,False,Kezar Life Sciences
+2018-09-30,10,False,Kezar Life Sciences
+2018-10-07,10,False,Kezar Life Sciences
+2018-10-14,10,False,Kezar Life Sciences
+2018-10-21,0,False,Kezar Life Sciences
+2018-10-28,10,False,Kezar Life Sciences
+2018-11-04,0,False,Kezar Life Sciences
+2018-11-11,30,False,Kezar Life Sciences
+2018-11-18,0,False,Kezar Life Sciences
+2018-11-25,29,False,Kezar Life Sciences
+2018-12-02,10,False,Kezar Life Sciences
+2018-12-09,20,False,Kezar Life Sciences
+2018-12-16,0,False,Kezar Life Sciences
+2018-12-23,0,False,Kezar Life Sciences
+2018-12-30,11,False,Kezar Life Sciences
+2019-01-06,20,False,Kezar Life Sciences
+2019-01-13,29,False,Kezar Life Sciences
+2019-01-20,9,False,Kezar Life Sciences
+2019-01-27,19,False,Kezar Life Sciences
+2019-02-03,10,False,Kezar Life Sciences
+2019-02-10,28,False,Kezar Life Sciences
+2019-02-17,19,False,Kezar Life Sciences
+2019-02-24,19,False,Kezar Life Sciences
+2019-03-03,19,False,Kezar Life Sciences
+2019-03-10,19,False,Kezar Life Sciences
+2019-03-17,10,False,Kezar Life Sciences
+2018-03-25,0,False,Magenta Therapeutics
+2018-04-01,17,False,Magenta Therapeutics
+2018-04-08,17,False,Magenta Therapeutics
+2018-04-15,11,False,Magenta Therapeutics
+2018-04-22,17,False,Magenta Therapeutics
+2018-04-29,11,False,Magenta Therapeutics
+2018-05-06,0,False,Magenta Therapeutics
+2018-05-13,0,False,Magenta Therapeutics
+2018-05-20,17,False,Magenta Therapeutics
+2018-05-27,34,False,Magenta Therapeutics
+2018-06-03,50,False,Magenta Therapeutics
+2018-06-10,33,False,Magenta Therapeutics
+2018-06-17,100,False,Magenta Therapeutics
+2018-06-24,39,False,Magenta Therapeutics
+2018-07-01,11,False,Magenta Therapeutics
+2018-07-08,11,False,Magenta Therapeutics
+2018-07-15,23,False,Magenta Therapeutics
+2018-07-22,11,False,Magenta Therapeutics
+2018-07-29,11,False,Magenta Therapeutics
+2018-08-05,27,False,Magenta Therapeutics
+2018-08-12,17,False,Magenta Therapeutics
+2018-08-19,0,False,Magenta Therapeutics
+2018-08-26,16,False,Magenta Therapeutics
+2018-09-02,11,False,Magenta Therapeutics
+2018-09-09,32,False,Magenta Therapeutics
+2018-09-16,16,False,Magenta Therapeutics
+2018-09-23,54,False,Magenta Therapeutics
+2018-09-30,27,False,Magenta Therapeutics
+2018-10-07,22,False,Magenta Therapeutics
+2018-10-14,11,False,Magenta Therapeutics
+2018-10-21,27,False,Magenta Therapeutics
+2018-10-28,33,False,Magenta Therapeutics
+2018-11-04,27,False,Magenta Therapeutics
+2018-11-11,33,False,Magenta Therapeutics
+2018-11-18,22,False,Magenta Therapeutics
+2018-11-25,22,False,Magenta Therapeutics
+2018-12-02,22,False,Magenta Therapeutics
+2018-12-09,6,False,Magenta Therapeutics
+2018-12-16,11,False,Magenta Therapeutics
+2018-12-23,12,False,Magenta Therapeutics
+2018-12-30,12,False,Magenta Therapeutics
+2019-01-06,27,False,Magenta Therapeutics
+2019-01-13,5,False,Magenta Therapeutics
+2019-01-20,11,False,Magenta Therapeutics
+2019-01-27,21,False,Magenta Therapeutics
+2019-02-03,32,False,Magenta Therapeutics
+2019-02-10,16,False,Magenta Therapeutics
+2019-02-17,27,False,Magenta Therapeutics
+2019-02-24,32,False,Magenta Therapeutics
+2019-03-03,16,False,Magenta Therapeutics
+2019-03-10,69,False,Magenta Therapeutics
+2019-03-17,65,False,Magenta Therapeutics

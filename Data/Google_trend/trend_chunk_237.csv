@@ -1,0 +1,262 @@
+date,SVI,isPartial,Issuer
+2014-01-05,40,False,Opower
+2014-01-12,35,False,Opower
+2014-01-19,33,False,Opower
+2014-01-26,37,False,Opower
+2014-02-02,26,False,Opower
+2014-02-09,42,False,Opower
+2014-02-16,46,False,Opower
+2014-02-23,30,False,Opower
+2014-03-02,52,False,Opower
+2014-03-09,40,False,Opower
+2014-03-16,38,False,Opower
+2014-03-23,47,False,Opower
+2014-03-30,100,False,Opower
+2014-04-06,80,False,Opower
+2014-04-13,45,False,Opower
+2014-04-20,41,False,Opower
+2014-04-27,31,False,Opower
+2014-05-04,37,False,Opower
+2014-05-11,26,False,Opower
+2014-05-18,37,False,Opower
+2014-05-25,32,False,Opower
+2014-06-01,40,False,Opower
+2014-06-08,23,False,Opower
+2014-06-15,32,False,Opower
+2014-06-22,31,False,Opower
+2014-06-29,30,False,Opower
+2014-07-06,32,False,Opower
+2014-07-13,26,False,Opower
+2014-07-20,28,False,Opower
+2014-07-27,32,False,Opower
+2014-08-03,25,False,Opower
+2014-08-10,25,False,Opower
+2014-08-17,27,False,Opower
+2014-08-24,33,False,Opower
+2014-08-31,23,False,Opower
+2014-09-07,31,False,Opower
+2014-09-14,31,False,Opower
+2014-09-21,31,False,Opower
+2014-09-28,31,False,Opower
+2014-10-05,29,False,Opower
+2014-10-12,28,False,Opower
+2014-10-19,24,False,Opower
+2014-10-26,35,False,Opower
+2014-11-02,29,False,Opower
+2014-11-09,37,False,Opower
+2014-11-16,38,False,Opower
+2014-11-23,24,False,Opower
+2014-11-30,32,False,Opower
+2014-12-07,30,False,Opower
+2014-12-14,29,False,Opower
+2014-12-21,22,False,Opower
+2014-12-28,23,False,Opower
+2015-01-04,26,False,Opower
+2014-01-12,0,False,iKang Healthcare Group
+2014-01-19,0,False,iKang Healthcare Group
+2014-01-26,0,False,iKang Healthcare Group
+2014-02-02,0,False,iKang Healthcare Group
+2014-02-09,0,False,iKang Healthcare Group
+2014-02-16,0,False,iKang Healthcare Group
+2014-02-23,20,False,iKang Healthcare Group
+2014-03-02,0,False,iKang Healthcare Group
+2014-03-09,0,False,iKang Healthcare Group
+2014-03-16,0,False,iKang Healthcare Group
+2014-03-23,0,False,iKang Healthcare Group
+2014-03-30,20,False,iKang Healthcare Group
+2014-04-06,100,False,iKang Healthcare Group
+2014-04-13,41,False,iKang Healthcare Group
+2014-04-20,0,False,iKang Healthcare Group
+2014-04-27,20,False,iKang Healthcare Group
+2014-05-04,0,False,iKang Healthcare Group
+2014-05-11,0,False,iKang Healthcare Group
+2014-05-18,21,False,iKang Healthcare Group
+2014-05-25,0,False,iKang Healthcare Group
+2014-06-01,0,False,iKang Healthcare Group
+2014-06-08,22,False,iKang Healthcare Group
+2014-06-15,23,False,iKang Healthcare Group
+2014-06-22,23,False,iKang Healthcare Group
+2014-06-29,0,False,iKang Healthcare Group
+2014-07-06,0,False,iKang Healthcare Group
+2014-07-13,0,False,iKang Healthcare Group
+2014-07-20,23,False,iKang Healthcare Group
+2014-07-27,0,False,iKang Healthcare Group
+2014-08-03,24,False,iKang Healthcare Group
+2014-08-10,0,False,iKang Healthcare Group
+2014-08-17,0,False,iKang Healthcare Group
+2014-08-24,0,False,iKang Healthcare Group
+2014-08-31,0,False,iKang Healthcare Group
+2014-09-07,0,False,iKang Healthcare Group
+2014-09-14,0,False,iKang Healthcare Group
+2014-09-21,42,False,iKang Healthcare Group
+2014-09-28,0,False,iKang Healthcare Group
+2014-10-05,21,False,iKang Healthcare Group
+2014-10-12,0,False,iKang Healthcare Group
+2014-10-19,0,False,iKang Healthcare Group
+2014-10-26,0,False,iKang Healthcare Group
+2014-11-02,0,False,iKang Healthcare Group
+2014-11-09,0,False,iKang Healthcare Group
+2014-11-16,0,False,iKang Healthcare Group
+2014-11-23,0,False,iKang Healthcare Group
+2014-11-30,20,False,iKang Healthcare Group
+2014-12-07,20,False,iKang Healthcare Group
+2014-12-14,0,False,iKang Healthcare Group
+2014-12-21,0,False,iKang Healthcare Group
+2014-12-28,22,False,iKang Healthcare Group
+2015-01-04,0,False,iKang Healthcare Group
+2014-01-12,0,False,La Quinta Holdings
+2014-01-19,0,False,La Quinta Holdings
+2014-01-26,0,False,La Quinta Holdings
+2014-02-02,0,False,La Quinta Holdings
+2014-02-09,0,False,La Quinta Holdings
+2014-02-16,0,False,La Quinta Holdings
+2014-02-23,0,False,La Quinta Holdings
+2014-03-02,22,False,La Quinta Holdings
+2014-03-09,0,False,La Quinta Holdings
+2014-03-16,0,False,La Quinta Holdings
+2014-03-23,0,False,La Quinta Holdings
+2014-03-30,66,False,La Quinta Holdings
+2014-04-06,67,False,La Quinta Holdings
+2014-04-13,69,False,La Quinta Holdings
+2014-04-20,23,False,La Quinta Holdings
+2014-04-27,0,False,La Quinta Holdings
+2014-05-04,0,False,La Quinta Holdings
+2014-05-11,0,False,La Quinta Holdings
+2014-05-18,0,False,La Quinta Holdings
+2014-05-25,25,False,La Quinta Holdings
+2014-06-01,0,False,La Quinta Holdings
+2014-06-08,100,False,La Quinta Holdings
+2014-06-15,0,False,La Quinta Holdings
+2014-06-22,0,False,La Quinta Holdings
+2014-06-29,51,False,La Quinta Holdings
+2014-07-06,0,False,La Quinta Holdings
+2014-07-13,0,False,La Quinta Holdings
+2014-07-20,0,False,La Quinta Holdings
+2014-07-27,0,False,La Quinta Holdings
+2014-08-03,26,False,La Quinta Holdings
+2014-08-10,50,False,La Quinta Holdings
+2014-08-17,0,False,La Quinta Holdings
+2014-08-24,48,False,La Quinta Holdings
+2014-08-31,24,False,La Quinta Holdings
+2014-09-07,23,False,La Quinta Holdings
+2014-09-14,24,False,La Quinta Holdings
+2014-09-21,0,False,La Quinta Holdings
+2014-09-28,0,False,La Quinta Holdings
+2014-10-05,0,False,La Quinta Holdings
+2014-10-12,23,False,La Quinta Holdings
+2014-10-19,23,False,La Quinta Holdings
+2014-10-26,0,False,La Quinta Holdings
+2014-11-02,0,False,La Quinta Holdings
+2014-11-09,0,False,La Quinta Holdings
+2014-11-16,45,False,La Quinta Holdings
+2014-11-23,0,False,La Quinta Holdings
+2014-11-30,0,False,La Quinta Holdings
+2014-12-07,0,False,La Quinta Holdings
+2014-12-14,0,False,La Quinta Holdings
+2014-12-21,0,False,La Quinta Holdings
+2014-12-28,0,False,La Quinta Holdings
+2015-01-04,0,False,La Quinta Holdings
+2014-01-12,0,False,Adamas Pharmaceuticals
+2014-01-19,0,False,Adamas Pharmaceuticals
+2014-01-26,29,False,Adamas Pharmaceuticals
+2014-02-02,46,False,Adamas Pharmaceuticals
+2014-02-09,43,False,Adamas Pharmaceuticals
+2014-02-16,15,False,Adamas Pharmaceuticals
+2014-02-23,14,False,Adamas Pharmaceuticals
+2014-03-02,73,False,Adamas Pharmaceuticals
+2014-03-09,59,False,Adamas Pharmaceuticals
+2014-03-16,14,False,Adamas Pharmaceuticals
+2014-03-23,28,False,Adamas Pharmaceuticals
+2014-03-30,14,False,Adamas Pharmaceuticals
+2014-04-06,73,False,Adamas Pharmaceuticals
+2014-04-13,61,False,Adamas Pharmaceuticals
+2014-04-20,45,False,Adamas Pharmaceuticals
+2014-04-27,45,False,Adamas Pharmaceuticals
+2014-05-04,29,False,Adamas Pharmaceuticals
+2014-05-11,73,False,Adamas Pharmaceuticals
+2014-05-18,15,False,Adamas Pharmaceuticals
+2014-05-25,33,False,Adamas Pharmaceuticals
+2014-06-01,16,False,Adamas Pharmaceuticals
+2014-06-08,16,False,Adamas Pharmaceuticals
+2014-06-15,0,False,Adamas Pharmaceuticals
+2014-06-22,33,False,Adamas Pharmaceuticals
+2014-06-29,17,False,Adamas Pharmaceuticals
+2014-07-06,49,False,Adamas Pharmaceuticals
+2014-07-13,17,False,Adamas Pharmaceuticals
+2014-07-20,34,False,Adamas Pharmaceuticals
+2014-07-27,17,False,Adamas Pharmaceuticals
+2014-08-03,52,False,Adamas Pharmaceuticals
+2014-08-10,16,False,Adamas Pharmaceuticals
+2014-08-17,16,False,Adamas Pharmaceuticals
+2014-08-24,0,False,Adamas Pharmaceuticals
+2014-08-31,47,False,Adamas Pharmaceuticals
+2014-09-07,77,False,Adamas Pharmaceuticals
+2014-09-14,63,False,Adamas Pharmaceuticals
+2014-09-21,46,False,Adamas Pharmaceuticals
+2014-09-28,31,False,Adamas Pharmaceuticals
+2014-10-05,31,False,Adamas Pharmaceuticals
+2014-10-12,15,False,Adamas Pharmaceuticals
+2014-10-19,60,False,Adamas Pharmaceuticals
+2014-10-26,30,False,Adamas Pharmaceuticals
+2014-11-02,15,False,Adamas Pharmaceuticals
+2014-11-09,15,False,Adamas Pharmaceuticals
+2014-11-16,30,False,Adamas Pharmaceuticals
+2014-11-23,45,False,Adamas Pharmaceuticals
+2014-11-30,29,False,Adamas Pharmaceuticals
+2014-12-07,0,False,Adamas Pharmaceuticals
+2014-12-14,0,False,Adamas Pharmaceuticals
+2014-12-21,17,False,Adamas Pharmaceuticals
+2014-12-28,32,False,Adamas Pharmaceuticals
+2015-01-04,100,False,Adamas Pharmaceuticals
+2014-01-12,84,False,Ally Financial
+2014-01-19,86,False,Ally Financial
+2014-01-26,74,False,Ally Financial
+2014-02-02,87,False,Ally Financial
+2014-02-09,85,False,Ally Financial
+2014-02-16,85,False,Ally Financial
+2014-02-23,82,False,Ally Financial
+2014-03-02,81,False,Ally Financial
+2014-03-09,80,False,Ally Financial
+2014-03-16,81,False,Ally Financial
+2014-03-23,85,False,Ally Financial
+2014-03-30,81,False,Ally Financial
+2014-04-06,98,False,Ally Financial
+2014-04-13,83,False,Ally Financial
+2014-04-20,74,False,Ally Financial
+2014-04-27,87,False,Ally Financial
+2014-05-04,84,False,Ally Financial
+2014-05-11,77,False,Ally Financial
+2014-05-18,78,False,Ally Financial
+2014-05-25,77,False,Ally Financial
+2014-06-01,81,False,Ally Financial
+2014-06-08,84,False,Ally Financial
+2014-06-15,95,False,Ally Financial
+2014-06-22,89,False,Ally Financial
+2014-06-29,90,False,Ally Financial
+2014-07-06,85,False,Ally Financial
+2014-07-13,92,False,Ally Financial
+2014-07-20,90,False,Ally Financial
+2014-07-27,98,False,Ally Financial
+2014-08-03,77,False,Ally Financial
+2014-08-10,88,False,Ally Financial
+2014-08-17,93,False,Ally Financial
+2014-08-24,88,False,Ally Financial
+2014-08-31,84,False,Ally Financial
+2014-09-07,98,False,Ally Financial
+2014-09-14,85,False,Ally Financial
+2014-09-21,90,False,Ally Financial
+2014-09-28,94,False,Ally Financial
+2014-10-05,79,False,Ally Financial
+2014-10-12,72,False,Ally Financial
+2014-10-19,62,False,Ally Financial
+2014-10-26,64,False,Ally Financial
+2014-11-02,79,False,Ally Financial
+2014-11-09,81,False,Ally Financial
+2014-11-16,69,False,Ally Financial
+2014-11-23,78,False,Ally Financial
+2014-11-30,87,False,Ally Financial
+2014-12-07,82,False,Ally Financial
+2014-12-14,93,False,Ally Financial
+2014-12-21,78,False,Ally Financial
+2014-12-28,100,False,Ally Financial
+2015-01-04,99,False,Ally Financial

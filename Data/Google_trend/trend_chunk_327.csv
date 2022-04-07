@@ -1,0 +1,209 @@
+date,SVI,isPartial,Issuer
+2011-11-13,54,False,EPAM Systems
+2011-11-20,27,False,EPAM Systems
+2011-11-27,11,False,EPAM Systems
+2011-12-04,11,False,EPAM Systems
+2011-12-11,31,False,EPAM Systems
+2011-12-18,0,False,EPAM Systems
+2011-12-25,21,False,EPAM Systems
+2012-01-01,8,False,EPAM Systems
+2012-01-08,11,False,EPAM Systems
+2012-01-15,29,False,EPAM Systems
+2012-01-22,50,False,EPAM Systems
+2012-01-29,21,False,EPAM Systems
+2012-02-05,67,False,EPAM Systems
+2012-02-12,28,False,EPAM Systems
+2012-02-19,25,False,EPAM Systems
+2012-02-26,36,False,EPAM Systems
+2012-03-04,100,False,EPAM Systems
+2012-03-11,39,False,EPAM Systems
+2012-03-18,25,False,EPAM Systems
+2012-03-25,29,False,EPAM Systems
+2012-04-01,37,False,EPAM Systems
+2012-04-08,33,False,EPAM Systems
+2012-04-15,7,False,EPAM Systems
+2012-04-22,14,False,EPAM Systems
+2012-04-29,29,False,EPAM Systems
+2012-05-06,39,False,EPAM Systems
+2012-05-13,21,False,EPAM Systems
+2012-05-20,24,False,EPAM Systems
+2012-05-27,11,False,EPAM Systems
+2012-06-03,24,False,EPAM Systems
+2012-06-10,17,False,EPAM Systems
+2012-06-17,24,False,EPAM Systems
+2012-06-24,11,False,EPAM Systems
+2012-07-01,21,False,EPAM Systems
+2012-07-08,21,False,EPAM Systems
+2012-07-15,25,False,EPAM Systems
+2012-07-22,22,False,EPAM Systems
+2012-07-29,53,False,EPAM Systems
+2012-08-05,21,False,EPAM Systems
+2012-08-12,43,False,EPAM Systems
+2012-08-19,25,False,EPAM Systems
+2012-08-26,14,False,EPAM Systems
+2012-09-02,30,False,EPAM Systems
+2012-09-09,20,False,EPAM Systems
+2012-09-16,23,False,EPAM Systems
+2012-09-23,37,False,EPAM Systems
+2012-09-30,37,False,EPAM Systems
+2012-10-07,29,False,EPAM Systems
+2012-10-14,42,False,EPAM Systems
+2012-10-21,32,False,EPAM Systems
+2012-10-28,29,False,EPAM Systems
+2012-11-04,37,False,EPAM Systems
+2011-11-13,18,False,FX Alliance
+2011-11-20,31,False,FX Alliance
+2011-11-27,12,False,FX Alliance
+2011-12-04,6,False,FX Alliance
+2011-12-11,12,False,FX Alliance
+2011-12-18,6,False,FX Alliance
+2011-12-25,27,False,FX Alliance
+2012-01-01,6,False,FX Alliance
+2012-01-08,17,False,FX Alliance
+2012-01-15,11,False,FX Alliance
+2012-01-22,23,False,FX Alliance
+2012-01-29,28,False,FX Alliance
+2012-02-05,67,False,FX Alliance
+2012-02-12,22,False,FX Alliance
+2012-02-19,6,False,FX Alliance
+2012-02-26,17,False,FX Alliance
+2012-03-04,17,False,FX Alliance
+2012-03-11,17,False,FX Alliance
+2012-03-18,11,False,FX Alliance
+2012-03-25,17,False,FX Alliance
+2012-04-01,6,False,FX Alliance
+2012-04-08,12,False,FX Alliance
+2012-04-15,11,False,FX Alliance
+2012-04-22,11,False,FX Alliance
+2012-04-29,17,False,FX Alliance
+2012-05-06,11,False,FX Alliance
+2012-05-13,0,False,FX Alliance
+2012-05-20,22,False,FX Alliance
+2012-05-27,11,False,FX Alliance
+2012-06-03,22,False,FX Alliance
+2012-06-10,0,False,FX Alliance
+2012-06-17,5,False,FX Alliance
+2012-06-24,6,False,FX Alliance
+2012-07-01,6,False,FX Alliance
+2012-07-08,100,False,FX Alliance
+2012-07-15,22,False,FX Alliance
+2012-07-22,23,False,FX Alliance
+2012-07-29,11,False,FX Alliance
+2012-08-05,22,False,FX Alliance
+2012-08-12,11,False,FX Alliance
+2012-08-19,17,False,FX Alliance
+2012-08-26,11,False,FX Alliance
+2012-09-02,11,False,FX Alliance
+2012-09-09,11,False,FX Alliance
+2012-09-16,5,False,FX Alliance
+2012-09-23,26,False,FX Alliance
+2012-09-30,16,False,FX Alliance
+2012-10-07,5,False,FX Alliance
+2012-10-14,20,False,FX Alliance
+2012-10-21,10,False,FX Alliance
+2012-10-28,25,False,FX Alliance
+2012-11-04,19,False,FX Alliance
+2011-11-13,51,False,GSE Holding
+2011-11-20,0,False,GSE Holding
+2011-11-27,50,False,GSE Holding
+2011-12-04,0,False,GSE Holding
+2011-12-11,100,False,GSE Holding
+2011-12-18,0,False,GSE Holding
+2011-12-25,0,False,GSE Holding
+2012-01-01,51,False,GSE Holding
+2012-01-08,0,False,GSE Holding
+2012-01-15,0,False,GSE Holding
+2012-01-22,0,False,GSE Holding
+2012-01-29,0,False,GSE Holding
+2012-02-05,93,False,GSE Holding
+2012-02-12,0,False,GSE Holding
+2012-02-19,47,False,GSE Holding
+2012-02-26,0,False,GSE Holding
+2012-03-04,0,False,GSE Holding
+2012-03-11,0,False,GSE Holding
+2012-03-18,0,False,GSE Holding
+2012-03-25,0,False,GSE Holding
+2012-04-01,0,False,GSE Holding
+2012-04-08,48,False,GSE Holding
+2012-04-15,46,False,GSE Holding
+2012-04-22,0,False,GSE Holding
+2012-04-29,0,False,GSE Holding
+2012-05-06,46,False,GSE Holding
+2012-05-13,0,False,GSE Holding
+2012-05-20,46,False,GSE Holding
+2012-05-27,46,False,GSE Holding
+2012-06-03,46,False,GSE Holding
+2012-06-10,46,False,GSE Holding
+2012-06-17,0,False,GSE Holding
+2012-06-24,0,False,GSE Holding
+2012-07-01,0,False,GSE Holding
+2012-07-08,0,False,GSE Holding
+2012-07-15,0,False,GSE Holding
+2012-07-22,0,False,GSE Holding
+2012-07-29,0,False,GSE Holding
+2012-08-05,0,False,GSE Holding
+2012-08-12,0,False,GSE Holding
+2012-08-19,0,False,GSE Holding
+2012-08-26,46,False,GSE Holding
+2012-09-02,0,False,GSE Holding
+2012-09-09,0,False,GSE Holding
+2012-09-16,0,False,GSE Holding
+2012-09-23,0,False,GSE Holding
+2012-09-30,0,False,GSE Holding
+2012-10-07,0,False,GSE Holding
+2012-10-14,0,False,GSE Holding
+2012-10-21,0,False,GSE Holding
+2012-10-28,0,False,GSE Holding
+2012-11-04,41,False,GSE Holding
+2011-11-13,57,False,HomeStreet
+2011-11-20,38,False,HomeStreet
+2011-11-27,46,False,HomeStreet
+2011-12-04,89,False,HomeStreet
+2011-12-11,60,False,HomeStreet
+2011-12-18,49,False,HomeStreet
+2011-12-25,74,False,HomeStreet
+2012-01-01,65,False,HomeStreet
+2012-01-08,66,False,HomeStreet
+2012-01-15,70,False,HomeStreet
+2012-01-22,57,False,HomeStreet
+2012-01-29,63,False,HomeStreet
+2012-02-05,94,False,HomeStreet
+2012-02-12,70,False,HomeStreet
+2012-02-19,41,False,HomeStreet
+2012-02-26,63,False,HomeStreet
+2012-03-04,50,False,HomeStreet
+2012-03-11,71,False,HomeStreet
+2012-03-18,56,False,HomeStreet
+2012-03-25,60,False,HomeStreet
+2012-04-01,98,False,HomeStreet
+2012-04-08,66,False,HomeStreet
+2012-04-15,70,False,HomeStreet
+2012-04-22,54,False,HomeStreet
+2012-04-29,72,False,HomeStreet
+2012-05-06,67,False,HomeStreet
+2012-05-13,100,False,HomeStreet
+2012-05-20,72,False,HomeStreet
+2012-05-27,96,False,HomeStreet
+2012-06-03,84,False,HomeStreet
+2012-06-10,62,False,HomeStreet
+2012-06-17,80,False,HomeStreet
+2012-06-24,65,False,HomeStreet
+2012-07-01,61,False,HomeStreet
+2012-07-08,92,False,HomeStreet
+2012-07-15,70,False,HomeStreet
+2012-07-22,68,False,HomeStreet
+2012-07-29,76,False,HomeStreet
+2012-08-05,80,False,HomeStreet
+2012-08-12,78,False,HomeStreet
+2012-08-19,74,False,HomeStreet
+2012-08-26,79,False,HomeStreet
+2012-09-02,75,False,HomeStreet
+2012-09-09,80,False,HomeStreet
+2012-09-16,44,False,HomeStreet
+2012-09-23,67,False,HomeStreet
+2012-09-30,84,False,HomeStreet
+2012-10-07,70,False,HomeStreet
+2012-10-14,83,False,HomeStreet
+2012-10-21,66,False,HomeStreet
+2012-10-28,77,False,HomeStreet
+2012-11-04,74,False,HomeStreet

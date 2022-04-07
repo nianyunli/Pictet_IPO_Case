@@ -1,0 +1,261 @@
+date,SVI,isPartial,Issuer
+2011-11-13,24,False,Synacor
+2011-11-20,18,False,Synacor
+2011-11-27,23,False,Synacor
+2011-12-04,14,False,Synacor
+2011-12-11,15,False,Synacor
+2011-12-18,12,False,Synacor
+2011-12-25,26,False,Synacor
+2012-01-01,27,False,Synacor
+2012-01-08,36,False,Synacor
+2012-01-15,52,False,Synacor
+2012-01-22,38,False,Synacor
+2012-01-29,73,False,Synacor
+2012-02-05,100,False,Synacor
+2012-02-12,43,False,Synacor
+2012-02-19,33,False,Synacor
+2012-02-26,25,False,Synacor
+2012-03-04,16,False,Synacor
+2012-03-11,32,False,Synacor
+2012-03-18,11,False,Synacor
+2012-03-25,30,False,Synacor
+2012-04-01,17,False,Synacor
+2012-04-08,23,False,Synacor
+2012-04-15,19,False,Synacor
+2012-04-22,22,False,Synacor
+2012-04-29,80,False,Synacor
+2012-05-06,70,False,Synacor
+2012-05-13,35,False,Synacor
+2012-05-20,80,False,Synacor
+2012-05-27,38,False,Synacor
+2012-06-03,29,False,Synacor
+2012-06-10,43,False,Synacor
+2012-06-17,32,False,Synacor
+2012-06-24,30,False,Synacor
+2012-07-01,56,False,Synacor
+2012-07-08,59,False,Synacor
+2012-07-15,63,False,Synacor
+2012-07-22,60,False,Synacor
+2012-07-29,29,False,Synacor
+2012-08-05,48,False,Synacor
+2012-08-12,44,False,Synacor
+2012-08-19,33,False,Synacor
+2012-08-26,48,False,Synacor
+2012-09-02,23,False,Synacor
+2012-09-09,41,False,Synacor
+2012-09-16,36,False,Synacor
+2012-09-23,26,False,Synacor
+2012-09-30,20,False,Synacor
+2012-10-07,39,False,Synacor
+2012-10-14,32,False,Synacor
+2012-10-21,46,False,Synacor
+2012-10-28,34,False,Synacor
+2012-11-04,19,False,Synacor
+2011-11-20,42,False,Brightcove
+2011-11-27,45,False,Brightcove
+2011-12-04,51,False,Brightcove
+2011-12-11,44,False,Brightcove
+2011-12-18,41,False,Brightcove
+2011-12-25,29,False,Brightcove
+2012-01-01,41,False,Brightcove
+2012-01-08,49,False,Brightcove
+2012-01-15,48,False,Brightcove
+2012-01-22,51,False,Brightcove
+2012-01-29,48,False,Brightcove
+2012-02-05,70,False,Brightcove
+2012-02-12,100,False,Brightcove
+2012-02-19,58,False,Brightcove
+2012-02-26,65,False,Brightcove
+2012-03-04,57,False,Brightcove
+2012-03-11,54,False,Brightcove
+2012-03-18,56,False,Brightcove
+2012-03-25,52,False,Brightcove
+2012-04-01,43,False,Brightcove
+2012-04-08,46,False,Brightcove
+2012-04-15,56,False,Brightcove
+2012-04-22,58,False,Brightcove
+2012-04-29,55,False,Brightcove
+2012-05-06,51,False,Brightcove
+2012-05-13,48,False,Brightcove
+2012-05-20,45,False,Brightcove
+2012-05-27,51,False,Brightcove
+2012-06-03,53,False,Brightcove
+2012-06-10,60,False,Brightcove
+2012-06-17,50,False,Brightcove
+2012-06-24,75,False,Brightcove
+2012-07-01,45,False,Brightcove
+2012-07-08,47,False,Brightcove
+2012-07-15,51,False,Brightcove
+2012-07-22,49,False,Brightcove
+2012-07-29,45,False,Brightcove
+2012-08-05,56,False,Brightcove
+2012-08-12,43,False,Brightcove
+2012-08-19,50,False,Brightcove
+2012-08-26,46,False,Brightcove
+2012-09-02,47,False,Brightcove
+2012-09-09,57,False,Brightcove
+2012-09-16,53,False,Brightcove
+2012-09-23,48,False,Brightcove
+2012-09-30,54,False,Brightcove
+2012-10-07,48,False,Brightcove
+2012-10-14,50,False,Brightcove
+2012-10-21,52,False,Brightcove
+2012-10-28,43,False,Brightcove
+2012-11-04,46,False,Brightcove
+2012-11-11,49,False,Brightcove
+2011-11-27,87,False,Ceres
+2011-12-04,85,False,Ceres
+2011-12-11,79,False,Ceres
+2011-12-18,84,False,Ceres
+2011-12-25,70,False,Ceres
+2012-01-01,72,False,Ceres
+2012-01-08,85,False,Ceres
+2012-01-15,86,False,Ceres
+2012-01-22,92,False,Ceres
+2012-01-29,87,False,Ceres
+2012-02-05,89,False,Ceres
+2012-02-12,88,False,Ceres
+2012-02-19,89,False,Ceres
+2012-02-26,91,False,Ceres
+2012-03-04,94,False,Ceres
+2012-03-11,96,False,Ceres
+2012-03-18,94,False,Ceres
+2012-03-25,91,False,Ceres
+2012-04-01,72,False,Ceres
+2012-04-08,94,False,Ceres
+2012-04-15,100,False,Ceres
+2012-04-22,96,False,Ceres
+2012-04-29,90,False,Ceres
+2012-05-06,91,False,Ceres
+2012-05-13,88,False,Ceres
+2012-05-20,84,False,Ceres
+2012-05-27,91,False,Ceres
+2012-06-03,82,False,Ceres
+2012-06-10,87,False,Ceres
+2012-06-17,84,False,Ceres
+2012-06-24,82,False,Ceres
+2012-07-01,83,False,Ceres
+2012-07-08,85,False,Ceres
+2012-07-15,82,False,Ceres
+2012-07-22,82,False,Ceres
+2012-07-29,76,False,Ceres
+2012-08-05,83,False,Ceres
+2012-08-12,79,False,Ceres
+2012-08-19,79,False,Ceres
+2012-08-26,87,False,Ceres
+2012-09-02,89,False,Ceres
+2012-09-09,86,False,Ceres
+2012-09-16,87,False,Ceres
+2012-09-23,87,False,Ceres
+2012-09-30,92,False,Ceres
+2012-10-07,89,False,Ceres
+2012-10-14,87,False,Ceres
+2012-10-21,83,False,Ceres
+2012-10-28,84,False,Ceres
+2012-11-04,85,False,Ceres
+2012-11-11,82,False,Ceres
+2012-11-18,90,False,Ceres
+2011-11-27,22,False,Bazaarvoice
+2011-12-04,28,False,Bazaarvoice
+2011-12-11,20,False,Bazaarvoice
+2011-12-18,24,False,Bazaarvoice
+2011-12-25,4,False,Bazaarvoice
+2012-01-01,34,False,Bazaarvoice
+2012-01-08,35,False,Bazaarvoice
+2012-01-15,35,False,Bazaarvoice
+2012-01-22,30,False,Bazaarvoice
+2012-01-29,21,False,Bazaarvoice
+2012-02-05,57,False,Bazaarvoice
+2012-02-12,53,False,Bazaarvoice
+2012-02-19,100,False,Bazaarvoice
+2012-02-26,64,False,Bazaarvoice
+2012-03-04,34,False,Bazaarvoice
+2012-03-11,41,False,Bazaarvoice
+2012-03-18,35,False,Bazaarvoice
+2012-03-25,43,False,Bazaarvoice
+2012-04-01,43,False,Bazaarvoice
+2012-04-08,43,False,Bazaarvoice
+2012-04-15,43,False,Bazaarvoice
+2012-04-22,24,False,Bazaarvoice
+2012-04-29,36,False,Bazaarvoice
+2012-05-06,35,False,Bazaarvoice
+2012-05-13,36,False,Bazaarvoice
+2012-05-20,52,False,Bazaarvoice
+2012-05-27,41,False,Bazaarvoice
+2012-06-03,51,False,Bazaarvoice
+2012-06-10,26,False,Bazaarvoice
+2012-06-17,31,False,Bazaarvoice
+2012-06-24,29,False,Bazaarvoice
+2012-07-01,25,False,Bazaarvoice
+2012-07-08,49,False,Bazaarvoice
+2012-07-15,38,False,Bazaarvoice
+2012-07-22,42,False,Bazaarvoice
+2012-07-29,47,False,Bazaarvoice
+2012-08-05,33,False,Bazaarvoice
+2012-08-12,43,False,Bazaarvoice
+2012-08-19,37,False,Bazaarvoice
+2012-08-26,23,False,Bazaarvoice
+2012-09-02,33,False,Bazaarvoice
+2012-09-09,28,False,Bazaarvoice
+2012-09-16,38,False,Bazaarvoice
+2012-09-23,26,False,Bazaarvoice
+2012-09-30,28,False,Bazaarvoice
+2012-10-07,36,False,Bazaarvoice
+2012-10-14,38,False,Bazaarvoice
+2012-10-21,29,False,Bazaarvoice
+2012-10-28,31,False,Bazaarvoice
+2012-11-04,34,False,Bazaarvoice
+2012-11-11,27,False,Bazaarvoice
+2012-11-18,21,False,Bazaarvoice
+2011-11-27,7,False,Proto Labs
+2011-12-04,20,False,Proto Labs
+2011-12-11,7,False,Proto Labs
+2011-12-18,18,False,Proto Labs
+2011-12-25,4,False,Proto Labs
+2012-01-01,7,False,Proto Labs
+2012-01-08,10,False,Proto Labs
+2012-01-15,19,False,Proto Labs
+2012-01-22,25,False,Proto Labs
+2012-01-29,28,False,Proto Labs
+2012-02-05,9,False,Proto Labs
+2012-02-12,22,False,Proto Labs
+2012-02-19,100,False,Proto Labs
+2012-02-26,60,False,Proto Labs
+2012-03-04,34,False,Proto Labs
+2012-03-11,3,False,Proto Labs
+2012-03-18,28,False,Proto Labs
+2012-03-25,28,False,Proto Labs
+2012-04-01,10,False,Proto Labs
+2012-04-08,39,False,Proto Labs
+2012-04-15,24,False,Proto Labs
+2012-04-22,34,False,Proto Labs
+2012-04-29,50,False,Proto Labs
+2012-05-06,31,False,Proto Labs
+2012-05-13,22,False,Proto Labs
+2012-05-20,15,False,Proto Labs
+2012-05-27,15,False,Proto Labs
+2012-06-03,12,False,Proto Labs
+2012-06-10,15,False,Proto Labs
+2012-06-17,21,False,Proto Labs
+2012-06-24,9,False,Proto Labs
+2012-07-01,9,False,Proto Labs
+2012-07-08,19,False,Proto Labs
+2012-07-15,22,False,Proto Labs
+2012-07-22,19,False,Proto Labs
+2012-07-29,12,False,Proto Labs
+2012-08-05,18,False,Proto Labs
+2012-08-12,25,False,Proto Labs
+2012-08-19,6,False,Proto Labs
+2012-08-26,6,False,Proto Labs
+2012-09-02,12,False,Proto Labs
+2012-09-09,12,False,Proto Labs
+2012-09-16,15,False,Proto Labs
+2012-09-23,3,False,Proto Labs
+2012-09-30,20,False,Proto Labs
+2012-10-07,20,False,Proto Labs
+2012-10-14,19,False,Proto Labs
+2012-10-21,17,False,Proto Labs
+2012-10-28,14,False,Proto Labs
+2012-11-04,22,False,Proto Labs
+2012-11-11,19,False,Proto Labs
+2012-11-18,31,False,Proto Labs

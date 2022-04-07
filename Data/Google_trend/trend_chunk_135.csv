@@ -1,0 +1,211 @@
+date,SVI,isPartial,Issuer
+2017-01-08,0,False,Forum Merger
+2017-01-15,17,False,Forum Merger
+2017-01-22,0,False,Forum Merger
+2017-01-29,16,False,Forum Merger
+2017-02-05,8,False,Forum Merger
+2017-02-12,33,False,Forum Merger
+2017-02-19,25,False,Forum Merger
+2017-02-26,16,False,Forum Merger
+2017-03-05,24,False,Forum Merger
+2017-03-12,16,False,Forum Merger
+2017-03-19,8,False,Forum Merger
+2017-03-26,42,False,Forum Merger
+2017-04-02,33,False,Forum Merger
+2017-04-09,34,False,Forum Merger
+2017-04-16,100,False,Forum Merger
+2017-04-23,25,False,Forum Merger
+2017-04-30,25,False,Forum Merger
+2017-05-07,17,False,Forum Merger
+2017-05-14,9,False,Forum Merger
+2017-05-21,27,False,Forum Merger
+2017-05-28,9,False,Forum Merger
+2017-06-04,26,False,Forum Merger
+2017-06-11,36,False,Forum Merger
+2017-06-18,9,False,Forum Merger
+2017-06-25,27,False,Forum Merger
+2017-07-02,18,False,Forum Merger
+2017-07-09,9,False,Forum Merger
+2017-07-16,27,False,Forum Merger
+2017-07-23,26,False,Forum Merger
+2017-07-30,9,False,Forum Merger
+2017-08-06,9,False,Forum Merger
+2017-08-13,9,False,Forum Merger
+2017-08-20,17,False,Forum Merger
+2017-08-27,17,False,Forum Merger
+2017-09-03,26,False,Forum Merger
+2017-09-10,25,False,Forum Merger
+2017-09-17,0,False,Forum Merger
+2017-09-24,8,False,Forum Merger
+2017-10-01,8,False,Forum Merger
+2017-10-08,17,False,Forum Merger
+2017-10-15,17,False,Forum Merger
+2017-10-22,16,False,Forum Merger
+2017-10-29,17,False,Forum Merger
+2017-11-05,32,False,Forum Merger
+2017-11-12,8,False,Forum Merger
+2017-11-19,16,False,Forum Merger
+2017-11-26,16,False,Forum Merger
+2017-12-03,65,False,Forum Merger
+2017-12-10,16,False,Forum Merger
+2017-12-17,17,False,Forum Merger
+2017-12-24,18,False,Forum Merger
+2017-12-31,8,False,Forum Merger
+2018-01-07,32,False,Forum Merger
+2017-01-08,55,False,Okta
+2017-01-15,51,False,Okta
+2017-01-22,58,False,Okta
+2017-01-29,58,False,Okta
+2017-02-05,60,False,Okta
+2017-02-12,54,False,Okta
+2017-02-19,58,False,Okta
+2017-02-26,65,False,Okta
+2017-03-05,62,False,Okta
+2017-03-12,81,False,Okta
+2017-03-19,66,False,Okta
+2017-03-26,70,False,Okta
+2017-04-02,100,False,Okta
+2017-04-09,76,False,Okta
+2017-04-16,68,False,Okta
+2017-04-23,70,False,Okta
+2017-04-30,66,False,Okta
+2017-05-07,73,False,Okta
+2017-05-14,66,False,Okta
+2017-05-21,60,False,Okta
+2017-05-28,60,False,Okta
+2017-06-04,75,False,Okta
+2017-06-11,70,False,Okta
+2017-06-18,65,False,Okta
+2017-06-25,68,False,Okta
+2017-07-02,63,False,Okta
+2017-07-09,69,False,Okta
+2017-07-16,71,False,Okta
+2017-07-23,77,False,Okta
+2017-07-30,76,False,Okta
+2017-08-06,74,False,Okta
+2017-08-13,69,False,Okta
+2017-08-20,66,False,Okta
+2017-08-27,69,False,Okta
+2017-09-03,72,False,Okta
+2017-09-10,76,False,Okta
+2017-09-17,73,False,Okta
+2017-09-24,73,False,Okta
+2017-10-01,77,False,Okta
+2017-10-08,82,False,Okta
+2017-10-15,81,False,Okta
+2017-10-22,78,False,Okta
+2017-10-29,86,False,Okta
+2017-11-05,81,False,Okta
+2017-11-12,82,False,Okta
+2017-11-19,68,False,Okta
+2017-11-26,76,False,Okta
+2017-12-03,87,False,Okta
+2017-12-10,82,False,Okta
+2017-12-17,78,False,Okta
+2017-12-24,40,False,Okta
+2017-12-31,73,False,Okta
+2018-01-07,86,False,Okta
+2017-01-15,58,False,Azul S.A.
+2017-01-22,33,False,Azul S.A.
+2017-01-29,49,False,Azul S.A.
+2017-02-05,42,False,Azul S.A.
+2017-02-12,41,False,Azul S.A.
+2017-02-19,57,False,Azul S.A.
+2017-02-26,64,False,Azul S.A.
+2017-03-05,47,False,Azul S.A.
+2017-03-12,40,False,Azul S.A.
+2017-03-19,74,False,Azul S.A.
+2017-03-26,58,False,Azul S.A.
+2017-04-02,66,False,Azul S.A.
+2017-04-09,60,False,Azul S.A.
+2017-04-16,33,False,Azul S.A.
+2017-04-23,33,False,Azul S.A.
+2017-04-30,42,False,Azul S.A.
+2017-05-07,50,False,Azul S.A.
+2017-05-14,71,False,Azul S.A.
+2017-05-21,53,False,Azul S.A.
+2017-05-28,35,False,Azul S.A.
+2017-06-04,52,False,Azul S.A.
+2017-06-11,62,False,Azul S.A.
+2017-06-18,51,False,Azul S.A.
+2017-06-25,63,False,Azul S.A.
+2017-07-02,27,False,Azul S.A.
+2017-07-09,27,False,Azul S.A.
+2017-07-16,62,False,Azul S.A.
+2017-07-23,26,False,Azul S.A.
+2017-07-30,35,False,Azul S.A.
+2017-08-06,68,False,Azul S.A.
+2017-08-13,53,False,Azul S.A.
+2017-08-20,60,False,Azul S.A.
+2017-08-27,85,False,Azul S.A.
+2017-09-03,25,False,Azul S.A.
+2017-09-10,59,False,Azul S.A.
+2017-09-17,75,False,Azul S.A.
+2017-09-24,34,False,Azul S.A.
+2017-10-01,66,False,Azul S.A.
+2017-10-08,25,False,Azul S.A.
+2017-10-15,25,False,Azul S.A.
+2017-10-22,41,False,Azul S.A.
+2017-10-29,58,False,Azul S.A.
+2017-11-05,56,False,Azul S.A.
+2017-11-12,40,False,Azul S.A.
+2017-11-19,73,False,Azul S.A.
+2017-11-26,24,False,Azul S.A.
+2017-12-03,32,False,Azul S.A.
+2017-12-10,24,False,Azul S.A.
+2017-12-17,25,False,Azul S.A.
+2017-12-24,0,False,Azul S.A.
+2017-12-31,100,False,Azul S.A.
+2018-01-07,71,False,Azul S.A.
+2017-01-15,0,False,Vantage Energy Acquisition
+2017-01-22,0,False,Vantage Energy Acquisition
+2017-01-29,0,False,Vantage Energy Acquisition
+2017-02-05,0,False,Vantage Energy Acquisition
+2017-02-12,0,False,Vantage Energy Acquisition
+2017-02-19,32,False,Vantage Energy Acquisition
+2017-02-26,31,False,Vantage Energy Acquisition
+2017-03-05,31,False,Vantage Energy Acquisition
+2017-03-12,0,False,Vantage Energy Acquisition
+2017-03-19,32,False,Vantage Energy Acquisition
+2017-03-26,0,False,Vantage Energy Acquisition
+2017-04-02,32,False,Vantage Energy Acquisition
+2017-04-09,100,False,Vantage Energy Acquisition
+2017-04-16,32,False,Vantage Energy Acquisition
+2017-04-23,0,False,Vantage Energy Acquisition
+2017-04-30,32,False,Vantage Energy Acquisition
+2017-05-07,32,False,Vantage Energy Acquisition
+2017-05-14,0,False,Vantage Energy Acquisition
+2017-05-21,69,False,Vantage Energy Acquisition
+2017-05-28,0,False,Vantage Energy Acquisition
+2017-06-04,0,False,Vantage Energy Acquisition
+2017-06-11,0,False,Vantage Energy Acquisition
+2017-06-18,0,False,Vantage Energy Acquisition
+2017-06-25,0,False,Vantage Energy Acquisition
+2017-07-02,0,False,Vantage Energy Acquisition
+2017-07-09,0,False,Vantage Energy Acquisition
+2017-07-16,0,False,Vantage Energy Acquisition
+2017-07-23,0,False,Vantage Energy Acquisition
+2017-07-30,0,False,Vantage Energy Acquisition
+2017-08-06,0,False,Vantage Energy Acquisition
+2017-08-13,0,False,Vantage Energy Acquisition
+2017-08-20,33,False,Vantage Energy Acquisition
+2017-08-27,66,False,Vantage Energy Acquisition
+2017-09-03,0,False,Vantage Energy Acquisition
+2017-09-10,0,False,Vantage Energy Acquisition
+2017-09-17,0,False,Vantage Energy Acquisition
+2017-09-24,33,False,Vantage Energy Acquisition
+2017-10-01,32,False,Vantage Energy Acquisition
+2017-10-08,0,False,Vantage Energy Acquisition
+2017-10-15,0,False,Vantage Energy Acquisition
+2017-10-22,0,False,Vantage Energy Acquisition
+2017-10-29,0,False,Vantage Energy Acquisition
+2017-11-05,0,False,Vantage Energy Acquisition
+2017-11-12,0,False,Vantage Energy Acquisition
+2017-11-19,32,False,Vantage Energy Acquisition
+2017-11-26,0,False,Vantage Energy Acquisition
+2017-12-03,31,False,Vantage Energy Acquisition
+2017-12-10,0,False,Vantage Energy Acquisition
+2017-12-17,0,False,Vantage Energy Acquisition
+2017-12-24,0,False,Vantage Energy Acquisition
+2017-12-31,0,False,Vantage Energy Acquisition
+2018-01-07,0,False,Vantage Energy Acquisition

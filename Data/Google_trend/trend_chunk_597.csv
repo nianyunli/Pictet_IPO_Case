@@ -1,0 +1,209 @@
+date,SVI,isPartial,Issuer
+2004-04-04,96,False,Design Within Reach
+2004-04-11,38,False,Design Within Reach
+2004-04-18,68,False,Design Within Reach
+2004-04-25,97,False,Design Within Reach
+2004-05-02,73,False,Design Within Reach
+2004-05-09,43,False,Design Within Reach
+2004-05-16,72,False,Design Within Reach
+2004-05-23,84,False,Design Within Reach
+2004-05-30,70,False,Design Within Reach
+2004-06-06,58,False,Design Within Reach
+2004-06-13,71,False,Design Within Reach
+2004-06-20,93,False,Design Within Reach
+2004-06-27,84,False,Design Within Reach
+2004-07-04,77,False,Design Within Reach
+2004-07-11,99,False,Design Within Reach
+2004-07-18,56,False,Design Within Reach
+2004-07-25,46,False,Design Within Reach
+2004-08-01,49,False,Design Within Reach
+2004-08-08,100,False,Design Within Reach
+2004-08-15,75,False,Design Within Reach
+2004-08-22,71,False,Design Within Reach
+2004-08-29,54,False,Design Within Reach
+2004-09-05,38,False,Design Within Reach
+2004-09-12,60,False,Design Within Reach
+2004-09-19,80,False,Design Within Reach
+2004-09-26,71,False,Design Within Reach
+2004-10-03,80,False,Design Within Reach
+2004-10-10,78,False,Design Within Reach
+2004-10-17,74,False,Design Within Reach
+2004-10-24,43,False,Design Within Reach
+2004-10-31,55,False,Design Within Reach
+2004-11-07,71,False,Design Within Reach
+2004-11-14,80,False,Design Within Reach
+2004-11-21,51,False,Design Within Reach
+2004-11-28,64,False,Design Within Reach
+2004-12-05,77,False,Design Within Reach
+2004-12-12,30,False,Design Within Reach
+2004-12-19,55,False,Design Within Reach
+2004-12-26,46,False,Design Within Reach
+2005-01-02,81,False,Design Within Reach
+2005-01-09,65,False,Design Within Reach
+2005-01-16,57,False,Design Within Reach
+2005-01-23,81,False,Design Within Reach
+2005-01-30,39,False,Design Within Reach
+2005-02-06,79,False,Design Within Reach
+2005-02-13,50,False,Design Within Reach
+2005-02-20,51,False,Design Within Reach
+2005-02-27,46,False,Design Within Reach
+2005-03-06,70,False,Design Within Reach
+2005-03-13,75,False,Design Within Reach
+2005-03-20,40,False,Design Within Reach
+2005-03-27,62,False,Design Within Reach
+2004-04-04,0,False,WellCare Group
+2004-04-11,0,False,WellCare Group
+2004-04-18,0,False,WellCare Group
+2004-04-25,0,False,WellCare Group
+2004-05-02,0,False,WellCare Group
+2004-05-09,0,False,WellCare Group
+2004-05-16,0,False,WellCare Group
+2004-05-23,0,False,WellCare Group
+2004-05-30,50,False,WellCare Group
+2004-06-06,0,False,WellCare Group
+2004-06-13,96,False,WellCare Group
+2004-06-20,49,False,WellCare Group
+2004-06-27,100,False,WellCare Group
+2004-07-04,50,False,WellCare Group
+2004-07-11,0,False,WellCare Group
+2004-07-18,0,False,WellCare Group
+2004-07-25,0,False,WellCare Group
+2004-08-01,0,False,WellCare Group
+2004-08-08,98,False,WellCare Group
+2004-08-15,0,False,WellCare Group
+2004-08-22,0,False,WellCare Group
+2004-08-29,0,False,WellCare Group
+2004-09-05,0,False,WellCare Group
+2004-09-12,0,False,WellCare Group
+2004-09-19,0,False,WellCare Group
+2004-09-26,0,False,WellCare Group
+2004-10-03,85,False,WellCare Group
+2004-10-10,51,False,WellCare Group
+2004-10-17,0,False,WellCare Group
+2004-10-24,0,False,WellCare Group
+2004-10-31,41,False,WellCare Group
+2004-11-07,0,False,WellCare Group
+2004-11-14,0,False,WellCare Group
+2004-11-21,0,False,WellCare Group
+2004-11-28,0,False,WellCare Group
+2004-12-05,0,False,WellCare Group
+2004-12-12,0,False,WellCare Group
+2004-12-19,46,False,WellCare Group
+2004-12-26,0,False,WellCare Group
+2005-01-02,0,False,WellCare Group
+2005-01-09,36,False,WellCare Group
+2005-01-16,0,False,WellCare Group
+2005-01-23,0,False,WellCare Group
+2005-01-30,0,False,WellCare Group
+2005-02-06,0,False,WellCare Group
+2005-02-13,34,False,WellCare Group
+2005-02-20,0,False,WellCare Group
+2005-02-27,0,False,WellCare Group
+2005-03-06,0,False,WellCare Group
+2005-03-13,32,False,WellCare Group
+2005-03-20,0,False,WellCare Group
+2005-03-27,0,False,WellCare Group
+2004-04-11,0,False,Holly Energy Partners
+2004-04-18,0,False,Holly Energy Partners
+2004-04-25,0,False,Holly Energy Partners
+2004-05-02,0,False,Holly Energy Partners
+2004-05-09,0,False,Holly Energy Partners
+2004-05-16,0,False,Holly Energy Partners
+2004-05-23,0,False,Holly Energy Partners
+2004-05-30,0,False,Holly Energy Partners
+2004-06-06,0,False,Holly Energy Partners
+2004-06-13,0,False,Holly Energy Partners
+2004-06-20,0,False,Holly Energy Partners
+2004-06-27,0,False,Holly Energy Partners
+2004-07-04,100,False,Holly Energy Partners
+2004-07-11,0,False,Holly Energy Partners
+2004-07-18,50,False,Holly Energy Partners
+2004-07-25,0,False,Holly Energy Partners
+2004-08-01,0,False,Holly Energy Partners
+2004-08-08,0,False,Holly Energy Partners
+2004-08-15,48,False,Holly Energy Partners
+2004-08-22,0,False,Holly Energy Partners
+2004-08-29,0,False,Holly Energy Partners
+2004-09-05,0,False,Holly Energy Partners
+2004-09-12,0,False,Holly Energy Partners
+2004-09-19,0,False,Holly Energy Partners
+2004-09-26,0,False,Holly Energy Partners
+2004-10-03,0,False,Holly Energy Partners
+2004-10-10,51,False,Holly Energy Partners
+2004-10-17,0,False,Holly Energy Partners
+2004-10-24,0,False,Holly Energy Partners
+2004-10-31,0,False,Holly Energy Partners
+2004-11-07,0,False,Holly Energy Partners
+2004-11-14,0,False,Holly Energy Partners
+2004-11-21,0,False,Holly Energy Partners
+2004-11-28,0,False,Holly Energy Partners
+2004-12-05,0,False,Holly Energy Partners
+2004-12-12,0,False,Holly Energy Partners
+2004-12-19,0,False,Holly Energy Partners
+2004-12-26,0,False,Holly Energy Partners
+2005-01-02,0,False,Holly Energy Partners
+2005-01-09,0,False,Holly Energy Partners
+2005-01-16,0,False,Holly Energy Partners
+2005-01-23,0,False,Holly Energy Partners
+2005-01-30,0,False,Holly Energy Partners
+2005-02-06,0,False,Holly Energy Partners
+2005-02-13,34,False,Holly Energy Partners
+2005-02-20,0,False,Holly Energy Partners
+2005-02-27,0,False,Holly Energy Partners
+2005-03-06,65,False,Holly Energy Partners
+2005-03-13,0,False,Holly Energy Partners
+2005-03-20,0,False,Holly Energy Partners
+2005-03-27,0,False,Holly Energy Partners
+2005-04-03,0,False,Holly Energy Partners
+2004-04-11,0,False,KongZhong
+2004-04-18,0,False,KongZhong
+2004-04-25,0,False,KongZhong
+2004-05-02,0,False,KongZhong
+2004-05-09,0,False,KongZhong
+2004-05-16,0,False,KongZhong
+2004-05-23,0,False,KongZhong
+2004-05-30,0,False,KongZhong
+2004-06-06,0,False,KongZhong
+2004-06-13,0,False,KongZhong
+2004-06-20,0,False,KongZhong
+2004-06-27,50,False,KongZhong
+2004-07-04,100,False,KongZhong
+2004-07-11,20,False,KongZhong
+2004-07-18,17,False,KongZhong
+2004-07-25,0,False,KongZhong
+2004-08-01,0,False,KongZhong
+2004-08-08,33,False,KongZhong
+2004-08-15,16,False,KongZhong
+2004-08-22,0,False,KongZhong
+2004-08-29,0,False,KongZhong
+2004-09-05,0,False,KongZhong
+2004-09-12,0,False,KongZhong
+2004-09-19,14,False,KongZhong
+2004-09-26,14,False,KongZhong
+2004-10-03,28,False,KongZhong
+2004-10-10,0,False,KongZhong
+2004-10-17,13,False,KongZhong
+2004-10-24,0,False,KongZhong
+2004-10-31,14,False,KongZhong
+2004-11-07,0,False,KongZhong
+2004-11-14,0,False,KongZhong
+2004-11-21,0,False,KongZhong
+2004-11-28,13,False,KongZhong
+2004-12-05,25,False,KongZhong
+2004-12-12,13,False,KongZhong
+2004-12-19,0,False,KongZhong
+2004-12-26,0,False,KongZhong
+2005-01-02,13,False,KongZhong
+2005-01-09,12,False,KongZhong
+2005-01-16,0,False,KongZhong
+2005-01-23,0,False,KongZhong
+2005-01-30,12,False,KongZhong
+2005-02-06,0,False,KongZhong
+2005-02-13,0,False,KongZhong
+2005-02-20,24,False,KongZhong
+2005-02-27,0,False,KongZhong
+2005-03-06,11,False,KongZhong
+2005-03-13,0,False,KongZhong
+2005-03-20,0,False,KongZhong
+2005-03-27,32,False,KongZhong
+2005-04-03,0,False,KongZhong

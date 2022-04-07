@@ -1,0 +1,262 @@
+date,SVI,isPartial,Issuer
+2019-08-11,0,False,TELA Bio
+2019-08-18,17,False,TELA Bio
+2019-08-25,17,False,TELA Bio
+2019-09-01,33,False,TELA Bio
+2019-09-08,49,False,TELA Bio
+2019-09-15,8,False,TELA Bio
+2019-09-22,8,False,TELA Bio
+2019-09-29,32,False,TELA Bio
+2019-10-06,33,False,TELA Bio
+2019-10-13,49,False,TELA Bio
+2019-10-20,32,False,TELA Bio
+2019-10-27,32,False,TELA Bio
+2019-11-03,95,False,TELA Bio
+2019-11-10,95,False,TELA Bio
+2019-11-17,81,False,TELA Bio
+2019-11-24,39,False,TELA Bio
+2019-12-01,48,False,TELA Bio
+2019-12-08,40,False,TELA Bio
+2019-12-15,25,False,TELA Bio
+2019-12-22,9,False,TELA Bio
+2019-12-29,8,False,TELA Bio
+2020-01-05,16,False,TELA Bio
+2020-01-12,53,False,TELA Bio
+2020-01-19,54,False,TELA Bio
+2020-01-26,100,False,TELA Bio
+2020-02-02,31,False,TELA Bio
+2020-02-09,30,False,TELA Bio
+2020-02-16,46,False,TELA Bio
+2020-02-23,52,False,TELA Bio
+2020-03-01,29,False,TELA Bio
+2020-03-08,29,False,TELA Bio
+2020-03-15,51,False,TELA Bio
+2020-03-22,28,False,TELA Bio
+2020-03-29,34,False,TELA Bio
+2020-04-05,43,False,TELA Bio
+2020-04-12,55,False,TELA Bio
+2020-04-19,48,False,TELA Bio
+2020-04-26,48,False,TELA Bio
+2020-05-03,62,False,TELA Bio
+2020-05-10,69,False,TELA Bio
+2020-05-17,49,False,TELA Bio
+2020-05-24,50,False,TELA Bio
+2020-05-31,34,False,TELA Bio
+2020-06-07,42,False,TELA Bio
+2020-06-14,93,False,TELA Bio
+2020-06-21,59,False,TELA Bio
+2020-06-28,59,False,TELA Bio
+2020-07-05,67,False,TELA Bio
+2020-07-12,69,False,TELA Bio
+2020-07-19,99,False,TELA Bio
+2020-07-26,38,False,TELA Bio
+2020-08-02,90,False,TELA Bio
+2019-08-11,0,False,89bio
+2019-08-18,17,False,89bio
+2019-08-25,16,False,89bio
+2019-09-01,8,False,89bio
+2019-09-08,24,False,89bio
+2019-09-15,8,False,89bio
+2019-09-22,16,False,89bio
+2019-09-29,24,False,89bio
+2019-10-06,16,False,89bio
+2019-10-13,55,False,89bio
+2019-10-20,8,False,89bio
+2019-10-27,16,False,89bio
+2019-11-03,62,False,89bio
+2019-11-10,100,False,89bio
+2019-11-17,71,False,89bio
+2019-11-24,15,False,89bio
+2019-12-01,23,False,89bio
+2019-12-08,16,False,89bio
+2019-12-15,48,False,89bio
+2019-12-22,9,False,89bio
+2019-12-29,8,False,89bio
+2020-01-05,0,False,89bio
+2020-01-12,15,False,89bio
+2020-01-19,37,False,89bio
+2020-01-26,22,False,89bio
+2020-02-02,15,False,89bio
+2020-02-09,22,False,89bio
+2020-02-16,7,False,89bio
+2020-02-23,0,False,89bio
+2020-03-01,43,False,89bio
+2020-03-08,35,False,89bio
+2020-03-15,14,False,89bio
+2020-03-22,14,False,89bio
+2020-03-29,20,False,89bio
+2020-04-05,28,False,89bio
+2020-04-12,7,False,89bio
+2020-04-19,0,False,89bio
+2020-04-26,7,False,89bio
+2020-05-03,7,False,89bio
+2020-05-10,20,False,89bio
+2020-05-17,14,False,89bio
+2020-05-24,7,False,89bio
+2020-05-31,34,False,89bio
+2020-06-07,14,False,89bio
+2020-06-14,7,False,89bio
+2020-06-21,7,False,89bio
+2020-06-28,21,False,89bio
+2020-07-05,58,False,89bio
+2020-07-12,7,False,89bio
+2020-07-19,30,False,89bio
+2020-07-26,30,False,89bio
+2020-08-02,7,False,89bio
+2020-08-09,7,False,89bio
+2019-08-18,0,False,YayYo
+2019-08-25,10,False,YayYo
+2019-09-01,31,False,YayYo
+2019-09-08,20,False,YayYo
+2019-09-15,20,False,YayYo
+2019-09-22,0,False,YayYo
+2019-09-29,20,False,YayYo
+2019-10-06,20,False,YayYo
+2019-10-13,20,False,YayYo
+2019-10-20,20,False,YayYo
+2019-10-27,0,False,YayYo
+2019-11-03,59,False,YayYo
+2019-11-10,39,False,YayYo
+2019-11-17,100,False,YayYo
+2019-11-24,78,False,YayYo
+2019-12-01,30,False,YayYo
+2019-12-08,10,False,YayYo
+2019-12-15,61,False,YayYo
+2019-12-22,65,False,YayYo
+2019-12-29,31,False,YayYo
+2020-01-05,68,False,YayYo
+2020-01-12,47,False,YayYo
+2020-01-19,47,False,YayYo
+2020-01-26,86,False,YayYo
+2020-02-02,66,False,YayYo
+2020-02-09,94,False,YayYo
+2020-02-16,37,False,YayYo
+2020-02-23,64,False,YayYo
+2020-03-01,27,False,YayYo
+2020-03-08,27,False,YayYo
+2020-03-15,18,False,YayYo
+2020-03-22,17,False,YayYo
+2020-03-29,17,False,YayYo
+2020-04-05,35,False,YayYo
+2020-04-12,17,False,YayYo
+2020-04-19,17,False,YayYo
+2020-04-26,43,False,YayYo
+2020-05-03,17,False,YayYo
+2020-05-10,17,False,YayYo
+2020-05-17,26,False,YayYo
+2020-05-24,9,False,YayYo
+2020-05-31,9,False,YayYo
+2020-06-07,35,False,YayYo
+2020-06-14,18,False,YayYo
+2020-06-21,18,False,YayYo
+2020-06-28,9,False,YayYo
+2020-07-05,9,False,YayYo
+2020-07-12,28,False,YayYo
+2020-07-19,19,False,YayYo
+2020-07-26,0,False,YayYo
+2020-08-02,18,False,YayYo
+2020-08-09,18,False,YayYo
+2019-08-25,0,False,GreenVision Acquisition
+2019-09-01,0,False,GreenVision Acquisition
+2019-09-08,0,False,GreenVision Acquisition
+2019-09-15,0,False,GreenVision Acquisition
+2019-09-22,0,False,GreenVision Acquisition
+2019-09-29,0,False,GreenVision Acquisition
+2019-10-06,0,False,GreenVision Acquisition
+2019-10-13,0,False,GreenVision Acquisition
+2019-10-20,0,False,GreenVision Acquisition
+2019-10-27,0,False,GreenVision Acquisition
+2019-11-03,0,False,GreenVision Acquisition
+2019-11-10,0,False,GreenVision Acquisition
+2019-11-17,99,False,GreenVision Acquisition
+2019-11-24,0,False,GreenVision Acquisition
+2019-12-01,0,False,GreenVision Acquisition
+2019-12-08,49,False,GreenVision Acquisition
+2019-12-15,100,False,GreenVision Acquisition
+2019-12-22,0,False,GreenVision Acquisition
+2019-12-29,0,False,GreenVision Acquisition
+2020-01-05,0,False,GreenVision Acquisition
+2020-01-12,0,False,GreenVision Acquisition
+2020-01-19,0,False,GreenVision Acquisition
+2020-01-26,0,False,GreenVision Acquisition
+2020-02-02,0,False,GreenVision Acquisition
+2020-02-09,0,False,GreenVision Acquisition
+2020-02-16,46,False,GreenVision Acquisition
+2020-02-23,45,False,GreenVision Acquisition
+2020-03-01,0,False,GreenVision Acquisition
+2020-03-08,0,False,GreenVision Acquisition
+2020-03-15,0,False,GreenVision Acquisition
+2020-03-22,0,False,GreenVision Acquisition
+2020-03-29,42,False,GreenVision Acquisition
+2020-04-05,44,False,GreenVision Acquisition
+2020-04-12,0,False,GreenVision Acquisition
+2020-04-19,0,False,GreenVision Acquisition
+2020-04-26,0,False,GreenVision Acquisition
+2020-05-03,0,False,GreenVision Acquisition
+2020-05-10,0,False,GreenVision Acquisition
+2020-05-17,0,False,GreenVision Acquisition
+2020-05-24,0,False,GreenVision Acquisition
+2020-05-31,0,False,GreenVision Acquisition
+2020-06-07,0,False,GreenVision Acquisition
+2020-06-14,0,False,GreenVision Acquisition
+2020-06-21,0,False,GreenVision Acquisition
+2020-06-28,45,False,GreenVision Acquisition
+2020-07-05,45,False,GreenVision Acquisition
+2020-07-12,0,False,GreenVision Acquisition
+2020-07-19,47,False,GreenVision Acquisition
+2020-07-26,47,False,GreenVision Acquisition
+2020-08-02,0,False,GreenVision Acquisition
+2020-08-09,0,False,GreenVision Acquisition
+2020-08-16,45,False,GreenVision Acquisition
+2019-08-25,0,False,Amplitude Healthcare Acquisition
+2019-09-01,0,False,Amplitude Healthcare Acquisition
+2019-09-08,0,False,Amplitude Healthcare Acquisition
+2019-09-15,0,False,Amplitude Healthcare Acquisition
+2019-09-22,0,False,Amplitude Healthcare Acquisition
+2019-09-29,0,False,Amplitude Healthcare Acquisition
+2019-10-06,0,False,Amplitude Healthcare Acquisition
+2019-10-13,0,False,Amplitude Healthcare Acquisition
+2019-10-20,0,False,Amplitude Healthcare Acquisition
+2019-10-27,0,False,Amplitude Healthcare Acquisition
+2019-11-03,0,False,Amplitude Healthcare Acquisition
+2019-11-10,0,False,Amplitude Healthcare Acquisition
+2019-11-17,100,False,Amplitude Healthcare Acquisition
+2019-11-24,0,False,Amplitude Healthcare Acquisition
+2019-12-01,0,False,Amplitude Healthcare Acquisition
+2019-12-08,0,False,Amplitude Healthcare Acquisition
+2019-12-15,0,False,Amplitude Healthcare Acquisition
+2019-12-22,0,False,Amplitude Healthcare Acquisition
+2019-12-29,0,False,Amplitude Healthcare Acquisition
+2020-01-05,0,False,Amplitude Healthcare Acquisition
+2020-01-12,0,False,Amplitude Healthcare Acquisition
+2020-01-19,0,False,Amplitude Healthcare Acquisition
+2020-01-26,0,False,Amplitude Healthcare Acquisition
+2020-02-02,0,False,Amplitude Healthcare Acquisition
+2020-02-09,31,False,Amplitude Healthcare Acquisition
+2020-02-16,31,False,Amplitude Healthcare Acquisition
+2020-02-23,0,False,Amplitude Healthcare Acquisition
+2020-03-01,0,False,Amplitude Healthcare Acquisition
+2020-03-08,30,False,Amplitude Healthcare Acquisition
+2020-03-15,30,False,Amplitude Healthcare Acquisition
+2020-03-22,29,False,Amplitude Healthcare Acquisition
+2020-03-29,0,False,Amplitude Healthcare Acquisition
+2020-04-05,0,False,Amplitude Healthcare Acquisition
+2020-04-12,0,False,Amplitude Healthcare Acquisition
+2020-04-19,28,False,Amplitude Healthcare Acquisition
+2020-04-26,0,False,Amplitude Healthcare Acquisition
+2020-05-03,0,False,Amplitude Healthcare Acquisition
+2020-05-10,0,False,Amplitude Healthcare Acquisition
+2020-05-17,0,False,Amplitude Healthcare Acquisition
+2020-05-24,0,False,Amplitude Healthcare Acquisition
+2020-05-31,0,False,Amplitude Healthcare Acquisition
+2020-06-07,0,False,Amplitude Healthcare Acquisition
+2020-06-14,0,False,Amplitude Healthcare Acquisition
+2020-06-21,30,False,Amplitude Healthcare Acquisition
+2020-06-28,0,False,Amplitude Healthcare Acquisition
+2020-07-05,0,False,Amplitude Healthcare Acquisition
+2020-07-12,0,False,Amplitude Healthcare Acquisition
+2020-07-19,31,False,Amplitude Healthcare Acquisition
+2020-07-26,31,False,Amplitude Healthcare Acquisition
+2020-08-02,31,False,Amplitude Healthcare Acquisition
+2020-08-09,0,False,Amplitude Healthcare Acquisition
+2020-08-16,30,False,Amplitude Healthcare Acquisition

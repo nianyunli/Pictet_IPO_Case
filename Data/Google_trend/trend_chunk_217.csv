@@ -1,0 +1,210 @@
+date,SVI,isPartial,Issuer
+2015-07-19,0,False,Cerecor
+2015-07-26,11,False,Cerecor
+2015-08-02,0,False,Cerecor
+2015-08-09,22,False,Cerecor
+2015-08-16,32,False,Cerecor
+2015-08-23,11,False,Cerecor
+2015-08-30,10,False,Cerecor
+2015-09-06,21,False,Cerecor
+2015-09-13,20,False,Cerecor
+2015-09-20,52,False,Cerecor
+2015-09-27,30,False,Cerecor
+2015-10-04,60,False,Cerecor
+2015-10-11,100,False,Cerecor
+2015-10-18,30,False,Cerecor
+2015-10-25,20,False,Cerecor
+2015-11-01,10,False,Cerecor
+2015-11-08,0,False,Cerecor
+2015-11-15,30,False,Cerecor
+2015-11-22,10,False,Cerecor
+2015-11-29,20,False,Cerecor
+2015-12-06,40,False,Cerecor
+2015-12-13,0,False,Cerecor
+2015-12-20,45,False,Cerecor
+2015-12-27,23,False,Cerecor
+2016-01-03,32,False,Cerecor
+2016-01-10,21,False,Cerecor
+2016-01-17,31,False,Cerecor
+2016-01-24,10,False,Cerecor
+2016-01-31,21,False,Cerecor
+2016-02-07,11,False,Cerecor
+2016-02-14,0,False,Cerecor
+2016-02-21,10,False,Cerecor
+2016-02-28,10,False,Cerecor
+2016-03-06,10,False,Cerecor
+2016-03-13,10,False,Cerecor
+2016-03-20,0,False,Cerecor
+2016-03-27,21,False,Cerecor
+2016-04-03,10,False,Cerecor
+2016-04-10,21,False,Cerecor
+2016-04-17,20,False,Cerecor
+2016-04-24,10,False,Cerecor
+2016-05-01,43,False,Cerecor
+2016-05-08,10,False,Cerecor
+2016-05-15,11,False,Cerecor
+2016-05-22,32,False,Cerecor
+2016-05-29,21,False,Cerecor
+2016-06-05,43,False,Cerecor
+2016-06-12,10,False,Cerecor
+2016-06-19,0,False,Cerecor
+2016-06-26,11,False,Cerecor
+2016-07-03,23,False,Cerecor
+2016-07-10,0,False,Cerecor
+2015-07-19,61,False,First Data
+2015-07-26,54,False,First Data
+2015-08-02,56,False,First Data
+2015-08-09,55,False,First Data
+2015-08-16,55,False,First Data
+2015-08-23,55,False,First Data
+2015-08-30,57,False,First Data
+2015-09-06,56,False,First Data
+2015-09-13,65,False,First Data
+2015-09-20,61,False,First Data
+2015-09-27,73,False,First Data
+2015-10-04,69,False,First Data
+2015-10-11,100,False,First Data
+2015-10-18,71,False,First Data
+2015-10-25,63,False,First Data
+2015-11-01,65,False,First Data
+2015-11-08,56,False,First Data
+2015-11-15,62,False,First Data
+2015-11-22,44,False,First Data
+2015-11-29,63,False,First Data
+2015-12-06,64,False,First Data
+2015-12-13,54,False,First Data
+2015-12-20,38,False,First Data
+2015-12-27,37,False,First Data
+2016-01-03,52,False,First Data
+2016-01-10,51,False,First Data
+2016-01-17,55,False,First Data
+2016-01-24,57,False,First Data
+2016-01-31,62,False,First Data
+2016-02-07,67,False,First Data
+2016-02-14,56,False,First Data
+2016-02-21,57,False,First Data
+2016-02-28,63,False,First Data
+2016-03-06,55,False,First Data
+2016-03-13,55,False,First Data
+2016-03-20,53,False,First Data
+2016-03-27,58,False,First Data
+2016-04-03,58,False,First Data
+2016-04-10,59,False,First Data
+2016-04-17,55,False,First Data
+2016-04-24,58,False,First Data
+2016-05-01,58,False,First Data
+2016-05-08,56,False,First Data
+2016-05-15,54,False,First Data
+2016-05-22,53,False,First Data
+2016-05-29,49,False,First Data
+2016-06-05,58,False,First Data
+2016-06-12,53,False,First Data
+2016-06-19,48,False,First Data
+2016-06-26,55,False,First Data
+2016-07-03,47,False,First Data
+2016-07-10,50,False,First Data
+2015-07-19,22,False,American Farmland
+2015-07-26,21,False,American Farmland
+2015-08-02,25,False,American Farmland
+2015-08-09,17,False,American Farmland
+2015-08-16,29,False,American Farmland
+2015-08-23,36,False,American Farmland
+2015-08-30,16,False,American Farmland
+2015-09-06,28,False,American Farmland
+2015-09-13,35,False,American Farmland
+2015-09-20,32,False,American Farmland
+2015-09-27,23,False,American Farmland
+2015-10-04,46,False,American Farmland
+2015-10-11,61,False,American Farmland
+2015-10-18,100,False,American Farmland
+2015-10-25,42,False,American Farmland
+2015-11-01,23,False,American Farmland
+2015-11-08,19,False,American Farmland
+2015-11-15,30,False,American Farmland
+2015-11-22,8,False,American Farmland
+2015-11-29,49,False,American Farmland
+2015-12-06,34,False,American Farmland
+2015-12-13,32,False,American Farmland
+2015-12-20,13,False,American Farmland
+2015-12-27,22,False,American Farmland
+2016-01-03,28,False,American Farmland
+2016-01-10,28,False,American Farmland
+2016-01-17,16,False,American Farmland
+2016-01-24,32,False,American Farmland
+2016-01-31,36,False,American Farmland
+2016-02-07,16,False,American Farmland
+2016-02-14,32,False,American Farmland
+2016-02-21,28,False,American Farmland
+2016-02-28,23,False,American Farmland
+2016-03-06,20,False,American Farmland
+2016-03-13,16,False,American Farmland
+2016-03-20,24,False,American Farmland
+2016-03-27,8,False,American Farmland
+2016-04-03,12,False,American Farmland
+2016-04-10,28,False,American Farmland
+2016-04-17,35,False,American Farmland
+2016-04-24,24,False,American Farmland
+2016-05-01,25,False,American Farmland
+2016-05-08,20,False,American Farmland
+2016-05-15,16,False,American Farmland
+2016-05-22,20,False,American Farmland
+2016-05-29,33,False,American Farmland
+2016-06-05,16,False,American Farmland
+2016-06-12,8,False,American Farmland
+2016-06-19,12,False,American Farmland
+2016-06-26,12,False,American Farmland
+2016-07-03,4,False,American Farmland
+2016-07-10,17,False,American Farmland
+2016-07-17,13,False,American Farmland
+2015-07-26,22,False,Ferrari N.V.
+2015-08-02,0,False,Ferrari N.V.
+2015-08-09,0,False,Ferrari N.V.
+2015-08-16,0,False,Ferrari N.V.
+2015-08-23,0,False,Ferrari N.V.
+2015-08-30,0,False,Ferrari N.V.
+2015-09-06,0,False,Ferrari N.V.
+2015-09-13,0,False,Ferrari N.V.
+2015-09-20,0,False,Ferrari N.V.
+2015-09-27,0,False,Ferrari N.V.
+2015-10-04,0,False,Ferrari N.V.
+2015-10-11,0,False,Ferrari N.V.
+2015-10-18,100,False,Ferrari N.V.
+2015-10-25,100,False,Ferrari N.V.
+2015-11-01,0,False,Ferrari N.V.
+2015-11-08,40,False,Ferrari N.V.
+2015-11-15,20,False,Ferrari N.V.
+2015-11-22,40,False,Ferrari N.V.
+2015-11-29,59,False,Ferrari N.V.
+2015-12-06,0,False,Ferrari N.V.
+2015-12-13,21,False,Ferrari N.V.
+2015-12-20,0,False,Ferrari N.V.
+2015-12-27,0,False,Ferrari N.V.
+2016-01-03,21,False,Ferrari N.V.
+2016-01-10,0,False,Ferrari N.V.
+2016-01-17,21,False,Ferrari N.V.
+2016-01-24,21,False,Ferrari N.V.
+2016-01-31,63,False,Ferrari N.V.
+2016-02-07,0,False,Ferrari N.V.
+2016-02-14,0,False,Ferrari N.V.
+2016-02-21,0,False,Ferrari N.V.
+2016-02-28,20,False,Ferrari N.V.
+2016-03-06,0,False,Ferrari N.V.
+2016-03-13,0,False,Ferrari N.V.
+2016-03-20,0,False,Ferrari N.V.
+2016-03-27,0,False,Ferrari N.V.
+2016-04-03,0,False,Ferrari N.V.
+2016-04-10,0,False,Ferrari N.V.
+2016-04-17,20,False,Ferrari N.V.
+2016-04-24,0,False,Ferrari N.V.
+2016-05-01,21,False,Ferrari N.V.
+2016-05-08,0,False,Ferrari N.V.
+2016-05-15,21,False,Ferrari N.V.
+2016-05-22,21,False,Ferrari N.V.
+2016-05-29,21,False,Ferrari N.V.
+2016-06-05,0,False,Ferrari N.V.
+2016-06-12,0,False,Ferrari N.V.
+2016-06-19,0,False,Ferrari N.V.
+2016-06-26,0,False,Ferrari N.V.
+2016-07-03,0,False,Ferrari N.V.
+2016-07-10,22,False,Ferrari N.V.
+2016-07-17,22,False,Ferrari N.V.

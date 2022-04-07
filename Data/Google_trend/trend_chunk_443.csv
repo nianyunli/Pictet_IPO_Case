@@ -1,0 +1,261 @@
+date,SVI,isPartial,Issuer
+2006-12-24,34,False,Glu Mobile
+2006-12-31,37,False,Glu Mobile
+2007-01-07,39,False,Glu Mobile
+2007-01-14,32,False,Glu Mobile
+2007-01-21,37,False,Glu Mobile
+2007-01-28,37,False,Glu Mobile
+2007-02-04,25,False,Glu Mobile
+2007-02-11,25,False,Glu Mobile
+2007-02-18,25,False,Glu Mobile
+2007-02-25,48,False,Glu Mobile
+2007-03-04,30,False,Glu Mobile
+2007-03-11,36,False,Glu Mobile
+2007-03-18,100,False,Glu Mobile
+2007-03-25,64,False,Glu Mobile
+2007-04-01,13,False,Glu Mobile
+2007-04-08,54,False,Glu Mobile
+2007-04-15,35,False,Glu Mobile
+2007-04-22,29,False,Glu Mobile
+2007-04-29,53,False,Glu Mobile
+2007-05-06,53,False,Glu Mobile
+2007-05-13,16,False,Glu Mobile
+2007-05-20,64,False,Glu Mobile
+2007-05-27,32,False,Glu Mobile
+2007-06-03,16,False,Glu Mobile
+2007-06-10,42,False,Glu Mobile
+2007-06-17,49,False,Glu Mobile
+2007-06-24,42,False,Glu Mobile
+2007-07-01,32,False,Glu Mobile
+2007-07-08,33,False,Glu Mobile
+2007-07-15,33,False,Glu Mobile
+2007-07-22,27,False,Glu Mobile
+2007-07-29,70,False,Glu Mobile
+2007-08-05,38,False,Glu Mobile
+2007-08-12,44,False,Glu Mobile
+2007-08-19,52,False,Glu Mobile
+2007-08-26,25,False,Glu Mobile
+2007-09-02,45,False,Glu Mobile
+2007-09-09,29,False,Glu Mobile
+2007-09-16,57,False,Glu Mobile
+2007-09-23,33,False,Glu Mobile
+2007-09-30,65,False,Glu Mobile
+2007-10-07,24,False,Glu Mobile
+2007-10-14,32,False,Glu Mobile
+2007-10-21,22,False,Glu Mobile
+2007-10-28,64,False,Glu Mobile
+2007-11-04,35,False,Glu Mobile
+2007-11-11,63,False,Glu Mobile
+2007-11-18,40,False,Glu Mobile
+2007-11-25,25,False,Glu Mobile
+2007-12-02,51,False,Glu Mobile
+2007-12-09,52,False,Glu Mobile
+2007-12-16,18,False,Glu Mobile
+2006-12-24,0,False,CastlePoint Holdings
+2006-12-31,0,False,CastlePoint Holdings
+2007-01-07,55,False,CastlePoint Holdings
+2007-01-14,54,False,CastlePoint Holdings
+2007-01-21,0,False,CastlePoint Holdings
+2007-01-28,0,False,CastlePoint Holdings
+2007-02-04,0,False,CastlePoint Holdings
+2007-02-11,52,False,CastlePoint Holdings
+2007-02-18,0,False,CastlePoint Holdings
+2007-02-25,0,False,CastlePoint Holdings
+2007-03-04,0,False,CastlePoint Holdings
+2007-03-11,0,False,CastlePoint Holdings
+2007-03-18,100,False,CastlePoint Holdings
+2007-03-25,100,False,CastlePoint Holdings
+2007-04-01,0,False,CastlePoint Holdings
+2007-04-08,0,False,CastlePoint Holdings
+2007-04-15,0,False,CastlePoint Holdings
+2007-04-22,0,False,CastlePoint Holdings
+2007-04-29,50,False,CastlePoint Holdings
+2007-05-06,45,False,CastlePoint Holdings
+2007-05-13,0,False,CastlePoint Holdings
+2007-05-20,0,False,CastlePoint Holdings
+2007-05-27,0,False,CastlePoint Holdings
+2007-06-03,0,False,CastlePoint Holdings
+2007-06-10,0,False,CastlePoint Holdings
+2007-06-17,0,False,CastlePoint Holdings
+2007-06-24,0,False,CastlePoint Holdings
+2007-07-01,0,False,CastlePoint Holdings
+2007-07-08,92,False,CastlePoint Holdings
+2007-07-15,0,False,CastlePoint Holdings
+2007-07-22,0,False,CastlePoint Holdings
+2007-07-29,0,False,CastlePoint Holdings
+2007-08-05,0,False,CastlePoint Holdings
+2007-08-12,47,False,CastlePoint Holdings
+2007-08-19,0,False,CastlePoint Holdings
+2007-08-26,43,False,CastlePoint Holdings
+2007-09-02,0,False,CastlePoint Holdings
+2007-09-09,0,False,CastlePoint Holdings
+2007-09-16,0,False,CastlePoint Holdings
+2007-09-23,0,False,CastlePoint Holdings
+2007-09-30,40,False,CastlePoint Holdings
+2007-10-07,40,False,CastlePoint Holdings
+2007-10-14,0,False,CastlePoint Holdings
+2007-10-21,0,False,CastlePoint Holdings
+2007-10-28,0,False,CastlePoint Holdings
+2007-11-04,0,False,CastlePoint Holdings
+2007-11-11,0,False,CastlePoint Holdings
+2007-11-18,0,False,CastlePoint Holdings
+2007-11-25,0,False,CastlePoint Holdings
+2007-12-02,0,False,CastlePoint Holdings
+2007-12-09,0,False,CastlePoint Holdings
+2007-12-16,0,False,CastlePoint Holdings
+2006-12-31,8,False,Aruba Networks
+2007-01-07,12,False,Aruba Networks
+2007-01-14,9,False,Aruba Networks
+2007-01-21,16,False,Aruba Networks
+2007-01-28,23,False,Aruba Networks
+2007-02-04,11,False,Aruba Networks
+2007-02-11,20,False,Aruba Networks
+2007-02-18,14,False,Aruba Networks
+2007-02-25,13,False,Aruba Networks
+2007-03-04,17,False,Aruba Networks
+2007-03-11,35,False,Aruba Networks
+2007-03-18,17,False,Aruba Networks
+2007-03-25,100,False,Aruba Networks
+2007-04-01,23,False,Aruba Networks
+2007-04-08,15,False,Aruba Networks
+2007-04-15,25,False,Aruba Networks
+2007-04-22,25,False,Aruba Networks
+2007-04-29,26,False,Aruba Networks
+2007-05-06,14,False,Aruba Networks
+2007-05-13,20,False,Aruba Networks
+2007-05-20,31,False,Aruba Networks
+2007-05-27,16,False,Aruba Networks
+2007-06-03,27,False,Aruba Networks
+2007-06-10,17,False,Aruba Networks
+2007-06-17,12,False,Aruba Networks
+2007-06-24,17,False,Aruba Networks
+2007-07-01,20,False,Aruba Networks
+2007-07-08,20,False,Aruba Networks
+2007-07-15,28,False,Aruba Networks
+2007-07-22,14,False,Aruba Networks
+2007-07-29,25,False,Aruba Networks
+2007-08-05,12,False,Aruba Networks
+2007-08-12,22,False,Aruba Networks
+2007-08-19,25,False,Aruba Networks
+2007-08-26,33,False,Aruba Networks
+2007-09-02,22,False,Aruba Networks
+2007-09-09,17,False,Aruba Networks
+2007-09-16,17,False,Aruba Networks
+2007-09-23,15,False,Aruba Networks
+2007-09-30,20,False,Aruba Networks
+2007-10-07,14,False,Aruba Networks
+2007-10-14,20,False,Aruba Networks
+2007-10-21,23,False,Aruba Networks
+2007-10-28,32,False,Aruba Networks
+2007-11-04,19,False,Aruba Networks
+2007-11-11,19,False,Aruba Networks
+2007-11-18,15,False,Aruba Networks
+2007-11-25,17,False,Aruba Networks
+2007-12-02,12,False,Aruba Networks
+2007-12-09,9,False,Aruba Networks
+2007-12-16,10,False,Aruba Networks
+2007-12-23,4,False,Aruba Networks
+2006-12-31,0,False,eTelecare Global Solutions
+2007-01-07,0,False,eTelecare Global Solutions
+2007-01-14,0,False,eTelecare Global Solutions
+2007-01-21,0,False,eTelecare Global Solutions
+2007-01-28,38,False,eTelecare Global Solutions
+2007-02-04,0,False,eTelecare Global Solutions
+2007-02-11,0,False,eTelecare Global Solutions
+2007-02-18,0,False,eTelecare Global Solutions
+2007-02-25,0,False,eTelecare Global Solutions
+2007-03-04,0,False,eTelecare Global Solutions
+2007-03-11,0,False,eTelecare Global Solutions
+2007-03-18,0,False,eTelecare Global Solutions
+2007-03-25,72,False,eTelecare Global Solutions
+2007-04-01,38,False,eTelecare Global Solutions
+2007-04-08,0,False,eTelecare Global Solutions
+2007-04-15,0,False,eTelecare Global Solutions
+2007-04-22,0,False,eTelecare Global Solutions
+2007-04-29,72,False,eTelecare Global Solutions
+2007-05-06,0,False,eTelecare Global Solutions
+2007-05-13,33,False,eTelecare Global Solutions
+2007-05-20,33,False,eTelecare Global Solutions
+2007-05-27,0,False,eTelecare Global Solutions
+2007-06-03,32,False,eTelecare Global Solutions
+2007-06-10,0,False,eTelecare Global Solutions
+2007-06-17,0,False,eTelecare Global Solutions
+2007-06-24,32,False,eTelecare Global Solutions
+2007-07-01,0,False,eTelecare Global Solutions
+2007-07-08,66,False,eTelecare Global Solutions
+2007-07-15,0,False,eTelecare Global Solutions
+2007-07-22,100,False,eTelecare Global Solutions
+2007-07-29,33,False,eTelecare Global Solutions
+2007-08-05,0,False,eTelecare Global Solutions
+2007-08-12,34,False,eTelecare Global Solutions
+2007-08-19,32,False,eTelecare Global Solutions
+2007-08-26,62,False,eTelecare Global Solutions
+2007-09-02,91,False,eTelecare Global Solutions
+2007-09-09,0,False,eTelecare Global Solutions
+2007-09-16,58,False,eTelecare Global Solutions
+2007-09-23,29,False,eTelecare Global Solutions
+2007-09-30,57,False,eTelecare Global Solutions
+2007-10-07,57,False,eTelecare Global Solutions
+2007-10-14,56,False,eTelecare Global Solutions
+2007-10-21,0,False,eTelecare Global Solutions
+2007-10-28,56,False,eTelecare Global Solutions
+2007-11-04,27,False,eTelecare Global Solutions
+2007-11-11,0,False,eTelecare Global Solutions
+2007-11-18,27,False,eTelecare Global Solutions
+2007-11-25,26,False,eTelecare Global Solutions
+2007-12-02,52,False,eTelecare Global Solutions
+2007-12-09,0,False,eTelecare Global Solutions
+2007-12-16,0,False,eTelecare Global Solutions
+2007-12-23,68,False,eTelecare Global Solutions
+2006-12-31,32,False,SenoRx
+2007-01-07,28,False,SenoRx
+2007-01-14,0,False,SenoRx
+2007-01-21,0,False,SenoRx
+2007-01-28,13,False,SenoRx
+2007-02-04,26,False,SenoRx
+2007-02-11,13,False,SenoRx
+2007-02-18,27,False,SenoRx
+2007-02-25,0,False,SenoRx
+2007-03-04,13,False,SenoRx
+2007-03-11,13,False,SenoRx
+2007-03-18,25,False,SenoRx
+2007-03-25,100,False,SenoRx
+2007-04-01,0,False,SenoRx
+2007-04-08,0,False,SenoRx
+2007-04-15,0,False,SenoRx
+2007-04-22,25,False,SenoRx
+2007-04-29,25,False,SenoRx
+2007-05-06,11,False,SenoRx
+2007-05-13,23,False,SenoRx
+2007-05-20,23,False,SenoRx
+2007-05-27,23,False,SenoRx
+2007-06-03,11,False,SenoRx
+2007-06-10,11,False,SenoRx
+2007-06-17,0,False,SenoRx
+2007-06-24,34,False,SenoRx
+2007-07-01,11,False,SenoRx
+2007-07-08,23,False,SenoRx
+2007-07-15,12,False,SenoRx
+2007-07-22,23,False,SenoRx
+2007-07-29,0,False,SenoRx
+2007-08-05,12,False,SenoRx
+2007-08-12,12,False,SenoRx
+2007-08-19,11,False,SenoRx
+2007-08-26,32,False,SenoRx
+2007-09-02,21,False,SenoRx
+2007-09-09,31,False,SenoRx
+2007-09-16,20,False,SenoRx
+2007-09-23,20,False,SenoRx
+2007-09-30,50,False,SenoRx
+2007-10-07,30,False,SenoRx
+2007-10-14,39,False,SenoRx
+2007-10-21,10,False,SenoRx
+2007-10-28,10,False,SenoRx
+2007-11-04,19,False,SenoRx
+2007-11-11,8,False,SenoRx
+2007-11-18,0,False,SenoRx
+2007-11-25,18,False,SenoRx
+2007-12-02,0,False,SenoRx
+2007-12-09,18,False,SenoRx
+2007-12-16,20,False,SenoRx
+2007-12-23,12,False,SenoRx

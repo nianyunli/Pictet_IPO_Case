@@ -1,0 +1,209 @@
+date,SVI,isPartial,Issuer
+2015-03-22,51,False,Fogo de Chão
+2015-03-29,60,False,Fogo de Chão
+2015-04-05,100,False,Fogo de Chão
+2015-04-12,72,False,Fogo de Chão
+2015-04-19,79,False,Fogo de Chão
+2015-04-26,94,False,Fogo de Chão
+2015-05-03,77,False,Fogo de Chão
+2015-05-10,71,False,Fogo de Chão
+2015-05-17,72,False,Fogo de Chão
+2015-05-24,58,False,Fogo de Chão
+2015-05-31,77,False,Fogo de Chão
+2015-06-07,98,False,Fogo de Chão
+2015-06-14,59,False,Fogo de Chão
+2015-06-21,64,False,Fogo de Chão
+2015-06-28,67,False,Fogo de Chão
+2015-07-05,53,False,Fogo de Chão
+2015-07-12,66,False,Fogo de Chão
+2015-07-19,65,False,Fogo de Chão
+2015-07-26,57,False,Fogo de Chão
+2015-08-02,69,False,Fogo de Chão
+2015-08-09,67,False,Fogo de Chão
+2015-08-16,53,False,Fogo de Chão
+2015-08-23,46,False,Fogo de Chão
+2015-08-30,61,False,Fogo de Chão
+2015-09-06,44,False,Fogo de Chão
+2015-09-13,51,False,Fogo de Chão
+2015-09-20,49,False,Fogo de Chão
+2015-09-27,57,False,Fogo de Chão
+2015-10-04,46,False,Fogo de Chão
+2015-10-11,53,False,Fogo de Chão
+2015-10-18,49,False,Fogo de Chão
+2015-10-25,54,False,Fogo de Chão
+2015-11-01,61,False,Fogo de Chão
+2015-11-08,61,False,Fogo de Chão
+2015-11-15,66,False,Fogo de Chão
+2015-11-22,48,False,Fogo de Chão
+2015-11-29,69,False,Fogo de Chão
+2015-12-06,82,False,Fogo de Chão
+2015-12-13,69,False,Fogo de Chão
+2015-12-20,56,False,Fogo de Chão
+2015-12-27,58,False,Fogo de Chão
+2016-01-03,37,False,Fogo de Chão
+2016-01-10,39,False,Fogo de Chão
+2016-01-17,45,False,Fogo de Chão
+2016-01-24,47,False,Fogo de Chão
+2016-01-31,39,False,Fogo de Chão
+2016-02-07,46,False,Fogo de Chão
+2016-02-14,48,False,Fogo de Chão
+2016-02-21,57,False,Fogo de Chão
+2016-02-28,53,False,Fogo de Chão
+2016-03-06,46,False,Fogo de Chão
+2016-03-13,58,False,Fogo de Chão
+2015-03-22,82,False,MINDBODY
+2015-03-29,89,False,MINDBODY
+2015-04-05,83,False,MINDBODY
+2015-04-12,86,False,MINDBODY
+2015-04-19,85,False,MINDBODY
+2015-04-26,81,False,MINDBODY
+2015-05-03,79,False,MINDBODY
+2015-05-10,90,False,MINDBODY
+2015-05-17,81,False,MINDBODY
+2015-05-24,84,False,MINDBODY
+2015-05-31,85,False,MINDBODY
+2015-06-07,85,False,MINDBODY
+2015-06-14,99,False,MINDBODY
+2015-06-21,94,False,MINDBODY
+2015-06-28,87,False,MINDBODY
+2015-07-05,82,False,MINDBODY
+2015-07-12,87,False,MINDBODY
+2015-07-19,83,False,MINDBODY
+2015-07-26,83,False,MINDBODY
+2015-08-02,81,False,MINDBODY
+2015-08-09,84,False,MINDBODY
+2015-08-16,77,False,MINDBODY
+2015-08-23,87,False,MINDBODY
+2015-08-30,86,False,MINDBODY
+2015-09-06,78,False,MINDBODY
+2015-09-13,91,False,MINDBODY
+2015-09-20,81,False,MINDBODY
+2015-09-27,87,False,MINDBODY
+2015-10-04,78,False,MINDBODY
+2015-10-11,84,False,MINDBODY
+2015-10-18,88,False,MINDBODY
+2015-10-25,87,False,MINDBODY
+2015-11-01,100,False,MINDBODY
+2015-11-08,83,False,MINDBODY
+2015-11-15,86,False,MINDBODY
+2015-11-22,65,False,MINDBODY
+2015-11-29,92,False,MINDBODY
+2015-12-06,84,False,MINDBODY
+2015-12-13,90,False,MINDBODY
+2015-12-20,61,False,MINDBODY
+2015-12-27,84,False,MINDBODY
+2016-01-03,91,False,MINDBODY
+2016-01-10,95,False,MINDBODY
+2016-01-17,92,False,MINDBODY
+2016-01-24,76,False,MINDBODY
+2016-01-31,92,False,MINDBODY
+2016-02-07,84,False,MINDBODY
+2016-02-14,82,False,MINDBODY
+2016-02-21,98,False,MINDBODY
+2016-02-28,93,False,MINDBODY
+2016-03-06,91,False,MINDBODY
+2016-03-13,94,False,MINDBODY
+2015-03-29,12,False,Ritter Pharmaceuticals
+2015-04-05,23,False,Ritter Pharmaceuticals
+2015-04-12,11,False,Ritter Pharmaceuticals
+2015-04-19,11,False,Ritter Pharmaceuticals
+2015-04-26,11,False,Ritter Pharmaceuticals
+2015-05-03,0,False,Ritter Pharmaceuticals
+2015-05-10,45,False,Ritter Pharmaceuticals
+2015-05-17,0,False,Ritter Pharmaceuticals
+2015-05-24,0,False,Ritter Pharmaceuticals
+2015-05-31,11,False,Ritter Pharmaceuticals
+2015-06-07,33,False,Ritter Pharmaceuticals
+2015-06-14,66,False,Ritter Pharmaceuticals
+2015-06-21,100,False,Ritter Pharmaceuticals
+2015-06-28,34,False,Ritter Pharmaceuticals
+2015-07-05,11,False,Ritter Pharmaceuticals
+2015-07-12,23,False,Ritter Pharmaceuticals
+2015-07-19,46,False,Ritter Pharmaceuticals
+2015-07-26,11,False,Ritter Pharmaceuticals
+2015-08-02,11,False,Ritter Pharmaceuticals
+2015-08-09,22,False,Ritter Pharmaceuticals
+2015-08-16,0,False,Ritter Pharmaceuticals
+2015-08-23,33,False,Ritter Pharmaceuticals
+2015-08-30,0,False,Ritter Pharmaceuticals
+2015-09-06,11,False,Ritter Pharmaceuticals
+2015-09-13,21,False,Ritter Pharmaceuticals
+2015-09-20,11,False,Ritter Pharmaceuticals
+2015-09-27,0,False,Ritter Pharmaceuticals
+2015-10-04,31,False,Ritter Pharmaceuticals
+2015-10-11,41,False,Ritter Pharmaceuticals
+2015-10-18,21,False,Ritter Pharmaceuticals
+2015-10-25,10,False,Ritter Pharmaceuticals
+2015-11-01,0,False,Ritter Pharmaceuticals
+2015-11-08,0,False,Ritter Pharmaceuticals
+2015-11-15,10,False,Ritter Pharmaceuticals
+2015-11-22,21,False,Ritter Pharmaceuticals
+2015-11-29,10,False,Ritter Pharmaceuticals
+2015-12-06,21,False,Ritter Pharmaceuticals
+2015-12-13,0,False,Ritter Pharmaceuticals
+2015-12-20,0,False,Ritter Pharmaceuticals
+2015-12-27,12,False,Ritter Pharmaceuticals
+2016-01-03,11,False,Ritter Pharmaceuticals
+2016-01-10,0,False,Ritter Pharmaceuticals
+2016-01-17,0,False,Ritter Pharmaceuticals
+2016-01-24,0,False,Ritter Pharmaceuticals
+2016-01-31,0,False,Ritter Pharmaceuticals
+2016-02-07,11,False,Ritter Pharmaceuticals
+2016-02-14,11,False,Ritter Pharmaceuticals
+2016-02-21,11,False,Ritter Pharmaceuticals
+2016-02-28,0,False,Ritter Pharmaceuticals
+2016-03-06,11,False,Ritter Pharmaceuticals
+2016-03-13,21,False,Ritter Pharmaceuticals
+2016-03-20,22,False,Ritter Pharmaceuticals
+2015-03-29,0,False,Gener8 Maritime
+2015-04-05,0,False,Gener8 Maritime
+2015-04-12,0,False,Gener8 Maritime
+2015-04-19,12,False,Gener8 Maritime
+2015-04-26,0,False,Gener8 Maritime
+2015-05-03,37,False,Gener8 Maritime
+2015-05-10,12,False,Gener8 Maritime
+2015-05-17,0,False,Gener8 Maritime
+2015-05-24,37,False,Gener8 Maritime
+2015-05-31,62,False,Gener8 Maritime
+2015-06-07,49,False,Gener8 Maritime
+2015-06-14,61,False,Gener8 Maritime
+2015-06-21,98,False,Gener8 Maritime
+2015-06-28,100,False,Gener8 Maritime
+2015-07-05,12,False,Gener8 Maritime
+2015-07-12,50,False,Gener8 Maritime
+2015-07-19,13,False,Gener8 Maritime
+2015-07-26,13,False,Gener8 Maritime
+2015-08-02,25,False,Gener8 Maritime
+2015-08-09,12,False,Gener8 Maritime
+2015-08-16,0,False,Gener8 Maritime
+2015-08-23,12,False,Gener8 Maritime
+2015-08-30,0,False,Gener8 Maritime
+2015-09-06,58,False,Gener8 Maritime
+2015-09-13,34,False,Gener8 Maritime
+2015-09-20,24,False,Gener8 Maritime
+2015-09-27,23,False,Gener8 Maritime
+2015-10-04,11,False,Gener8 Maritime
+2015-10-11,11,False,Gener8 Maritime
+2015-10-18,34,False,Gener8 Maritime
+2015-10-25,11,False,Gener8 Maritime
+2015-11-01,11,False,Gener8 Maritime
+2015-11-08,23,False,Gener8 Maritime
+2015-11-15,22,False,Gener8 Maritime
+2015-11-22,11,False,Gener8 Maritime
+2015-11-29,0,False,Gener8 Maritime
+2015-12-06,23,False,Gener8 Maritime
+2015-12-13,12,False,Gener8 Maritime
+2015-12-20,0,False,Gener8 Maritime
+2015-12-27,0,False,Gener8 Maritime
+2016-01-03,24,False,Gener8 Maritime
+2016-01-10,0,False,Gener8 Maritime
+2016-01-17,12,False,Gener8 Maritime
+2016-01-24,24,False,Gener8 Maritime
+2016-01-31,0,False,Gener8 Maritime
+2016-02-07,0,False,Gener8 Maritime
+2016-02-14,12,False,Gener8 Maritime
+2016-02-21,24,False,Gener8 Maritime
+2016-02-28,23,False,Gener8 Maritime
+2016-03-06,12,False,Gener8 Maritime
+2016-03-13,47,False,Gener8 Maritime
+2016-03-20,0,False,Gener8 Maritime

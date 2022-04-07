@@ -1,0 +1,262 @@
+date,SVI,isPartial,Issuer
+2009-12-27,2,False,MaxLinear
+2010-01-03,6,False,MaxLinear
+2010-01-10,10,False,MaxLinear
+2010-01-17,5,False,MaxLinear
+2010-01-24,5,False,MaxLinear
+2010-01-31,2,False,MaxLinear
+2010-02-07,4,False,MaxLinear
+2010-02-14,9,False,MaxLinear
+2010-02-21,8,False,MaxLinear
+2010-02-28,6,False,MaxLinear
+2010-03-07,23,False,MaxLinear
+2010-03-14,8,False,MaxLinear
+2010-03-21,100,False,MaxLinear
+2010-03-28,18,False,MaxLinear
+2010-04-04,16,False,MaxLinear
+2010-04-11,11,False,MaxLinear
+2010-04-18,14,False,MaxLinear
+2010-04-25,5,False,MaxLinear
+2010-05-02,12,False,MaxLinear
+2010-05-09,9,False,MaxLinear
+2010-05-16,7,False,MaxLinear
+2010-05-23,8,False,MaxLinear
+2010-05-30,4,False,MaxLinear
+2010-06-06,12,False,MaxLinear
+2010-06-13,9,False,MaxLinear
+2010-06-20,7,False,MaxLinear
+2010-06-27,5,False,MaxLinear
+2010-07-04,8,False,MaxLinear
+2010-07-11,6,False,MaxLinear
+2010-07-18,12,False,MaxLinear
+2010-07-25,7,False,MaxLinear
+2010-08-01,4,False,MaxLinear
+2010-08-08,11,False,MaxLinear
+2010-08-15,5,False,MaxLinear
+2010-08-22,5,False,MaxLinear
+2010-08-29,4,False,MaxLinear
+2010-09-05,9,False,MaxLinear
+2010-09-12,4,False,MaxLinear
+2010-09-19,4,False,MaxLinear
+2010-09-26,3,False,MaxLinear
+2010-10-03,4,False,MaxLinear
+2010-10-10,6,False,MaxLinear
+2010-10-17,5,False,MaxLinear
+2010-10-24,6,False,MaxLinear
+2010-10-31,6,False,MaxLinear
+2010-11-07,6,False,MaxLinear
+2010-11-14,2,False,MaxLinear
+2010-11-21,3,False,MaxLinear
+2010-11-28,7,False,MaxLinear
+2010-12-05,4,False,MaxLinear
+2010-12-12,11,False,MaxLinear
+2010-12-19,2,False,MaxLinear
+2009-12-27,0,False,China Lodging Group
+2010-01-03,0,False,China Lodging Group
+2010-01-10,0,False,China Lodging Group
+2010-01-17,0,False,China Lodging Group
+2010-01-24,0,False,China Lodging Group
+2010-01-31,0,False,China Lodging Group
+2010-02-07,0,False,China Lodging Group
+2010-02-14,0,False,China Lodging Group
+2010-02-21,16,False,China Lodging Group
+2010-02-28,16,False,China Lodging Group
+2010-03-07,32,False,China Lodging Group
+2010-03-14,47,False,China Lodging Group
+2010-03-21,64,False,China Lodging Group
+2010-03-28,100,False,China Lodging Group
+2010-04-04,49,False,China Lodging Group
+2010-04-11,48,False,China Lodging Group
+2010-04-18,16,False,China Lodging Group
+2010-04-25,16,False,China Lodging Group
+2010-05-02,16,False,China Lodging Group
+2010-05-09,0,False,China Lodging Group
+2010-05-16,0,False,China Lodging Group
+2010-05-23,0,False,China Lodging Group
+2010-05-30,0,False,China Lodging Group
+2010-06-06,0,False,China Lodging Group
+2010-06-13,16,False,China Lodging Group
+2010-06-20,0,False,China Lodging Group
+2010-06-27,0,False,China Lodging Group
+2010-07-04,0,False,China Lodging Group
+2010-07-11,0,False,China Lodging Group
+2010-07-18,0,False,China Lodging Group
+2010-07-25,30,False,China Lodging Group
+2010-08-01,0,False,China Lodging Group
+2010-08-08,0,False,China Lodging Group
+2010-08-15,0,False,China Lodging Group
+2010-08-22,0,False,China Lodging Group
+2010-08-29,0,False,China Lodging Group
+2010-09-05,0,False,China Lodging Group
+2010-09-12,0,False,China Lodging Group
+2010-09-19,0,False,China Lodging Group
+2010-09-26,0,False,China Lodging Group
+2010-10-03,14,False,China Lodging Group
+2010-10-10,0,False,China Lodging Group
+2010-10-17,13,False,China Lodging Group
+2010-10-24,0,False,China Lodging Group
+2010-10-31,0,False,China Lodging Group
+2010-11-07,26,False,China Lodging Group
+2010-11-14,0,False,China Lodging Group
+2010-11-21,13,False,China Lodging Group
+2010-11-28,13,False,China Lodging Group
+2010-12-05,13,False,China Lodging Group
+2010-12-12,0,False,China Lodging Group
+2010-12-19,0,False,China Lodging Group
+2010-12-26,0,False,China Lodging Group
+2010-01-03,33,False,Scorpio Tankers
+2010-01-10,0,False,Scorpio Tankers
+2010-01-17,0,False,Scorpio Tankers
+2010-01-24,0,False,Scorpio Tankers
+2010-01-31,0,False,Scorpio Tankers
+2010-02-07,0,False,Scorpio Tankers
+2010-02-14,65,False,Scorpio Tankers
+2010-02-21,93,False,Scorpio Tankers
+2010-02-28,31,False,Scorpio Tankers
+2010-03-07,32,False,Scorpio Tankers
+2010-03-14,63,False,Scorpio Tankers
+2010-03-21,0,False,Scorpio Tankers
+2010-03-28,100,False,Scorpio Tankers
+2010-04-04,65,False,Scorpio Tankers
+2010-04-11,0,False,Scorpio Tankers
+2010-04-18,31,False,Scorpio Tankers
+2010-04-25,0,False,Scorpio Tankers
+2010-05-02,0,False,Scorpio Tankers
+2010-05-09,65,False,Scorpio Tankers
+2010-05-16,0,False,Scorpio Tankers
+2010-05-23,0,False,Scorpio Tankers
+2010-05-30,0,False,Scorpio Tankers
+2010-06-06,0,False,Scorpio Tankers
+2010-06-13,0,False,Scorpio Tankers
+2010-06-20,0,False,Scorpio Tankers
+2010-06-27,0,False,Scorpio Tankers
+2010-07-04,32,False,Scorpio Tankers
+2010-07-11,0,False,Scorpio Tankers
+2010-07-18,0,False,Scorpio Tankers
+2010-07-25,0,False,Scorpio Tankers
+2010-08-01,31,False,Scorpio Tankers
+2010-08-08,61,False,Scorpio Tankers
+2010-08-15,60,False,Scorpio Tankers
+2010-08-22,89,False,Scorpio Tankers
+2010-08-29,28,False,Scorpio Tankers
+2010-09-05,29,False,Scorpio Tankers
+2010-09-12,0,False,Scorpio Tankers
+2010-09-19,83,False,Scorpio Tankers
+2010-09-26,54,False,Scorpio Tankers
+2010-10-03,0,False,Scorpio Tankers
+2010-10-10,0,False,Scorpio Tankers
+2010-10-17,54,False,Scorpio Tankers
+2010-10-24,0,False,Scorpio Tankers
+2010-10-31,27,False,Scorpio Tankers
+2010-11-07,26,False,Scorpio Tankers
+2010-11-14,27,False,Scorpio Tankers
+2010-11-21,53,False,Scorpio Tankers
+2010-11-28,25,False,Scorpio Tankers
+2010-12-05,26,False,Scorpio Tankers
+2010-12-12,0,False,Scorpio Tankers
+2010-12-19,29,False,Scorpio Tankers
+2010-12-26,60,False,Scorpio Tankers
+2010-01-03,0,False,SS&C Technologies Holdings
+2010-01-10,0,False,SS&C Technologies Holdings
+2010-01-17,0,False,SS&C Technologies Holdings
+2010-01-24,0,False,SS&C Technologies Holdings
+2010-01-31,0,False,SS&C Technologies Holdings
+2010-02-07,0,False,SS&C Technologies Holdings
+2010-02-14,0,False,SS&C Technologies Holdings
+2010-02-21,0,False,SS&C Technologies Holdings
+2010-02-28,0,False,SS&C Technologies Holdings
+2010-03-07,0,False,SS&C Technologies Holdings
+2010-03-14,31,False,SS&C Technologies Holdings
+2010-03-21,0,False,SS&C Technologies Holdings
+2010-03-28,100,False,SS&C Technologies Holdings
+2010-04-04,33,False,SS&C Technologies Holdings
+2010-04-11,0,False,SS&C Technologies Holdings
+2010-04-18,31,False,SS&C Technologies Holdings
+2010-04-25,0,False,SS&C Technologies Holdings
+2010-05-02,0,False,SS&C Technologies Holdings
+2010-05-09,0,False,SS&C Technologies Holdings
+2010-05-16,0,False,SS&C Technologies Holdings
+2010-05-23,0,False,SS&C Technologies Holdings
+2010-05-30,0,False,SS&C Technologies Holdings
+2010-06-06,0,False,SS&C Technologies Holdings
+2010-06-13,0,False,SS&C Technologies Holdings
+2010-06-20,0,False,SS&C Technologies Holdings
+2010-06-27,32,False,SS&C Technologies Holdings
+2010-07-04,0,False,SS&C Technologies Holdings
+2010-07-11,0,False,SS&C Technologies Holdings
+2010-07-18,31,False,SS&C Technologies Holdings
+2010-07-25,31,False,SS&C Technologies Holdings
+2010-08-01,0,False,SS&C Technologies Holdings
+2010-08-08,0,False,SS&C Technologies Holdings
+2010-08-15,0,False,SS&C Technologies Holdings
+2010-08-22,0,False,SS&C Technologies Holdings
+2010-08-29,0,False,SS&C Technologies Holdings
+2010-09-05,0,False,SS&C Technologies Holdings
+2010-09-12,0,False,SS&C Technologies Holdings
+2010-09-19,0,False,SS&C Technologies Holdings
+2010-09-26,0,False,SS&C Technologies Holdings
+2010-10-03,0,False,SS&C Technologies Holdings
+2010-10-10,0,False,SS&C Technologies Holdings
+2010-10-17,0,False,SS&C Technologies Holdings
+2010-10-24,0,False,SS&C Technologies Holdings
+2010-10-31,27,False,SS&C Technologies Holdings
+2010-11-07,0,False,SS&C Technologies Holdings
+2010-11-14,0,False,SS&C Technologies Holdings
+2010-11-21,0,False,SS&C Technologies Holdings
+2010-11-28,0,False,SS&C Technologies Holdings
+2010-12-05,26,False,SS&C Technologies Holdings
+2010-12-12,0,False,SS&C Technologies Holdings
+2010-12-19,0,False,SS&C Technologies Holdings
+2010-12-26,0,False,SS&C Technologies Holdings
+2010-01-03,20,False,Meru Networks
+2010-01-10,19,False,Meru Networks
+2010-01-17,19,False,Meru Networks
+2010-01-24,8,False,Meru Networks
+2010-01-31,8,False,Meru Networks
+2010-02-07,10,False,Meru Networks
+2010-02-14,20,False,Meru Networks
+2010-02-21,9,False,Meru Networks
+2010-02-28,15,False,Meru Networks
+2010-03-07,11,False,Meru Networks
+2010-03-14,34,False,Meru Networks
+2010-03-21,44,False,Meru Networks
+2010-03-28,100,False,Meru Networks
+2010-04-04,23,False,Meru Networks
+2010-04-11,8,False,Meru Networks
+2010-04-18,23,False,Meru Networks
+2010-04-25,19,False,Meru Networks
+2010-05-02,19,False,Meru Networks
+2010-05-09,23,False,Meru Networks
+2010-05-16,17,False,Meru Networks
+2010-05-23,20,False,Meru Networks
+2010-05-30,4,False,Meru Networks
+2010-06-06,8,False,Meru Networks
+2010-06-13,4,False,Meru Networks
+2010-06-20,17,False,Meru Networks
+2010-06-27,18,False,Meru Networks
+2010-07-04,6,False,Meru Networks
+2010-07-11,9,False,Meru Networks
+2010-07-18,15,False,Meru Networks
+2010-07-25,15,False,Meru Networks
+2010-08-01,19,False,Meru Networks
+2010-08-08,11,False,Meru Networks
+2010-08-15,9,False,Meru Networks
+2010-08-22,16,False,Meru Networks
+2010-08-29,17,False,Meru Networks
+2010-09-05,16,False,Meru Networks
+2010-09-12,24,False,Meru Networks
+2010-09-19,15,False,Meru Networks
+2010-09-26,18,False,Meru Networks
+2010-10-03,15,False,Meru Networks
+2010-10-10,15,False,Meru Networks
+2010-10-17,18,False,Meru Networks
+2010-10-24,10,False,Meru Networks
+2010-10-31,21,False,Meru Networks
+2010-11-07,30,False,Meru Networks
+2010-11-14,19,False,Meru Networks
+2010-11-21,16,False,Meru Networks
+2010-11-28,9,False,Meru Networks
+2010-12-05,14,False,Meru Networks
+2010-12-12,25,False,Meru Networks
+2010-12-19,11,False,Meru Networks
+2010-12-26,4,False,Meru Networks

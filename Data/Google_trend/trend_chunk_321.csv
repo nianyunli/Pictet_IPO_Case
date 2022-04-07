@@ -1,0 +1,261 @@
+date,SVI,isPartial,Issuer
+2013-08-18,4,False,Relypsa
+2013-08-25,4,False,Relypsa
+2013-09-01,8,False,Relypsa
+2013-09-08,20,False,Relypsa
+2013-09-15,12,False,Relypsa
+2013-09-22,20,False,Relypsa
+2013-09-29,20,False,Relypsa
+2013-10-06,43,False,Relypsa
+2013-10-13,32,False,Relypsa
+2013-10-20,19,False,Relypsa
+2013-10-27,23,False,Relypsa
+2013-11-03,50,False,Relypsa
+2013-11-10,100,False,Relypsa
+2013-11-17,49,False,Relypsa
+2013-11-24,23,False,Relypsa
+2013-12-01,34,False,Relypsa
+2013-12-08,39,False,Relypsa
+2013-12-15,28,False,Relypsa
+2013-12-22,9,False,Relypsa
+2013-12-29,4,False,Relypsa
+2014-01-05,19,False,Relypsa
+2014-01-12,11,False,Relypsa
+2014-01-19,18,False,Relypsa
+2014-01-26,11,False,Relypsa
+2014-02-02,19,False,Relypsa
+2014-02-09,25,False,Relypsa
+2014-02-16,18,False,Relypsa
+2014-02-23,4,False,Relypsa
+2014-03-02,4,False,Relypsa
+2014-03-09,7,False,Relypsa
+2014-03-16,14,False,Relypsa
+2014-03-23,25,False,Relypsa
+2014-03-30,18,False,Relypsa
+2014-04-06,18,False,Relypsa
+2014-04-13,23,False,Relypsa
+2014-04-20,33,False,Relypsa
+2014-04-27,19,False,Relypsa
+2014-05-04,33,False,Relypsa
+2014-05-11,18,False,Relypsa
+2014-05-18,11,False,Relypsa
+2014-05-25,16,False,Relypsa
+2014-06-01,20,False,Relypsa
+2014-06-08,24,False,Relypsa
+2014-06-15,12,False,Relypsa
+2014-06-22,29,False,Relypsa
+2014-06-29,8,False,Relypsa
+2014-07-06,16,False,Relypsa
+2014-07-13,4,False,Relypsa
+2014-07-20,12,False,Relypsa
+2014-07-27,21,False,Relypsa
+2014-08-03,26,False,Relypsa
+2014-08-10,33,False,Relypsa
+2013-08-18,52,False,zulily
+2013-08-25,52,False,zulily
+2013-09-01,54,False,zulily
+2013-09-08,53,False,zulily
+2013-09-15,61,False,zulily
+2013-09-22,53,False,zulily
+2013-09-29,54,False,zulily
+2013-10-06,62,False,zulily
+2013-10-13,57,False,zulily
+2013-10-20,60,False,zulily
+2013-10-27,59,False,zulily
+2013-11-03,70,False,zulily
+2013-11-10,79,False,zulily
+2013-11-17,72,False,zulily
+2013-11-24,66,False,zulily
+2013-12-01,68,False,zulily
+2013-12-08,69,False,zulily
+2013-12-15,55,False,zulily
+2013-12-22,41,False,zulily
+2013-12-29,49,False,zulily
+2014-01-05,51,False,zulily
+2014-01-12,54,False,zulily
+2014-01-19,54,False,zulily
+2014-01-26,57,False,zulily
+2014-02-02,61,False,zulily
+2014-02-09,60,False,zulily
+2014-02-16,100,False,zulily
+2014-02-23,73,False,zulily
+2014-03-02,74,False,zulily
+2014-03-09,77,False,zulily
+2014-03-16,72,False,zulily
+2014-03-23,66,False,zulily
+2014-03-30,66,False,zulily
+2014-04-06,68,False,zulily
+2014-04-13,67,False,zulily
+2014-04-20,64,False,zulily
+2014-04-27,74,False,zulily
+2014-05-04,68,False,zulily
+2014-05-11,63,False,zulily
+2014-05-18,64,False,zulily
+2014-05-25,61,False,zulily
+2014-06-01,60,False,zulily
+2014-06-08,58,False,zulily
+2014-06-15,59,False,zulily
+2014-06-22,60,False,zulily
+2014-06-29,55,False,zulily
+2014-07-06,64,False,zulily
+2014-07-13,61,False,zulily
+2014-07-20,65,False,zulily
+2014-07-27,63,False,zulily
+2014-08-03,65,False,zulily
+2014-08-10,62,False,zulily
+2013-08-25,0,False,Navigator Holdings Ltd
+2013-09-01,0,False,Navigator Holdings Ltd
+2013-09-08,49,False,Navigator Holdings Ltd
+2013-09-15,0,False,Navigator Holdings Ltd
+2013-09-22,0,False,Navigator Holdings Ltd
+2013-09-29,49,False,Navigator Holdings Ltd
+2013-10-06,0,False,Navigator Holdings Ltd
+2013-10-13,0,False,Navigator Holdings Ltd
+2013-10-20,49,False,Navigator Holdings Ltd
+2013-10-27,0,False,Navigator Holdings Ltd
+2013-11-03,0,False,Navigator Holdings Ltd
+2013-11-10,0,False,Navigator Holdings Ltd
+2013-11-17,0,False,Navigator Holdings Ltd
+2013-11-24,48,False,Navigator Holdings Ltd
+2013-12-01,0,False,Navigator Holdings Ltd
+2013-12-08,0,False,Navigator Holdings Ltd
+2013-12-15,0,False,Navigator Holdings Ltd
+2013-12-22,55,False,Navigator Holdings Ltd
+2013-12-29,0,False,Navigator Holdings Ltd
+2014-01-05,0,False,Navigator Holdings Ltd
+2014-01-12,0,False,Navigator Holdings Ltd
+2014-01-19,45,False,Navigator Holdings Ltd
+2014-01-26,0,False,Navigator Holdings Ltd
+2014-02-02,0,False,Navigator Holdings Ltd
+2014-02-09,0,False,Navigator Holdings Ltd
+2014-02-16,0,False,Navigator Holdings Ltd
+2014-02-23,0,False,Navigator Holdings Ltd
+2014-03-02,0,False,Navigator Holdings Ltd
+2014-03-09,0,False,Navigator Holdings Ltd
+2014-03-16,45,False,Navigator Holdings Ltd
+2014-03-23,44,False,Navigator Holdings Ltd
+2014-03-30,45,False,Navigator Holdings Ltd
+2014-04-06,0,False,Navigator Holdings Ltd
+2014-04-13,0,False,Navigator Holdings Ltd
+2014-04-20,0,False,Navigator Holdings Ltd
+2014-04-27,0,False,Navigator Holdings Ltd
+2014-05-04,0,False,Navigator Holdings Ltd
+2014-05-11,45,False,Navigator Holdings Ltd
+2014-05-18,0,False,Navigator Holdings Ltd
+2014-05-25,0,False,Navigator Holdings Ltd
+2014-06-01,0,False,Navigator Holdings Ltd
+2014-06-08,0,False,Navigator Holdings Ltd
+2014-06-15,0,False,Navigator Holdings Ltd
+2014-06-22,0,False,Navigator Holdings Ltd
+2014-06-29,0,False,Navigator Holdings Ltd
+2014-07-06,0,False,Navigator Holdings Ltd
+2014-07-13,0,False,Navigator Holdings Ltd
+2014-07-20,0,False,Navigator Holdings Ltd
+2014-07-27,0,False,Navigator Holdings Ltd
+2014-08-03,0,False,Navigator Holdings Ltd
+2014-08-10,0,False,Navigator Holdings Ltd
+2014-08-17,100,False,Navigator Holdings Ltd
+2013-08-25,0,False,500.com Ltd
+2013-09-01,0,False,500.com Ltd
+2013-09-08,0,False,500.com Ltd
+2013-09-15,0,False,500.com Ltd
+2013-09-22,0,False,500.com Ltd
+2013-09-29,0,False,500.com Ltd
+2013-10-06,0,False,500.com Ltd
+2013-10-13,0,False,500.com Ltd
+2013-10-20,0,False,500.com Ltd
+2013-10-27,0,False,500.com Ltd
+2013-11-03,20,False,500.com Ltd
+2013-11-10,41,False,500.com Ltd
+2013-11-17,100,False,500.com Ltd
+2013-11-24,0,False,500.com Ltd
+2013-12-01,20,False,500.com Ltd
+2013-12-08,21,False,500.com Ltd
+2013-12-15,0,False,500.com Ltd
+2013-12-22,0,False,500.com Ltd
+2013-12-29,0,False,500.com Ltd
+2014-01-05,20,False,500.com Ltd
+2014-01-12,0,False,500.com Ltd
+2014-01-19,0,False,500.com Ltd
+2014-01-26,0,False,500.com Ltd
+2014-02-02,20,False,500.com Ltd
+2014-02-09,0,False,500.com Ltd
+2014-02-16,0,False,500.com Ltd
+2014-02-23,19,False,500.com Ltd
+2014-03-02,0,False,500.com Ltd
+2014-03-09,0,False,500.com Ltd
+2014-03-16,0,False,500.com Ltd
+2014-03-23,0,False,500.com Ltd
+2014-03-30,0,False,500.com Ltd
+2014-04-06,0,False,500.com Ltd
+2014-04-13,0,False,500.com Ltd
+2014-04-20,0,False,500.com Ltd
+2014-04-27,0,False,500.com Ltd
+2014-05-04,0,False,500.com Ltd
+2014-05-11,0,False,500.com Ltd
+2014-05-18,0,False,500.com Ltd
+2014-05-25,22,False,500.com Ltd
+2014-06-01,0,False,500.com Ltd
+2014-06-08,22,False,500.com Ltd
+2014-06-15,0,False,500.com Ltd
+2014-06-22,0,False,500.com Ltd
+2014-06-29,22,False,500.com Ltd
+2014-07-06,0,False,500.com Ltd
+2014-07-13,22,False,500.com Ltd
+2014-07-20,0,False,500.com Ltd
+2014-07-27,0,False,500.com Ltd
+2014-08-03,0,False,500.com Ltd
+2014-08-10,0,False,500.com Ltd
+2014-08-17,0,False,500.com Ltd
+2013-08-25,0,False,Oxford Immunotec Global PLC
+2013-09-01,0,False,Oxford Immunotec Global PLC
+2013-09-08,0,False,Oxford Immunotec Global PLC
+2013-09-15,0,False,Oxford Immunotec Global PLC
+2013-09-22,0,False,Oxford Immunotec Global PLC
+2013-09-29,0,False,Oxford Immunotec Global PLC
+2013-10-06,0,False,Oxford Immunotec Global PLC
+2013-10-13,0,False,Oxford Immunotec Global PLC
+2013-10-20,34,False,Oxford Immunotec Global PLC
+2013-10-27,0,False,Oxford Immunotec Global PLC
+2013-11-03,0,False,Oxford Immunotec Global PLC
+2013-11-10,0,False,Oxford Immunotec Global PLC
+2013-11-17,100,False,Oxford Immunotec Global PLC
+2013-11-24,0,False,Oxford Immunotec Global PLC
+2013-12-01,33,False,Oxford Immunotec Global PLC
+2013-12-08,0,False,Oxford Immunotec Global PLC
+2013-12-15,0,False,Oxford Immunotec Global PLC
+2013-12-22,0,False,Oxford Immunotec Global PLC
+2013-12-29,0,False,Oxford Immunotec Global PLC
+2014-01-05,0,False,Oxford Immunotec Global PLC
+2014-01-12,0,False,Oxford Immunotec Global PLC
+2014-01-19,0,False,Oxford Immunotec Global PLC
+2014-01-26,0,False,Oxford Immunotec Global PLC
+2014-02-02,0,False,Oxford Immunotec Global PLC
+2014-02-09,0,False,Oxford Immunotec Global PLC
+2014-02-16,0,False,Oxford Immunotec Global PLC
+2014-02-23,0,False,Oxford Immunotec Global PLC
+2014-03-02,0,False,Oxford Immunotec Global PLC
+2014-03-09,0,False,Oxford Immunotec Global PLC
+2014-03-16,0,False,Oxford Immunotec Global PLC
+2014-03-23,0,False,Oxford Immunotec Global PLC
+2014-03-30,0,False,Oxford Immunotec Global PLC
+2014-04-06,0,False,Oxford Immunotec Global PLC
+2014-04-13,0,False,Oxford Immunotec Global PLC
+2014-04-20,0,False,Oxford Immunotec Global PLC
+2014-04-27,0,False,Oxford Immunotec Global PLC
+2014-05-04,0,False,Oxford Immunotec Global PLC
+2014-05-11,0,False,Oxford Immunotec Global PLC
+2014-05-18,0,False,Oxford Immunotec Global PLC
+2014-05-25,0,False,Oxford Immunotec Global PLC
+2014-06-01,0,False,Oxford Immunotec Global PLC
+2014-06-08,0,False,Oxford Immunotec Global PLC
+2014-06-15,0,False,Oxford Immunotec Global PLC
+2014-06-22,0,False,Oxford Immunotec Global PLC
+2014-06-29,0,False,Oxford Immunotec Global PLC
+2014-07-06,0,False,Oxford Immunotec Global PLC
+2014-07-13,0,False,Oxford Immunotec Global PLC
+2014-07-20,0,False,Oxford Immunotec Global PLC
+2014-07-27,0,False,Oxford Immunotec Global PLC
+2014-08-03,0,False,Oxford Immunotec Global PLC
+2014-08-10,0,False,Oxford Immunotec Global PLC
+2014-08-17,0,False,Oxford Immunotec Global PLC

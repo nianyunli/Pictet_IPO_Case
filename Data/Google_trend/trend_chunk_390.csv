@@ -1,0 +1,263 @@
+date,SVI,isPartial,Issuer
+2010-01-24,19,False,Excel Trust
+2010-01-31,64,False,Excel Trust
+2010-02-07,26,False,Excel Trust
+2010-02-14,39,False,Excel Trust
+2010-02-21,25,False,Excel Trust
+2010-02-28,44,False,Excel Trust
+2010-03-07,25,False,Excel Trust
+2010-03-14,31,False,Excel Trust
+2010-03-21,57,False,Excel Trust
+2010-03-28,27,False,Excel Trust
+2010-04-04,39,False,Excel Trust
+2010-04-11,76,False,Excel Trust
+2010-04-18,100,False,Excel Trust
+2010-04-25,71,False,Excel Trust
+2010-05-02,39,False,Excel Trust
+2010-05-09,65,False,Excel Trust
+2010-05-16,64,False,Excel Trust
+2010-05-23,33,False,Excel Trust
+2010-05-30,53,False,Excel Trust
+2010-06-06,64,False,Excel Trust
+2010-06-13,39,False,Excel Trust
+2010-06-20,52,False,Excel Trust
+2010-06-27,45,False,Excel Trust
+2010-07-04,69,False,Excel Trust
+2010-07-11,55,False,Excel Trust
+2010-07-18,67,False,Excel Trust
+2010-07-25,73,False,Excel Trust
+2010-08-01,31,False,Excel Trust
+2010-08-08,55,False,Excel Trust
+2010-08-15,48,False,Excel Trust
+2010-08-22,24,False,Excel Trust
+2010-08-29,34,False,Excel Trust
+2010-09-05,47,False,Excel Trust
+2010-09-12,34,False,Excel Trust
+2010-09-19,61,False,Excel Trust
+2010-09-26,54,False,Excel Trust
+2010-10-03,60,False,Excel Trust
+2010-10-10,28,False,Excel Trust
+2010-10-17,27,False,Excel Trust
+2010-10-24,32,False,Excel Trust
+2010-10-31,27,False,Excel Trust
+2010-11-07,68,False,Excel Trust
+2010-11-14,37,False,Excel Trust
+2010-11-21,16,False,Excel Trust
+2010-11-28,25,False,Excel Trust
+2010-12-05,46,False,Excel Trust
+2010-12-12,26,False,Excel Trust
+2010-12-19,23,False,Excel Trust
+2010-12-26,24,False,Excel Trust
+2011-01-02,36,False,Excel Trust
+2011-01-09,59,False,Excel Trust
+2011-01-16,24,False,Excel Trust
+2011-01-23,58,False,Excel Trust
+2010-01-31,0,False,Alpha and Omega Semiconductor
+2010-02-07,9,False,Alpha and Omega Semiconductor
+2010-02-14,9,False,Alpha and Omega Semiconductor
+2010-02-21,8,False,Alpha and Omega Semiconductor
+2010-02-28,0,False,Alpha and Omega Semiconductor
+2010-03-07,0,False,Alpha and Omega Semiconductor
+2010-03-14,8,False,Alpha and Omega Semiconductor
+2010-03-21,0,False,Alpha and Omega Semiconductor
+2010-03-28,9,False,Alpha and Omega Semiconductor
+2010-04-04,9,False,Alpha and Omega Semiconductor
+2010-04-11,42,False,Alpha and Omega Semiconductor
+2010-04-18,100,False,Alpha and Omega Semiconductor
+2010-04-25,34,False,Alpha and Omega Semiconductor
+2010-05-02,9,False,Alpha and Omega Semiconductor
+2010-05-09,9,False,Alpha and Omega Semiconductor
+2010-05-16,9,False,Alpha and Omega Semiconductor
+2010-05-23,18,False,Alpha and Omega Semiconductor
+2010-05-30,0,False,Alpha and Omega Semiconductor
+2010-06-06,0,False,Alpha and Omega Semiconductor
+2010-06-13,17,False,Alpha and Omega Semiconductor
+2010-06-20,0,False,Alpha and Omega Semiconductor
+2010-06-27,0,False,Alpha and Omega Semiconductor
+2010-07-04,8,False,Alpha and Omega Semiconductor
+2010-07-11,0,False,Alpha and Omega Semiconductor
+2010-07-18,16,False,Alpha and Omega Semiconductor
+2010-07-25,0,False,Alpha and Omega Semiconductor
+2010-08-01,8,False,Alpha and Omega Semiconductor
+2010-08-08,8,False,Alpha and Omega Semiconductor
+2010-08-15,0,False,Alpha and Omega Semiconductor
+2010-08-22,8,False,Alpha and Omega Semiconductor
+2010-08-29,0,False,Alpha and Omega Semiconductor
+2010-09-05,8,False,Alpha and Omega Semiconductor
+2010-09-12,15,False,Alpha and Omega Semiconductor
+2010-09-19,0,False,Alpha and Omega Semiconductor
+2010-09-26,22,False,Alpha and Omega Semiconductor
+2010-10-03,0,False,Alpha and Omega Semiconductor
+2010-10-10,7,False,Alpha and Omega Semiconductor
+2010-10-17,7,False,Alpha and Omega Semiconductor
+2010-10-24,0,False,Alpha and Omega Semiconductor
+2010-10-31,7,False,Alpha and Omega Semiconductor
+2010-11-07,14,False,Alpha and Omega Semiconductor
+2010-11-14,7,False,Alpha and Omega Semiconductor
+2010-11-21,7,False,Alpha and Omega Semiconductor
+2010-11-28,0,False,Alpha and Omega Semiconductor
+2010-12-05,14,False,Alpha and Omega Semiconductor
+2010-12-12,14,False,Alpha and Omega Semiconductor
+2010-12-19,0,False,Alpha and Omega Semiconductor
+2010-12-26,8,False,Alpha and Omega Semiconductor
+2011-01-02,7,False,Alpha and Omega Semiconductor
+2011-01-09,0,False,Alpha and Omega Semiconductor
+2011-01-16,6,False,Alpha and Omega Semiconductor
+2011-01-23,0,False,Alpha and Omega Semiconductor
+2010-01-31,69,False,Convio
+2010-02-07,60,False,Convio
+2010-02-14,44,False,Convio
+2010-02-21,70,False,Convio
+2010-02-28,49,False,Convio
+2010-03-07,65,False,Convio
+2010-03-14,36,False,Convio
+2010-03-21,43,False,Convio
+2010-03-28,65,False,Convio
+2010-04-04,54,False,Convio
+2010-04-11,56,False,Convio
+2010-04-18,48,False,Convio
+2010-04-25,100,False,Convio
+2010-05-02,83,False,Convio
+2010-05-09,50,False,Convio
+2010-05-16,63,False,Convio
+2010-05-23,95,False,Convio
+2010-05-30,37,False,Convio
+2010-06-06,56,False,Convio
+2010-06-13,47,False,Convio
+2010-06-20,47,False,Convio
+2010-06-27,60,False,Convio
+2010-07-04,62,False,Convio
+2010-07-11,50,False,Convio
+2010-07-18,60,False,Convio
+2010-07-25,63,False,Convio
+2010-08-01,55,False,Convio
+2010-08-08,57,False,Convio
+2010-08-15,65,False,Convio
+2010-08-22,46,False,Convio
+2010-08-29,79,False,Convio
+2010-09-05,42,False,Convio
+2010-09-12,44,False,Convio
+2010-09-19,37,False,Convio
+2010-09-26,53,False,Convio
+2010-10-03,96,False,Convio
+2010-10-10,51,False,Convio
+2010-10-17,55,False,Convio
+2010-10-24,74,False,Convio
+2010-10-31,61,False,Convio
+2010-11-07,51,False,Convio
+2010-11-14,47,False,Convio
+2010-11-21,27,False,Convio
+2010-11-28,45,False,Convio
+2010-12-05,66,False,Convio
+2010-12-12,73,False,Convio
+2010-12-19,30,False,Convio
+2010-12-26,31,False,Convio
+2011-01-02,51,False,Convio
+2011-01-09,69,False,Convio
+2011-01-16,53,False,Convio
+2011-01-23,40,False,Convio
+2010-01-31,25,False,PAA Natural Gas Storage
+2010-02-07,25,False,PAA Natural Gas Storage
+2010-02-14,0,False,PAA Natural Gas Storage
+2010-02-21,0,False,PAA Natural Gas Storage
+2010-02-28,24,False,PAA Natural Gas Storage
+2010-03-07,24,False,PAA Natural Gas Storage
+2010-03-14,0,False,PAA Natural Gas Storage
+2010-03-21,0,False,PAA Natural Gas Storage
+2010-03-28,0,False,PAA Natural Gas Storage
+2010-04-04,25,False,PAA Natural Gas Storage
+2010-04-11,0,False,PAA Natural Gas Storage
+2010-04-18,0,False,PAA Natural Gas Storage
+2010-04-25,100,False,PAA Natural Gas Storage
+2010-05-02,25,False,PAA Natural Gas Storage
+2010-05-09,25,False,PAA Natural Gas Storage
+2010-05-16,0,False,PAA Natural Gas Storage
+2010-05-23,0,False,PAA Natural Gas Storage
+2010-05-30,26,False,PAA Natural Gas Storage
+2010-06-06,25,False,PAA Natural Gas Storage
+2010-06-13,0,False,PAA Natural Gas Storage
+2010-06-20,0,False,PAA Natural Gas Storage
+2010-06-27,25,False,PAA Natural Gas Storage
+2010-07-04,0,False,PAA Natural Gas Storage
+2010-07-11,71,False,PAA Natural Gas Storage
+2010-07-18,0,False,PAA Natural Gas Storage
+2010-07-25,0,False,PAA Natural Gas Storage
+2010-08-01,24,False,PAA Natural Gas Storage
+2010-08-08,0,False,PAA Natural Gas Storage
+2010-08-15,23,False,PAA Natural Gas Storage
+2010-08-22,0,False,PAA Natural Gas Storage
+2010-08-29,22,False,PAA Natural Gas Storage
+2010-09-05,0,False,PAA Natural Gas Storage
+2010-09-12,0,False,PAA Natural Gas Storage
+2010-09-19,0,False,PAA Natural Gas Storage
+2010-09-26,0,False,PAA Natural Gas Storage
+2010-10-03,21,False,PAA Natural Gas Storage
+2010-10-10,43,False,PAA Natural Gas Storage
+2010-10-17,21,False,PAA Natural Gas Storage
+2010-10-24,0,False,PAA Natural Gas Storage
+2010-10-31,0,False,PAA Natural Gas Storage
+2010-11-07,0,False,PAA Natural Gas Storage
+2010-11-14,21,False,PAA Natural Gas Storage
+2010-11-21,0,False,PAA Natural Gas Storage
+2010-11-28,0,False,PAA Natural Gas Storage
+2010-12-05,0,False,PAA Natural Gas Storage
+2010-12-12,0,False,PAA Natural Gas Storage
+2010-12-19,23,False,PAA Natural Gas Storage
+2010-12-26,46,False,PAA Natural Gas Storage
+2011-01-02,60,False,PAA Natural Gas Storage
+2011-01-09,0,False,PAA Natural Gas Storage
+2011-01-16,19,False,PAA Natural Gas Storage
+2011-01-23,0,False,PAA Natural Gas Storage
+2011-01-30,18,False,PAA Natural Gas Storage
+2010-02-07,0,False,S&W Seed
+2010-02-14,0,False,S&W Seed
+2010-02-21,0,False,S&W Seed
+2010-02-28,0,False,S&W Seed
+2010-03-07,34,False,S&W Seed
+2010-03-14,0,False,S&W Seed
+2010-03-21,34,False,S&W Seed
+2010-03-28,0,False,S&W Seed
+2010-04-04,0,False,S&W Seed
+2010-04-11,34,False,S&W Seed
+2010-04-18,0,False,S&W Seed
+2010-04-25,0,False,S&W Seed
+2010-05-02,69,False,S&W Seed
+2010-05-09,0,False,S&W Seed
+2010-05-16,34,False,S&W Seed
+2010-05-23,0,False,S&W Seed
+2010-05-30,0,False,S&W Seed
+2010-06-06,0,False,S&W Seed
+2010-06-13,35,False,S&W Seed
+2010-06-20,0,False,S&W Seed
+2010-06-27,35,False,S&W Seed
+2010-07-04,34,False,S&W Seed
+2010-07-11,0,False,S&W Seed
+2010-07-18,0,False,S&W Seed
+2010-07-25,65,False,S&W Seed
+2010-08-01,100,False,S&W Seed
+2010-08-08,0,False,S&W Seed
+2010-08-15,32,False,S&W Seed
+2010-08-22,32,False,S&W Seed
+2010-08-29,30,False,S&W Seed
+2010-09-05,0,False,S&W Seed
+2010-09-12,0,False,S&W Seed
+2010-09-19,0,False,S&W Seed
+2010-09-26,0,False,S&W Seed
+2010-10-03,0,False,S&W Seed
+2010-10-10,0,False,S&W Seed
+2010-10-17,0,False,S&W Seed
+2010-10-24,0,False,S&W Seed
+2010-10-31,0,False,S&W Seed
+2010-11-07,0,False,S&W Seed
+2010-11-14,28,False,S&W Seed
+2010-11-21,0,False,S&W Seed
+2010-11-28,0,False,S&W Seed
+2010-12-05,0,False,S&W Seed
+2010-12-12,0,False,S&W Seed
+2010-12-19,0,False,S&W Seed
+2010-12-26,32,False,S&W Seed
+2011-01-02,0,False,S&W Seed
+2011-01-09,0,False,S&W Seed
+2011-01-16,0,False,S&W Seed
+2011-01-23,26,False,S&W Seed
+2011-01-30,0,False,S&W Seed
